@@ -1,0 +1,2456 @@
+season,round,date,home_team,away_team,home_goals,away_goals,result,source
+2018/19,1,2018-07-31,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2018/19,1,2018-07-31,Petrojet,Zamalek,0,0,Draw,sofascore
+2018/19,1,2018-08-01,El Dakhleya,Wadi Degla,1,1,Draw,sofascore
+2018/19,1,2018-08-01,El Entag El Harby,Haras El Hodoud,2,1,Home win,sofascore
+2018/19,1,2018-08-01,Nogoom FC,Tala'ea El Gaish,0,0,Draw,sofascore
+2018/19,1,2018-08-02,El Gouna,Al Masry,0,1,Away win,sofascore
+2018/19,1,2018-08-02,Al Ahly,Ismaily,1,1,Draw,sofascore
+2018/19,1,2018-08-03,Misr El Makkasa,Smouha,1,2,Away win,sofascore
+2018/19,1,2018-08-03,ENPPI,Pyramids FC,0,1,Away win,sofascore
+2018/19,2,2018-08-04,Zamalek,Al Ittihad Alexandria,5,1,Home win,sofascore
+2018/19,2,2018-08-06,Haras El Hodoud,El Dakhleya,1,2,Away win,sofascore
+2018/19,2,2018-08-06,Ismaily,Petrojet,0,0,Draw,sofascore
+2018/19,2,2018-08-06,Wadi Degla,El Gouna,1,3,Away win,sofascore
+2018/19,2,2018-08-07,Al Masry,Al Ahly,0,2,Away win,sofascore
+2018/19,2,2018-08-08,Pyramids FC,El Entag El Harby,1,1,Draw,sofascore
+2018/19,2,2018-08-08,Arab Contractors (Al Mokawloon),Misr El Makkasa,1,2,Away win,sofascore
+2018/19,2,2018-08-08,Smouha,Nogoom FC,0,0,Draw,sofascore
+2018/19,2,2018-08-08,Tala'ea El Gaish,ENPPI,0,3,Away win,sofascore
+2018/19,4,2018-08-10,Wadi Degla,Petrojet,0,2,Away win,sofascore
+2018/19,3,2018-08-14,El Dakhleya,El Entag El Harby,0,1,Away win,sofascore
+2018/19,3,2018-08-14,El Gouna,Haras El Hodoud,1,1,Draw,sofascore
+2018/19,3,2018-08-14,ENPPI,Smouha,2,3,Away win,sofascore
+2018/19,3,2018-08-14,Petrojet,Al Masry,2,2,Draw,sofascore
+2018/19,3,2018-08-14,Tala'ea El Gaish,Pyramids FC,1,2,Away win,sofascore
+2018/19,3,2018-08-15,Nogoom FC,Arab Contractors (Al Mokawloon),0,2,Away win,sofascore
+2018/19,3,2018-08-16,Misr El Makkasa,Zamalek,0,1,Away win,sofascore
+2018/19,3,2018-08-17,Al Ittihad Alexandria,Ismaily,1,0,Home win,sofascore
+2018/19,3,2018-08-21,Al Ahly,Wadi Degla,1,0,Home win,sofascore
+2018/19,4,2018-08-24,Arab Contractors (Al Mokawloon),ENPPI,1,2,Away win,sofascore
+2018/19,4,2018-08-24,Ismaily,Misr El Makkasa,1,0,Home win,sofascore
+2018/19,4,2018-08-24,Haras El Hodoud,Al Ahly,0,2,Away win,sofascore
+2018/19,4,2018-08-25,Al Masry,Al Ittihad Alexandria,2,2,Draw,sofascore
+2018/19,4,2018-08-26,Smouha,Tala'ea El Gaish,0,0,Draw,sofascore
+2018/19,4,2018-08-26,Pyramids FC,El Dakhleya,3,1,Home win,sofascore
+2018/19,4,2018-08-26,El Entag El Harby,El Gouna,0,0,Draw,sofascore
+2018/19,4,2018-08-27,Zamalek,Nogoom FC,0,1,Away win,sofascore
+2018/19,5,2018-08-31,Nogoom FC,Ismaily,1,1,Draw,sofascore
+2018/19,5,2018-08-31,Petrojet,Haras El Hodoud,0,0,Draw,sofascore
+2018/19,5,2018-08-31,El Gouna,El Dakhleya,3,2,Home win,sofascore
+2018/19,5,2018-08-31,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),3,1,Home win,sofascore
+2018/19,5,2018-09-01,ENPPI,Zamalek,1,4,Away win,sofascore
+2018/19,5,2018-09-02,Smouha,Pyramids FC,1,1,Draw,sofascore
+2018/19,5,2018-09-02,Al Ahly,El Entag El Harby,0,0,Draw,sofascore
+2018/19,5,2018-09-03,Misr El Makkasa,Al Masry,0,0,Draw,sofascore
+2018/19,6,2018-09-11,Al Masry,Nogoom FC,5,3,Home win,sofascore
+2018/19,6,2018-09-12,El Entag El Harby,Petrojet,2,1,Home win,sofascore
+2018/19,6,2018-09-12,Haras El Hodoud,Al Ittihad Alexandria,1,1,Draw,sofascore
+2018/19,6,2018-09-12,Arab Contractors (Al Mokawloon),Smouha,2,1,Home win,sofascore
+2018/19,6,2018-09-12,Pyramids FC,El Gouna,1,1,Draw,sofascore
+2018/19,6,2018-09-12,Wadi Degla,Misr El Makkasa,1,2,Away win,sofascore
+2018/19,6,2018-09-13,Ismaily,ENPPI,3,2,Home win,sofascore
+2018/19,6,2018-09-13,Zamalek,Tala'ea El Gaish,3,0,Home win,sofascore
+2018/19,7,2018-09-17,Al Ittihad Alexandria,El Entag El Harby,1,1,Draw,sofascore
+2018/19,7,2018-09-17,Petrojet,El Dakhleya,1,1,Draw,sofascore
+2018/19,7,2018-09-17,Arab Contractors (Al Mokawloon),Pyramids FC,0,1,Away win,sofascore
+2018/19,7,2018-09-17,Misr El Makkasa,Haras El Hodoud,3,0,Home win,sofascore
+2018/19,7,2018-09-18,Tala'ea El Gaish,Ismaily,3,0,Home win,sofascore
+2018/19,7,2018-09-18,Smouha,Zamalek,1,1,Draw,sofascore
+2018/19,7,2018-09-19,Nogoom FC,Wadi Degla,0,1,Away win,sofascore
+2018/19,8,2018-09-21,El Dakhleya,Al Ittihad Alexandria,3,0,Home win,sofascore
+2018/19,8,2018-09-21,El Entag El Harby,Misr El Makkasa,1,2,Away win,sofascore
+2018/19,8,2018-09-22,Petrojet,El Gouna,1,2,Away win,sofascore
+2018/19,8,2018-09-22,Ismaily,Smouha,1,3,Away win,sofascore
+2018/19,8,2018-09-23,Haras El Hodoud,Nogoom FC,1,0,Home win,sofascore
+2018/19,8,2018-09-23,Zamalek,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2018/19,8,2018-09-24,Wadi Degla,ENPPI,1,2,Away win,sofascore
+2018/19,5,2018-09-28,Al Ittihad Alexandria,Wadi Degla,2,2,Draw,sofascore
+2018/19,8,2018-09-28,Al Masry,Tala'ea El Gaish,1,1,Draw,sofascore
+2018/19,9,2018-09-30,Nogoom FC,El Entag El Harby,0,1,Away win,sofascore
+2018/19,9,2018-09-30,Misr El Makkasa,El Dakhleya,0,1,Away win,sofascore
+2018/19,9,2018-10-01,ENPPI,Haras El Hodoud,0,0,Draw,sofascore
+2018/19,9,2018-10-02,Al Ittihad Alexandria,El Gouna,2,1,Home win,sofascore
+2018/19,9,2018-10-03,Tala'ea El Gaish,Wadi Degla,1,2,Away win,sofascore
+2018/19,10,2018-10-03,Pyramids FC,Petrojet,3,3,Draw,sofascore
+2018/19,10,2018-10-05,El Dakhleya,Nogoom FC,1,2,Away win,sofascore
+2018/19,10,2018-10-05,El Entag El Harby,ENPPI,2,2,Draw,sofascore
+2018/19,10,2018-10-06,El Gouna,Misr El Makkasa,0,0,Draw,sofascore
+2018/19,10,2018-10-07,Haras El Hodoud,Tala'ea El Gaish,1,3,Away win,sofascore
+2018/19,10,2018-10-07,Wadi Degla,Smouha,0,1,Away win,sofascore
+2018/19,10,2018-10-07,Al Ahly,Al Ittihad Alexandria,3,4,Away win,sofascore
+2018/19,11,2018-10-18,Tala'ea El Gaish,El Entag El Harby,0,0,Draw,sofascore
+2018/19,11,2018-10-18,Nogoom FC,El Gouna,0,0,Draw,sofascore
+2018/19,11,2018-10-18,Arab Contractors (Al Mokawloon),Wadi Degla,0,1,Away win,sofascore
+2018/19,11,2018-10-19,Smouha,Haras El Hodoud,1,1,Draw,sofascore
+2018/19,11,2018-10-19,Ismaily,Pyramids FC,2,0,Home win,sofascore
+2018/19,11,2018-10-19,ENPPI,El Dakhleya,1,1,Draw,sofascore
+2018/19,11,2018-10-20,Al Ittihad Alexandria,Petrojet,1,1,Draw,sofascore
+2018/19,12,2018-11-01,Haras El Hodoud,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2018/19,12,2018-11-01,Petrojet,Misr El Makkasa,0,1,Away win,sofascore
+2018/19,12,2018-11-01,Wadi Degla,Zamalek,2,4,Away win,sofascore
+2018/19,12,2018-11-02,El Dakhleya,Tala'ea El Gaish,2,1,Home win,sofascore
+2018/19,12,2018-11-02,El Gouna,ENPPI,1,1,Draw,sofascore
+2018/19,12,2018-11-02,El Entag El Harby,Smouha,2,2,Draw,sofascore
+2018/19,12,2018-11-02,Pyramids FC,Al Ittihad Alexandria,3,0,Home win,sofascore
+2018/19,12,2018-11-03,Al Masry,Ismaily,0,0,Draw,sofascore
+2018/19,13,2018-11-05,Zamalek,Haras El Hodoud,2,1,Home win,sofascore
+2018/19,13,2018-11-06,Nogoom FC,Petrojet,3,2,Home win,sofascore
+2018/19,13,2018-11-06,Smouha,El Dakhleya,1,1,Draw,sofascore
+2018/19,13,2018-11-06,Tala'ea El Gaish,El Gouna,5,0,Home win,sofascore
+2018/19,13,2018-11-06,Arab Contractors (Al Mokawloon),El Entag El Harby,2,0,Home win,sofascore
+2018/19,13,2018-11-07,Ismaily,Wadi Degla,1,3,Away win,sofascore
+2018/19,13,2018-11-08,Misr El Makkasa,Al Ittihad Alexandria,1,0,Home win,sofascore
+2018/19,14,2018-11-10,El Entag El Harby,Zamalek,1,2,Away win,sofascore
+2018/19,14,2018-11-10,El Gouna,Smouha,1,1,Draw,sofascore
+2018/19,14,2018-11-11,Haras El Hodoud,Ismaily,1,0,Home win,sofascore
+2018/19,14,2018-11-11,Petrojet,ENPPI,0,0,Draw,sofascore
+2018/19,14,2018-11-11,Wadi Degla,Al Masry,1,1,Draw,sofascore
+2018/19,14,2018-11-12,El Dakhleya,Arab Contractors (Al Mokawloon),0,2,Away win,sofascore
+2018/19,14,2018-11-12,Al Ittihad Alexandria,Nogoom FC,0,2,Away win,sofascore
+2018/19,14,2018-11-12,Pyramids FC,Misr El Makkasa,2,0,Home win,sofascore
+2018/19,15,2018-11-20,Arab Contractors (Al Mokawloon),El Gouna,4,2,Home win,sofascore
+2018/19,15,2018-11-20,ENPPI,Al Ittihad Alexandria,0,1,Away win,sofascore
+2018/19,15,2018-11-21,Nogoom FC,Misr El Makkasa,0,2,Away win,sofascore
+2018/19,15,2018-11-21,Haras El Hodoud,Al Masry,3,0,Home win,sofascore
+2018/19,15,2018-11-21,Tala'ea El Gaish,Petrojet,3,3,Draw,sofascore
+2018/19,15,2018-11-21,Ismaily,El Entag El Harby,1,2,Away win,sofascore
+2018/19,15,2018-11-21,Wadi Degla,Pyramids FC,1,1,Draw,sofascore
+2018/19,15,2018-11-22,Zamalek,El Dakhleya,2,1,Home win,sofascore
+2018/19,16,2018-11-25,Misr El Makkasa,ENPPI,4,3,Home win,sofascore
+2018/19,16,2018-11-25,Al Ittihad Alexandria,Tala'ea El Gaish,1,1,Draw,sofascore
+2018/19,16,2018-11-25,El Entag El Harby,Al Masry,0,0,Draw,sofascore
+2018/19,16,2018-11-26,Haras El Hodoud,Wadi Degla,4,1,Home win,sofascore
+2018/19,16,2018-11-26,Petrojet,Smouha,1,0,Home win,sofascore
+2018/19,16,2018-11-26,Zamalek,El Gouna,3,0,Home win,sofascore
+2018/19,16,2018-11-27,Al Ahly,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2018/19,16,2018-11-28,Nogoom FC,Pyramids FC,0,2,Away win,sofascore
+2018/19,7,2018-11-29,ENPPI,Al Masry,1,3,Away win,sofascore
+2018/19,9,2018-12-01,Petrojet,Al Ahly,0,1,Away win,sofascore
+2018/19,7,2018-12-05,Al Ahly,El Gouna,2,1,Home win,sofascore
+2018/19,11,2018-12-06,Zamalek,Al Masry,2,0,Home win,sofascore
+2018/19,14,2018-12-09,Al Ahly,Tala'ea El Gaish,2,0,Home win,sofascore
+2018/19,17,2018-12-10,Arab Contractors (Al Mokawloon),Petrojet,3,0,Home win,sofascore
+2018/19,17,2018-12-10,Al Masry,El Dakhleya,1,1,Draw,sofascore
+2018/19,17,2018-12-10,Pyramids FC,Haras El Hodoud,3,1,Home win,sofascore
+2018/19,17,2018-12-11,Wadi Degla,El Entag El Harby,1,2,Away win,sofascore
+2018/19,17,2018-12-12,Smouha,Al Ittihad Alexandria,1,1,Draw,sofascore
+2018/19,17,2018-12-12,ENPPI,Nogoom FC,1,1,Draw,sofascore
+2018/19,17,2018-12-13,Tala'ea El Gaish,Misr El Makkasa,1,0,Home win,sofascore
+2018/19,12,2018-12-17,Al Ahly,Nogoom FC,2,0,Home win,sofascore
+2018/19,18,2018-12-20,Wadi Degla,El Dakhleya,2,2,Draw,sofascore
+2018/19,18,2018-12-21,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,2,1,Home win,sofascore
+2018/19,18,2018-12-22,Smouha,Misr El Makkasa,1,1,Draw,sofascore
+2018/19,18,2018-12-22,Pyramids FC,ENPPI,1,1,Draw,sofascore
+2018/19,18,2018-12-23,Haras El Hodoud,El Entag El Harby,2,1,Home win,sofascore
+2018/19,18,2018-12-23,Tala'ea El Gaish,Nogoom FC,2,1,Home win,sofascore
+2018/19,19,2018-12-26,El Gouna,Wadi Degla,0,2,Away win,sofascore
+2018/19,18,2018-12-28,Zamalek,Petrojet,2,0,Home win,sofascore
+2018/19,6,2018-12-29,El Dakhleya,Al Ahly,2,2,Draw,sofascore
+2018/19,9,2018-12-30,Smouha,Al Masry,0,0,Draw,sofascore
+2018/19,9,2019-01-02,Arab Contractors (Al Mokawloon),Ismaily,1,2,Away win,sofascore
+2018/19,18,2019-01-03,Al Masry,El Gouna,0,2,Away win,sofascore
+2018/19,8,2019-01-04,Pyramids FC,Al Ahly,2,1,Home win,sofascore
+2018/19,16,2019-01-05,El Dakhleya,Ismaily,0,0,Draw,sofascore
+2018/19,19,2019-01-05,Al Ittihad Alexandria,Zamalek,1,3,Away win,sofascore
+2018/19,13,2019-01-08,Al Masry,Pyramids FC,3,3,Draw,sofascore
+2018/19,15,2019-01-08,Smouha,Al Ahly,0,1,Away win,sofascore
+2018/19,19,2019-01-09,ENPPI,Tala'ea El Gaish,1,0,Home win,sofascore
+2018/19,19,2019-01-14,El Dakhleya,Haras El Hodoud,0,1,Away win,sofascore
+2018/19,19,2019-01-15,Misr El Makkasa,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2018/19,19,2019-01-15,El Entag El Harby,Pyramids FC,1,1,Draw,sofascore
+2018/19,19,2019-01-15,Nogoom FC,Smouha,4,0,Home win,sofascore
+2018/19,20,2019-01-19,Arab Contractors (Al Mokawloon),Nogoom FC,2,2,Draw,sofascore
+2018/19,20,2019-01-19,Pyramids FC,Tala'ea El Gaish,3,1,Home win,sofascore
+2018/19,20,2019-01-23,Haras El Hodoud,El Gouna,1,2,Away win,sofascore
+2018/19,20,2019-01-23,Smouha,ENPPI,0,0,Draw,sofascore
+2018/19,20,2019-01-23,El Entag El Harby,El Dakhleya,2,2,Draw,sofascore
+2018/19,9,2019-01-24,Zamalek,Pyramids FC,3,3,Draw,sofascore
+2018/19,11,2019-01-24,Misr El Makkasa,Al Ahly,0,3,Away win,sofascore
+2018/19,19,2019-01-24,Petrojet,Ismaily,0,1,Away win,sofascore
+2018/19,10,2019-01-25,Al Masry,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2018/19,20,2019-01-28,Ismaily,Al Ittihad Alexandria,2,0,Home win,sofascore
+2018/19,20,2019-01-28,Wadi Degla,Al Ahly,1,2,Away win,sofascore
+2018/19,20,2019-01-29,Zamalek,Misr El Makkasa,4,1,Home win,sofascore
+2018/19,20,2019-01-30,Al Masry,Petrojet,1,0,Home win,sofascore
+2018/19,21,2019-01-30,ENPPI,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2018/19,21,2019-02-03,Tala'ea El Gaish,Smouha,0,0,Draw,sofascore
+2018/19,21,2019-02-04,Al Ittihad Alexandria,Al Masry,2,2,Draw,sofascore
+2018/19,21,2019-02-04,El Dakhleya,Pyramids FC,0,2,Away win,sofascore
+2018/19,13,2019-02-05,ENPPI,Al Ahly,1,2,Away win,sofascore
+2018/19,21,2019-02-05,Petrojet,Wadi Degla,1,0,Home win,sofascore
+2018/19,21,2019-02-07,El Gouna,El Entag El Harby,2,3,Away win,sofascore
+2018/19,21,2019-02-07,Misr El Makkasa,Ismaily,0,0,Draw,sofascore
+2018/19,21,2019-02-08,Al Ahly,Haras El Hodoud,1,0,Home win,sofascore
+2018/19,21,2019-02-09,Nogoom FC,Zamalek,0,1,Away win,sofascore
+2018/19,22,2019-02-10,Wadi Degla,Al Ittihad Alexandria,1,3,Away win,sofascore
+2018/19,22,2019-02-14,El Dakhleya,El Gouna,2,2,Draw,sofascore
+2018/19,22,2019-02-14,Al Masry,Misr El Makkasa,2,0,Home win,sofascore
+2018/19,22,2019-02-14,Pyramids FC,Smouha,4,0,Home win,sofascore
+2018/19,22,2019-02-15,Haras El Hodoud,Petrojet,2,2,Draw,sofascore
+2018/19,22,2019-02-15,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,2,0,Home win,sofascore
+2018/19,22,2019-02-16,Ismaily,Nogoom FC,3,2,Home win,sofascore
+2018/19,22,2019-02-16,El Entag El Harby,Al Ahly,0,1,Away win,sofascore
+2018/19,22,2019-02-17,Zamalek,ENPPI,2,1,Home win,sofascore
+2018/19,23,2019-02-18,Misr El Makkasa,Wadi Degla,2,1,Home win,sofascore
+2018/19,23,2019-02-19,El Gouna,Pyramids FC,2,1,Home win,sofascore
+2018/19,23,2019-02-20,Smouha,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2018/19,23,2019-02-20,Tala'ea El Gaish,Zamalek,2,2,Draw,sofascore
+2018/19,23,2019-02-20,Al Ahly,El Dakhleya,3,1,Home win,sofascore
+2018/19,23,2019-02-21,Petrojet,El Entag El Harby,1,0,Home win,sofascore
+2018/19,23,2019-02-22,Nogoom FC,Al Masry,0,1,Away win,sofascore
+2018/19,24,2019-02-22,Haras El Hodoud,Misr El Makkasa,0,0,Draw,sofascore
+2018/19,24,2019-02-24,El Gouna,Al Ahly,1,2,Away win,sofascore
+2018/19,24,2019-02-24,Pyramids FC,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2018/19,24,2019-02-25,El Dakhleya,Petrojet,0,2,Away win,sofascore
+2018/19,24,2019-02-26,Ismaily,Tala'ea El Gaish,0,0,Draw,sofascore
+2018/19,24,2019-02-26,Al Masry,ENPPI,3,1,Home win,sofascore
+2018/19,24,2019-02-26,Wadi Degla,Nogoom FC,2,1,Home win,sofascore
+2018/19,25,2019-02-28,El Gouna,Petrojet,2,1,Home win,sofascore
+2018/19,25,2019-03-02,Nogoom FC,Haras El Hodoud,0,0,Draw,sofascore
+2018/19,25,2019-03-02,Al Ittihad Alexandria,El Dakhleya,1,1,Draw,sofascore
+2018/19,25,2019-03-03,Misr El Makkasa,El Entag El Harby,3,1,Home win,sofascore
+2018/19,25,2019-03-03,Tala'ea El Gaish,Al Masry,0,1,Away win,sofascore
+2018/19,25,2019-03-03,ENPPI,Wadi Degla,1,2,Away win,sofascore
+2018/19,26,2019-03-04,Al Ahly,Petrojet,4,0,Home win,sofascore
+2018/19,24,2019-03-07,El Entag El Harby,Al Ittihad Alexandria,2,4,Away win,sofascore
+2018/19,26,2019-03-11,El Dakhleya,Misr El Makkasa,0,0,Draw,sofascore
+2018/19,26,2019-03-11,Haras El Hodoud,ENPPI,0,0,Draw,sofascore
+2018/19,26,2019-03-11,Wadi Degla,Tala'ea El Gaish,0,0,Draw,sofascore
+2018/19,25,2019-03-12,Smouha,Ismaily,0,1,Away win,sofascore
+2018/19,26,2019-03-12,El Gouna,Al Ittihad Alexandria,1,2,Away win,sofascore
+2018/19,26,2019-03-15,El Entag El Harby,Nogoom FC,1,1,Draw,sofascore
+2018/19,26,2019-03-16,Al Masry,Smouha,4,2,Home win,sofascore
+2018/19,23,2019-03-17,Al Ittihad Alexandria,Haras El Hodoud,1,1,Draw,sofascore
+2018/19,25,2019-03-20,Arab Contractors (Al Mokawloon),Zamalek,2,2,Draw,sofascore
+2018/19,23,2019-03-29,ENPPI,Ismaily,0,0,Draw,sofascore
+2018/19,27,2019-03-29,Arab Contractors (Al Mokawloon),Al Masry,2,2,Draw,sofascore
+2018/19,27,2019-03-29,Smouha,Wadi Degla,2,3,Away win,sofascore
+2018/19,17,2019-03-30,Zamalek,Al Ahly,0,0,Draw,sofascore
+2018/19,27,2019-03-31,Nogoom FC,El Dakhleya,1,1,Draw,sofascore
+2018/19,27,2019-03-31,Misr El Makkasa,El Gouna,0,0,Draw,sofascore
+2018/19,27,2019-04-01,Tala'ea El Gaish,Haras El Hodoud,3,0,Home win,sofascore
+2018/19,27,2019-04-01,Petrojet,Pyramids FC,0,2,Away win,sofascore
+2018/19,26,2019-04-02,Ismaily,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2018/19,27,2019-04-02,ENPPI,El Entag El Harby,1,0,Home win,sofascore
+2018/19,27,2019-04-02,Al Ittihad Alexandria,Al Ahly,0,2,Away win,sofascore
+2018/19,24,2019-04-03,Zamalek,Smouha,1,0,Home win,sofascore
+2018/19,28,2019-04-06,El Entag El Harby,Tala'ea El Gaish,2,1,Home win,sofascore
+2018/19,28,2019-04-06,El Gouna,Nogoom FC,1,1,Draw,sofascore
+2018/19,28,2019-04-06,Wadi Degla,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2018/19,28,2019-04-06,Pyramids FC,Ismaily,3,1,Home win,sofascore
+2018/19,28,2019-04-07,El Dakhleya,ENPPI,1,1,Draw,sofascore
+2018/19,28,2019-04-07,Petrojet,Al Ittihad Alexandria,1,0,Home win,sofascore
+2018/19,28,2019-04-07,Haras El Hodoud,Smouha,1,2,Away win,sofascore
+2018/19,17,2019-04-10,Ismaily,El Gouna,2,2,Draw,sofascore
+2018/19,28,2019-04-10,Al Ahly,Misr El Makkasa,2,1,Home win,sofascore
+2018/19,28,2019-04-11,Al Masry,Zamalek,2,1,Home win,sofascore
+2018/19,29,2019-04-11,Tala'ea El Gaish,El Dakhleya,2,1,Home win,sofascore
+2018/19,29,2019-04-11,Al Ittihad Alexandria,Pyramids FC,2,3,Away win,sofascore
+2018/19,29,2019-04-11,Arab Contractors (Al Mokawloon),Haras El Hodoud,1,0,Home win,sofascore
+2018/19,29,2019-04-12,Smouha,El Entag El Harby,2,0,Home win,sofascore
+2018/19,29,2019-04-14,Al Masry,Ismaily,1,1,Draw,sofascore
+2018/19,29,2019-04-15,Misr El Makkasa,Petrojet,1,2,Away win,sofascore
+2018/19,29,2019-04-15,ENPPI,El Gouna,4,0,Home win,sofascore
+2018/19,10,2019-04-18,Ismaily,Zamalek,0,2,Away win,sofascore
+2018/19,25,2019-04-18,Al Ahly,Pyramids FC,0,1,Away win,sofascore
+2018/19,30,2019-04-19,Al Ittihad Alexandria,Misr El Makkasa,0,0,Draw,sofascore
+2018/19,30,2019-04-19,El Entag El Harby,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2018/19,30,2019-04-19,El Dakhleya,Smouha,0,2,Away win,sofascore
+2018/19,30,2019-04-19,El Gouna,Tala'ea El Gaish,2,0,Home win,sofascore
+2018/19,30,2019-04-20,Petrojet,Nogoom FC,2,1,Home win,sofascore
+2018/19,26,2019-04-23,Pyramids FC,Zamalek,1,0,Home win,sofascore
+2018/19,19,2019-04-25,Al Ahly,Al Masry,2,0,Home win,sofascore
+2018/19,30,2019-04-25,Wadi Degla,Ismaily,3,0,Home win,sofascore
+2018/19,31,2019-04-30,Ismaily,Haras El Hodoud,0,1,Away win,sofascore
+2018/19,31,2019-04-30,Nogoom FC,Al Ittihad Alexandria,1,2,Away win,sofascore
+2018/19,31,2019-04-30,Smouha,El Gouna,0,0,Draw,sofascore
+2018/19,31,2019-04-30,Al Masry,Wadi Degla,0,0,Draw,sofascore
+2018/19,31,2019-04-30,Misr El Makkasa,Pyramids FC,1,1,Draw,sofascore
+2018/19,31,2019-05-01,Arab Contractors (Al Mokawloon),El Dakhleya,2,2,Draw,sofascore
+2018/19,31,2019-05-01,Tala'ea El Gaish,Al Ahly,1,2,Away win,sofascore
+2018/19,31,2019-05-02,ENPPI,Petrojet,2,1,Home win,sofascore
+2018/19,29,2019-05-05,Nogoom FC,Al Ahly,0,2,Away win,sofascore
+2018/19,30,2019-05-05,Pyramids FC,Al Masry,1,1,Draw,sofascore
+2018/19,29,2019-05-09,Zamalek,Wadi Degla,2,1,Home win,sofascore
+2018/19,32,2019-05-10,Al Ittihad Alexandria,ENPPI,0,1,Away win,sofascore
+2018/19,32,2019-05-10,Al Masry,Haras El Hodoud,0,1,Away win,sofascore
+2018/19,32,2019-05-10,El Gouna,Arab Contractors (Al Mokawloon),1,4,Away win,sofascore
+2018/19,32,2019-05-10,El Entag El Harby,Ismaily,0,0,Draw,sofascore
+2018/19,32,2019-05-10,Misr El Makkasa,Nogoom FC,2,1,Home win,sofascore
+2018/19,32,2019-05-11,Al Ahly,Smouha,1,0,Home win,sofascore
+2018/19,32,2019-05-11,Petrojet,Tala'ea El Gaish,0,1,Away win,sofascore
+2018/19,32,2019-05-12,El Dakhleya,Zamalek,1,2,Away win,sofascore
+2018/19,32,2019-05-14,Pyramids FC,Wadi Degla,1,1,Draw,sofascore
+2018/19,30,2019-05-16,Al Ahly,ENPPI,2,0,Home win,sofascore
+2018/19,33,2019-05-17,Ismaily,El Dakhleya,2,0,Home win,sofascore
+2018/19,33,2019-05-21,Al Masry,El Entag El Harby,2,2,Draw,sofascore
+2018/19,33,2019-05-21,ENPPI,Misr El Makkasa,2,1,Home win,sofascore
+2018/19,33,2019-05-21,Smouha,Petrojet,2,0,Home win,sofascore
+2018/19,33,2019-05-21,Tala'ea El Gaish,Al Ittihad Alexandria,4,0,Home win,sofascore
+2018/19,33,2019-05-21,Wadi Degla,Haras El Hodoud,1,1,Draw,sofascore
+2018/19,18,2019-05-22,Ismaily,Al Ahly,1,1,Draw,sofascore
+2018/19,33,2019-05-22,Pyramids FC,Nogoom FC,2,0,Home win,sofascore
+2018/19,34,2019-05-27,El Dakhleya,Al Masry,0,3,Away win,sofascore
+2018/19,34,2019-05-27,El Gouna,Ismaily,0,0,Draw,sofascore
+2018/19,34,2019-05-27,Misr El Makkasa,Tala'ea El Gaish,1,1,Draw,sofascore
+2018/19,34,2019-05-27,Nogoom FC,ENPPI,1,1,Draw,sofascore
+2018/19,31,2019-05-30,Zamalek,El Entag El Harby,1,1,Draw,sofascore
+2018/19,34,2019-05-30,Haras El Hodoud,Pyramids FC,1,1,Draw,sofascore
+2018/19,30,2019-06-03,Haras El Hodoud,Zamalek,1,1,Draw,sofascore
+2018/19,34,2019-06-03,Al Ittihad Alexandria,Smouha,3,1,Home win,sofascore
+2018/19,34,2019-06-03,El Entag El Harby,Wadi Degla,1,2,Away win,sofascore
+2018/19,34,2019-06-03,Petrojet,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2018/19,33,2019-07-21,El Gouna,Zamalek,2,2,Draw,sofascore
+2018/19,27,2019-07-24,Zamalek,Ismaily,3,1,Home win,sofascore
+2018/19,33,2019-07-24,Arab Contractors (Al Mokawloon),Al Ahly,1,3,Away win,sofascore
+2018/19,34,2019-07-28,Al Ahly,Zamalek,1,0,Home win,sofascore
+2019/20,1,2019-09-21,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2019/20,1,2019-09-21,El Gouna,Ismaily,0,1,Away win,sofascore
+2019/20,1,2019-09-21,Pyramids FC,ENPPI,4,0,Home win,sofascore
+2019/20,1,2019-09-22,Aswan,Misr El Makkasa,2,3,Away win,sofascore
+2019/20,1,2019-09-22,El Entag El Harby,ZED FC,3,0,Home win,sofascore
+2019/20,1,2019-09-22,Wadi Degla,Tanta,0,1,Away win,sofascore
+2019/20,1,2019-09-22,Al Masry,Haras El Hodoud,1,1,Draw,sofascore
+2019/20,1,2019-09-23,Smouha,Al Ahly,0,1,Away win,sofascore
+2019/20,1,2019-09-23,Zamalek,Al Ittihad Alexandria,1,0,Home win,sofascore
+2019/20,2,2019-09-26,Haras El Hodoud,Wadi Degla,2,2,Draw,sofascore
+2019/20,2,2019-09-26,ENPPI,Tala'ea El Gaish,1,1,Draw,sofascore
+2019/20,2,2019-09-28,Arab Contractors (Al Mokawloon),Smouha,2,2,Draw,sofascore
+2019/20,2,2019-09-28,ZED FC,Aswan,0,0,Draw,sofascore
+2019/20,2,2019-10-01,Al Ittihad Alexandria,El Gouna,1,0,Home win,sofascore
+2019/20,2,2019-10-02,Ismaily,Al Masry,1,3,Away win,sofascore
+2019/20,2,2019-10-02,Al Ahly,El Entag El Harby,4,0,Home win,sofascore
+2019/20,2,2019-10-03,Tanta,Pyramids FC,1,2,Away win,sofascore
+2019/20,2,2019-10-03,Misr El Makkasa,Zamalek,0,1,Away win,sofascore
+2019/20,3,2019-10-04,Smouha,ENPPI,2,1,Home win,sofascore
+2019/20,3,2019-10-05,Aswan,Al Ahly,1,5,Away win,sofascore
+2019/20,3,2019-10-05,El Entag El Harby,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2019/20,3,2019-10-05,Wadi Degla,Ismaily,0,1,Away win,sofascore
+2019/20,3,2019-10-05,Al Masry,Al Ittihad Alexandria,0,1,Away win,sofascore
+2019/20,3,2019-10-06,El Gouna,Misr El Makkasa,1,0,Home win,sofascore
+2019/20,3,2019-10-06,Haras El Hodoud,Tanta,1,1,Draw,sofascore
+2019/20,3,2019-10-06,Tala'ea El Gaish,Pyramids FC,2,2,Draw,sofascore
+2019/20,3,2019-10-06,Zamalek,ZED FC,1,1,Draw,sofascore
+2019/20,4,2019-10-17,ZED FC,El Gouna,0,0,Draw,sofascore
+2019/20,4,2019-10-17,ENPPI,El Entag El Harby,0,1,Away win,sofascore
+2019/20,4,2019-10-17,Misr El Makkasa,Al Masry,1,0,Home win,sofascore
+2019/20,4,2019-10-17,Pyramids FC,Smouha,0,0,Draw,sofascore
+2019/20,4,2019-10-18,Al Ittihad Alexandria,Wadi Degla,1,1,Draw,sofascore
+2019/20,4,2019-10-18,Ismaily,Haras El Hodoud,0,1,Away win,sofascore
+2019/20,5,2019-10-19,Zamalek,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2019/20,5,2019-10-21,El Entag El Harby,Pyramids FC,2,3,Away win,sofascore
+2019/20,5,2019-10-21,Al Masry,ZED FC,2,0,Home win,sofascore
+2019/20,5,2019-10-22,Aswan,ENPPI,1,0,Home win,sofascore
+2019/20,5,2019-10-22,Wadi Degla,Misr El Makkasa,2,2,Draw,sofascore
+2019/20,4,2019-11-23,Tanta,Tala'ea El Gaish,0,0,Draw,sofascore
+2019/20,4,2019-11-23,Arab Contractors (Al Mokawloon),Aswan,2,1,Home win,sofascore
+2019/20,5,2019-11-25,El Gouna,Al Ahly,0,4,Away win,sofascore
+2019/20,6,2019-11-25,ENPPI,Zamalek,2,1,Home win,sofascore
+2019/20,6,2019-11-26,ZED FC,Wadi Degla,1,0,Home win,sofascore
+2019/20,6,2019-11-26,Misr El Makkasa,Haras El Hodoud,1,2,Away win,sofascore
+2019/20,6,2019-11-27,Tanta,Smouha,2,2,Draw,sofascore
+2019/20,6,2019-11-27,Pyramids FC,Aswan,2,2,Draw,sofascore
+2019/20,6,2019-11-28,Tala'ea El Gaish,El Entag El Harby,0,0,Draw,sofascore
+2019/20,6,2019-11-29,Arab Contractors (Al Mokawloon),El Gouna,2,0,Home win,sofascore
+2019/20,6,2019-11-30,Al Ittihad Alexandria,Ismaily,3,0,Home win,sofascore
+2019/20,5,2019-12-02,Smouha,Tala'ea El Gaish,2,1,Home win,sofascore
+2019/20,5,2019-12-04,Ismaily,Tanta,0,0,Draw,sofascore
+2019/20,5,2019-12-04,Haras El Hodoud,Al Ittihad Alexandria,0,1,Away win,sofascore
+2019/20,7,2019-12-10,El Gouna,ENPPI,1,4,Away win,sofascore
+2019/20,7,2019-12-10,El Entag El Harby,Smouha,1,1,Draw,sofascore
+2019/20,7,2019-12-11,Haras El Hodoud,ZED FC,0,0,Draw,sofascore
+2019/20,7,2019-12-11,Ismaily,Misr El Makkasa,2,0,Home win,sofascore
+2019/20,7,2019-12-11,Wadi Degla,Al Ahly,0,3,Away win,sofascore
+2019/20,7,2019-12-12,Al Ittihad Alexandria,Tanta,0,0,Draw,sofascore
+2019/20,7,2019-12-12,Al Masry,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2019/20,7,2019-12-12,Zamalek,Pyramids FC,2,0,Home win,sofascore
+2019/20,8,2019-12-15,ZED FC,Ismaily,0,1,Away win,sofascore
+2019/20,8,2019-12-15,Smouha,Aswan,1,0,Home win,sofascore
+2019/20,8,2019-12-15,Al Ahly,Haras El Hodoud,1,0,Home win,sofascore
+2019/20,8,2019-12-16,Tanta,El Entag El Harby,0,1,Away win,sofascore
+2019/20,8,2019-12-16,Arab Contractors (Al Mokawloon),Wadi Degla,0,1,Away win,sofascore
+2019/20,8,2019-12-16,Misr El Makkasa,Al Ittihad Alexandria,2,3,Away win,sofascore
+2019/20,8,2019-12-16,Tala'ea El Gaish,Zamalek,3,2,Home win,sofascore
+2019/20,8,2019-12-17,ENPPI,Al Masry,1,0,Home win,sofascore
+2019/20,8,2019-12-17,Pyramids FC,El Gouna,2,3,Away win,sofascore
+2019/20,9,2019-12-19,Ismaily,Al Ahly,0,1,Away win,sofascore
+2019/20,9,2019-12-20,Aswan,El Entag El Harby,0,1,Away win,sofascore
+2019/20,9,2019-12-20,Haras El Hodoud,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2019/20,9,2019-12-20,Al Ittihad Alexandria,ZED FC,2,1,Home win,sofascore
+2019/20,9,2019-12-20,Misr El Makkasa,Tanta,1,1,Draw,sofascore
+2019/20,9,2019-12-20,Zamalek,Smouha,0,0,Draw,sofascore
+2019/20,9,2019-12-21,El Gouna,Tala'ea El Gaish,2,0,Home win,sofascore
+2019/20,9,2019-12-21,Wadi Degla,ENPPI,2,3,Away win,sofascore
+2019/20,9,2019-12-21,Al Masry,Pyramids FC,1,1,Draw,sofascore
+2019/20,10,2019-12-23,Arab Contractors (Al Mokawloon),Ismaily,2,0,Home win,sofascore
+2019/20,10,2019-12-23,Al Ahly,Al Ittihad Alexandria,4,0,Home win,sofascore
+2019/20,10,2019-12-24,Tanta,Aswan,2,2,Draw,sofascore
+2019/20,10,2019-12-24,ZED FC,Misr El Makkasa,2,2,Draw,sofascore
+2019/20,10,2019-12-24,El Entag El Harby,Zamalek,0,0,Draw,sofascore
+2019/20,10,2019-12-25,ENPPI,Haras El Hodoud,0,0,Draw,sofascore
+2019/20,10,2019-12-25,Smouha,El Gouna,2,1,Home win,sofascore
+2019/20,10,2019-12-25,Tala'ea El Gaish,Al Masry,0,1,Away win,sofascore
+2019/20,10,2019-12-25,Pyramids FC,Wadi Degla,1,0,Home win,sofascore
+2019/20,7,2019-12-29,Aswan,Tala'ea El Gaish,1,1,Draw,sofascore
+2019/20,11,2019-12-30,ZED FC,Tanta,2,1,Home win,sofascore
+2019/20,11,2019-12-30,El Gouna,El Entag El Harby,0,0,Draw,sofascore
+2019/20,11,2020-01-01,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2019/20,11,2020-01-01,Ismaily,ENPPI,1,1,Draw,sofascore
+2019/20,11,2020-01-01,Misr El Makkasa,Al Ahly,0,2,Away win,sofascore
+2019/20,11,2020-01-02,Haras El Hodoud,Pyramids FC,1,0,Home win,sofascore
+2019/20,11,2020-01-02,Al Masry,Smouha,2,1,Home win,sofascore
+2019/20,11,2020-01-02,Zamalek,Aswan,2,0,Home win,sofascore
+2019/20,11,2020-01-03,Wadi Degla,Tala'ea El Gaish,1,3,Away win,sofascore
+2019/20,12,2020-01-05,Arab Contractors (Al Mokawloon),Misr El Makkasa,1,1,Draw,sofascore
+2019/20,12,2020-01-05,Tanta,Zamalek,2,3,Away win,sofascore
+2019/20,12,2020-01-05,Al Ahly,ZED FC,3,1,Home win,sofascore
+2019/20,12,2020-01-07,Aswan,El Gouna,1,1,Draw,sofascore
+2019/20,12,2020-01-07,El Entag El Harby,Al Masry,1,1,Draw,sofascore
+2019/20,12,2020-01-07,Pyramids FC,Ismaily,1,0,Home win,sofascore
+2019/20,12,2020-01-08,Tala'ea El Gaish,Haras El Hodoud,0,3,Away win,sofascore
+2019/20,12,2020-01-08,Smouha,Wadi Degla,2,3,Away win,sofascore
+2019/20,12,2020-01-08,ENPPI,Al Ittihad Alexandria,0,0,Draw,sofascore
+2019/20,13,2020-01-11,ZED FC,Arab Contractors (Al Mokawloon),1,3,Away win,sofascore
+2019/20,13,2020-01-12,Haras El Hodoud,Smouha,0,0,Draw,sofascore
+2019/20,13,2020-01-12,Misr El Makkasa,ENPPI,1,1,Draw,sofascore
+2019/20,13,2020-01-12,Ismaily,Tala'ea El Gaish,2,1,Home win,sofascore
+2019/20,13,2020-01-13,Wadi Degla,El Entag El Harby,1,1,Draw,sofascore
+2019/20,13,2020-01-15,El Gouna,Zamalek,0,2,Away win,sofascore
+2019/20,13,2020-01-15,Al Ahly,Tanta,5,0,Home win,sofascore
+2019/20,13,2020-01-16,Al Masry,Aswan,2,2,Draw,sofascore
+2019/20,13,2020-01-16,Al Ittihad Alexandria,Pyramids FC,1,1,Draw,sofascore
+2019/20,14,2020-01-18,ENPPI,ZED FC,2,1,Home win,sofascore
+2019/20,14,2020-01-18,El Entag El Harby,Haras El Hodoud,1,0,Home win,sofascore
+2019/20,14,2020-01-18,Smouha,Ismaily,1,1,Draw,sofascore
+2019/20,14,2020-01-19,Arab Contractors (Al Mokawloon),Al Ahly,0,2,Away win,sofascore
+2019/20,14,2020-01-20,Aswan,Wadi Degla,1,3,Away win,sofascore
+2019/20,14,2020-01-20,Tala'ea El Gaish,Al Ittihad Alexandria,0,3,Away win,sofascore
+2019/20,14,2020-01-21,Tanta,El Gouna,1,0,Home win,sofascore
+2019/20,14,2020-01-21,Pyramids FC,Misr El Makkasa,3,1,Home win,sofascore
+2019/20,15,2020-01-26,Arab Contractors (Al Mokawloon),Tanta,2,0,Home win,sofascore
+2019/20,15,2020-01-27,Haras El Hodoud,Aswan,1,2,Away win,sofascore
+2019/20,15,2020-01-27,Misr El Makkasa,Tala'ea El Gaish,1,1,Draw,sofascore
+2019/20,15,2020-01-28,Wadi Degla,Zamalek,1,1,Draw,sofascore
+2019/20,15,2020-01-29,Al Masry,El Gouna,1,2,Away win,sofascore
+2019/20,15,2020-01-29,ZED FC,Pyramids FC,1,2,Away win,sofascore
+2019/20,15,2020-01-30,Ismaily,El Entag El Harby,3,2,Home win,sofascore
+2019/20,15,2020-01-30,Al Ittihad Alexandria,Smouha,1,1,Draw,sofascore
+2019/20,16,2020-02-03,Aswan,Ismaily,2,1,Home win,sofascore
+2019/20,16,2020-02-03,El Entag El Harby,Al Ittihad Alexandria,0,0,Draw,sofascore
+2019/20,16,2020-02-03,ENPPI,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2019/20,16,2020-02-03,Smouha,Misr El Makkasa,1,1,Draw,sofascore
+2019/20,16,2020-02-04,El Gouna,Wadi Degla,1,0,Home win,sofascore
+2019/20,16,2020-02-04,Tala'ea El Gaish,ZED FC,4,0,Home win,sofascore
+2019/20,16,2020-02-05,Zamalek,Haras El Hodoud,2,0,Home win,sofascore
+2019/20,16,2020-02-06,Al Masry,Tanta,2,2,Draw,sofascore
+2019/20,16,2020-02-06,Pyramids FC,Al Ahly,1,2,Away win,sofascore
+2019/20,17,2020-02-08,Al Ittihad Alexandria,Aswan,0,1,Away win,sofascore
+2019/20,17,2020-02-08,ZED FC,Smouha,0,1,Away win,sofascore
+2019/20,17,2020-02-08,Misr El Makkasa,El Entag El Harby,1,1,Draw,sofascore
+2019/20,17,2020-02-09,Haras El Hodoud,El Gouna,2,2,Draw,sofascore
+2019/20,17,2020-02-09,Ismaily,Zamalek,1,2,Away win,sofascore
+2019/20,17,2020-02-10,Tanta,ENPPI,0,0,Draw,sofascore
+2019/20,17,2020-02-10,Wadi Degla,Al Masry,0,3,Away win,sofascore
+2019/20,17,2020-02-10,Al Ahly,Tala'ea El Gaish,3,0,Home win,sofascore
+2019/20,17,2020-02-11,Arab Contractors (Al Mokawloon),Pyramids FC,0,2,Away win,sofascore
+2019/20,6,2020-02-14,Al Ahly,Al Masry,3,0,Home win,sofascore
+2019/20,4,2020-02-24,Al Ahly,Zamalek,2,0,Home win,sofascore
+2019/20,19,2020-03-05,Tala'ea El Gaish,ENPPI,0,0,Draw,sofascore
+2019/20,18,2020-03-09,Ismaily,El Gouna,1,1,Draw,sofascore
+2019/20,18,2020-03-10,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,1,1,Draw,sofascore
+2019/20,18,2020-03-11,ENPPI,Pyramids FC,0,1,Away win,sofascore
+2019/20,18,2020-03-11,Al Ahly,Smouha,1,1,Draw,sofascore
+2019/20,18,2020-03-11,Tanta,Wadi Degla,0,0,Draw,sofascore
+2019/20,18,2020-08-10,Al Ittihad Alexandria,Zamalek,1,1,Draw,sofascore
+2019/20,19,2020-08-14,Wadi Degla,Haras El Hodoud,1,0,Home win,sofascore
+2019/20,19,2020-08-15,Zamalek,Misr El Makkasa,1,0,Home win,sofascore
+2019/20,20,2020-08-16,Pyramids FC,Tala'ea El Gaish,2,2,Draw,sofascore
+2019/20,20,2020-08-17,ENPPI,Smouha,0,0,Draw,sofascore
+2019/20,20,2020-08-17,Arab Contractors (Al Mokawloon),El Entag El Harby,2,1,Home win,sofascore
+2019/20,20,2020-08-17,Al Ahly,Aswan,3,0,Home win,sofascore
+2019/20,20,2020-08-18,Tanta,Haras El Hodoud,0,1,Away win,sofascore
+2019/20,20,2020-08-18,Misr El Makkasa,El Gouna,1,0,Home win,sofascore
+2019/20,20,2020-08-18,ZED FC,Zamalek,0,0,Draw,sofascore
+2019/20,20,2020-08-19,Ismaily,Wadi Degla,1,1,Draw,sofascore
+2019/20,21,2020-08-21,El Entag El Harby,ENPPI,0,2,Away win,sofascore
+2019/20,21,2020-08-21,Aswan,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2019/20,21,2020-08-21,Smouha,Pyramids FC,1,2,Away win,sofascore
+2019/20,21,2020-08-22,El Gouna,ZED FC,0,1,Away win,sofascore
+2019/20,21,2020-08-22,Tala'ea El Gaish,Tanta,1,0,Home win,sofascore
+2019/20,21,2020-08-22,Al Masry,Misr El Makkasa,0,2,Away win,sofascore
+2019/20,21,2020-08-22,Zamalek,Al Ahly,3,1,Home win,sofascore
+2019/20,21,2020-08-23,Haras El Hodoud,Ismaily,2,2,Draw,sofascore
+2019/20,21,2020-08-23,Wadi Degla,Al Ittihad Alexandria,0,0,Draw,sofascore
+2019/20,22,2020-08-25,ENPPI,Aswan,1,1,Draw,sofascore
+2019/20,22,2020-08-25,Pyramids FC,El Entag El Harby,3,0,Home win,sofascore
+2019/20,22,2020-08-26,Tala'ea El Gaish,Smouha,1,1,Draw,sofascore
+2019/20,22,2020-08-26,ZED FC,Al Masry,0,0,Draw,sofascore
+2019/20,22,2020-08-26,Al Ahly,El Gouna,1,0,Home win,sofascore
+2019/20,22,2020-08-27,Al Ittihad Alexandria,Haras El Hodoud,1,1,Draw,sofascore
+2019/20,22,2020-08-27,Misr El Makkasa,Wadi Degla,1,3,Away win,sofascore
+2019/20,22,2020-08-27,Arab Contractors (Al Mokawloon),Zamalek,2,1,Home win,sofascore
+2019/20,22,2020-08-27,Tanta,Ismaily,1,3,Away win,sofascore
+2019/20,23,2020-08-29,El Entag El Harby,Tala'ea El Gaish,0,1,Away win,sofascore
+2019/20,23,2020-08-29,Aswan,Pyramids FC,1,2,Away win,sofascore
+2019/20,23,2020-08-29,Al Masry,Al Ahly,0,2,Away win,sofascore
+2019/20,23,2020-08-30,Wadi Degla,ZED FC,2,1,Home win,sofascore
+2019/20,23,2020-08-30,El Gouna,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2019/20,23,2020-08-30,Smouha,Tanta,3,0,Home win,sofascore
+2019/20,23,2020-08-30,Zamalek,ENPPI,1,0,Home win,sofascore
+2019/20,23,2020-08-31,Haras El Hodoud,Misr El Makkasa,1,1,Draw,sofascore
+2019/20,23,2020-08-31,Ismaily,Al Ittihad Alexandria,1,3,Away win,sofascore
+2019/20,24,2020-09-02,Tala'ea El Gaish,Aswan,0,0,Draw,sofascore
+2019/20,24,2020-09-02,ENPPI,El Gouna,0,0,Draw,sofascore
+2019/20,24,2020-09-02,Smouha,El Entag El Harby,1,2,Away win,sofascore
+2019/20,24,2020-09-03,Tanta,Al Ittihad Alexandria,1,1,Draw,sofascore
+2019/20,24,2020-09-03,ZED FC,Haras El Hodoud,1,1,Draw,sofascore
+2019/20,24,2020-09-03,Arab Contractors (Al Mokawloon),Al Masry,2,0,Home win,sofascore
+2019/20,24,2020-09-03,Pyramids FC,Zamalek,0,2,Away win,sofascore
+2019/20,24,2020-09-04,Misr El Makkasa,Ismaily,4,1,Home win,sofascore
+2019/20,24,2020-09-04,Al Ahly,Wadi Degla,2,0,Home win,sofascore
+2019/20,25,2020-09-05,Aswan,Smouha,3,3,Draw,sofascore
+2019/20,25,2020-09-06,El Entag El Harby,Tanta,3,0,Home win,sofascore
+2019/20,25,2020-09-06,Al Masry,ENPPI,1,1,Draw,sofascore
+2019/20,25,2020-09-06,El Gouna,Pyramids FC,2,1,Home win,sofascore
+2019/20,25,2020-09-06,Zamalek,Tala'ea El Gaish,1,0,Home win,sofascore
+2019/20,25,2020-09-07,Al Ittihad Alexandria,Misr El Makkasa,1,3,Away win,sofascore
+2019/20,25,2020-09-07,Ismaily,ZED FC,4,0,Home win,sofascore
+2019/20,25,2020-09-07,Wadi Degla,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2019/20,25,2020-09-07,Haras El Hodoud,Al Ahly,0,2,Away win,sofascore
+2019/20,26,2020-09-10,Pyramids FC,Al Masry,0,1,Away win,sofascore
+2019/20,26,2020-09-10,Arab Contractors (Al Mokawloon),Haras El Hodoud,3,2,Home win,sofascore
+2019/20,26,2020-09-10,El Entag El Harby,Aswan,0,2,Away win,sofascore
+2019/20,26,2020-09-10,Smouha,Zamalek,3,3,Draw,sofascore
+2019/20,26,2020-09-11,ZED FC,Al Ittihad Alexandria,2,2,Draw,sofascore
+2019/20,26,2020-09-11,Tala'ea El Gaish,El Gouna,4,1,Home win,sofascore
+2019/20,26,2020-09-11,Tanta,Misr El Makkasa,0,2,Away win,sofascore
+2019/20,26,2020-09-11,Al Ahly,Ismaily,3,0,Home win,sofascore
+2019/20,26,2020-09-12,ENPPI,Wadi Degla,2,1,Home win,sofascore
+2019/20,27,2020-09-13,Zamalek,El Entag El Harby,1,0,Home win,sofascore
+2019/20,18,2020-09-14,Haras El Hodoud,Al Masry,1,2,Away win,sofascore
+2019/20,27,2020-09-14,Aswan,Tanta,4,0,Home win,sofascore
+2019/20,27,2020-09-14,Al Ittihad Alexandria,Al Ahly,0,0,Draw,sofascore
+2019/20,27,2020-09-15,Misr El Makkasa,ZED FC,3,0,Home win,sofascore
+2019/20,27,2020-09-15,Ismaily,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2019/20,27,2020-09-16,El Gouna,Smouha,1,2,Away win,sofascore
+2019/20,27,2020-09-16,Wadi Degla,Pyramids FC,0,2,Away win,sofascore
+2019/20,27,2020-09-17,Al Masry,Tala'ea El Gaish,0,0,Draw,sofascore
+2019/20,27,2020-09-18,Haras El Hodoud,ENPPI,3,2,Home win,sofascore
+2019/20,28,2020-09-18,Aswan,Zamalek,1,0,Home win,sofascore
+2019/20,28,2020-09-19,Tanta,ZED FC,0,0,Draw,sofascore
+2019/20,28,2020-09-19,Al Ahly,Misr El Makkasa,0,0,Draw,sofascore
+2019/20,28,2020-09-20,El Entag El Harby,El Gouna,2,1,Home win,sofascore
+2019/20,28,2020-09-20,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,1,1,Draw,sofascore
+2019/20,28,2020-09-21,ENPPI,Ismaily,1,0,Home win,sofascore
+2019/20,28,2020-09-21,Smouha,Al Masry,2,0,Home win,sofascore
+2019/20,28,2020-09-21,Tala'ea El Gaish,Wadi Degla,1,0,Home win,sofascore
+2019/20,28,2020-09-21,Pyramids FC,Haras El Hodoud,1,0,Home win,sofascore
+2019/20,29,2020-09-22,Zamalek,Tanta,3,1,Home win,sofascore
+2019/20,29,2020-09-23,ZED FC,Al Ahly,0,3,Away win,sofascore
+2019/20,29,2020-09-24,Wadi Degla,Smouha,0,0,Draw,sofascore
+2019/20,29,2020-09-24,Al Masry,El Entag El Harby,2,2,Draw,sofascore
+2019/20,29,2020-09-24,El Gouna,Aswan,1,0,Home win,sofascore
+2019/20,29,2020-09-24,Ismaily,Pyramids FC,1,3,Away win,sofascore
+2019/20,29,2020-09-25,Haras El Hodoud,Tala'ea El Gaish,0,0,Draw,sofascore
+2019/20,29,2020-09-25,Misr El Makkasa,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2019/20,29,2020-09-25,Al Ittihad Alexandria,ENPPI,0,2,Away win,sofascore
+2019/20,30,2020-09-26,Tanta,Al Ahly,0,1,Away win,sofascore
+2019/20,30,2020-09-27,Zamalek,El Gouna,4,3,Home win,sofascore
+2019/20,30,2020-09-28,Smouha,Haras El Hodoud,2,0,Home win,sofascore
+2019/20,30,2020-09-28,El Entag El Harby,Wadi Degla,1,4,Away win,sofascore
+2019/20,30,2020-09-28,Tala'ea El Gaish,Ismaily,0,1,Away win,sofascore
+2019/20,30,2020-09-28,Aswan,Al Masry,0,1,Away win,sofascore
+2019/20,30,2020-09-29,Arab Contractors (Al Mokawloon),ZED FC,6,0,Home win,sofascore
+2019/20,30,2020-09-29,ENPPI,Misr El Makkasa,1,0,Home win,sofascore
+2019/20,30,2020-09-29,Pyramids FC,Al Ittihad Alexandria,1,0,Home win,sofascore
+2019/20,31,2020-10-01,El Gouna,Tanta,2,0,Home win,sofascore
+2019/20,31,2020-10-01,Al Masry,Zamalek,0,1,Away win,sofascore
+2019/20,31,2020-10-02,Haras El Hodoud,El Entag El Harby,1,3,Away win,sofascore
+2019/20,31,2020-10-02,Ismaily,Smouha,1,1,Draw,sofascore
+2019/20,31,2020-10-03,ZED FC,ENPPI,1,1,Draw,sofascore
+2019/20,31,2020-10-03,Wadi Degla,Aswan,1,0,Home win,sofascore
+2019/20,31,2020-10-03,Misr El Makkasa,Pyramids FC,2,3,Away win,sofascore
+2019/20,31,2020-10-04,Al Ittihad Alexandria,Tala'ea El Gaish,2,2,Draw,sofascore
+2019/20,31,2020-10-04,Al Ahly,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2019/20,32,2020-10-05,El Gouna,Al Masry,0,2,Away win,sofascore
+2019/20,32,2020-10-06,El Entag El Harby,Ismaily,0,1,Away win,sofascore
+2019/20,32,2020-10-07,Pyramids FC,ZED FC,1,0,Home win,sofascore
+2019/20,32,2020-10-07,ENPPI,Al Ahly,0,3,Away win,sofascore
+2019/20,32,2020-10-08,Aswan,Haras El Hodoud,2,1,Home win,sofascore
+2019/20,32,2020-10-08,Zamalek,Wadi Degla,0,0,Draw,sofascore
+2019/20,19,2020-10-09,Al Masry,Ismaily,2,0,Home win,sofascore
+2019/20,32,2020-10-09,Tanta,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2019/20,32,2020-10-09,Smouha,Al Ittihad Alexandria,2,1,Home win,sofascore
+2019/20,32,2020-10-10,Tala'ea El Gaish,Misr El Makkasa,1,0,Home win,sofascore
+2019/20,33,2020-10-11,Al Ahly,Pyramids FC,0,0,Draw,sofascore
+2019/20,18,2020-10-12,ZED FC,El Entag El Harby,0,3,Away win,sofascore
+2019/20,20,2020-10-12,Al Ittihad Alexandria,Al Masry,1,2,Away win,sofascore
+2019/20,33,2020-10-12,Haras El Hodoud,Zamalek,1,2,Away win,sofascore
+2019/20,33,2020-10-14,Wadi Degla,El Gouna,0,2,Away win,sofascore
+2019/20,33,2020-10-15,Ismaily,Aswan,4,2,Home win,sofascore
+2019/20,33,2020-10-15,Arab Contractors (Al Mokawloon),ENPPI,0,2,Away win,sofascore
+2019/20,33,2020-10-16,Misr El Makkasa,Smouha,0,0,Draw,sofascore
+2019/20,33,2020-10-17,Al Ittihad Alexandria,El Entag El Harby,1,2,Away win,sofascore
+2019/20,33,2020-10-18,Tanta,Al Masry,1,2,Away win,sofascore
+2019/20,33,2020-10-19,ZED FC,Tala'ea El Gaish,0,1,Away win,sofascore
+2019/20,34,2020-10-26,Zamalek,Ismaily,3,1,Home win,sofascore
+2019/20,34,2020-10-29,Aswan,Al Ittihad Alexandria,1,3,Away win,sofascore
+2019/20,34,2020-10-29,El Entag El Harby,Misr El Makkasa,0,0,Draw,sofascore
+2019/20,34,2020-10-30,ENPPI,Tanta,1,2,Away win,sofascore
+2019/20,34,2020-10-30,El Gouna,Haras El Hodoud,1,2,Away win,sofascore
+2019/20,34,2020-10-30,Al Masry,Wadi Degla,2,1,Home win,sofascore
+2019/20,34,2020-10-31,Smouha,ZED FC,2,0,Home win,sofascore
+2019/20,34,2020-10-31,Pyramids FC,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2019/20,34,2020-10-31,Tala'ea El Gaish,Al Ahly,0,3,Away win,sofascore
+2020/21,1,2020-12-11,ENPPI,Aswan,0,1,Away win,sofascore
+2020/21,1,2020-12-11,Tala'ea El Gaish,El Gouna,1,1,Draw,sofascore
+2020/21,1,2020-12-11,El Entag El Harby,Ceramica Cleopatra,0,2,Away win,sofascore
+2020/21,1,2020-12-12,National Bank of Egypt,Wadi Degla,1,1,Draw,sofascore
+2020/21,1,2020-12-12,Pyramids FC,Al Ittihad Alexandria,1,2,Away win,sofascore
+2020/21,1,2020-12-12,Arab Contractors (Al Mokawloon),Zamalek,0,2,Away win,sofascore
+2020/21,1,2020-12-13,Al Masry,Ismaily,0,0,Draw,sofascore
+2020/21,1,2020-12-13,Al Ahly,Misr El Makkasa,3,1,Home win,sofascore
+2020/21,1,2020-12-14,Smouha,Ghazl El Mahalla,1,1,Draw,sofascore
+2020/21,2,2020-12-16,Aswan,Tala'ea El Gaish,2,1,Home win,sofascore
+2020/21,2,2020-12-16,Ceramica Cleopatra,National Bank of Egypt,3,1,Home win,sofascore
+2020/21,2,2020-12-16,Wadi Degla,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2020/21,2,2020-12-17,El Gouna,Al Masry,1,1,Draw,sofascore
+2020/21,2,2020-12-17,Ismaily,El Entag El Harby,3,3,Draw,sofascore
+2020/21,2,2020-12-17,Pyramids FC,Zamalek,1,1,Draw,sofascore
+2020/21,2,2020-12-18,Misr El Makkasa,ENPPI,0,1,Away win,sofascore
+2020/21,2,2020-12-18,Al Ittihad Alexandria,Smouha,1,1,Draw,sofascore
+2020/21,2,2020-12-18,Al Ahly,Ghazl El Mahalla,3,0,Home win,sofascore
+2020/21,3,2020-12-21,National Bank of Egypt,El Entag El Harby,3,0,Home win,sofascore
+2020/21,3,2020-12-21,El Gouna,Ismaily,2,1,Home win,sofascore
+2020/21,3,2020-12-21,Al Masry,Aswan,3,0,Home win,sofascore
+2020/21,3,2020-12-22,ENPPI,Ghazl El Mahalla,1,1,Draw,sofascore
+2020/21,3,2020-12-22,Tala'ea El Gaish,Misr El Makkasa,1,2,Away win,sofascore
+2020/21,4,2020-12-24,Wadi Degla,Smouha,1,2,Away win,sofascore
+2020/21,4,2020-12-25,Aswan,El Gouna,0,1,Away win,sofascore
+2020/21,4,2020-12-25,Ghazl El Mahalla,Tala'ea El Gaish,2,1,Home win,sofascore
+2020/21,4,2020-12-25,Ismaily,National Bank of Egypt,0,0,Draw,sofascore
+2020/21,4,2020-12-26,El Entag El Harby,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2020/21,4,2020-12-26,Misr El Makkasa,Al Masry,1,1,Draw,sofascore
+2020/21,4,2020-12-27,Ceramica Cleopatra,Pyramids FC,0,1,Away win,sofascore
+2020/21,3,2020-12-28,Smouha,Zamalek,0,2,Away win,sofascore
+2020/21,3,2020-12-28,Al Ahly,Al Ittihad Alexandria,4,0,Home win,sofascore
+2020/21,5,2020-12-29,Aswan,Ismaily,0,2,Away win,sofascore
+2020/21,5,2020-12-30,El Gouna,Misr El Makkasa,1,0,Home win,sofascore
+2020/21,5,2020-12-30,Arab Contractors (Al Mokawloon),National Bank of Egypt,2,0,Home win,sofascore
+2020/21,5,2020-12-30,Al Masry,Ghazl El Mahalla,1,0,Home win,sofascore
+2020/21,5,2021-01-01,Pyramids FC,El Entag El Harby,3,2,Home win,sofascore
+2020/21,5,2021-01-01,Al Ahly,Wadi Degla,0,0,Draw,sofascore
+2020/21,5,2021-01-02,Smouha,Ceramica Cleopatra,0,0,Draw,sofascore
+2020/21,5,2021-01-02,Tala'ea El Gaish,Al Ittihad Alexandria,1,2,Away win,sofascore
+2020/21,5,2021-01-02,ENPPI,Zamalek,1,2,Away win,sofascore
+2020/21,7,2021-01-03,Misr El Makkasa,Ismaily,3,1,Home win,sofascore
+2020/21,6,2021-01-07,Al Ittihad Alexandria,Al Masry,1,1,Draw,sofascore
+2020/21,6,2021-01-08,National Bank of Egypt,Pyramids FC,0,0,Draw,sofascore
+2020/21,6,2021-01-08,Wadi Degla,ENPPI,1,2,Away win,sofascore
+2020/21,6,2021-01-08,Ceramica Cleopatra,Al Ahly,0,2,Away win,sofascore
+2020/21,6,2021-01-09,Misr El Makkasa,Aswan,1,0,Home win,sofascore
+2020/21,6,2021-01-09,Ghazl El Mahalla,El Gouna,0,0,Draw,sofascore
+2020/21,6,2021-01-09,Zamalek,Tala'ea El Gaish,3,0,Home win,sofascore
+2020/21,3,2021-01-11,Pyramids FC,Wadi Degla,1,1,Draw,sofascore
+2020/21,3,2021-01-12,Arab Contractors (Al Mokawloon),Ceramica Cleopatra,1,1,Draw,sofascore
+2020/21,7,2021-01-12,Smouha,National Bank of Egypt,2,2,Draw,sofascore
+2020/21,7,2021-01-12,Al Masry,Zamalek,0,1,Away win,sofascore
+2020/21,7,2021-01-12,Al Ahly,El Entag El Harby,4,1,Home win,sofascore
+2020/21,7,2021-01-14,Aswan,Ghazl El Mahalla,1,1,Draw,sofascore
+2020/21,7,2021-01-14,El Gouna,Al Ittihad Alexandria,2,0,Home win,sofascore
+2020/21,7,2021-01-15,ENPPI,Ceramica Cleopatra,2,1,Home win,sofascore
+2020/21,7,2021-01-15,Pyramids FC,Arab Contractors (Al Mokawloon),3,1,Home win,sofascore
+2020/21,7,2021-01-15,Tala'ea El Gaish,Wadi Degla,1,0,Home win,sofascore
+2020/21,6,2021-01-17,El Entag El Harby,Smouha,1,1,Draw,sofascore
+2020/21,8,2021-01-17,National Bank of Egypt,Al Ahly,0,0,Draw,sofascore
+2020/21,7,2021-01-18,Ismaily,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2020/21,8,2021-01-18,Ceramica Cleopatra,Tala'ea El Gaish,2,1,Home win,sofascore
+2020/21,8,2021-01-18,Ghazl El Mahalla,Misr El Makkasa,1,2,Away win,sofascore
+2020/21,8,2021-01-19,Zamalek,El Gouna,1,0,Home win,sofascore
+2020/21,8,2021-01-20,Wadi Degla,Al Masry,1,3,Away win,sofascore
+2020/21,9,2021-01-21,Al Ahly,Arab Contractors (Al Mokawloon),3,2,Home win,sofascore
+2020/21,9,2021-01-22,Smouha,Pyramids FC,1,1,Draw,sofascore
+2020/21,9,2021-01-22,Tala'ea El Gaish,El Entag El Harby,3,0,Home win,sofascore
+2020/21,9,2021-01-23,Ghazl El Mahalla,Ismaily,2,2,Draw,sofascore
+2020/21,9,2021-01-23,Aswan,Zamalek,0,0,Draw,sofascore
+2020/21,9,2021-01-24,El Gouna,Wadi Degla,2,0,Home win,sofascore
+2020/21,9,2021-01-24,ENPPI,National Bank of Egypt,3,2,Home win,sofascore
+2020/21,8,2021-01-26,Arab Contractors (Al Mokawloon),Smouha,1,2,Away win,sofascore
+2020/21,10,2021-01-26,Pyramids FC,Al Ahly,0,0,Draw,sofascore
+2020/21,10,2021-01-28,National Bank of Egypt,Tala'ea El Gaish,0,2,Away win,sofascore
+2020/21,10,2021-01-28,Zamalek,Misr El Makkasa,4,1,Home win,sofascore
+2020/21,10,2021-01-29,Ceramica Cleopatra,El Gouna,2,1,Home win,sofascore
+2020/21,10,2021-01-29,Wadi Degla,Aswan,0,0,Draw,sofascore
+2020/21,10,2021-01-29,El Entag El Harby,Al Masry,0,3,Away win,sofascore
+2020/21,8,2021-01-30,Ismaily,Pyramids FC,1,1,Draw,sofascore
+2020/21,10,2021-01-30,Arab Contractors (Al Mokawloon),ENPPI,2,1,Home win,sofascore
+2020/21,11,2021-02-02,Aswan,Ceramica Cleopatra,1,1,Draw,sofascore
+2020/21,11,2021-02-02,El Gouna,El Entag El Harby,2,3,Away win,sofascore
+2020/21,11,2021-02-02,Ghazl El Mahalla,Zamalek,2,1,Home win,sofascore
+2020/21,11,2021-02-02,Al Masry,National Bank of Egypt,0,0,Draw,sofascore
+2020/21,9,2021-02-03,Misr El Makkasa,Al Ittihad Alexandria,0,4,Away win,sofascore
+2020/21,10,2021-02-03,Ismaily,Smouha,0,2,Away win,sofascore
+2020/21,11,2021-02-03,ENPPI,Pyramids FC,3,2,Home win,sofascore
+2020/21,11,2021-02-03,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2020/21,12,2021-02-06,National Bank of Egypt,El Gouna,1,1,Draw,sofascore
+2020/21,12,2021-02-06,El Entag El Harby,Aswan,1,1,Draw,sofascore
+2020/21,12,2021-02-06,Pyramids FC,Tala'ea El Gaish,1,0,Home win,sofascore
+2020/21,12,2021-02-06,Arab Contractors (Al Mokawloon),Al Masry,0,1,Away win,sofascore
+2020/21,12,2021-02-07,Wadi Degla,Ghazl El Mahalla,0,1,Away win,sofascore
+2020/21,12,2021-02-07,Zamalek,Al Ittihad Alexandria,2,0,Home win,sofascore
+2020/21,12,2021-02-08,Ceramica Cleopatra,Misr El Makkasa,1,1,Draw,sofascore
+2020/21,12,2021-02-08,Smouha,ENPPI,1,1,Draw,sofascore
+2020/21,11,2021-02-11,Al Ittihad Alexandria,Ismaily,1,0,Home win,sofascore
+2020/21,13,2021-02-11,Ghazl El Mahalla,Ceramica Cleopatra,0,2,Away win,sofascore
+2020/21,13,2021-02-11,Misr El Makkasa,El Entag El Harby,1,0,Home win,sofascore
+2020/21,13,2021-02-12,Tala'ea El Gaish,Smouha,1,1,Draw,sofascore
+2020/21,14,2021-02-16,National Bank of Egypt,Misr El Makkasa,0,1,Away win,sofascore
+2020/21,13,2021-02-17,Zamalek,Ismaily,2,1,Home win,sofascore
+2020/21,14,2021-02-17,Arab Contractors (Al Mokawloon),Aswan,0,1,Away win,sofascore
+2020/21,14,2021-02-17,Ceramica Cleopatra,Al Ittihad Alexandria,1,1,Draw,sofascore
+2020/21,14,2021-02-17,El Entag El Harby,Ghazl El Mahalla,0,1,Away win,sofascore
+2020/21,11,2021-02-20,Misr El Makkasa,Wadi Degla,3,1,Home win,sofascore
+2020/21,8,2021-02-21,Al Ittihad Alexandria,Aswan,1,3,Away win,sofascore
+2020/21,13,2021-02-21,El Gouna,Arab Contractors (Al Mokawloon),2,3,Away win,sofascore
+2020/21,14,2021-02-21,Ismaily,ENPPI,1,1,Draw,sofascore
+2020/21,14,2021-02-22,Smouha,Al Masry,1,1,Draw,sofascore
+2020/21,8,2021-02-25,El Entag El Harby,ENPPI,0,0,Draw,sofascore
+2020/21,13,2021-02-25,Al Ittihad Alexandria,Wadi Degla,2,1,Home win,sofascore
+2020/21,14,2021-02-25,Pyramids FC,El Gouna,1,1,Draw,sofascore
+2020/21,9,2021-02-26,Al Masry,Ceramica Cleopatra,2,2,Draw,sofascore
+2020/21,13,2021-02-28,Aswan,National Bank of Egypt,0,2,Away win,sofascore
+2020/21,14,2021-02-28,Al Ahly,Tala'ea El Gaish,2,1,Home win,sofascore
+2020/21,7,2021-03-01,Al Ittihad Alexandria,ENPPI,0,1,Away win,sofascore
+2020/21,14,2021-03-01,Wadi Degla,Zamalek,0,0,Draw,sofascore
+2020/21,13,2021-03-02,Al Masry,Pyramids FC,1,2,Away win,sofascore
+2020/21,15,2021-03-02,El Gouna,Smouha,2,2,Draw,sofascore
+2020/21,15,2021-03-02,Misr El Makkasa,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2020/21,15,2021-03-04,Ghazl El Mahalla,National Bank of Egypt,0,0,Draw,sofascore
+2020/21,15,2021-03-05,Wadi Degla,Ismaily,0,0,Draw,sofascore
+2020/21,15,2021-03-05,Al Ittihad Alexandria,El Entag El Harby,2,0,Home win,sofascore
+2020/21,15,2021-03-05,Tala'ea El Gaish,ENPPI,1,1,Draw,sofascore
+2020/21,15,2021-03-06,Aswan,Pyramids FC,0,2,Away win,sofascore
+2020/21,10,2021-03-09,Al Ittihad Alexandria,Ghazl El Mahalla,0,0,Draw,sofascore
+2020/21,12,2021-03-10,Ismaily,Al Ahly,0,2,Away win,sofascore
+2020/21,15,2021-03-11,Zamalek,Ceramica Cleopatra,2,0,Home win,sofascore
+2020/21,16,2021-03-12,Smouha,Aswan,5,0,Home win,sofascore
+2020/21,16,2021-03-13,ENPPI,Al Masry,1,1,Draw,sofascore
+2020/21,16,2021-03-14,Arab Contractors (Al Mokawloon),Ghazl El Mahalla,0,1,Away win,sofascore
+2020/21,16,2021-03-15,National Bank of Egypt,Al Ittihad Alexandria,0,1,Away win,sofascore
+2020/21,16,2021-03-16,Ceramica Cleopatra,Wadi Degla,1,2,Away win,sofascore
+2020/21,16,2021-03-16,Tala'ea El Gaish,Ismaily,1,1,Draw,sofascore
+2020/21,17,2021-04-02,Wadi Degla,El Entag El Harby,0,0,Draw,sofascore
+2020/21,17,2021-04-02,Misr El Makkasa,Smouha,1,1,Draw,sofascore
+2020/21,17,2021-04-03,Al Masry,Tala'ea El Gaish,1,0,Home win,sofascore
+2020/21,17,2021-04-03,Ismaily,Ceramica Cleopatra,1,2,Away win,sofascore
+2020/21,17,2021-04-05,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),4,2,Home win,sofascore
+2020/21,18,2021-04-06,Ghazl El Mahalla,Smouha,1,1,Draw,sofascore
+2020/21,18,2021-04-06,Aswan,ENPPI,1,0,Home win,sofascore
+2020/21,18,2021-04-07,El Gouna,Tala'ea El Gaish,0,4,Away win,sofascore
+2020/21,18,2021-04-07,Wadi Degla,National Bank of Egypt,4,2,Home win,sofascore
+2020/21,18,2021-04-07,Ismaily,Al Masry,2,1,Home win,sofascore
+2020/21,18,2021-04-11,Ceramica Cleopatra,El Entag El Harby,1,1,Draw,sofascore
+2020/21,19,2021-04-11,Al Masry,El Gouna,1,0,Home win,sofascore
+2020/21,16,2021-04-14,Pyramids FC,Misr El Makkasa,1,1,Draw,sofascore
+2020/21,17,2021-04-16,El Gouna,ENPPI,1,0,Home win,sofascore
+2020/21,17,2021-04-17,Ghazl El Mahalla,Pyramids FC,2,2,Draw,sofascore
+2020/21,4,2021-04-18,Zamalek,Al Ahly,1,2,Away win,sofascore
+2020/21,11,2021-04-21,Al Ahly,Smouha,1,2,Away win,sofascore
+2020/21,16,2021-04-22,El Entag El Harby,Zamalek,0,2,Away win,sofascore
+2020/21,19,2021-04-22,Arab Contractors (Al Mokawloon),Wadi Degla,1,0,Home win,sofascore
+2020/21,13,2021-04-24,ENPPI,Al Ahly,1,3,Away win,sofascore
+2020/21,18,2021-04-24,Al Ittihad Alexandria,Pyramids FC,0,2,Away win,sofascore
+2020/21,17,2021-04-26,Zamalek,National Bank of Egypt,4,1,Home win,sofascore
+2020/21,15,2021-04-27,Al Masry,Al Ahly,1,2,Away win,sofascore
+2020/21,18,2021-04-29,Zamalek,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2020/21,16,2021-04-30,Al Ahly,El Gouna,1,1,Draw,sofascore
+2020/21,19,2021-04-30,National Bank of Egypt,Ceramica Cleopatra,1,1,Draw,sofascore
+2020/21,19,2021-05-01,El Entag El Harby,Ismaily,0,2,Away win,sofascore
+2020/21,19,2021-05-01,Smouha,Al Ittihad Alexandria,2,2,Draw,sofascore
+2020/21,19,2021-05-01,Tala'ea El Gaish,Aswan,3,0,Home win,sofascore
+2020/21,19,2021-05-02,ENPPI,Misr El Makkasa,2,0,Home win,sofascore
+2020/21,19,2021-05-02,Zamalek,Pyramids FC,1,1,Draw,sofascore
+2020/21,19,2021-05-03,Ghazl El Mahalla,Al Ahly,1,0,Home win,sofascore
+2020/21,20,2021-05-04,El Entag El Harby,National Bank of Egypt,1,3,Away win,sofascore
+2020/21,20,2021-05-05,Aswan,Al Masry,2,3,Away win,sofascore
+2020/21,20,2021-05-05,Ceramica Cleopatra,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2020/21,20,2021-05-05,Ismaily,El Gouna,3,2,Home win,sofascore
+2020/21,20,2021-05-05,Misr El Makkasa,Tala'ea El Gaish,0,2,Away win,sofascore
+2020/21,20,2021-05-06,Al Ittihad Alexandria,Al Ahly,1,2,Away win,sofascore
+2020/21,20,2021-05-06,Ghazl El Mahalla,ENPPI,1,0,Home win,sofascore
+2020/21,20,2021-05-06,Wadi Degla,Pyramids FC,1,3,Away win,sofascore
+2020/21,20,2021-05-06,Zamalek,Smouha,2,1,Home win,sofascore
+2020/21,21,2021-05-08,Arab Contractors (Al Mokawloon),El Entag El Harby,1,1,Draw,sofascore
+2020/21,21,2021-05-09,Al Masry,Misr El Makkasa,0,0,Draw,sofascore
+2020/21,21,2021-05-09,ENPPI,Al Ittihad Alexandria,0,0,Draw,sofascore
+2020/21,21,2021-05-09,Pyramids FC,Ceramica Cleopatra,2,4,Away win,sofascore
+2020/21,21,2021-05-09,Tala'ea El Gaish,Ghazl El Mahalla,3,1,Home win,sofascore
+2020/21,21,2021-05-10,Al Ahly,Zamalek,1,1,Draw,sofascore
+2020/21,21,2021-05-10,El Gouna,Aswan,1,1,Draw,sofascore
+2020/21,21,2021-05-10,National Bank of Egypt,Ismaily,0,2,Away win,sofascore
+2020/21,21,2021-05-10,Smouha,Wadi Degla,2,1,Home win,sofascore
+2020/21,22,2021-05-14,Ismaily,Aswan,3,2,Home win,sofascore
+2020/21,22,2021-05-14,National Bank of Egypt,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2020/21,22,2021-05-14,Ghazl El Mahalla,Al Masry,1,2,Away win,sofascore
+2020/21,22,2021-05-14,Zamalek,ENPPI,3,1,Home win,sofascore
+2020/21,22,2021-05-15,Ceramica Cleopatra,Smouha,1,1,Draw,sofascore
+2020/21,22,2021-05-15,Misr El Makkasa,El Gouna,1,0,Home win,sofascore
+2020/21,22,2021-05-15,Al Ittihad Alexandria,Tala'ea El Gaish,1,1,Draw,sofascore
+2020/21,23,2021-05-19,Arab Contractors (Al Mokawloon),Ismaily,1,0,Home win,sofascore
+2020/21,23,2021-05-19,Aswan,Misr El Makkasa,2,4,Away win,sofascore
+2020/21,23,2021-05-20,El Gouna,Ghazl El Mahalla,0,0,Draw,sofascore
+2020/21,23,2021-05-20,Al Masry,Al Ittihad Alexandria,1,0,Home win,sofascore
+2020/21,23,2021-05-20,Tala'ea El Gaish,Zamalek,1,2,Away win,sofascore
+2020/21,23,2021-05-21,Smouha,El Entag El Harby,4,2,Home win,sofascore
+2020/21,23,2021-05-21,ENPPI,Wadi Degla,0,0,Draw,sofascore
+2020/21,24,2021-05-24,Ismaily,Misr El Makkasa,2,1,Home win,sofascore
+2020/21,24,2021-05-24,Zamalek,Al Masry,3,2,Home win,sofascore
+2020/21,24,2021-05-25,Wadi Degla,Tala'ea El Gaish,0,1,Away win,sofascore
+2020/21,24,2021-05-25,Al Ittihad Alexandria,El Gouna,0,1,Away win,sofascore
+2020/21,24,2021-05-25,Aswan,Ghazl El Mahalla,1,0,Home win,sofascore
+2020/21,24,2021-05-26,National Bank of Egypt,Smouha,2,2,Draw,sofascore
+2020/21,24,2021-05-26,Ceramica Cleopatra,ENPPI,0,2,Away win,sofascore
+2020/21,25,2021-05-28,Al Masry,Wadi Degla,2,2,Draw,sofascore
+2020/21,25,2021-05-28,Misr El Makkasa,Ghazl El Mahalla,1,0,Home win,sofascore
+2020/21,25,2021-05-28,Aswan,Al Ittihad Alexandria,0,2,Away win,sofascore
+2020/21,25,2021-05-29,Tala'ea El Gaish,Ceramica Cleopatra,2,2,Draw,sofascore
+2020/21,25,2021-05-30,ENPPI,El Entag El Harby,1,1,Draw,sofascore
+2020/21,25,2021-05-30,Smouha,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2020/21,25,2021-05-30,El Gouna,Zamalek,0,0,Draw,sofascore
+2020/21,26,2021-06-15,El Entag El Harby,Tala'ea El Gaish,1,2,Away win,sofascore
+2020/21,26,2021-06-15,Pyramids FC,Smouha,0,3,Away win,sofascore
+2020/21,26,2021-06-16,National Bank of Egypt,ENPPI,2,3,Away win,sofascore
+2020/21,26,2021-06-16,Ceramica Cleopatra,Al Masry,1,2,Away win,sofascore
+2020/21,26,2021-06-17,Ismaily,Ghazl El Mahalla,3,1,Home win,sofascore
+2020/21,26,2021-06-17,Al Ittihad Alexandria,Misr El Makkasa,2,1,Home win,sofascore
+2020/21,26,2021-06-17,Zamalek,Aswan,3,0,Home win,sofascore
+2020/21,26,2021-06-18,Wadi Degla,El Gouna,0,0,Draw,sofascore
+2020/21,27,2021-06-25,El Gouna,Ceramica Cleopatra,3,2,Home win,sofascore
+2020/21,27,2021-06-25,Aswan,Wadi Degla,1,4,Away win,sofascore
+2020/21,27,2021-06-25,Ghazl El Mahalla,Al Ittihad Alexandria,1,1,Draw,sofascore
+2020/21,27,2021-06-25,Al Masry,El Entag El Harby,2,3,Away win,sofascore
+2020/21,27,2021-06-27,Tala'ea El Gaish,National Bank of Egypt,0,2,Away win,sofascore
+2020/21,27,2021-06-27,Smouha,Ismaily,0,3,Away win,sofascore
+2020/21,27,2021-06-28,ENPPI,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2020/21,27,2021-06-28,Misr El Makkasa,Zamalek,0,1,Away win,sofascore
+2020/21,27,2021-07-01,Al Ahly,Pyramids FC,2,2,Draw,sofascore
+2020/21,28,2021-07-02,Ceramica Cleopatra,Aswan,1,1,Draw,sofascore
+2020/21,28,2021-07-02,El Entag El Harby,El Gouna,1,1,Draw,sofascore
+2020/21,28,2021-07-02,National Bank of Egypt,Al Masry,2,0,Home win,sofascore
+2020/21,28,2021-07-04,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,0,1,Away win,sofascore
+2020/21,28,2021-07-04,Pyramids FC,ENPPI,1,1,Draw,sofascore
+2020/21,28,2021-07-04,Smouha,Al Ahly,0,4,Away win,sofascore
+2020/21,28,2021-07-05,Wadi Degla,Misr El Makkasa,1,1,Draw,sofascore
+2020/21,28,2021-07-05,Ismaily,Al Ittihad Alexandria,1,2,Away win,sofascore
+2020/21,22,2021-07-08,El Entag El Harby,Pyramids FC,2,2,Draw,sofascore
+2020/21,26,2021-07-08,Arab Contractors (Al Mokawloon),Al Ahly,0,2,Away win,sofascore
+2020/21,18,2021-07-11,Misr El Makkasa,Al Ahly,1,4,Away win,sofascore
+2020/21,24,2021-07-16,Arab Contractors (Al Mokawloon),Pyramids FC,0,2,Away win,sofascore
+2020/21,25,2021-07-22,Al Ahly,National Bank of Egypt,1,1,Draw,sofascore
+2020/21,24,2021-07-25,El Entag El Harby,Al Ahly,2,3,Away win,sofascore
+2020/21,23,2021-07-26,Pyramids FC,National Bank of Egypt,1,1,Draw,sofascore
+2020/21,17,2021-07-29,Aswan,Al Ahly,1,3,Away win,sofascore
+2020/21,22,2021-08-04,Wadi Degla,Al Ahly,1,2,Away win,sofascore
+2020/21,25,2021-08-04,Pyramids FC,Ismaily,2,2,Draw,sofascore
+2020/21,28,2021-08-07,Zamalek,Ghazl El Mahalla,3,0,Home win,sofascore
+2020/21,29,2021-08-07,Al Ahly,Ceramica Cleopatra,4,0,Home win,sofascore
+2020/21,29,2021-08-08,Aswan,El Entag El Harby,2,2,Draw,sofascore
+2020/21,30,2021-08-08,El Gouna,National Bank of Egypt,1,1,Draw,sofascore
+2020/21,30,2021-08-08,Al Masry,Arab Contractors (Al Mokawloon),3,1,Home win,sofascore
+2020/21,30,2021-08-08,Tala'ea El Gaish,Pyramids FC,1,1,Draw,sofascore
+2020/21,30,2021-08-09,ENPPI,Smouha,0,0,Draw,sofascore
+2020/21,30,2021-08-10,Ghazl El Mahalla,Wadi Degla,2,2,Draw,sofascore
+2020/21,30,2021-08-10,Misr El Makkasa,Ceramica Cleopatra,1,2,Away win,sofascore
+2020/21,30,2021-08-10,Al Ittihad Alexandria,Zamalek,1,2,Away win,sofascore
+2020/21,29,2021-08-11,Al Ahly,Ismaily,1,1,Draw,sofascore
+2020/21,30,2021-08-12,Arab Contractors (Al Mokawloon),El Gouna,2,1,Home win,sofascore
+2020/21,30,2021-08-12,National Bank of Egypt,Aswan,2,2,Draw,sofascore
+2020/21,30,2021-08-12,Pyramids FC,Al Masry,0,1,Away win,sofascore
+2020/21,30,2021-08-13,Smouha,Tala'ea El Gaish,4,2,Home win,sofascore
+2020/21,30,2021-08-13,Wadi Degla,Al Ittihad Alexandria,0,0,Draw,sofascore
+2020/21,30,2021-08-14,Ceramica Cleopatra,Ghazl El Mahalla,1,1,Draw,sofascore
+2020/21,30,2021-08-14,Ismaily,Zamalek,0,2,Away win,sofascore
+2020/21,30,2021-08-14,Al Ahly,ENPPI,2,0,Home win,sofascore
+2020/21,30,2021-08-15,El Entag El Harby,Misr El Makkasa,2,1,Home win,sofascore
+2020/21,31,2021-08-16,Aswan,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2020/21,31,2021-08-16,El Gouna,Pyramids FC,1,2,Away win,sofascore
+2020/21,31,2021-08-16,Al Masry,Smouha,0,1,Away win,sofascore
+2020/21,31,2021-08-17,Al Ittihad Alexandria,Ceramica Cleopatra,0,0,Draw,sofascore
+2020/21,31,2021-08-17,ENPPI,Ismaily,2,1,Home win,sofascore
+2020/21,31,2021-08-17,Tala'ea El Gaish,Al Ahly,0,0,Draw,sofascore
+2020/21,31,2021-08-17,Zamalek,Wadi Degla,1,0,Home win,sofascore
+2020/21,31,2021-08-18,Ghazl El Mahalla,El Entag El Harby,1,3,Away win,sofascore
+2020/21,31,2021-08-18,Misr El Makkasa,National Bank of Egypt,3,5,Away win,sofascore
+2020/21,32,2021-08-19,Pyramids FC,Aswan,2,0,Home win,sofascore
+2020/21,32,2021-08-20,Ismaily,Wadi Degla,0,2,Away win,sofascore
+2020/21,32,2021-08-20,Al Ahly,Al Masry,4,2,Home win,sofascore
+2020/21,32,2021-08-20,Ceramica Cleopatra,Zamalek,1,2,Away win,sofascore
+2020/21,32,2021-08-20,ENPPI,Tala'ea El Gaish,1,1,Draw,sofascore
+2020/21,32,2021-08-21,El Entag El Harby,Al Ittihad Alexandria,1,1,Draw,sofascore
+2020/21,32,2021-08-21,National Bank of Egypt,Ghazl El Mahalla,1,1,Draw,sofascore
+2020/21,32,2021-08-21,Arab Contractors (Al Mokawloon),Misr El Makkasa,3,2,Home win,sofascore
+2020/21,32,2021-08-21,Smouha,El Gouna,3,1,Home win,sofascore
+2020/21,33,2021-08-23,Ismaily,Tala'ea El Gaish,0,0,Draw,sofascore
+2020/21,33,2021-08-23,Al Masry,ENPPI,1,3,Away win,sofascore
+2020/21,33,2021-08-24,Al Ittihad Alexandria,National Bank of Egypt,0,0,Draw,sofascore
+2020/21,33,2021-08-24,Wadi Degla,Ceramica Cleopatra,0,0,Draw,sofascore
+2020/21,33,2021-08-24,El Gouna,Al Ahly,3,3,Draw,sofascore
+2020/21,33,2021-08-24,Zamalek,El Entag El Harby,2,0,Home win,sofascore
+2020/21,33,2021-08-24,Aswan,Smouha,1,3,Away win,sofascore
+2020/21,33,2021-08-25,Ghazl El Mahalla,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2020/21,33,2021-08-25,Misr El Makkasa,Pyramids FC,0,5,Away win,sofascore
+2020/21,34,2021-08-26,Tala'ea El Gaish,Al Masry,0,0,Draw,sofascore
+2020/21,34,2021-08-27,Ceramica Cleopatra,Ismaily,2,3,Away win,sofascore
+2020/21,34,2021-08-27,Al Ahly,Aswan,2,1,Home win,sofascore
+2020/21,34,2021-08-27,National Bank of Egypt,Zamalek,1,1,Draw,sofascore
+2020/21,34,2021-08-28,Pyramids FC,Ghazl El Mahalla,6,0,Home win,sofascore
+2020/21,34,2021-08-28,Smouha,Misr El Makkasa,1,1,Draw,sofascore
+2020/21,34,2021-08-28,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,1,3,Away win,sofascore
+2020/21,34,2021-08-28,El Entag El Harby,Wadi Degla,2,2,Draw,sofascore
+2020/21,34,2021-08-28,ENPPI,El Gouna,2,0,Home win,sofascore
+2021/22,1,2021-10-25,National Bank of Egypt,Tala'ea El Gaish,3,0,Home win,sofascore
+2021/22,1,2021-10-25,Smouha,Al Ittihad Alexandria,4,4,Draw,sofascore
+2021/22,1,2021-10-25,Modern Sport,Pharco,1,0,Home win,sofascore
+2021/22,1,2021-10-26,Arab Contractors (Al Mokawloon),Eastern Company,1,0,Home win,sofascore
+2021/22,1,2021-10-26,El Gouna,Ceramica Cleopatra,1,1,Draw,sofascore
+2021/22,1,2021-10-26,Zamalek,ENPPI,2,0,Home win,sofascore
+2021/22,1,2021-10-27,Pyramids FC,Misr El Makkasa,2,1,Home win,sofascore
+2021/22,1,2021-10-27,Ismaily,Al Ahly,0,4,Away win,sofascore
+2021/22,1,2021-10-28,Ghazl El Mahalla,Al Masry,1,1,Draw,sofascore
+2021/22,2,2021-10-30,Al Ittihad Alexandria,Modern Sport,3,2,Home win,sofascore
+2021/22,2,2021-10-30,ENPPI,Arab Contractors (Al Mokawloon),3,2,Home win,sofascore
+2021/22,2,2021-10-31,Ceramica Cleopatra,Ismaily,2,1,Home win,sofascore
+2021/22,2,2021-10-31,Misr El Makkasa,El Gouna,2,0,Home win,sofascore
+2021/22,2,2021-10-31,Pharco,Pyramids FC,1,2,Away win,sofascore
+2021/22,2,2021-10-31,Tala'ea El Gaish,Zamalek,0,2,Away win,sofascore
+2021/22,2,2021-10-31,Al Ahly,National Bank of Egypt,1,0,Home win,sofascore
+2021/22,2,2021-11-01,Al Masry,Smouha,0,0,Draw,sofascore
+2021/22,2,2021-11-01,Eastern Company,Ghazl El Mahalla,2,3,Away win,sofascore
+2021/22,3,2021-11-04,Misr El Makkasa,Ceramica Cleopatra,0,0,Draw,sofascore
+2021/22,3,2021-11-04,National Bank of Egypt,Ismaily,1,0,Home win,sofascore
+2021/22,3,2021-11-04,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,1,1,Draw,sofascore
+2021/22,3,2021-11-04,El Gouna,Pharco,1,0,Home win,sofascore
+2021/22,3,2021-11-04,Pyramids FC,Al Ittihad Alexandria,3,0,Home win,sofascore
+2021/22,3,2021-11-05,Smouha,Eastern Company,3,0,Home win,sofascore
+2021/22,3,2021-11-05,Ghazl El Mahalla,ENPPI,3,0,Home win,sofascore
+2021/22,3,2021-11-05,Modern Sport,Al Masry,1,1,Draw,sofascore
+2021/22,3,2021-11-05,Zamalek,Al Ahly,3,5,Away win,sofascore
+2021/22,4,2021-11-18,Pharco,Misr El Makkasa,2,0,Home win,sofascore
+2021/22,4,2021-11-18,Eastern Company,Modern Sport,1,4,Away win,sofascore
+2021/22,4,2021-11-18,Al Ittihad Alexandria,El Gouna,1,0,Home win,sofascore
+2021/22,4,2021-11-18,Ceramica Cleopatra,National Bank of Egypt,1,0,Home win,sofascore
+2021/22,4,2021-11-19,Al Masry,Pyramids FC,2,2,Draw,sofascore
+2021/22,4,2021-11-19,Tala'ea El Gaish,Ghazl El Mahalla,0,0,Draw,sofascore
+2021/22,4,2021-11-19,ENPPI,Smouha,1,1,Draw,sofascore
+2021/22,4,2021-11-19,Ismaily,Zamalek,0,2,Away win,sofascore
+2021/22,4,2021-11-19,Al Ahly,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,5,2021-11-21,Pharco,Ceramica Cleopatra,1,0,Home win,sofascore
+2021/22,5,2021-11-21,Misr El Makkasa,Al Ittihad Alexandria,0,0,Draw,sofascore
+2021/22,5,2021-11-22,Pyramids FC,Eastern Company,3,0,Home win,sofascore
+2021/22,5,2021-11-22,Ghazl El Mahalla,Al Ahly,2,3,Away win,sofascore
+2021/22,5,2021-11-22,El Gouna,Al Masry,0,3,Away win,sofascore
+2021/22,5,2021-11-22,Zamalek,National Bank of Egypt,1,1,Draw,sofascore
+2021/22,5,2021-11-23,Arab Contractors (Al Mokawloon),Ismaily,1,1,Draw,sofascore
+2021/22,5,2021-11-23,Modern Sport,ENPPI,1,2,Away win,sofascore
+2021/22,6,2021-11-25,Al Ittihad Alexandria,Pharco,1,2,Away win,sofascore
+2021/22,6,2021-11-25,Al Ahly,Smouha,4,1,Home win,sofascore
+2021/22,6,2021-11-25,Ceramica Cleopatra,Zamalek,0,1,Away win,sofascore
+2021/22,6,2021-11-26,National Bank of Egypt,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2021/22,6,2021-11-26,Ismaily,Ghazl El Mahalla,0,0,Draw,sofascore
+2021/22,6,2021-11-26,Tala'ea El Gaish,Modern Sport,1,0,Home win,sofascore
+2021/22,6,2021-11-27,Eastern Company,El Gouna,0,2,Away win,sofascore
+2021/22,6,2021-12-13,Al Masry,Misr El Makkasa,3,2,Home win,sofascore
+2021/22,7,2021-12-20,Pharco,Al Masry,0,1,Away win,sofascore
+2021/22,7,2021-12-20,El Gouna,ENPPI,1,1,Draw,sofascore
+2021/22,7,2021-12-20,Ghazl El Mahalla,National Bank of Egypt,1,1,Draw,sofascore
+2021/22,7,2021-12-20,Al Ittihad Alexandria,Ceramica Cleopatra,4,4,Draw,sofascore
+2021/22,7,2021-12-20,Misr El Makkasa,Eastern Company,0,0,Draw,sofascore
+2021/22,7,2021-12-21,Smouha,Ismaily,2,1,Home win,sofascore
+2021/22,7,2021-12-21,Pyramids FC,Tala'ea El Gaish,3,0,Home win,sofascore
+2021/22,7,2021-12-21,Arab Contractors (Al Mokawloon),Zamalek,1,2,Away win,sofascore
+2021/22,8,2021-12-24,Ceramica Cleopatra,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2021/22,8,2021-12-24,Eastern Company,Pharco,0,3,Away win,sofascore
+2021/22,8,2021-12-24,Al Masry,Al Ittihad Alexandria,0,1,Away win,sofascore
+2021/22,5,2021-12-25,Smouha,Tala'ea El Gaish,1,0,Home win,sofascore
+2021/22,6,2021-12-25,ENPPI,Pyramids FC,1,1,Draw,sofascore
+2021/22,8,2021-12-25,Zamalek,Ghazl El Mahalla,4,0,Home win,sofascore
+2021/22,7,2021-12-26,Modern Sport,Al Ahly,1,1,Draw,sofascore
+2021/22,8,2022-02-09,ENPPI,Misr El Makkasa,0,0,Draw,sofascore
+2021/22,8,2022-02-09,Tala'ea El Gaish,El Gouna,0,1,Away win,sofascore
+2021/22,8,2022-02-10,National Bank of Egypt,Smouha,1,2,Away win,sofascore
+2021/22,8,2022-02-10,Ismaily,Modern Sport,0,0,Draw,sofascore
+2021/22,9,2022-02-14,Al Ittihad Alexandria,Eastern Company,1,1,Draw,sofascore
+2021/22,9,2022-02-14,Misr El Makkasa,Tala'ea El Gaish,0,0,Draw,sofascore
+2021/22,9,2022-02-15,Ghazl El Mahalla,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2021/22,9,2022-02-15,Smouha,Zamalek,2,0,Home win,sofascore
+2021/22,9,2022-02-16,Pharco,ENPPI,1,0,Home win,sofascore
+2021/22,9,2022-02-16,Pyramids FC,Ismaily,1,0,Home win,sofascore
+2021/22,9,2022-02-16,Modern Sport,National Bank of Egypt,2,0,Home win,sofascore
+2021/22,9,2022-02-17,Al Masry,Ceramica Cleopatra,1,1,Draw,sofascore
+2021/22,10,2022-02-21,Arab Contractors (Al Mokawloon),Smouha,0,0,Draw,sofascore
+2021/22,10,2022-02-21,Tala'ea El Gaish,Pharco,1,0,Home win,sofascore
+2021/22,10,2022-02-22,Ceramica Cleopatra,Ghazl El Mahalla,0,0,Draw,sofascore
+2021/22,10,2022-02-22,ENPPI,Al Ittihad Alexandria,1,0,Home win,sofascore
+2021/22,10,2022-02-22,Al Ahly,Misr El Makkasa,4,0,Home win,sofascore
+2021/22,10,2022-02-23,Eastern Company,Al Masry,2,2,Draw,sofascore
+2021/22,10,2022-02-23,Ismaily,El Gouna,0,1,Away win,sofascore
+2021/22,10,2022-02-24,National Bank of Egypt,Pyramids FC,0,1,Away win,sofascore
+2021/22,11,2022-02-25,Modern Sport,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,11,2022-02-27,Smouha,Ghazl El Mahalla,2,0,Home win,sofascore
+2021/22,11,2022-02-28,Eastern Company,Ceramica Cleopatra,1,0,Home win,sofascore
+2021/22,11,2022-02-28,Al Ittihad Alexandria,Tala'ea El Gaish,1,1,Draw,sofascore
+2021/22,11,2022-03-01,El Gouna,National Bank of Egypt,1,2,Away win,sofascore
+2021/22,11,2022-03-01,Misr El Makkasa,Ismaily,2,2,Draw,sofascore
+2021/22,11,2022-03-01,Pharco,Al Ahly,1,4,Away win,sofascore
+2021/22,10,2022-03-02,Zamalek,Modern Sport,3,2,Home win,sofascore
+2021/22,11,2022-03-03,Al Masry,ENPPI,2,2,Draw,sofascore
+2021/22,12,2022-03-04,Arab Contractors (Al Mokawloon),Pyramids FC,0,2,Away win,sofascore
+2021/22,12,2022-03-07,National Bank of Egypt,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,12,2022-03-07,Ismaily,Pharco,0,0,Draw,sofascore
+2021/22,12,2022-03-07,Zamalek,El Gouna,2,1,Home win,sofascore
+2021/22,8,2022-03-08,Al Ahly,Pyramids FC,3,0,Home win,sofascore
+2021/22,12,2022-03-08,ENPPI,Eastern Company,1,2,Away win,sofascore
+2021/22,12,2022-03-08,Ceramica Cleopatra,Smouha,1,1,Draw,sofascore
+2021/22,12,2022-03-09,Ghazl El Mahalla,Modern Sport,0,0,Draw,sofascore
+2021/22,12,2022-03-09,Tala'ea El Gaish,Al Masry,1,0,Home win,sofascore
+2021/22,13,2022-03-15,Modern Sport,Smouha,4,0,Home win,sofascore
+2021/22,13,2022-03-16,El Gouna,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2021/22,13,2022-03-16,Al Ittihad Alexandria,Ismaily,1,2,Away win,sofascore
+2021/22,13,2022-03-16,ENPPI,Ceramica Cleopatra,0,0,Draw,sofascore
+2021/22,13,2022-03-17,Pharco,National Bank of Egypt,2,2,Draw,sofascore
+2021/22,13,2022-03-17,Eastern Company,Tala'ea El Gaish,0,0,Draw,sofascore
+2021/22,11,2022-04-06,Pyramids FC,Zamalek,2,3,Away win,sofascore
+2021/22,12,2022-04-06,Al Ahly,Al Ittihad Alexandria,1,0,Home win,sofascore
+2021/22,13,2022-04-09,Al Masry,Al Ahly,1,0,Home win,sofascore
+2021/22,13,2022-04-09,Misr El Makkasa,Zamalek,0,1,Away win,sofascore
+2021/22,13,2022-04-09,Pyramids FC,Ghazl El Mahalla,1,0,Home win,sofascore
+2021/22,14,2022-04-12,Zamalek,Pharco,0,0,Draw,sofascore
+2021/22,14,2022-04-14,Arab Contractors (Al Mokawloon),Misr El Makkasa,1,1,Draw,sofascore
+2021/22,14,2022-04-14,National Bank of Egypt,Al Ittihad Alexandria,1,1,Draw,sofascore
+2021/22,14,2022-04-14,Tala'ea El Gaish,ENPPI,1,1,Draw,sofascore
+2021/22,14,2022-04-15,Ceramica Cleopatra,Modern Sport,0,3,Away win,sofascore
+2021/22,14,2022-04-15,Ghazl El Mahalla,El Gouna,2,1,Home win,sofascore
+2021/22,15,2022-04-18,Eastern Company,Ismaily,0,2,Away win,sofascore
+2021/22,15,2022-04-18,Misr El Makkasa,Ghazl El Mahalla,0,1,Away win,sofascore
+2021/22,15,2022-04-18,Pharco,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,15,2022-04-19,Al Ittihad Alexandria,Zamalek,0,2,Away win,sofascore
+2021/22,15,2022-04-19,Tala'ea El Gaish,Ceramica Cleopatra,1,0,Home win,sofascore
+2021/22,15,2022-04-20,El Gouna,Smouha,1,0,Home win,sofascore
+2021/22,16,2022-04-25,Ghazl El Mahalla,Pharco,1,1,Draw,sofascore
+2021/22,16,2022-04-25,Modern Sport,El Gouna,3,2,Home win,sofascore
+2021/22,16,2022-04-25,Smouha,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,16,2022-04-26,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,1,1,Draw,sofascore
+2021/22,16,2022-04-26,Ismaily,ENPPI,0,2,Away win,sofascore
+2021/22,16,2022-04-26,National Bank of Egypt,Eastern Company,2,1,Home win,sofascore
+2021/22,16,2022-04-27,Al Ahly,Tala'ea El Gaish,0,0,Draw,sofascore
+2021/22,16,2022-04-27,Pyramids FC,Ceramica Cleopatra,0,1,Away win,sofascore
+2021/22,16,2022-04-28,Zamalek,Al Masry,2,1,Home win,sofascore
+2021/22,17,2022-04-29,ENPPI,National Bank of Egypt,2,2,Draw,sofascore
+2021/22,17,2022-04-29,Misr El Makkasa,Modern Sport,0,3,Away win,sofascore
+2021/22,17,2022-04-29,Pharco,Smouha,0,0,Draw,sofascore
+2021/22,17,2022-04-30,Al Ittihad Alexandria,Ghazl El Mahalla,3,0,Home win,sofascore
+2021/22,17,2022-04-30,Ceramica Cleopatra,Al Ahly,1,1,Draw,sofascore
+2021/22,17,2022-04-30,Tala'ea El Gaish,Ismaily,1,0,Home win,sofascore
+2021/22,17,2022-05-01,Al Masry,Arab Contractors (Al Mokawloon),0,2,Away win,sofascore
+2021/22,17,2022-05-01,Eastern Company,Zamalek,1,2,Away win,sofascore
+2021/22,17,2022-05-01,El Gouna,Pyramids FC,1,2,Away win,sofascore
+2021/22,14,2022-05-06,Ismaily,Al Masry,3,2,Home win,sofascore
+2021/22,14,2022-05-06,Smouha,Pyramids FC,0,2,Away win,sofascore
+2021/22,18,2022-05-09,Eastern Company,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2021/22,18,2022-05-09,Pharco,Modern Sport,1,0,Home win,sofascore
+2021/22,18,2022-05-09,Tala'ea El Gaish,National Bank of Egypt,1,1,Draw,sofascore
+2021/22,18,2022-05-10,Ceramica Cleopatra,El Gouna,3,2,Home win,sofascore
+2021/22,18,2022-05-10,Zamalek,ENPPI,0,2,Away win,sofascore
+2021/22,18,2022-05-11,Al Masry,Ghazl El Mahalla,1,1,Draw,sofascore
+2021/22,18,2022-05-11,Al Ittihad Alexandria,Smouha,2,5,Away win,sofascore
+2021/22,18,2022-05-11,Misr El Makkasa,Pyramids FC,0,2,Away win,sofascore
+2021/22,19,2022-05-15,Ismaily,Ceramica Cleopatra,2,0,Home win,sofascore
+2021/22,19,2022-05-15,Arab Contractors (Al Mokawloon),ENPPI,2,2,Draw,sofascore
+2021/22,19,2022-05-15,Pyramids FC,Pharco,0,0,Draw,sofascore
+2021/22,19,2022-05-16,Ghazl El Mahalla,Eastern Company,1,0,Home win,sofascore
+2021/22,19,2022-05-16,Smouha,Al Masry,2,1,Home win,sofascore
+2021/22,19,2022-05-17,El Gouna,Misr El Makkasa,0,1,Away win,sofascore
+2021/22,19,2022-05-17,Modern Sport,Al Ittihad Alexandria,4,3,Home win,sofascore
+2021/22,19,2022-05-17,Zamalek,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,19,2022-05-18,National Bank of Egypt,Al Ahly,0,0,Draw,sofascore
+2021/22,15,2022-05-21,ENPPI,Al Ahly,1,2,Away win,sofascore
+2021/22,20,2022-05-21,Eastern Company,Smouha,2,2,Draw,sofascore
+2021/22,20,2022-05-21,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,20,2022-05-22,Ceramica Cleopatra,Misr El Makkasa,4,1,Home win,sofascore
+2021/22,20,2022-05-22,Ismaily,National Bank of Egypt,2,2,Draw,sofascore
+2021/22,20,2022-05-22,Al Masry,Modern Sport,0,1,Away win,sofascore
+2021/22,20,2022-05-22,Al Ittihad Alexandria,Pyramids FC,1,0,Home win,sofascore
+2021/22,20,2022-05-23,Pharco,El Gouna,0,0,Draw,sofascore
+2021/22,20,2022-05-24,ENPPI,Ghazl El Mahalla,2,2,Draw,sofascore
+2021/22,15,2022-05-26,Al Masry,National Bank of Egypt,1,3,Away win,sofascore
+2021/22,15,2022-05-26,Pyramids FC,Modern Sport,0,0,Draw,sofascore
+2021/22,21,2022-05-27,El Gouna,Al Ittihad Alexandria,1,0,Home win,sofascore
+2021/22,21,2022-05-27,Misr El Makkasa,Pharco,0,0,Draw,sofascore
+2021/22,21,2022-05-28,Ghazl El Mahalla,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,21,2022-05-28,Smouha,ENPPI,1,1,Draw,sofascore
+2021/22,21,2022-05-28,Zamalek,Ismaily,2,1,Home win,sofascore
+2021/22,21,2022-05-29,Modern Sport,Eastern Company,1,1,Draw,sofascore
+2021/22,21,2022-05-29,Pyramids FC,Al Masry,3,1,Home win,sofascore
+2021/22,21,2022-05-30,National Bank of Egypt,Ceramica Cleopatra,0,0,Draw,sofascore
+2021/22,14,2022-06-15,Al Ahly,Eastern Company,4,1,Home win,sofascore
+2021/22,22,2022-06-17,Ceramica Cleopatra,Pharco,1,1,Draw,sofascore
+2021/22,22,2022-06-17,Ismaily,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2021/22,22,2022-06-17,Tala'ea El Gaish,Smouha,3,3,Draw,sofascore
+2021/22,22,2022-06-18,Al Masry,El Gouna,1,0,Home win,sofascore
+2021/22,22,2022-06-18,ENPPI,Modern Sport,1,2,Away win,sofascore
+2021/22,22,2022-06-18,Al Ittihad Alexandria,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,20,2022-06-19,Al Ahly,Zamalek,2,2,Draw,sofascore
+2021/22,22,2022-06-22,Eastern Company,Pyramids FC,0,3,Away win,sofascore
+2021/22,22,2022-06-22,National Bank of Egypt,Zamalek,1,2,Away win,sofascore
+2021/22,22,2022-06-22,Al Ahly,Ghazl El Mahalla,2,1,Home win,sofascore
+2021/22,23,2022-06-26,Misr El Makkasa,Al Masry,0,2,Away win,sofascore
+2021/22,23,2022-06-27,El Gouna,Eastern Company,2,3,Away win,sofascore
+2021/22,23,2022-06-27,Pharco,Al Ittihad Alexandria,0,1,Away win,sofascore
+2021/22,23,2022-06-27,Modern Sport,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,23,2022-06-28,Arab Contractors (Al Mokawloon),National Bank of Egypt,1,1,Draw,sofascore
+2021/22,23,2022-06-28,Ghazl El Mahalla,Ismaily,0,0,Draw,sofascore
+2021/22,23,2022-06-28,Zamalek,Ceramica Cleopatra,3,2,Home win,sofascore
+2021/22,23,2022-06-29,Pyramids FC,ENPPI,1,0,Home win,sofascore
+2021/22,23,2022-06-29,Smouha,Al Ahly,3,2,Home win,sofascore
+2021/22,9,2022-07-05,El Gouna,Al Ahly,0,0,Draw,sofascore
+2021/22,24,2022-07-12,National Bank of Egypt,Ghazl El Mahalla,2,1,Home win,sofascore
+2021/22,24,2022-07-12,Tala'ea El Gaish,Pyramids FC,2,2,Draw,sofascore
+2021/22,24,2022-07-12,Zamalek,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,24,2022-07-12,Al Ahly,Modern Sport,4,0,Home win,sofascore
+2021/22,24,2022-07-13,Al Masry,Pharco,0,0,Draw,sofascore
+2021/22,24,2022-07-13,Ismaily,Smouha,1,0,Home win,sofascore
+2021/22,24,2022-07-13,ENPPI,El Gouna,2,2,Draw,sofascore
+2021/22,24,2022-07-14,Eastern Company,Misr El Makkasa,2,1,Home win,sofascore
+2021/22,24,2022-07-14,Ceramica Cleopatra,Al Ittihad Alexandria,5,0,Home win,sofascore
+2021/22,25,2022-07-16,Ghazl El Mahalla,Zamalek,0,2,Away win,sofascore
+2021/22,25,2022-07-16,Modern Sport,Ismaily,1,2,Away win,sofascore
+2021/22,25,2022-07-16,Pyramids FC,Al Ahly,2,0,Home win,sofascore
+2021/22,25,2022-07-17,El Gouna,Tala'ea El Gaish,2,1,Home win,sofascore
+2021/22,25,2022-07-17,Smouha,National Bank of Egypt,0,1,Away win,sofascore
+2021/22,25,2022-07-17,Arab Contractors (Al Mokawloon),Ceramica Cleopatra,0,1,Away win,sofascore
+2021/22,25,2022-07-18,Pharco,Eastern Company,1,1,Draw,sofascore
+2021/22,25,2022-07-18,Al Ittihad Alexandria,Al Masry,0,0,Draw,sofascore
+2021/22,25,2022-07-18,Misr El Makkasa,ENPPI,0,2,Away win,sofascore
+2021/22,26,2022-07-21,Eastern Company,Al Ittihad Alexandria,2,2,Draw,sofascore
+2021/22,26,2022-07-22,Arab Contractors (Al Mokawloon),Ghazl El Mahalla,1,0,Home win,sofascore
+2021/22,26,2022-07-22,Ceramica Cleopatra,Al Masry,1,4,Away win,sofascore
+2021/22,26,2022-07-22,ENPPI,Pharco,0,1,Away win,sofascore
+2021/22,26,2022-07-23,Tala'ea El Gaish,Misr El Makkasa,0,0,Draw,sofascore
+2021/22,26,2022-07-23,National Bank of Egypt,Modern Sport,1,4,Away win,sofascore
+2021/22,26,2022-07-24,Al Ahly,El Gouna,2,0,Home win,sofascore
+2021/22,26,2022-07-24,Ismaily,Pyramids FC,0,4,Away win,sofascore
+2021/22,26,2022-07-24,Zamalek,Smouha,2,0,Home win,sofascore
+2021/22,27,2022-07-26,Al Masry,Eastern Company,1,2,Away win,sofascore
+2021/22,27,2022-07-26,Ghazl El Mahalla,Ceramica Cleopatra,0,0,Draw,sofascore
+2021/22,27,2022-07-26,Al Ittihad Alexandria,ENPPI,2,1,Home win,sofascore
+2021/22,27,2022-07-27,Pyramids FC,National Bank of Egypt,1,0,Home win,sofascore
+2021/22,27,2022-07-27,Smouha,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2021/22,27,2022-07-27,Misr El Makkasa,Al Ahly,0,1,Away win,sofascore
+2021/22,27,2022-07-28,El Gouna,Ismaily,0,3,Away win,sofascore
+2021/22,27,2022-07-28,Pharco,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,27,2022-07-28,Modern Sport,Zamalek,0,1,Away win,sofascore
+2021/22,21,2022-07-30,Arab Contractors (Al Mokawloon),Al Ahly,0,0,Draw,sofascore
+2021/22,28,2022-07-30,ENPPI,Al Masry,1,1,Draw,sofascore
+2021/22,28,2022-07-31,Ceramica Cleopatra,Eastern Company,0,1,Away win,sofascore
+2021/22,28,2022-07-31,Ghazl El Mahalla,Smouha,1,0,Home win,sofascore
+2021/22,28,2022-07-31,Tala'ea El Gaish,Al Ittihad Alexandria,2,1,Home win,sofascore
+2021/22,28,2022-08-01,Ismaily,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,28,2022-08-01,National Bank of Egypt,El Gouna,1,1,Draw,sofascore
+2021/22,28,2022-08-01,Zamalek,Pyramids FC,3,0,Home win,sofascore
+2021/22,28,2022-08-02,Arab Contractors (Al Mokawloon),Modern Sport,0,1,Away win,sofascore
+2021/22,28,2022-08-03,Al Ahly,Pharco,0,0,Draw,sofascore
+2021/22,29,2022-08-04,Eastern Company,ENPPI,0,2,Away win,sofascore
+2021/22,29,2022-08-04,Smouha,Ceramica Cleopatra,1,1,Draw,sofascore
+2021/22,29,2022-08-04,Al Masry,Tala'ea El Gaish,0,0,Draw,sofascore
+2021/22,29,2022-08-05,Misr El Makkasa,National Bank of Egypt,1,2,Away win,sofascore
+2021/22,29,2022-08-05,El Gouna,Zamalek,1,4,Away win,sofascore
+2021/22,29,2022-08-06,Modern Sport,Ghazl El Mahalla,2,1,Home win,sofascore
+2021/22,29,2022-08-06,Pharco,Ismaily,0,0,Draw,sofascore
+2021/22,29,2022-08-06,Pyramids FC,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2021/22,29,2022-08-07,Al Ittihad Alexandria,Al Ahly,0,3,Away win,sofascore
+2021/22,30,2022-08-08,Ceramica Cleopatra,ENPPI,0,0,Draw,sofascore
+2021/22,30,2022-08-08,Tala'ea El Gaish,Eastern Company,1,1,Draw,sofascore
+2021/22,30,2022-08-09,Ghazl El Mahalla,Pyramids FC,0,2,Away win,sofascore
+2021/22,30,2022-08-09,National Bank of Egypt,Pharco,0,1,Away win,sofascore
+2021/22,30,2022-08-09,Zamalek,Misr El Makkasa,5,0,Home win,sofascore
+2021/22,30,2022-08-10,Arab Contractors (Al Mokawloon),El Gouna,0,0,Draw,sofascore
+2021/22,30,2022-08-10,Smouha,Modern Sport,1,1,Draw,sofascore
+2021/22,30,2022-08-10,Al Ahly,Al Masry,2,0,Home win,sofascore
+2021/22,30,2022-08-11,Ismaily,Al Ittihad Alexandria,1,0,Home win,sofascore
+2021/22,31,2022-08-17,ENPPI,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,31,2022-08-17,Eastern Company,Al Ahly,0,0,Draw,sofascore
+2021/22,31,2022-08-18,Al Masry,Ismaily,4,1,Home win,sofascore
+2021/22,31,2022-08-18,El Gouna,Ghazl El Mahalla,0,0,Draw,sofascore
+2021/22,31,2022-08-18,Modern Sport,Ceramica Cleopatra,1,1,Draw,sofascore
+2021/22,31,2022-08-19,Misr El Makkasa,Arab Contractors (Al Mokawloon),0,3,Away win,sofascore
+2021/22,31,2022-08-19,Pharco,Zamalek,0,1,Away win,sofascore
+2021/22,31,2022-08-19,Pyramids FC,Smouha,5,1,Home win,sofascore
+2021/22,31,2022-08-20,Al Ittihad Alexandria,National Bank of Egypt,3,0,Home win,sofascore
+2021/22,18,2022-08-21,Al Ahly,Ismaily,0,0,Draw,sofascore
+2021/22,32,2022-08-22,Ceramica Cleopatra,Tala'ea El Gaish,1,1,Draw,sofascore
+2021/22,32,2022-08-22,Ghazl El Mahalla,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,32,2022-08-22,Modern Sport,Pyramids FC,1,0,Home win,sofascore
+2021/22,32,2022-08-23,Arab Contractors (Al Mokawloon),Pharco,2,0,Home win,sofascore
+2021/22,32,2022-08-23,Smouha,El Gouna,2,2,Draw,sofascore
+2021/22,32,2022-08-23,National Bank of Egypt,Al Masry,2,2,Draw,sofascore
+2021/22,32,2022-08-23,Zamalek,Al Ittihad Alexandria,1,1,Draw,sofascore
+2021/22,32,2022-08-24,Ismaily,Eastern Company,1,1,Draw,sofascore
+2021/22,32,2022-08-24,Al Ahly,ENPPI,2,0,Home win,sofascore
+2021/22,33,2022-08-26,Misr El Makkasa,Smouha,0,2,Away win,sofascore
+2021/22,33,2022-08-26,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2021/22,33,2022-08-26,El Gouna,Modern Sport,2,1,Home win,sofascore
+2021/22,33,2022-08-26,Al Masry,Zamalek,0,0,Draw,sofascore
+2021/22,33,2022-08-26,Ceramica Cleopatra,Pyramids FC,0,2,Away win,sofascore
+2021/22,33,2022-08-27,ENPPI,Ismaily,2,0,Home win,sofascore
+2021/22,33,2022-08-27,Pharco,Ghazl El Mahalla,1,1,Draw,sofascore
+2021/22,33,2022-08-27,Eastern Company,National Bank of Egypt,2,3,Away win,sofascore
+2021/22,33,2022-08-27,Tala'ea El Gaish,Al Ahly,1,0,Home win,sofascore
+2021/22,34,2022-08-29,Modern Sport,Misr El Makkasa,1,0,Home win,sofascore
+2021/22,34,2022-08-30,Al Ahly,Ceramica Cleopatra,4,0,Home win,sofascore
+2021/22,34,2022-08-30,National Bank of Egypt,ENPPI,1,1,Draw,sofascore
+2021/22,34,2022-08-30,Smouha,Pharco,0,0,Draw,sofascore
+2021/22,34,2022-08-30,Ismaily,Tala'ea El Gaish,0,1,Away win,sofascore
+2021/22,34,2022-08-30,Arab Contractors (Al Mokawloon),Al Masry,2,1,Home win,sofascore
+2021/22,34,2022-08-30,Ghazl El Mahalla,Al Ittihad Alexandria,1,1,Draw,sofascore
+2021/22,34,2022-08-30,Pyramids FC,El Gouna,1,3,Away win,sofascore
+2021/22,34,2022-08-30,Zamalek,Eastern Company,1,2,Away win,sofascore
+2022/23,1,2022-10-18,Aswan,Al Ittihad Alexandria,0,1,Away win,sofascore
+2022/23,1,2022-10-18,National Bank of Egypt,Pharco,1,1,Draw,sofascore
+2022/23,1,2022-10-18,Al Masry,Ceramica Cleopatra,0,3,Away win,sofascore
+2022/23,1,2022-10-19,ENPPI,Pyramids FC,1,1,Draw,sofascore
+2022/23,1,2022-10-19,Ismaily,Al Ahly,0,1,Away win,sofascore
+2022/23,1,2022-10-19,Zamalek,Smouha,2,0,Home win,sofascore
+2022/23,1,2022-10-20,Arab Contractors (Al Mokawloon),Ghazl El Mahalla,1,1,Draw,sofascore
+2022/23,1,2022-10-20,Haras El Hodoud,Modern Sport,0,2,Away win,sofascore
+2022/23,1,2022-10-20,El Dakhleya,Tala'ea El Gaish,0,0,Draw,sofascore
+2022/23,2,2022-10-23,Pyramids FC,Al Masry,0,0,Draw,sofascore
+2022/23,2,2022-10-23,Ceramica Cleopatra,Zamalek,0,2,Away win,sofascore
+2022/23,2,2022-10-23,Al Ahly,Aswan,1,0,Home win,sofascore
+2022/23,2,2022-10-24,Ghazl El Mahalla,Ismaily,2,1,Home win,sofascore
+2022/23,2,2022-10-24,Al Ittihad Alexandria,El Dakhleya,2,0,Home win,sofascore
+2022/23,2,2022-10-24,Modern Sport,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2022/23,2,2022-10-25,Smouha,National Bank of Egypt,1,1,Draw,sofascore
+2022/23,2,2022-10-25,Tala'ea El Gaish,ENPPI,2,1,Home win,sofascore
+2022/23,2,2022-10-26,Pharco,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,3,2022-10-29,Aswan,Ghazl El Mahalla,0,1,Away win,sofascore
+2022/23,3,2022-10-29,Al Masry,ENPPI,2,0,Home win,sofascore
+2022/23,3,2022-10-31,Al Ittihad Alexandria,Tala'ea El Gaish,3,1,Home win,sofascore
+2022/23,3,2022-10-31,Arab Contractors (Al Mokawloon),Pharco,0,0,Draw,sofascore
+2022/23,3,2022-11-01,Haras El Hodoud,Smouha,0,0,Draw,sofascore
+2022/23,3,2022-11-01,National Bank of Egypt,Ceramica Cleopatra,3,1,Home win,sofascore
+2022/23,3,2022-11-02,El Dakhleya,Al Ahly,1,4,Away win,sofascore
+2022/23,4,2022-11-02,ENPPI,Zamalek,1,1,Draw,sofascore
+2022/23,4,2022-11-23,Modern Sport,Aswan,2,1,Home win,sofascore
+2022/23,4,2022-11-23,Pharco,Ismaily,1,1,Draw,sofascore
+2022/23,4,2022-11-23,Pyramids FC,National Bank of Egypt,2,0,Home win,sofascore
+2022/23,5,2022-11-30,Haras El Hodoud,Pyramids FC,0,1,Away win,sofascore
+2022/23,5,2022-11-30,National Bank of Egypt,ENPPI,2,3,Away win,sofascore
+2022/23,5,2022-11-30,Al Ittihad Alexandria,Ghazl El Mahalla,0,2,Away win,sofascore
+2022/23,5,2022-12-01,Aswan,Pharco,1,0,Home win,sofascore
+2022/23,5,2022-12-01,El Dakhleya,Modern Sport,0,1,Away win,sofascore
+2022/23,5,2022-12-01,Zamalek,Al Masry,2,2,Draw,sofascore
+2022/23,5,2022-12-02,Arab Contractors (Al Mokawloon),Ceramica Cleopatra,2,1,Home win,sofascore
+2022/23,5,2022-12-02,Ismaily,Smouha,0,1,Away win,sofascore
+2022/23,5,2022-12-02,Al Ahly,Tala'ea El Gaish,2,1,Home win,sofascore
+2022/23,6,2022-12-06,Al Masry,National Bank of Egypt,0,0,Draw,sofascore
+2022/23,6,2022-12-07,Pharco,El Dakhleya,1,1,Draw,sofascore
+2022/23,6,2022-12-07,Pyramids FC,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2022/23,6,2022-12-07,Ghazl El Mahalla,Al Ahly,0,2,Away win,sofascore
+2022/23,6,2022-12-07,Tala'ea El Gaish,Zamalek,0,4,Away win,sofascore
+2022/23,6,2022-12-08,ENPPI,Haras El Hodoud,0,0,Draw,sofascore
+2022/23,6,2022-12-08,Smouha,Aswan,1,2,Away win,sofascore
+2022/23,6,2022-12-08,Modern Sport,Al Ittihad Alexandria,1,0,Home win,sofascore
+2022/23,6,2022-12-08,Ceramica Cleopatra,Ismaily,1,1,Draw,sofascore
+2022/23,3,2022-12-11,Zamalek,Pyramids FC,1,0,Home win,sofascore
+2022/23,4,2022-12-11,Ghazl El Mahalla,El Dakhleya,2,1,Home win,sofascore
+2022/23,4,2022-12-11,Smouha,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2022/23,4,2022-12-11,Tala'ea El Gaish,Al Masry,3,1,Home win,sofascore
+2022/23,3,2022-12-12,Ismaily,Modern Sport,0,0,Draw,sofascore
+2022/23,4,2022-12-12,Ceramica Cleopatra,Haras El Hodoud,2,1,Home win,sofascore
+2022/23,4,2022-12-12,Al Ahly,Al Ittihad Alexandria,3,0,Home win,sofascore
+2022/23,7,2022-12-14,Ghazl El Mahalla,Tala'ea El Gaish,3,2,Home win,sofascore
+2022/23,7,2022-12-15,Ceramica Cleopatra,Aswan,3,2,Home win,sofascore
+2022/23,7,2022-12-15,Al Ittihad Alexandria,Pharco,1,0,Home win,sofascore
+2022/23,7,2022-12-15,El Dakhleya,Smouha,0,0,Draw,sofascore
+2022/23,7,2022-12-15,Arab Contractors (Al Mokawloon),ENPPI,3,2,Home win,sofascore
+2022/23,7,2022-12-16,Haras El Hodoud,Al Masry,0,0,Draw,sofascore
+2022/23,7,2022-12-16,Ismaily,Pyramids FC,1,2,Away win,sofascore
+2022/23,7,2022-12-16,National Bank of Egypt,Zamalek,0,1,Away win,sofascore
+2022/23,7,2022-12-16,Al Ahly,Modern Sport,1,1,Draw,sofascore
+2022/23,8,2022-12-19,Ceramica Cleopatra,El Dakhleya,0,0,Draw,sofascore
+2022/23,8,2022-12-19,Modern Sport,Ghazl El Mahalla,1,0,Home win,sofascore
+2022/23,8,2022-12-19,Smouha,Al Ittihad Alexandria,0,2,Away win,sofascore
+2022/23,8,2022-12-19,Pyramids FC,Aswan,2,1,Home win,sofascore
+2022/23,8,2022-12-20,ENPPI,Ismaily,1,2,Away win,sofascore
+2022/23,8,2022-12-20,Pharco,Al Ahly,1,2,Away win,sofascore
+2022/23,8,2022-12-20,Tala'ea El Gaish,National Bank of Egypt,1,0,Home win,sofascore
+2022/23,8,2022-12-20,Zamalek,Haras El Hodoud,4,0,Home win,sofascore
+2022/23,8,2022-12-21,Al Masry,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2022/23,9,2022-12-23,Al Ittihad Alexandria,Ceramica Cleopatra,1,0,Home win,sofascore
+2022/23,9,2022-12-23,El Dakhleya,Pyramids FC,2,1,Home win,sofascore
+2022/23,9,2022-12-24,Aswan,ENPPI,2,0,Home win,sofascore
+2022/23,9,2022-12-24,Haras El Hodoud,National Bank of Egypt,2,1,Home win,sofascore
+2022/23,9,2022-12-24,Ghazl El Mahalla,Pharco,0,0,Draw,sofascore
+2022/23,9,2022-12-24,Modern Sport,Tala'ea El Gaish,0,0,Draw,sofascore
+2022/23,9,2022-12-25,Ismaily,Al Masry,0,1,Away win,sofascore
+2022/23,9,2022-12-25,Arab Contractors (Al Mokawloon),Zamalek,0,0,Draw,sofascore
+2022/23,9,2022-12-25,Al Ahly,Smouha,0,0,Draw,sofascore
+2022/23,10,2022-12-27,Pyramids FC,Al Ittihad Alexandria,3,0,Home win,sofascore
+2022/23,10,2022-12-28,ENPPI,El Dakhleya,0,0,Draw,sofascore
+2022/23,10,2022-12-28,Pharco,Modern Sport,2,3,Away win,sofascore
+2022/23,10,2022-12-28,Tala'ea El Gaish,Haras El Hodoud,2,2,Draw,sofascore
+2022/23,10,2022-12-28,Ceramica Cleopatra,Al Ahly,1,1,Draw,sofascore
+2022/23,10,2022-12-29,Al Masry,Aswan,1,2,Away win,sofascore
+2022/23,10,2022-12-29,Zamalek,Ismaily,3,1,Home win,sofascore
+2022/23,10,2022-12-30,Smouha,Ghazl El Mahalla,0,0,Draw,sofascore
+2022/23,10,2022-12-30,National Bank of Egypt,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2022/23,11,2023-01-02,Aswan,Zamalek,2,1,Home win,sofascore
+2022/23,11,2023-01-02,El Dakhleya,Al Masry,0,1,Away win,sofascore
+2022/23,11,2023-01-02,Al Ittihad Alexandria,ENPPI,1,2,Away win,sofascore
+2022/23,11,2023-01-02,Al Ahly,Pyramids FC,3,0,Home win,sofascore
+2022/23,11,2023-01-03,Arab Contractors (Al Mokawloon),Haras El Hodoud,3,2,Home win,sofascore
+2022/23,11,2023-01-03,Ghazl El Mahalla,Ceramica Cleopatra,0,3,Away win,sofascore
+2022/23,11,2023-01-03,Ismaily,National Bank of Egypt,0,0,Draw,sofascore
+2022/23,11,2023-01-03,Modern Sport,Smouha,1,1,Draw,sofascore
+2022/23,11,2023-01-04,Pharco,Tala'ea El Gaish,1,1,Draw,sofascore
+2022/23,12,2023-01-05,ENPPI,Al Ahly,0,2,Away win,sofascore
+2022/23,12,2023-01-05,Zamalek,El Dakhleya,1,1,Draw,sofascore
+2022/23,12,2023-01-07,Pyramids FC,Ghazl El Mahalla,4,0,Home win,sofascore
+2022/23,12,2023-01-07,Al Masry,Al Ittihad Alexandria,2,1,Home win,sofascore
+2022/23,12,2023-01-07,Ceramica Cleopatra,Modern Sport,2,3,Away win,sofascore
+2022/23,12,2023-01-08,Haras El Hodoud,Ismaily,2,0,Home win,sofascore
+2022/23,12,2023-01-08,National Bank of Egypt,Aswan,0,0,Draw,sofascore
+2022/23,12,2023-01-08,Smouha,Pharco,0,2,Away win,sofascore
+2022/23,12,2023-01-08,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2022/23,13,2023-01-11,El Dakhleya,National Bank of Egypt,3,3,Draw,sofascore
+2022/23,13,2023-01-11,Smouha,Tala'ea El Gaish,2,1,Home win,sofascore
+2022/23,13,2023-01-11,Al Ittihad Alexandria,Zamalek,0,0,Draw,sofascore
+2022/23,13,2023-01-11,Modern Sport,Pyramids FC,1,1,Draw,sofascore
+2022/23,13,2023-01-12,Ghazl El Mahalla,ENPPI,1,0,Home win,sofascore
+2022/23,13,2023-01-12,Al Ahly,Al Masry,0,0,Draw,sofascore
+2022/23,13,2023-01-13,Aswan,Haras El Hodoud,1,1,Draw,sofascore
+2022/23,13,2023-01-13,Pharco,Ceramica Cleopatra,1,1,Draw,sofascore
+2022/23,13,2023-01-13,Ismaily,Arab Contractors (Al Mokawloon),1,3,Away win,sofascore
+2022/23,14,2023-01-18,Haras El Hodoud,El Dakhleya,0,1,Away win,sofascore
+2022/23,14,2023-01-18,Tala'ea El Gaish,Ismaily,1,1,Draw,sofascore
+2022/23,14,2023-01-18,ENPPI,Modern Sport,2,3,Away win,sofascore
+2022/23,14,2023-01-19,Arab Contractors (Al Mokawloon),Aswan,1,0,Home win,sofascore
+2022/23,14,2023-01-19,National Bank of Egypt,Al Ittihad Alexandria,2,3,Away win,sofascore
+2022/23,14,2023-01-19,Pyramids FC,Pharco,3,0,Home win,sofascore
+2022/23,14,2023-01-20,Al Masry,Ghazl El Mahalla,1,1,Draw,sofascore
+2022/23,14,2023-01-20,Ceramica Cleopatra,Smouha,0,2,Away win,sofascore
+2022/23,14,2023-01-21,Zamalek,Al Ahly,0,3,Away win,sofascore
+2022/23,15,2023-01-22,El Dakhleya,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2022/23,15,2023-01-23,Aswan,Ismaily,0,0,Draw,sofascore
+2022/23,15,2023-01-23,Pharco,ENPPI,0,1,Away win,sofascore
+2022/23,15,2023-01-23,Al Ittihad Alexandria,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,15,2023-01-23,Ceramica Cleopatra,Tala'ea El Gaish,0,0,Draw,sofascore
+2022/23,15,2023-01-24,Modern Sport,Al Masry,1,1,Draw,sofascore
+2022/23,15,2023-01-24,Ghazl El Mahalla,Zamalek,2,1,Home win,sofascore
+2022/23,15,2023-01-24,Al Ahly,National Bank of Egypt,1,0,Home win,sofascore
+2022/23,15,2023-01-24,Smouha,Pyramids FC,1,2,Away win,sofascore
+2022/23,16,2023-01-27,Aswan,Tala'ea El Gaish,2,2,Draw,sofascore
+2022/23,16,2023-01-27,Ismaily,El Dakhleya,3,1,Home win,sofascore
+2022/23,16,2023-01-27,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,0,0,Draw,sofascore
+2022/23,16,2023-01-28,Al Masry,Pharco,1,2,Away win,sofascore
+2022/23,16,2023-01-29,ENPPI,Smouha,0,2,Away win,sofascore
+2022/23,16,2023-01-29,Pyramids FC,Ceramica Cleopatra,2,2,Draw,sofascore
+2022/23,16,2023-01-29,Zamalek,Modern Sport,2,1,Home win,sofascore
+2022/23,16,2023-01-30,National Bank of Egypt,Ghazl El Mahalla,2,2,Draw,sofascore
+2022/23,17,2023-02-05,El Dakhleya,Aswan,1,2,Away win,sofascore
+2022/23,17,2023-02-05,Ghazl El Mahalla,Haras El Hodoud,1,2,Away win,sofascore
+2022/23,17,2023-02-05,Al Ittihad Alexandria,Ismaily,1,1,Draw,sofascore
+2022/23,17,2023-02-05,Ceramica Cleopatra,ENPPI,0,1,Away win,sofascore
+2022/23,17,2023-02-06,Pharco,Zamalek,3,0,Home win,sofascore
+2022/23,17,2023-02-07,Smouha,Al Masry,1,1,Draw,sofascore
+2022/23,17,2023-02-07,Tala'ea El Gaish,Pyramids FC,0,1,Away win,sofascore
+2022/23,17,2023-02-07,Modern Sport,National Bank of Egypt,3,0,Home win,sofascore
+2022/23,18,2023-02-09,Al Ittihad Alexandria,Aswan,2,0,Home win,sofascore
+2022/23,18,2023-02-10,Ghazl El Mahalla,Arab Contractors (Al Mokawloon),0,3,Away win,sofascore
+2022/23,18,2023-02-11,Pharco,National Bank of Egypt,1,0,Home win,sofascore
+2022/23,18,2023-02-11,Tala'ea El Gaish,El Dakhleya,0,1,Away win,sofascore
+2022/23,18,2023-02-12,Ceramica Cleopatra,Al Masry,3,0,Home win,sofascore
+2022/23,18,2023-02-13,Smouha,Zamalek,1,3,Away win,sofascore
+2022/23,18,2023-02-16,Modern Sport,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,18,2023-02-16,Pyramids FC,ENPPI,2,1,Home win,sofascore
+2022/23,19,2023-02-19,National Bank of Egypt,Smouha,2,2,Draw,sofascore
+2022/23,19,2023-02-20,El Dakhleya,Al Ittihad Alexandria,1,2,Away win,sofascore
+2022/23,19,2023-02-20,ENPPI,Tala'ea El Gaish,0,0,Draw,sofascore
+2022/23,19,2023-02-21,Aswan,Al Ahly,0,3,Away win,sofascore
+2022/23,19,2023-02-21,Ismaily,Ghazl El Mahalla,1,1,Draw,sofascore
+2022/23,19,2023-02-21,Haras El Hodoud,Pharco,0,0,Draw,sofascore
+2022/23,19,2023-02-22,Arab Contractors (Al Mokawloon),Modern Sport,0,0,Draw,sofascore
+2022/23,19,2023-02-22,Al Masry,Pyramids FC,0,0,Draw,sofascore
+2022/23,20,2023-02-26,Smouha,Haras El Hodoud,3,0,Home win,sofascore
+2022/23,20,2023-02-27,Ghazl El Mahalla,Aswan,1,2,Away win,sofascore
+2022/23,20,2023-02-27,Tala'ea El Gaish,Al Ittihad Alexandria,3,4,Away win,sofascore
+2022/23,20,2023-02-28,Ceramica Cleopatra,National Bank of Egypt,2,1,Home win,sofascore
+2022/23,20,2023-02-28,ENPPI,Al Masry,1,2,Away win,sofascore
+2022/23,20,2023-02-28,Al Ahly,El Dakhleya,1,1,Draw,sofascore
+2022/23,20,2023-03-01,Pharco,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2022/23,20,2023-03-03,Modern Sport,Ismaily,0,0,Draw,sofascore
+2022/23,20,2023-03-03,Pyramids FC,Zamalek,0,0,Draw,sofascore
+2022/23,21,2023-03-05,Haras El Hodoud,Ceramica Cleopatra,0,0,Draw,sofascore
+2022/23,21,2023-03-06,El Dakhleya,Ghazl El Mahalla,2,1,Home win,sofascore
+2022/23,21,2023-03-06,Al Masry,Tala'ea El Gaish,1,0,Home win,sofascore
+2022/23,17,2023-03-07,Al Ahly,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2022/23,21,2023-03-08,Ismaily,Pharco,0,0,Draw,sofascore
+2022/23,21,2023-03-11,Arab Contractors (Al Mokawloon),Smouha,0,1,Away win,sofascore
+2022/23,21,2023-03-12,Aswan,Modern Sport,1,2,Away win,sofascore
+2022/23,21,2023-03-12,Zamalek,ENPPI,0,2,Away win,sofascore
+2022/23,21,2023-03-13,National Bank of Egypt,Pyramids FC,2,1,Home win,sofascore
+2022/23,22,2023-03-30,Ceramica Cleopatra,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2022/23,22,2023-03-30,ENPPI,National Bank of Egypt,2,1,Home win,sofascore
+2022/23,22,2023-03-30,Smouha,Ismaily,1,3,Away win,sofascore
+2022/23,22,2023-03-31,Ghazl El Mahalla,Al Ittihad Alexandria,2,0,Home win,sofascore
+2022/23,22,2023-03-31,Pharco,Aswan,0,0,Draw,sofascore
+2022/23,23,2023-04-03,Haras El Hodoud,ENPPI,0,1,Away win,sofascore
+2022/23,23,2023-04-03,Ismaily,Ceramica Cleopatra,1,1,Draw,sofascore
+2022/23,22,2023-04-04,Al Masry,Zamalek,3,2,Home win,sofascore
+2022/23,23,2023-04-04,Aswan,Smouha,1,1,Draw,sofascore
+2022/23,23,2023-04-04,El Dakhleya,Pharco,0,0,Draw,sofascore
+2022/23,23,2023-04-05,Al Ahly,Ghazl El Mahalla,3,0,Home win,sofascore
+2022/23,23,2023-04-05,Arab Contractors (Al Mokawloon),Pyramids FC,0,0,Draw,sofascore
+2022/23,23,2023-04-06,Al Ittihad Alexandria,Modern Sport,0,1,Away win,sofascore
+2022/23,24,2023-04-07,Al Masry,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,24,2023-04-07,Aswan,Ceramica Cleopatra,1,1,Draw,sofascore
+2022/23,24,2023-04-09,ENPPI,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2022/23,24,2023-04-09,Smouha,El Dakhleya,4,3,Home win,sofascore
+2022/23,24,2023-04-09,Zamalek,National Bank of Egypt,1,0,Home win,sofascore
+2022/23,24,2023-04-10,Pharco,Al Ittihad Alexandria,3,2,Home win,sofascore
+2022/23,25,2023-04-12,El Dakhleya,Ceramica Cleopatra,0,0,Draw,sofascore
+2022/23,25,2023-04-12,Ghazl El Mahalla,Modern Sport,0,1,Away win,sofascore
+2022/23,25,2023-04-13,Arab Contractors (Al Mokawloon),Al Masry,0,0,Draw,sofascore
+2022/23,25,2023-04-13,Haras El Hodoud,Zamalek,0,3,Away win,sofascore
+2022/23,25,2023-04-13,Ismaily,ENPPI,3,1,Home win,sofascore
+2022/23,25,2023-04-14,Al Ahly,Pharco,3,0,Home win,sofascore
+2022/23,25,2023-04-14,Al Ittihad Alexandria,Smouha,3,1,Home win,sofascore
+2022/23,25,2023-04-14,Aswan,Pyramids FC,0,3,Away win,sofascore
+2022/23,25,2023-04-15,National Bank of Egypt,Tala'ea El Gaish,2,0,Home win,sofascore
+2022/23,26,2023-04-17,Smouha,Al Ahly,0,2,Away win,sofascore
+2022/23,26,2023-04-17,Zamalek,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2022/23,26,2023-04-18,ENPPI,Aswan,2,0,Home win,sofascore
+2022/23,26,2023-04-18,Pyramids FC,El Dakhleya,2,0,Home win,sofascore
+2022/23,26,2023-04-19,National Bank of Egypt,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,26,2023-04-19,Pharco,Ghazl El Mahalla,3,1,Home win,sofascore
+2022/23,26,2023-04-19,Tala'ea El Gaish,Modern Sport,0,0,Draw,sofascore
+2022/23,26,2023-04-20,Al Masry,Ismaily,1,2,Away win,sofascore
+2022/23,26,2023-04-20,Ceramica Cleopatra,Al Ittihad Alexandria,0,0,Draw,sofascore
+2022/23,22,2023-04-25,Modern Sport,El Dakhleya,0,1,Away win,sofascore
+2022/23,23,2023-04-25,National Bank of Egypt,Al Masry,0,0,Draw,sofascore
+2022/23,19,2023-04-26,Zamalek,Ceramica Cleopatra,1,0,Home win,sofascore
+2022/23,24,2023-04-26,Tala'ea El Gaish,Ghazl El Mahalla,1,0,Home win,sofascore
+2022/23,27,2023-05-02,Ghazl El Mahalla,Smouha,0,2,Away win,sofascore
+2022/23,27,2023-05-02,El Dakhleya,ENPPI,1,1,Draw,sofascore
+2022/23,27,2023-05-03,Aswan,Al Masry,3,1,Home win,sofascore
+2022/23,27,2023-05-04,Arab Contractors (Al Mokawloon),National Bank of Egypt,1,1,Draw,sofascore
+2022/23,27,2023-05-04,Haras El Hodoud,Tala'ea El Gaish,2,3,Away win,sofascore
+2022/23,27,2023-05-04,Modern Sport,Pharco,0,0,Draw,sofascore
+2022/23,24,2023-05-09,Pyramids FC,Ismaily,3,1,Home win,sofascore
+2022/23,27,2023-05-13,Ismaily,Zamalek,2,1,Home win,sofascore
+2022/23,28,2023-05-14,Ceramica Cleopatra,Ghazl El Mahalla,0,0,Draw,sofascore
+2022/23,28,2023-05-15,Al Masry,El Dakhleya,1,1,Draw,sofascore
+2022/23,28,2023-05-15,ENPPI,Al Ittihad Alexandria,1,0,Home win,sofascore
+2022/23,28,2023-05-16,Haras El Hodoud,Arab Contractors (Al Mokawloon),0,2,Away win,sofascore
+2022/23,28,2023-05-16,Smouha,Modern Sport,1,1,Draw,sofascore
+2022/23,28,2023-05-16,Tala'ea El Gaish,Pharco,2,2,Draw,sofascore
+2022/23,28,2023-05-17,National Bank of Egypt,Ismaily,2,0,Home win,sofascore
+2022/23,28,2023-05-18,Zamalek,Aswan,1,0,Home win,sofascore
+2022/23,29,2023-05-21,Ismaily,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,29,2023-05-21,Ghazl El Mahalla,Pyramids FC,0,2,Away win,sofascore
+2022/23,29,2023-05-22,Al Ittihad Alexandria,Al Masry,1,2,Away win,sofascore
+2022/23,29,2023-05-22,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,0,0,Draw,sofascore
+2022/23,29,2023-05-22,El Dakhleya,Zamalek,1,1,Draw,sofascore
+2022/23,29,2023-05-23,Aswan,National Bank of Egypt,1,2,Away win,sofascore
+2022/23,29,2023-05-23,Al Ahly,ENPPI,2,0,Home win,sofascore
+2022/23,29,2023-05-23,Pharco,Smouha,1,0,Home win,sofascore
+2022/23,22,2023-05-24,Pyramids FC,Haras El Hodoud,1,0,Home win,sofascore
+2022/23,29,2023-05-24,Modern Sport,Ceramica Cleopatra,1,0,Home win,sofascore
+2022/23,22,2023-05-26,Tala'ea El Gaish,Al Ahly,0,2,Away win,sofascore
+2022/23,27,2023-05-29,Al Ittihad Alexandria,Pyramids FC,1,2,Away win,sofascore
+2022/23,27,2023-05-29,Al Ahly,Ceramica Cleopatra,1,0,Home win,sofascore
+2022/23,23,2023-05-30,Zamalek,Tala'ea El Gaish,2,0,Home win,sofascore
+2022/23,30,2023-05-31,National Bank of Egypt,El Dakhleya,3,1,Home win,sofascore
+2022/23,30,2023-05-31,Arab Contractors (Al Mokawloon),Ismaily,2,2,Draw,sofascore
+2022/23,30,2023-06-01,Haras El Hodoud,Aswan,1,0,Home win,sofascore
+2022/23,30,2023-06-01,ENPPI,Ghazl El Mahalla,1,0,Home win,sofascore
+2022/23,30,2023-06-02,Ceramica Cleopatra,Pharco,0,0,Draw,sofascore
+2022/23,30,2023-06-02,Pyramids FC,Modern Sport,1,0,Home win,sofascore
+2022/23,30,2023-06-03,Tala'ea El Gaish,Smouha,2,0,Home win,sofascore
+2022/23,30,2023-06-05,Zamalek,Al Ittihad Alexandria,2,1,Home win,sofascore
+2022/23,31,2023-06-06,El Dakhleya,Haras El Hodoud,1,1,Draw,sofascore
+2022/23,31,2023-06-06,Pharco,Pyramids FC,0,1,Away win,sofascore
+2022/23,31,2023-06-06,Modern Sport,ENPPI,1,0,Home win,sofascore
+2022/23,31,2023-06-07,Ghazl El Mahalla,Al Masry,1,1,Draw,sofascore
+2022/23,31,2023-06-07,Smouha,Ceramica Cleopatra,2,2,Draw,sofascore
+2022/23,31,2023-06-08,Ismaily,Tala'ea El Gaish,0,1,Away win,sofascore
+2022/23,31,2023-06-08,Aswan,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2022/23,31,2023-06-09,Al Ittihad Alexandria,National Bank of Egypt,0,0,Draw,sofascore
+2022/23,16,2023-06-22,Haras El Hodoud,Al Ahly,0,3,Away win,sofascore
+2022/23,32,2023-06-27,Zamalek,Ghazl El Mahalla,2,0,Home win,sofascore
+2022/23,32,2023-06-28,Al Masry,Modern Sport,2,0,Home win,sofascore
+2022/23,32,2023-06-28,Pyramids FC,Smouha,5,2,Home win,sofascore
+2022/23,32,2023-06-29,Ismaily,Aswan,1,1,Draw,sofascore
+2022/23,32,2023-06-29,National Bank of Egypt,Al Ahly,0,3,Away win,sofascore
+2022/23,32,2023-06-30,ENPPI,Pharco,2,1,Home win,sofascore
+2022/23,32,2023-06-30,Arab Contractors (Al Mokawloon),El Dakhleya,0,1,Away win,sofascore
+2022/23,32,2023-06-30,Tala'ea El Gaish,Ceramica Cleopatra,0,0,Draw,sofascore
+2022/23,32,2023-07-01,Haras El Hodoud,Al Ittihad Alexandria,2,2,Draw,sofascore
+2022/23,24,2023-07-02,Modern Sport,Al Ahly,0,0,Draw,sofascore
+2022/23,18,2023-07-05,Al Ahly,Ismaily,1,0,Home win,sofascore
+2022/23,21,2023-07-08,Al Ittihad Alexandria,Al Ahly,0,2,Away win,sofascore
+2022/23,33,2023-07-08,Modern Sport,Zamalek,2,3,Away win,sofascore
+2022/23,33,2023-07-09,Pharco,Al Masry,0,3,Away win,sofascore
+2022/23,33,2023-07-10,Ceramica Cleopatra,Pyramids FC,2,1,Home win,sofascore
+2022/23,33,2023-07-10,El Dakhleya,Ismaily,0,1,Away win,sofascore
+2022/23,33,2023-07-10,Ghazl El Mahalla,National Bank of Egypt,0,0,Draw,sofascore
+2022/23,33,2023-07-10,Tala'ea El Gaish,Aswan,1,0,Home win,sofascore
+2022/23,33,2023-07-11,Smouha,ENPPI,2,1,Home win,sofascore
+2022/23,33,2023-07-12,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2022/23,31,2023-07-13,Al Ahly,Zamalek,4,1,Home win,sofascore
+2022/23,34,2023-07-14,Aswan,El Dakhleya,2,4,Away win,sofascore
+2022/23,34,2023-07-14,Haras El Hodoud,Ghazl El Mahalla,2,1,Home win,sofascore
+2022/23,34,2023-07-14,National Bank of Egypt,Modern Sport,1,0,Home win,sofascore
+2022/23,34,2023-07-14,Pyramids FC,Tala'ea El Gaish,4,2,Home win,sofascore
+2022/23,34,2023-07-15,Al Masry,Smouha,0,1,Away win,sofascore
+2022/23,34,2023-07-15,ENPPI,Ceramica Cleopatra,1,0,Home win,sofascore
+2022/23,34,2023-07-15,Ismaily,Al Ittihad Alexandria,4,1,Home win,sofascore
+2022/23,34,2023-07-16,Arab Contractors (Al Mokawloon),Al Ahly,1,4,Away win,sofascore
+2022/23,34,2023-07-16,Zamalek,Pharco,2,2,Draw,sofascore
+2022/23,33,2023-07-19,Al Ahly,Haras El Hodoud,1,1,Draw,sofascore
+2022/23,28,2023-07-23,Pyramids FC,Al Ahly,3,0,Home win,sofascore
+2022/23,30,2023-07-26,Al Masry,Al Ahly,0,0,Draw,sofascore
+2023/24,1,2023-09-18,Tala'ea El Gaish,National Bank of Egypt,2,0,Home win,sofascore
+2023/24,1,2023-09-19,ZED FC,Ismaily,1,0,Home win,sofascore
+2023/24,1,2023-09-19,Al Ahly,Al Masry,4,0,Home win,sofascore
+2023/24,1,2023-09-20,El Dakhleya,ENPPI,1,0,Home win,sofascore
+2023/24,1,2023-09-20,Arab Contractors (Al Mokawloon),Baladiyat El Mahalla,0,2,Away win,sofascore
+2023/24,1,2023-09-20,Smouha,El Gouna,1,1,Draw,sofascore
+2023/24,1,2023-09-21,Pharco,Modern Sport,0,2,Away win,sofascore
+2023/24,1,2023-09-21,Al Ittihad Alexandria,Ceramica Cleopatra,1,0,Home win,sofascore
+2023/24,1,2023-09-21,Pyramids FC,Zamalek,2,2,Draw,sofascore
+2023/24,2,2023-09-25,National Bank of Egypt,Pyramids FC,0,1,Away win,sofascore
+2023/24,2,2023-09-25,Zamalek,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2023/24,2,2023-09-26,Baladiyat El Mahalla,Smouha,0,2,Away win,sofascore
+2023/24,2,2023-09-26,Modern Sport,El Dakhleya,2,1,Home win,sofascore
+2023/24,2,2023-09-27,ENPPI,Tala'ea El Gaish,0,0,Draw,sofascore
+2023/24,2,2023-09-27,El Gouna,ZED FC,0,1,Away win,sofascore
+2023/24,2,2023-09-28,Al Masry,Pharco,1,0,Home win,sofascore
+2023/24,2,2023-09-28,Ismaily,Al Ittihad Alexandria,3,1,Home win,sofascore
+2023/24,3,2023-10-05,ZED FC,Baladiyat El Mahalla,3,3,Draw,sofascore
+2023/24,3,2023-10-05,Smouha,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2023/24,3,2023-10-06,Al Ittihad Alexandria,El Gouna,2,2,Draw,sofascore
+2023/24,3,2023-10-06,Pharco,Ceramica Cleopatra,2,2,Draw,sofascore
+2023/24,3,2023-10-07,El Dakhleya,Al Masry,1,3,Away win,sofascore
+2023/24,3,2023-10-07,National Bank of Egypt,Zamalek,1,2,Away win,sofascore
+2023/24,3,2023-10-07,Tala'ea El Gaish,Modern Sport,0,2,Away win,sofascore
+2023/24,3,2023-10-08,Al Ahly,Ismaily,3,1,Home win,sofascore
+2023/24,3,2023-10-08,Pyramids FC,ENPPI,1,0,Home win,sofascore
+2023/24,4,2023-10-20,Al Masry,Tala'ea El Gaish,1,0,Home win,sofascore
+2023/24,4,2023-10-20,Ceramica Cleopatra,El Dakhleya,4,0,Home win,sofascore
+2023/24,4,2023-10-21,Baladiyat El Mahalla,Al Ittihad Alexandria,2,2,Draw,sofascore
+2023/24,4,2023-10-21,ENPPI,National Bank of Egypt,3,1,Home win,sofascore
+2023/24,4,2023-10-21,Zamalek,Smouha,5,1,Home win,sofascore
+2023/24,4,2023-10-22,Arab Contractors (Al Mokawloon),ZED FC,3,3,Draw,sofascore
+2023/24,4,2023-10-22,Ismaily,Pharco,0,1,Away win,sofascore
+2023/24,4,2023-10-22,Modern Sport,Pyramids FC,0,1,Away win,sofascore
+2023/24,5,2023-10-27,Pyramids FC,Al Masry,3,2,Home win,sofascore
+2023/24,5,2023-10-27,ENPPI,Zamalek,2,1,Home win,sofascore
+2023/24,5,2023-10-28,Pharco,El Gouna,0,1,Away win,sofascore
+2023/24,5,2023-10-28,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),3,2,Home win,sofascore
+2023/24,5,2023-10-28,ZED FC,Smouha,1,1,Draw,sofascore
+2023/24,5,2023-10-29,Tala'ea El Gaish,Ceramica Cleopatra,1,0,Home win,sofascore
+2023/24,5,2023-10-30,El Dakhleya,Ismaily,0,0,Draw,sofascore
+2023/24,5,2023-10-30,National Bank of Egypt,Modern Sport,1,2,Away win,sofascore
+2023/24,6,2023-11-03,Smouha,Al Ittihad Alexandria,0,1,Away win,sofascore
+2023/24,6,2023-11-03,Ceramica Cleopatra,Pyramids FC,2,0,Home win,sofascore
+2023/24,6,2023-11-03,Zamalek,ZED FC,1,2,Away win,sofascore
+2023/24,6,2023-11-04,El Gouna,El Dakhleya,2,0,Home win,sofascore
+2023/24,6,2023-11-04,Arab Contractors (Al Mokawloon),Al Ahly,1,2,Away win,sofascore
+2023/24,6,2023-11-04,Baladiyat El Mahalla,Pharco,3,2,Home win,sofascore
+2023/24,6,2023-11-05,Ismaily,Tala'ea El Gaish,2,3,Away win,sofascore
+2023/24,6,2023-11-05,Modern Sport,ENPPI,0,1,Away win,sofascore
+2023/24,6,2023-11-05,Al Masry,National Bank of Egypt,0,4,Away win,sofascore
+2023/24,2,2023-11-08,Ceramica Cleopatra,Al Ahly,1,2,Away win,sofascore
+2023/24,4,2023-11-11,El Gouna,Al Ahly,1,1,Draw,sofascore
+2023/24,7,2023-11-28,Pyramids FC,Ismaily,2,1,Home win,sofascore
+2023/24,7,2023-11-28,Al Ahly,Smouha,0,0,Draw,sofascore
+2023/24,7,2023-11-29,Modern Sport,Zamalek,0,2,Away win,sofascore
+2023/24,7,2023-11-30,Al Ittihad Alexandria,ZED FC,0,0,Draw,sofascore
+2023/24,7,2023-11-30,Pharco,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2023/24,7,2023-11-30,Tala'ea El Gaish,El Gouna,1,1,Draw,sofascore
+2023/24,7,2023-12-01,El Dakhleya,Baladiyat El Mahalla,0,0,Draw,sofascore
+2023/24,7,2023-12-01,ENPPI,Al Masry,1,2,Away win,sofascore
+2023/24,7,2023-12-01,National Bank of Egypt,Ceramica Cleopatra,0,1,Away win,sofascore
+2023/24,8,2023-12-04,Smouha,Pharco,2,1,Home win,sofascore
+2023/24,8,2023-12-05,Baladiyat El Mahalla,Tala'ea El Gaish,0,2,Away win,sofascore
+2023/24,8,2023-12-05,Ceramica Cleopatra,ENPPI,4,2,Home win,sofascore
+2023/24,8,2023-12-05,Ismaily,National Bank of Egypt,2,1,Home win,sofascore
+2023/24,8,2023-12-06,Arab Contractors (Al Mokawloon),El Dakhleya,0,0,Draw,sofascore
+2023/24,9,2023-12-14,Modern Sport,Ceramica Cleopatra,1,1,Draw,sofascore
+2023/24,9,2023-12-14,National Bank of Egypt,El Gouna,2,3,Away win,sofascore
+2023/24,9,2023-12-14,Al Masry,Zamalek,1,0,Home win,sofascore
+2023/24,9,2023-12-14,Pyramids FC,Baladiyat El Mahalla,2,2,Draw,sofascore
+2023/24,9,2023-12-15,El Dakhleya,Smouha,0,0,Draw,sofascore
+2023/24,9,2023-12-15,Pharco,ZED FC,1,2,Away win,sofascore
+2023/24,9,2023-12-15,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2023/24,9,2023-12-16,ENPPI,Ismaily,1,0,Home win,sofascore
+2023/24,10,2023-12-25,El Gouna,ENPPI,1,2,Away win,sofascore
+2023/24,10,2023-12-25,Baladiyat El Mahalla,National Bank of Egypt,0,2,Away win,sofascore
+2023/24,10,2023-12-26,Al Ittihad Alexandria,Pharco,3,1,Home win,sofascore
+2023/24,10,2023-12-27,ZED FC,El Dakhleya,3,1,Home win,sofascore
+2023/24,10,2023-12-27,Smouha,Tala'ea El Gaish,1,0,Home win,sofascore
+2023/24,11,2023-12-30,National Bank of Egypt,Arab Contractors (Al Mokawloon),3,1,Home win,sofascore
+2023/24,11,2023-12-30,ENPPI,Baladiyat El Mahalla,3,0,Home win,sofascore
+2023/24,11,2023-12-30,Tala'ea El Gaish,ZED FC,1,0,Home win,sofascore
+2023/24,11,2024-01-01,El Dakhleya,Al Ittihad Alexandria,0,1,Away win,sofascore
+2023/24,11,2024-01-01,Al Masry,Ismaily,1,1,Draw,sofascore
+2023/24,12,2024-02-13,El Gouna,Al Masry,2,2,Draw,sofascore
+2023/24,12,2024-02-13,Smouha,National Bank of Egypt,1,1,Draw,sofascore
+2023/24,12,2024-02-14,Al Ittihad Alexandria,Tala'ea El Gaish,2,2,Draw,sofascore
+2023/24,12,2024-02-14,Arab Contractors (Al Mokawloon),ENPPI,0,1,Away win,sofascore
+2023/24,12,2024-02-14,ZED FC,Pyramids FC,0,0,Draw,sofascore
+2023/24,12,2024-02-15,Baladiyat El Mahalla,Modern Sport,1,0,Home win,sofascore
+2023/24,12,2024-02-15,Ismaily,Ceramica Cleopatra,2,1,Home win,sofascore
+2023/24,13,2024-02-18,ENPPI,Smouha,0,0,Draw,sofascore
+2023/24,13,2024-02-18,National Bank of Egypt,ZED FC,1,1,Draw,sofascore
+2023/24,13,2024-02-18,Pyramids FC,Al Ittihad Alexandria,1,0,Home win,sofascore
+2023/24,13,2024-02-19,Modern Sport,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2023/24,13,2024-02-19,Ismaily,Zamalek,0,0,Draw,sofascore
+2023/24,13,2024-02-20,Ceramica Cleopatra,El Gouna,1,1,Draw,sofascore
+2023/24,13,2024-02-20,Al Masry,Baladiyat El Mahalla,3,0,Home win,sofascore
+2023/24,13,2024-02-20,El Dakhleya,Pharco,1,1,Draw,sofascore
+2023/24,14,2024-02-23,Baladiyat El Mahalla,Ceramica Cleopatra,3,5,Away win,sofascore
+2023/24,14,2024-02-25,Pharco,Tala'ea El Gaish,1,1,Draw,sofascore
+2023/24,14,2024-02-25,Al Ittihad Alexandria,National Bank of Egypt,0,0,Draw,sofascore
+2023/24,14,2024-02-26,El Gouna,Ismaily,0,0,Draw,sofascore
+2023/24,14,2024-02-26,ZED FC,ENPPI,0,1,Away win,sofascore
+2023/24,14,2024-02-26,Arab Contractors (Al Mokawloon),Al Masry,0,1,Away win,sofascore
+2023/24,5,2024-02-27,Al Ahly,Baladiyat El Mahalla,5,1,Home win,sofascore
+2023/24,14,2024-02-29,Smouha,Modern Sport,1,1,Draw,sofascore
+2023/24,14,2024-02-29,Zamalek,El Dakhleya,1,0,Home win,sofascore
+2023/24,15,2024-03-01,Ceramica Cleopatra,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2023/24,16,2024-03-01,Pharco,National Bank of Egypt,2,1,Home win,sofascore
+2023/24,15,2024-03-02,Ismaily,Baladiyat El Mahalla,0,1,Away win,sofascore
+2023/24,15,2024-03-03,ENPPI,Al Ittihad Alexandria,1,2,Away win,sofascore
+2023/24,15,2024-03-05,Tala'ea El Gaish,El Dakhleya,0,0,Draw,sofascore
+2023/24,15,2024-03-05,Al Masry,Smouha,2,0,Home win,sofascore
+2023/24,15,2024-03-06,Pyramids FC,Pharco,1,1,Draw,sofascore
+2023/24,15,2024-03-07,Modern Sport,ZED FC,0,0,Draw,sofascore
+2023/24,16,2024-03-08,Baladiyat El Mahalla,El Gouna,1,2,Away win,sofascore
+2023/24,16,2024-03-09,Arab Contractors (Al Mokawloon),Ismaily,1,1,Draw,sofascore
+2023/24,16,2024-03-10,El Dakhleya,Pyramids FC,0,2,Away win,sofascore
+2023/24,16,2024-03-10,Smouha,Ceramica Cleopatra,1,0,Home win,sofascore
+2023/24,16,2024-03-11,Al Ittihad Alexandria,Modern Sport,0,0,Draw,sofascore
+2023/24,15,2024-03-12,El Gouna,Zamalek,3,2,Home win,sofascore
+2023/24,15,2024-03-12,National Bank of Egypt,Al Ahly,4,3,Home win,sofascore
+2023/24,16,2024-03-12,ZED FC,Al Masry,2,2,Draw,sofascore
+2023/24,17,2024-04-03,Ceramica Cleopatra,ZED FC,1,1,Draw,sofascore
+2023/24,17,2024-04-03,El Gouna,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2023/24,17,2024-04-03,Ismaily,Smouha,2,1,Home win,sofascore
+2023/24,17,2024-04-04,Al Masry,Al Ittihad Alexandria,2,3,Away win,sofascore
+2023/24,17,2024-04-04,ENPPI,Pharco,1,1,Draw,sofascore
+2023/24,17,2024-04-04,National Bank of Egypt,El Dakhleya,1,0,Home win,sofascore
+2023/24,17,2024-04-05,Pyramids FC,Tala'ea El Gaish,0,0,Draw,sofascore
+2023/24,16,2024-04-08,Al Ahly,ENPPI,2,2,Draw,sofascore
+2023/24,8,2024-04-09,El Gouna,Pyramids FC,0,4,Away win,sofascore
+2023/24,8,2024-04-11,Al Masry,Modern Sport,1,2,Away win,sofascore
+2023/24,8,2024-04-11,ZED FC,Al Ahly,0,1,Away win,sofascore
+2023/24,8,2024-04-11,Zamalek,Al Ittihad Alexandria,3,0,Home win,sofascore
+2023/24,10,2024-04-14,Ceramica Cleopatra,Al Masry,1,1,Draw,sofascore
+2023/24,10,2024-04-14,Ismaily,Modern Sport,1,1,Draw,sofascore
+2023/24,10,2024-04-15,Arab Contractors (Al Mokawloon),Pyramids FC,0,2,Away win,sofascore
+2023/24,10,2024-04-15,Zamalek,Al Ahly,2,1,Home win,sofascore
+2023/24,18,2024-04-17,El Gouna,Smouha,1,0,Home win,sofascore
+2023/24,18,2024-04-17,ENPPI,El Dakhleya,0,0,Draw,sofascore
+2023/24,18,2024-04-17,National Bank of Egypt,Tala'ea El Gaish,0,1,Away win,sofascore
+2023/24,18,2024-04-18,Ceramica Cleopatra,Al Ittihad Alexandria,1,1,Draw,sofascore
+2023/24,18,2024-04-18,Ismaily,ZED FC,1,2,Away win,sofascore
+2023/24,18,2024-04-18,Modern Sport,Pharco,2,0,Home win,sofascore
+2023/24,18,2024-04-19,Baladiyat El Mahalla,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2023/24,19,2024-04-22,ZED FC,El Gouna,3,0,Home win,sofascore
+2023/24,19,2024-04-22,Al Ittihad Alexandria,Ismaily,1,1,Draw,sofascore
+2023/24,19,2024-04-22,El Dakhleya,Modern Sport,1,1,Draw,sofascore
+2023/24,19,2024-04-23,Smouha,Baladiyat El Mahalla,4,0,Home win,sofascore
+2023/24,19,2024-04-23,Pharco,Al Masry,1,2,Away win,sofascore
+2023/24,19,2024-04-24,Tala'ea El Gaish,ENPPI,1,0,Home win,sofascore
+2023/24,19,2024-04-24,Pyramids FC,National Bank of Egypt,3,2,Home win,sofascore
+2023/24,20,2024-04-27,Baladiyat El Mahalla,ZED FC,0,3,Away win,sofascore
+2023/24,20,2024-04-27,El Gouna,Al Ittihad Alexandria,2,1,Home win,sofascore
+2023/24,20,2024-04-28,Al Masry,El Dakhleya,1,0,Home win,sofascore
+2023/24,20,2024-04-28,Arab Contractors (Al Mokawloon),Smouha,0,1,Away win,sofascore
+2023/24,20,2024-04-29,Ceramica Cleopatra,Pharco,1,1,Draw,sofascore
+2023/24,20,2024-05-01,ENPPI,Pyramids FC,0,1,Away win,sofascore
+2023/24,20,2024-05-01,Ismaily,Al Ahly,1,2,Away win,sofascore
+2023/24,20,2024-05-02,Modern Sport,Tala'ea El Gaish,0,0,Draw,sofascore
+2023/24,20,2024-05-02,Zamalek,National Bank of Egypt,1,0,Home win,sofascore
+2023/24,21,2024-05-03,Al Ittihad Alexandria,Baladiyat El Mahalla,2,1,Home win,sofascore
+2023/24,21,2024-05-03,ZED FC,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2023/24,21,2024-05-04,Pharco,Ismaily,0,2,Away win,sofascore
+2023/24,21,2024-05-04,Al Ahly,El Gouna,3,0,Home win,sofascore
+2023/24,21,2024-05-04,El Dakhleya,Ceramica Cleopatra,1,3,Away win,sofascore
+2023/24,21,2024-05-05,National Bank of Egypt,ENPPI,1,5,Away win,sofascore
+2023/24,21,2024-05-05,Smouha,Zamalek,1,0,Home win,sofascore
+2023/24,21,2024-05-06,Pyramids FC,Modern Sport,2,1,Home win,sofascore
+2023/24,21,2024-05-06,Tala'ea El Gaish,Al Masry,0,2,Away win,sofascore
+2023/24,9,2024-05-07,Al Ahly,Al Ittihad Alexandria,4,1,Home win,sofascore
+2023/24,22,2024-05-09,Ismaily,El Dakhleya,1,0,Home win,sofascore
+2023/24,22,2024-05-09,Smouha,ZED FC,1,2,Away win,sofascore
+2023/24,22,2024-05-10,Ceramica Cleopatra,Tala'ea El Gaish,2,1,Home win,sofascore
+2023/24,22,2024-05-10,El Gouna,Pharco,1,2,Away win,sofascore
+2023/24,22,2024-05-10,Modern Sport,National Bank of Egypt,1,1,Draw,sofascore
+2023/24,22,2024-05-11,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,0,1,Away win,sofascore
+2023/24,22,2024-05-11,Al Masry,Pyramids FC,0,1,Away win,sofascore
+2023/24,22,2024-05-11,Baladiyat El Mahalla,Al Ahly,1,2,Away win,sofascore
+2023/24,23,2024-05-14,Al Ittihad Alexandria,Smouha,0,2,Away win,sofascore
+2023/24,23,2024-05-14,Tala'ea El Gaish,Ismaily,1,1,Draw,sofascore
+2023/24,23,2024-05-15,El Dakhleya,El Gouna,0,0,Draw,sofascore
+2023/24,23,2024-05-15,Pharco,Baladiyat El Mahalla,1,0,Home win,sofascore
+2023/24,23,2024-05-15,Pyramids FC,Ceramica Cleopatra,2,1,Home win,sofascore
+2023/24,23,2024-05-16,ENPPI,Modern Sport,0,1,Away win,sofascore
+2023/24,23,2024-05-16,National Bank of Egypt,Al Masry,5,2,Home win,sofascore
+2023/24,24,2024-05-19,Ismaily,Pyramids FC,0,2,Away win,sofascore
+2023/24,24,2024-05-20,Al Masry,ENPPI,0,0,Draw,sofascore
+2023/24,24,2024-05-20,Arab Contractors (Al Mokawloon),Pharco,1,1,Draw,sofascore
+2023/24,24,2024-05-20,ZED FC,Al Ittihad Alexandria,0,0,Draw,sofascore
+2023/24,24,2024-05-21,Baladiyat El Mahalla,El Dakhleya,1,0,Home win,sofascore
+2023/24,24,2024-05-21,Ceramica Cleopatra,National Bank of Egypt,1,0,Home win,sofascore
+2023/24,24,2024-05-21,El Gouna,Tala'ea El Gaish,0,0,Draw,sofascore
+2023/24,24,2024-05-23,Zamalek,Modern Sport,1,1,Draw,sofascore
+2023/24,25,2024-05-24,ENPPI,Ceramica Cleopatra,3,2,Home win,sofascore
+2023/24,25,2024-05-24,Pharco,Smouha,1,1,Draw,sofascore
+2023/24,25,2024-05-25,El Dakhleya,Arab Contractors (Al Mokawloon),3,0,Home win,sofascore
+2023/24,25,2024-05-26,National Bank of Egypt,Ismaily,2,2,Draw,sofascore
+2023/24,25,2024-05-26,Modern Sport,Al Masry,0,0,Draw,sofascore
+2023/24,25,2024-05-26,Tala'ea El Gaish,Baladiyat El Mahalla,1,0,Home win,sofascore
+2023/24,25,2024-05-27,Pyramids FC,El Gouna,1,0,Home win,sofascore
+2023/24,25,2024-05-27,Al Ittihad Alexandria,Zamalek,0,2,Away win,sofascore
+2023/24,11,2024-06-13,Modern Sport,El Gouna,3,1,Home win,sofascore
+2023/24,11,2024-06-13,Pyramids FC,Smouha,3,0,Home win,sofascore
+2023/24,11,2024-06-14,Ceramica Cleopatra,Zamalek,1,2,Away win,sofascore
+2023/24,11,2024-06-14,Pharco,Al Ahly,1,2,Away win,sofascore
+2023/24,26,2024-06-16,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,3,1,Home win,sofascore
+2023/24,26,2024-06-17,El Gouna,National Bank of Egypt,1,1,Draw,sofascore
+2023/24,26,2024-06-17,Ismaily,ENPPI,2,2,Draw,sofascore
+2023/24,26,2024-06-17,Zamalek,Al Masry,1,2,Away win,sofascore
+2023/24,26,2024-06-18,Smouha,El Dakhleya,3,2,Home win,sofascore
+2023/24,26,2024-06-18,Al Ittihad Alexandria,Al Ahly,0,1,Away win,sofascore
+2023/24,26,2024-06-18,ZED FC,Pharco,2,2,Draw,sofascore
+2023/24,26,2024-06-19,Baladiyat El Mahalla,Pyramids FC,0,2,Away win,sofascore
+2023/24,26,2024-06-19,Ceramica Cleopatra,Modern Sport,0,1,Away win,sofascore
+2023/24,12,2024-06-21,Al Ahly,El Dakhleya,2,1,Home win,sofascore
+2023/24,12,2024-06-21,Zamalek,Pharco,2,0,Home win,sofascore
+2023/24,27,2024-06-22,ENPPI,El Gouna,1,0,Home win,sofascore
+2023/24,27,2024-06-22,Tala'ea El Gaish,Smouha,2,2,Draw,sofascore
+2023/24,27,2024-06-23,Modern Sport,Ismaily,0,1,Away win,sofascore
+2023/24,27,2024-06-23,Al Masry,Ceramica Cleopatra,0,2,Away win,sofascore
+2023/24,27,2024-06-23,Pyramids FC,Arab Contractors (Al Mokawloon),3,1,Home win,sofascore
+2023/24,27,2024-06-24,National Bank of Egypt,Baladiyat El Mahalla,5,0,Home win,sofascore
+2023/24,27,2024-06-24,El Dakhleya,ZED FC,1,0,Home win,sofascore
+2023/24,27,2024-06-24,Pharco,Al Ittihad Alexandria,1,0,Home win,sofascore
+2023/24,27,2024-06-25,Al Ahly,Zamalek,2,0,Home win,sofascore
+2023/24,28,2024-06-27,El Gouna,Modern Sport,0,2,Away win,sofascore
+2023/24,28,2024-06-27,Ismaily,Al Masry,0,1,Away win,sofascore
+2023/24,28,2024-06-27,ZED FC,Tala'ea El Gaish,4,1,Home win,sofascore
+2023/24,28,2024-06-28,Arab Contractors (Al Mokawloon),National Bank of Egypt,1,4,Away win,sofascore
+2023/24,28,2024-06-28,Al Ahly,Pharco,2,1,Home win,sofascore
+2023/24,28,2024-06-29,Baladiyat El Mahalla,ENPPI,0,0,Draw,sofascore
+2023/24,28,2024-06-29,Al Ittihad Alexandria,El Dakhleya,1,1,Draw,sofascore
+2023/24,28,2024-06-29,Zamalek,Ceramica Cleopatra,4,2,Home win,sofascore
+2023/24,13,2024-07-01,Tala'ea El Gaish,Al Ahly,0,4,Away win,sofascore
+2023/24,29,2024-07-01,Al Masry,El Gouna,2,1,Home win,sofascore
+2023/24,28,2024-07-02,Smouha,Pyramids FC,2,3,Away win,sofascore
+2023/24,29,2024-07-02,ENPPI,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2023/24,29,2024-07-03,Modern Sport,Baladiyat El Mahalla,1,0,Home win,sofascore
+2023/24,29,2024-07-03,Ceramica Cleopatra,Ismaily,1,0,Home win,sofascore
+2023/24,29,2024-07-03,Pharco,Zamalek,1,1,Draw,sofascore
+2023/24,29,2024-07-04,Al Ahly,El Dakhleya,4,1,Home win,sofascore
+2023/24,29,2024-07-04,Tala'ea El Gaish,Al Ittihad Alexandria,0,0,Draw,sofascore
+2023/24,30,2024-07-06,Smouha,ENPPI,2,0,Home win,sofascore
+2023/24,30,2024-07-06,ZED FC,National Bank of Egypt,0,1,Away win,sofascore
+2023/24,30,2024-07-07,Baladiyat El Mahalla,Al Masry,0,1,Away win,sofascore
+2023/24,30,2024-07-07,El Gouna,Ceramica Cleopatra,0,0,Draw,sofascore
+2023/24,30,2024-07-07,Zamalek,Ismaily,2,1,Home win,sofascore
+2023/24,30,2024-07-08,Pharco,El Dakhleya,2,0,Home win,sofascore
+2023/24,30,2024-07-08,Al Ittihad Alexandria,Pyramids FC,0,4,Away win,sofascore
+2023/24,30,2024-07-08,Al Ahly,Tala'ea El Gaish,2,0,Home win,sofascore
+2023/24,16,2024-07-11,Tala'ea El Gaish,Zamalek,1,2,Away win,sofascore
+2023/24,30,2024-07-11,Arab Contractors (Al Mokawloon),Modern Sport,1,2,Away win,sofascore
+2023/24,14,2024-07-12,Al Ahly,Pyramids FC,3,2,Home win,sofascore
+2023/24,29,2024-07-13,National Bank of Egypt,Smouha,1,2,Away win,sofascore
+2023/24,17,2024-07-15,Zamalek,Baladiyat El Mahalla,0,0,Draw,sofascore
+2023/24,17,2024-07-16,Modern Sport,Al Ahly,1,2,Away win,sofascore
+2023/24,31,2024-07-20,Tala'ea El Gaish,Pharco,0,0,Draw,sofascore
+2023/24,31,2024-07-20,Ceramica Cleopatra,Baladiyat El Mahalla,4,0,Home win,sofascore
+2023/24,31,2024-07-20,National Bank of Egypt,Al Ittihad Alexandria,0,0,Draw,sofascore
+2023/24,31,2024-07-21,Al Masry,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2023/24,31,2024-07-21,El Dakhleya,Zamalek,1,2,Away win,sofascore
+2023/24,31,2024-07-21,ENPPI,ZED FC,1,4,Away win,sofascore
+2023/24,31,2024-07-22,Ismaily,El Gouna,1,1,Draw,sofascore
+2023/24,31,2024-07-22,Modern Sport,Smouha,3,0,Home win,sofascore
+2023/24,31,2024-07-22,Pyramids FC,Al Ahly,0,1,Away win,sofascore
+2023/24,18,2024-07-26,Al Masry,Al Ahly,0,1,Away win,sofascore
+2023/24,18,2024-07-26,Zamalek,Pyramids FC,1,1,Draw,sofascore
+2023/24,19,2024-07-29,Al Ahly,Ceramica Cleopatra,4,1,Home win,sofascore
+2023/24,19,2024-07-29,Arab Contractors (Al Mokawloon),Zamalek,2,1,Home win,sofascore
+2023/24,32,2024-07-30,El Dakhleya,Tala'ea El Gaish,0,1,Away win,sofascore
+2023/24,32,2024-07-30,Baladiyat El Mahalla,Ismaily,4,2,Home win,sofascore
+2023/24,32,2024-07-30,Pharco,Pyramids FC,2,2,Draw,sofascore
+2023/24,32,2024-07-31,Al Ittihad Alexandria,ENPPI,0,0,Draw,sofascore
+2023/24,32,2024-07-31,ZED FC,Modern Sport,3,2,Home win,sofascore
+2023/24,32,2024-08-01,Arab Contractors (Al Mokawloon),Ceramica Cleopatra,1,1,Draw,sofascore
+2023/24,32,2024-08-01,Al Ahly,National Bank of Egypt,1,0,Home win,sofascore
+2023/24,32,2024-08-01,Smouha,Al Masry,1,0,Home win,sofascore
+2023/24,32,2024-08-02,Zamalek,El Gouna,1,0,Home win,sofascore
+2023/24,23,2024-08-04,Al Ahly,Arab Contractors (Al Mokawloon),4,0,Home win,sofascore
+2023/24,29,2024-08-04,Pyramids FC,ZED FC,2,1,Home win,sofascore
+2023/24,22,2024-08-05,Zamalek,ENPPI,4,2,Home win,sofascore
+2023/24,23,2024-08-08,ZED FC,Zamalek,0,1,Away win,sofascore
+2023/24,24,2024-08-08,Smouha,Al Ahly,0,1,Away win,sofascore
+2023/24,25,2024-08-11,Al Ahly,ZED FC,2,1,Home win,sofascore
+2023/24,34,2024-08-11,Tala'ea El Gaish,Pyramids FC,2,5,Away win,sofascore
+2023/24,33,2024-08-12,Ceramica Cleopatra,Smouha,0,1,Away win,sofascore
+2023/24,33,2024-08-12,Modern Sport,Al Ittihad Alexandria,1,1,Draw,sofascore
+2023/24,33,2024-08-13,El Gouna,Baladiyat El Mahalla,2,1,Home win,sofascore
+2023/24,33,2024-08-13,Ismaily,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2023/24,33,2024-08-13,National Bank of Egypt,Pharco,0,0,Draw,sofascore
+2023/24,33,2024-08-14,Al Masry,ZED FC,0,1,Away win,sofascore
+2023/24,33,2024-08-14,Zamalek,Tala'ea El Gaish,1,3,Away win,sofascore
+2023/24,33,2024-08-14,ENPPI,Al Ahly,1,1,Draw,sofascore
+2023/24,33,2024-08-14,Pyramids FC,El Dakhleya,1,0,Home win,sofascore
+2023/24,34,2024-08-16,Smouha,Ismaily,2,0,Home win,sofascore
+2023/24,34,2024-08-17,Pharco,ENPPI,0,0,Draw,sofascore
+2023/24,34,2024-08-17,Al Ahly,Modern Sport,1,2,Away win,sofascore
+2023/24,34,2024-08-17,Baladiyat El Mahalla,Zamalek,2,2,Draw,sofascore
+2023/24,34,2024-08-18,Arab Contractors (Al Mokawloon),El Gouna,0,1,Away win,sofascore
+2023/24,34,2024-08-18,El Dakhleya,National Bank of Egypt,0,0,Draw,sofascore
+2023/24,34,2024-08-18,Al Ittihad Alexandria,Al Masry,0,2,Away win,sofascore
+2023/24,34,2024-08-18,ZED FC,Ceramica Cleopatra,2,2,Draw,sofascore
+2024/25,1,2024-10-30,Haras El Hodoud,Smouha,1,3,Away win,sofascore
+2024/25,1,2024-10-30,Tala'ea El Gaish,Al Masry,0,2,Away win,sofascore
+2024/25,1,2024-10-31,El Gouna,ZED FC,0,0,Draw,sofascore
+2024/25,1,2024-10-31,Modern Sport,ENPPI,0,0,Draw,sofascore
+2024/25,1,2024-11-01,Pharco,Al Ittihad Alexandria,0,1,Away win,sofascore
+2024/25,1,2024-11-01,Pyramids FC,Petrojet,1,1,Draw,sofascore
+2024/25,1,2024-11-01,Zamalek,National Bank of Egypt,3,2,Home win,sofascore
+2024/25,1,2024-11-02,Ismaily,Ghazl El Mahalla,0,0,Draw,sofascore
+2024/25,1,2024-11-02,Al Ahly,Ceramica Cleopatra,5,2,Home win,sofascore
+2024/25,2,2024-11-07,Al Ittihad Alexandria,Haras El Hodoud,1,0,Home win,sofascore
+2024/25,2,2024-11-07,Ghazl El Mahalla,Tala'ea El Gaish,2,3,Away win,sofascore
+2024/25,2,2024-11-07,ZED FC,Al Ahly,0,1,Away win,sofascore
+2024/25,2,2024-11-08,Smouha,Zamalek,0,2,Away win,sofascore
+2024/25,2,2024-11-08,Petrojet,Modern Sport,1,1,Draw,sofascore
+2024/25,2,2024-11-08,ENPPI,Pyramids FC,1,2,Away win,sofascore
+2024/25,2,2024-11-09,Al Masry,El Gouna,0,0,Draw,sofascore
+2024/25,2,2024-11-09,National Bank of Egypt,Pharco,0,0,Draw,sofascore
+2024/25,2,2024-11-09,Ceramica Cleopatra,Ismaily,1,0,Home win,sofascore
+2024/25,3,2024-11-22,Pharco,ENPPI,4,3,Home win,sofascore
+2024/25,3,2024-11-22,Pyramids FC,National Bank of Egypt,3,1,Home win,sofascore
+2024/25,3,2024-11-22,Al Ahly,Al Ittihad Alexandria,1,1,Draw,sofascore
+2024/25,3,2024-11-23,El Gouna,Ghazl El Mahalla,0,1,Away win,sofascore
+2024/25,3,2024-11-23,Tala'ea El Gaish,Smouha,0,0,Draw,sofascore
+2024/25,3,2024-11-23,Zamalek,Al Masry,0,1,Away win,sofascore
+2024/25,3,2024-11-24,Ismaily,Petrojet,1,0,Home win,sofascore
+2024/25,3,2024-11-24,Haras El Hodoud,Ceramica Cleopatra,0,0,Draw,sofascore
+2024/25,3,2024-11-24,Modern Sport,ZED FC,0,0,Draw,sofascore
+2024/25,4,2024-11-30,Ceramica Cleopatra,Modern Sport,4,1,Home win,sofascore
+2024/25,4,2024-11-30,ZED FC,Haras El Hodoud,2,0,Home win,sofascore
+2024/25,4,2024-11-30,Al Ittihad Alexandria,Tala'ea El Gaish,0,1,Away win,sofascore
+2024/25,4,2024-12-01,National Bank of Egypt,Al Ahly,0,0,Draw,sofascore
+2024/25,4,2024-12-01,ENPPI,Ismaily,1,0,Home win,sofascore
+2024/25,4,2024-12-01,Smouha,El Gouna,0,0,Draw,sofascore
+2024/25,4,2024-12-02,Al Masry,Pyramids FC,1,0,Home win,sofascore
+2024/25,4,2024-12-02,Petrojet,Pharco,1,2,Away win,sofascore
+2024/25,4,2024-12-02,Ghazl El Mahalla,Zamalek,0,4,Away win,sofascore
+2024/25,5,2024-12-19,Haras El Hodoud,Al Masry,0,0,Draw,sofascore
+2024/25,5,2024-12-19,Tala'ea El Gaish,Petrojet,0,1,Away win,sofascore
+2024/25,5,2024-12-19,Zamalek,Ceramica Cleopatra,1,1,Draw,sofascore
+2024/25,5,2024-12-20,El Gouna,ENPPI,1,0,Home win,sofascore
+2024/25,5,2024-12-20,Modern Sport,National Bank of Egypt,0,1,Away win,sofascore
+2024/25,5,2024-12-20,Pharco,ZED FC,1,2,Away win,sofascore
+2024/25,5,2024-12-21,Ghazl El Mahalla,Al Ittihad Alexandria,0,0,Draw,sofascore
+2024/25,5,2024-12-21,Ismaily,Pyramids FC,1,1,Draw,sofascore
+2024/25,6,2024-12-24,ZED FC,ENPPI,0,0,Draw,sofascore
+2024/25,6,2024-12-24,Tala'ea El Gaish,Zamalek,2,2,Draw,sofascore
+2024/25,6,2024-12-25,Al Ittihad Alexandria,Modern Sport,0,0,Draw,sofascore
+2024/25,6,2024-12-25,Ismaily,Haras El Hodoud,2,2,Draw,sofascore
+2024/25,6,2024-12-25,Pyramids FC,Pharco,3,0,Home win,sofascore
+2024/25,6,2024-12-26,National Bank of Egypt,Ceramica Cleopatra,1,2,Away win,sofascore
+2024/25,6,2024-12-26,Smouha,Ghazl El Mahalla,2,4,Away win,sofascore
+2024/25,6,2024-12-26,Al Masry,Al Ahly,0,2,Away win,sofascore
+2024/25,6,2024-12-26,Petrojet,El Gouna,1,0,Home win,sofascore
+2024/25,7,2024-12-29,Haras El Hodoud,Tala'ea El Gaish,3,0,Home win,sofascore
+2024/25,7,2024-12-29,Zamalek,Al Ittihad Alexandria,2,0,Home win,sofascore
+2024/25,7,2024-12-30,El Gouna,Pyramids FC,0,1,Away win,sofascore
+2024/25,7,2024-12-30,ENPPI,Al Ahly,0,0,Draw,sofascore
+2024/25,7,2024-12-30,Pharco,Smouha,2,1,Home win,sofascore
+2024/25,7,2024-12-30,ZED FC,Petrojet,1,1,Draw,sofascore
+2024/25,7,2024-12-31,Ceramica Cleopatra,Al Masry,1,1,Draw,sofascore
+2024/25,7,2025-01-01,Modern Sport,Ismaily,0,3,Away win,sofascore
+2024/25,7,2025-01-01,Ghazl El Mahalla,National Bank of Egypt,0,1,Away win,sofascore
+2024/25,5,2025-01-07,Al Ahly,Smouha,2,0,Home win,sofascore
+2024/25,8,2025-01-10,Petrojet,ENPPI,0,0,Draw,sofascore
+2024/25,8,2025-01-10,Tala'ea El Gaish,Ceramica Cleopatra,0,1,Away win,sofascore
+2024/25,8,2025-01-11,National Bank of Egypt,Ismaily,1,0,Home win,sofascore
+2024/25,8,2025-01-11,Al Ittihad Alexandria,ZED FC,0,1,Away win,sofascore
+2024/25,8,2025-01-12,Smouha,Modern Sport,1,0,Home win,sofascore
+2024/25,8,2025-01-15,Pyramids FC,Ghazl El Mahalla,3,0,Home win,sofascore
+2024/25,8,2025-01-15,Al Ahly,El Gouna,2,0,Home win,sofascore
+2024/25,8,2025-01-16,Zamalek,Haras El Hodoud,3,2,Home win,sofascore
+2024/25,8,2025-01-16,Al Masry,Pharco,1,0,Home win,sofascore
+2024/25,9,2025-01-21,El Gouna,National Bank of Egypt,1,2,Away win,sofascore
+2024/25,9,2025-01-21,Ghazl El Mahalla,Haras El Hodoud,0,1,Away win,sofascore
+2024/25,9,2025-01-21,ENPPI,Tala'ea El Gaish,0,1,Away win,sofascore
+2024/25,9,2025-01-21,Ismaily,Smouha,1,0,Home win,sofascore
+2024/25,9,2025-01-22,Pharco,Al Ahly,1,1,Draw,sofascore
+2024/25,9,2025-01-22,Ceramica Cleopatra,Al Ittihad Alexandria,1,1,Draw,sofascore
+2024/25,9,2025-01-22,ZED FC,Pyramids FC,0,1,Away win,sofascore
+2024/25,9,2025-01-23,Petrojet,Al Masry,2,1,Home win,sofascore
+2024/25,9,2025-01-23,Modern Sport,Zamalek,1,0,Home win,sofascore
+2024/25,10,2025-01-26,Al Ittihad Alexandria,Ismaily,1,0,Home win,sofascore
+2024/25,10,2025-01-26,Tala'ea El Gaish,Pharco,0,0,Draw,sofascore
+2024/25,10,2025-01-26,Al Ahly,Pyramids FC,2,2,Draw,sofascore
+2024/25,10,2025-01-26,Ghazl El Mahalla,Ceramica Cleopatra,0,1,Away win,sofascore
+2024/25,10,2025-01-27,Zamalek,El Gouna,4,1,Home win,sofascore
+2024/25,10,2025-01-27,Al Masry,ENPPI,2,1,Home win,sofascore
+2024/25,10,2025-01-27,Haras El Hodoud,Modern Sport,1,0,Home win,sofascore
+2024/25,10,2025-01-28,National Bank of Egypt,Petrojet,0,2,Away win,sofascore
+2024/25,10,2025-01-28,Smouha,ZED FC,2,1,Home win,sofascore
+2024/25,11,2025-01-31,El Gouna,Haras El Hodoud,0,1,Away win,sofascore
+2024/25,11,2025-01-31,Ismaily,Tala'ea El Gaish,1,2,Away win,sofascore
+2024/25,11,2025-01-31,Pyramids FC,Zamalek,3,0,Home win,sofascore
+2024/25,11,2025-02-01,ENPPI,National Bank of Egypt,0,1,Away win,sofascore
+2024/25,11,2025-02-01,ZED FC,Al Masry,1,1,Draw,sofascore
+2024/25,11,2025-02-01,Pharco,Ghazl El Mahalla,3,2,Home win,sofascore
+2024/25,11,2025-02-01,Petrojet,Al Ittihad Alexandria,0,0,Draw,sofascore
+2024/25,11,2025-02-02,Ceramica Cleopatra,Smouha,0,1,Away win,sofascore
+2024/25,11,2025-02-02,Modern Sport,Al Ahly,1,3,Away win,sofascore
+2024/25,12,2025-02-06,Ceramica Cleopatra,Pharco,1,2,Away win,sofascore
+2024/25,12,2025-02-06,Ghazl El Mahalla,Modern Sport,2,1,Home win,sofascore
+2024/25,12,2025-02-06,Al Ahly,Petrojet,2,1,Home win,sofascore
+2024/25,12,2025-02-07,Haras El Hodoud,ENPPI,1,0,Home win,sofascore
+2024/25,12,2025-02-07,Smouha,Pyramids FC,0,1,Away win,sofascore
+2024/25,12,2025-02-07,Tala'ea El Gaish,El Gouna,0,0,Draw,sofascore
+2024/25,12,2025-02-07,Zamalek,Ismaily,2,0,Home win,sofascore
+2024/25,12,2025-02-08,Al Ittihad Alexandria,Al Masry,1,2,Away win,sofascore
+2024/25,12,2025-02-08,National Bank of Egypt,ZED FC,1,1,Draw,sofascore
+2024/25,13,2025-02-11,Pharco,Zamalek,0,1,Away win,sofascore
+2024/25,13,2025-02-11,Petrojet,Smouha,0,1,Away win,sofascore
+2024/25,13,2025-02-11,Al Ahly,Ghazl El Mahalla,1,0,Home win,sofascore
+2024/25,13,2025-02-12,El Gouna,Ismaily,2,0,Home win,sofascore
+2024/25,13,2025-02-12,ZED FC,Ceramica Cleopatra,1,1,Draw,sofascore
+2024/25,13,2025-02-12,Al Masry,National Bank of Egypt,0,0,Draw,sofascore
+2024/25,13,2025-02-12,Pyramids FC,Haras El Hodoud,3,0,Home win,sofascore
+2024/25,13,2025-02-13,Modern Sport,Tala'ea El Gaish,0,0,Draw,sofascore
+2024/25,13,2025-02-13,ENPPI,Al Ittihad Alexandria,1,1,Draw,sofascore
+2024/25,14,2025-02-16,Smouha,National Bank of Egypt,1,4,Away win,sofascore
+2024/25,14,2025-02-16,Zamalek,Petrojet,1,1,Draw,sofascore
+2024/25,14,2025-02-16,Haras El Hodoud,Pharco,2,0,Home win,sofascore
+2024/25,14,2025-02-16,Ismaily,Al Ahly,0,4,Away win,sofascore
+2024/25,14,2025-02-17,Ceramica Cleopatra,ENPPI,2,2,Draw,sofascore
+2024/25,14,2025-02-17,Al Ittihad Alexandria,El Gouna,1,0,Home win,sofascore
+2024/25,14,2025-02-17,Modern Sport,Pyramids FC,0,1,Away win,sofascore
+2024/25,14,2025-02-18,Tala'ea El Gaish,ZED FC,1,0,Home win,sofascore
+2024/25,14,2025-02-18,Ghazl El Mahalla,Al Masry,1,0,Home win,sofascore
+2024/25,15,2025-02-21,ENPPI,Smouha,1,0,Home win,sofascore
+2024/25,15,2025-02-21,Pharco,Modern Sport,0,0,Draw,sofascore
+2024/25,15,2025-02-21,National Bank of Egypt,Al Ittihad Alexandria,3,2,Home win,sofascore
+2024/25,15,2025-02-21,Petrojet,Haras El Hodoud,2,2,Draw,sofascore
+2024/25,15,2025-02-22,Al Masry,Ismaily,0,0,Draw,sofascore
+2024/25,15,2025-02-22,El Gouna,Ceramica Cleopatra,2,0,Home win,sofascore
+2024/25,15,2025-02-22,Al Ahly,Zamalek,1,1,Draw,sofascore
+2024/25,15,2025-02-23,ZED FC,Ghazl El Mahalla,2,0,Home win,sofascore
+2024/25,15,2025-02-23,Pyramids FC,Tala'ea El Gaish,2,1,Home win,sofascore
+2024/25,16,2025-02-26,Haras El Hodoud,Al Ahly,0,1,Away win,sofascore
+2024/25,16,2025-02-26,Modern Sport,El Gouna,2,3,Away win,sofascore
+2024/25,16,2025-02-26,Ismaily,Pharco,0,2,Away win,sofascore
+2024/25,16,2025-02-27,Smouha,Al Masry,0,3,Away win,sofascore
+2024/25,16,2025-02-27,Tala'ea El Gaish,National Bank of Egypt,2,2,Draw,sofascore
+2024/25,16,2025-02-27,Zamalek,ZED FC,1,1,Draw,sofascore
+2024/25,16,2025-02-28,Ghazl El Mahalla,ENPPI,3,0,Home win,sofascore
+2024/25,16,2025-02-28,Al Ittihad Alexandria,Pyramids FC,1,3,Away win,sofascore
+2024/25,16,2025-02-28,Ceramica Cleopatra,Petrojet,4,1,Home win,sofascore
+2024/25,17,2025-03-03,Al Masry,Modern Sport,4,2,Home win,sofascore
+2024/25,17,2025-03-03,National Bank of Egypt,Haras El Hodoud,2,1,Home win,sofascore
+2024/25,17,2025-03-03,Pharco,El Gouna,0,0,Draw,sofascore
+2024/25,17,2025-03-04,Al Ittihad Alexandria,Smouha,0,1,Away win,sofascore
+2024/25,17,2025-03-04,ENPPI,Zamalek,0,3,Away win,sofascore
+2024/25,17,2025-03-04,ZED FC,Ismaily,2,2,Draw,sofascore
+2024/25,17,2025-03-05,Al Ahly,Tala'ea El Gaish,2,0,Home win,sofascore
+2024/25,17,2025-03-05,Pyramids FC,Ceramica Cleopatra,2,1,Home win,sofascore
+2024/25,17,2025-03-05,Petrojet,Ghazl El Mahalla,2,1,Home win,sofascore
+2024/25,18,2025-03-11,Haras El Hodoud,Petrojet,1,2,Away win,sofascore
+2024/25,18,2025-03-11,Zamalek,Al Ahly,3,0,Home win,sofascore
+2024/25,18,2025-03-11,El Gouna,Al Ittihad Alexandria,2,0,Home win,sofascore
+2024/25,18,2025-03-11,Modern Sport,Smouha,2,0,Home win,sofascore
+2024/25,18,2025-03-12,Pharco,National Bank of Egypt,2,1,Home win,sofascore
+2024/25,18,2025-03-12,Pyramids FC,Al Masry,0,0,Draw,sofascore
+2024/25,18,2025-03-12,Ghazl El Mahalla,ZED FC,0,3,Away win,sofascore
+2024/25,18,2025-03-13,Tala'ea El Gaish,Ismaily,0,1,Away win,sofascore
+2024/25,19,2025-04-10,ENPPI,Modern Sport,2,1,Home win,sofascore
+2024/25,19,2025-04-10,Ismaily,Al Ittihad Alexandria,0,0,Draw,sofascore
+2024/25,19,2025-04-11,ZED FC,El Gouna,1,2,Away win,sofascore
+2024/25,19,2025-04-11,Ghazl El Mahalla,Smouha,1,0,Home win,sofascore
+2024/25,19,2025-04-12,Pharco,Ceramica Cleopatra,0,2,Away win,sofascore
+2024/25,19,2025-04-12,Pyramids FC,Al Ahly,1,1,Draw,sofascore
+2024/25,19,2025-04-13,Al Masry,Petrojet,4,0,Home win,sofascore
+2024/25,19,2025-04-13,Haras El Hodoud,Zamalek,0,2,Away win,sofascore
+2024/25,20,2025-04-28,El Gouna,Smouha,1,1,Draw,sofascore
+2024/25,20,2025-04-28,Ismaily,ZED FC,0,2,Away win,sofascore
+2024/25,20,2025-04-28,Tala'ea El Gaish,Al Ittihad Alexandria,1,2,Away win,sofascore
+2024/25,20,2025-04-29,ENPPI,Ghazl El Mahalla,1,0,Home win,sofascore
+2024/25,20,2025-04-30,Haras El Hodoud,Pyramids FC,1,2,Away win,sofascore
+2024/25,20,2025-04-30,Petrojet,Al Ahly,2,3,Away win,sofascore
+2024/25,20,2025-05-01,Ceramica Cleopatra,National Bank of Egypt,2,4,Away win,sofascore
+2024/25,20,2025-05-01,Al Masry,Zamalek,0,0,Draw,sofascore
+2024/25,21,2025-05-02,Smouha,Ismaily,1,1,Draw,sofascore
+2024/25,21,2025-05-02,ZED FC,Tala'ea El Gaish,0,0,Draw,sofascore
+2024/25,21,2025-05-03,ENPPI,El Gouna,0,1,Away win,sofascore
+2024/25,21,2025-05-03,Modern Sport,Ghazl El Mahalla,2,1,Home win,sofascore
+2024/25,21,2025-05-04,Pharco,Pyramids FC,3,2,Home win,sofascore
+2024/25,21,2025-05-04,Al Ahly,Haras El Hodoud,5,0,Home win,sofascore
+2024/25,21,2025-05-05,Petrojet,Ceramica Cleopatra,0,2,Away win,sofascore
+2024/25,21,2025-05-05,National Bank of Egypt,Zamalek,2,2,Draw,sofascore
+2024/25,22,2025-05-06,Smouha,Tala'ea El Gaish,0,0,Draw,sofascore
+2024/25,22,2025-05-06,ZED FC,Al Ittihad Alexandria,0,0,Draw,sofascore
+2024/25,22,2025-05-07,El Gouna,Modern Sport,0,1,Away win,sofascore
+2024/25,22,2025-05-07,Ismaily,ENPPI,0,1,Away win,sofascore
+2024/25,22,2025-05-08,Al Ahly,Al Masry,4,2,Home win,sofascore
+2024/25,22,2025-05-09,Ceramica Cleopatra,Zamalek,2,2,Draw,sofascore
+2024/25,22,2025-05-09,National Bank of Egypt,Pyramids FC,4,2,Home win,sofascore
+2024/25,22,2025-05-09,Pharco,Petrojet,2,2,Draw,sofascore
+2024/25,23,2025-05-10,Al Ittihad Alexandria,Ghazl El Mahalla,0,0,Draw,sofascore
+2024/25,23,2025-05-11,Smouha,ENPPI,0,1,Away win,sofascore
+2024/25,23,2025-05-11,El Gouna,Tala'ea El Gaish,0,1,Away win,sofascore
+2024/25,23,2025-05-11,ZED FC,Modern Sport,2,2,Draw,sofascore
+2024/25,23,2025-05-13,Ceramica Cleopatra,Al Ahly,0,1,Away win,sofascore
+2024/25,23,2025-05-13,Pharco,Al Masry,1,1,Draw,sofascore
+2024/25,23,2025-05-13,Haras El Hodoud,National Bank of Egypt,1,1,Draw,sofascore
+2024/25,23,2025-05-13,Zamalek,Pyramids FC,0,1,Away win,sofascore
+2024/25,24,2025-05-16,Ghazl El Mahalla,El Gouna,0,4,Away win,sofascore
+2024/25,24,2025-05-16,Ismaily,Modern Sport,1,2,Away win,sofascore
+2024/25,24,2025-05-16,Smouha,Al Ittihad Alexandria,0,0,Draw,sofascore
+2024/25,24,2025-05-16,Tala'ea El Gaish,ENPPI,1,1,Draw,sofascore
+2024/25,24,2025-05-17,Al Ahly,National Bank of Egypt,2,1,Home win,sofascore
+2024/25,24,2025-05-17,Al Masry,Ceramica Cleopatra,0,4,Away win,sofascore
+2024/25,24,2025-05-17,Petrojet,Pyramids FC,0,2,Away win,sofascore
+2024/25,24,2025-05-18,Pharco,Haras El Hodoud,0,0,Draw,sofascore
+2024/25,25,2025-05-24,Ceramica Cleopatra,Haras El Hodoud,2,0,Home win,sofascore
+2024/25,25,2025-05-24,National Bank of Egypt,Al Masry,0,1,Away win,sofascore
+2024/25,25,2025-05-24,Petrojet,Zamalek,1,3,Away win,sofascore
+2024/25,25,2025-05-25,ENPPI,ZED FC,1,1,Draw,sofascore
+2024/25,25,2025-05-25,Ismaily,El Gouna,3,0,Home win,sofascore
+2024/25,25,2025-05-25,Modern Sport,Al Ittihad Alexandria,1,0,Home win,sofascore
+2024/25,25,2025-05-25,Tala'ea El Gaish,Ghazl El Mahalla,1,1,Draw,sofascore
+2024/25,25,2025-05-28,Al Ahly,Pharco,6,0,Home win,sofascore
+2024/25,26,2025-05-28,Al Masry,Haras El Hodoud,2,0,Home win,sofascore
+2024/25,26,2025-05-28,Ceramica Cleopatra,Pyramids FC,1,5,Away win,sofascore
+2024/25,26,2025-05-28,Petrojet,National Bank of Egypt,0,0,Draw,sofascore
+2024/25,26,2025-05-29,Al Ittihad Alexandria,ENPPI,1,1,Draw,sofascore
+2024/25,26,2025-05-29,Ghazl El Mahalla,Ismaily,1,1,Draw,sofascore
+2024/25,26,2025-05-29,Tala'ea El Gaish,Modern Sport,1,1,Draw,sofascore
+2024/25,26,2025-05-29,ZED FC,Smouha,0,0,Draw,sofascore
+2024/25,26,2025-05-31,Zamalek,Pharco,2,0,Home win,sofascore
+2025/26,1,2025-08-08,Wadi Degla,Pyramids FC,0,0,Draw,sofascore
+2025/26,1,2025-08-08,Al Masry,Al Ittihad Alexandria,3,1,Home win,sofascore
+2025/26,1,2025-08-08,Ceramica Cleopatra,Zamalek,0,2,Away win,sofascore
+2025/26,1,2025-08-09,Arab Contractors (Al Mokawloon),ZED FC,0,2,Away win,sofascore
+2025/26,1,2025-08-09,Smouha,Tala'ea El Gaish,1,1,Draw,sofascore
+2025/26,1,2025-08-09,Ismaily,Petrojet,0,0,Draw,sofascore
+2025/26,1,2025-08-09,Modern Sport,Al Ahly,2,2,Draw,sofascore
+2025/26,1,2025-08-10,Ismailia Electricity,El Gouna,0,1,Away win,sofascore
+2025/26,1,2025-08-10,National Bank of Egypt,Ghazl El Mahalla,0,0,Draw,sofascore
+2025/26,1,2025-08-10,Pharco,ENPPI,0,0,Draw,sofascore
+2025/26,2,2025-08-14,Al Ittihad Alexandria,Modern Sport,1,2,Away win,sofascore
+2025/26,2,2025-08-14,ZED FC,Ceramica Cleopatra,0,0,Draw,sofascore
+2025/26,2,2025-08-14,Pyramids FC,Ismaily,1,0,Home win,sofascore
+2025/26,2,2025-08-14,Tala'ea El Gaish,Al Masry,0,3,Away win,sofascore
+2025/26,2,2025-08-15,Petrojet,Ismailia Electricity,2,2,Draw,sofascore
+2025/26,2,2025-08-15,Al Ahly,Pharco,4,1,Home win,sofascore
+2025/26,2,2025-08-15,Haras El Hodoud,National Bank of Egypt,1,0,Home win,sofascore
+2025/26,2,2025-08-16,ENPPI,Wadi Degla,1,0,Home win,sofascore
+2025/26,2,2025-08-16,Ghazl El Mahalla,Smouha,0,0,Draw,sofascore
+2025/26,2,2025-08-16,Zamalek,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2025/26,3,2025-08-19,National Bank of Egypt,Ismailia Electricity,1,1,Draw,sofascore
+2025/26,3,2025-08-19,Pharco,Tala'ea El Gaish,0,1,Away win,sofascore
+2025/26,3,2025-08-19,Al Masry,Pyramids FC,2,2,Draw,sofascore
+2025/26,3,2025-08-19,Ismaily,Al Ittihad Alexandria,0,1,Away win,sofascore
+2025/26,3,2025-08-20,Ceramica Cleopatra,ENPPI,2,0,Home win,sofascore
+2025/26,3,2025-08-20,El Gouna,Ghazl El Mahalla,0,0,Draw,sofascore
+2025/26,3,2025-08-20,Wadi Degla,Petrojet,0,1,Away win,sofascore
+2025/26,3,2025-08-21,Arab Contractors (Al Mokawloon),Haras El Hodoud,0,0,Draw,sofascore
+2025/26,3,2025-08-21,Modern Sport,Zamalek,1,2,Away win,sofascore
+2025/26,3,2025-08-21,Smouha,ZED FC,1,1,Draw,sofascore
+2025/26,4,2025-08-24,Al Ittihad Alexandria,National Bank of Egypt,0,0,Draw,sofascore
+2025/26,4,2025-08-24,ENPPI,El Gouna,0,0,Draw,sofascore
+2025/26,4,2025-08-24,Tala'ea El Gaish,Ismaily,0,1,Away win,sofascore
+2025/26,4,2025-08-25,Ghazl El Mahalla,Al Ahly,0,0,Draw,sofascore
+2025/26,4,2025-08-25,ZED FC,Wadi Degla,1,2,Away win,sofascore
+2025/26,4,2025-08-25,Pyramids FC,Modern Sport,1,2,Away win,sofascore
+2025/26,4,2025-08-25,Petrojet,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2025/26,4,2025-08-26,Ismailia Electricity,Smouha,1,2,Away win,sofascore
+2025/26,4,2025-08-26,Haras El Hodoud,Al Masry,1,1,Draw,sofascore
+2025/26,4,2025-08-26,Zamalek,Pharco,1,0,Home win,sofascore
+2025/26,5,2025-08-29,Arab Contractors (Al Mokawloon),Ceramica Cleopatra,0,1,Away win,sofascore
+2025/26,5,2025-08-29,Al Ittihad Alexandria,ENPPI,0,3,Away win,sofascore
+2025/26,5,2025-08-29,National Bank of Egypt,Tala'ea El Gaish,0,0,Draw,sofascore
+2025/26,5,2025-08-30,El Gouna,ZED FC,1,1,Draw,sofascore
+2025/26,5,2025-08-30,Al Ahly,Pyramids FC,0,2,Away win,sofascore
+2025/26,5,2025-08-30,Ismaily,Ghazl El Mahalla,0,3,Away win,sofascore
+2025/26,5,2025-08-31,Al Masry,Ismailia Electricity,4,0,Home win,sofascore
+2025/26,5,2025-08-31,Modern Sport,Haras El Hodoud,1,0,Home win,sofascore
+2025/26,5,2025-08-31,Smouha,Petrojet,0,0,Draw,sofascore
+2025/26,5,2025-08-31,Wadi Degla,Zamalek,2,1,Home win,sofascore
+2025/26,6,2025-09-12,Petrojet,National Bank of Egypt,0,3,Away win,sofascore
+2025/26,6,2025-09-12,Pharco,Al Ittihad Alexandria,0,0,Draw,sofascore
+2025/26,6,2025-09-12,ZED FC,Ismaily,1,0,Home win,sofascore
+2025/26,6,2025-09-13,Ghazl El Mahalla,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2025/26,6,2025-09-13,Haras El Hodoud,El Gouna,2,1,Home win,sofascore
+2025/26,6,2025-09-13,Ceramica Cleopatra,Smouha,1,0,Home win,sofascore
+2025/26,6,2025-09-13,Zamalek,Al Masry,3,0,Home win,sofascore
+2025/26,6,2025-09-14,Tala'ea El Gaish,Modern Sport,1,0,Home win,sofascore
+2025/26,6,2025-09-14,ENPPI,Al Ahly,1,1,Draw,sofascore
+2025/26,6,2025-09-14,Ismailia Electricity,Wadi Degla,1,4,Away win,sofascore
+2025/26,7,2025-09-17,Arab Contractors (Al Mokawloon),Pharco,1,1,Draw,sofascore
+2025/26,7,2025-09-17,Al Masry,Ghazl El Mahalla,2,1,Home win,sofascore
+2025/26,7,2025-09-17,El Gouna,Petrojet,1,1,Draw,sofascore
+2025/26,7,2025-09-18,Ismaily,Zamalek,0,2,Away win,sofascore
+2025/26,7,2025-09-18,Modern Sport,ENPPI,2,2,Draw,sofascore
+2025/26,7,2025-09-18,Al Ittihad Alexandria,Ismailia Electricity,0,1,Away win,sofascore
+2025/26,7,2025-09-18,Pyramids FC,ZED FC,1,0,Home win,sofascore
+2025/26,7,2025-09-19,Wadi Degla,Tala'ea El Gaish,1,0,Home win,sofascore
+2025/26,7,2025-09-19,Al Ahly,Ceramica Cleopatra,1,0,Home win,sofascore
+2025/26,7,2025-09-19,Smouha,Haras El Hodoud,1,0,Home win,sofascore
+2025/26,8,2025-09-22,Pharco,Al Masry,0,0,Draw,sofascore
+2025/26,8,2025-09-22,Petrojet,Ghazl El Mahalla,0,0,Draw,sofascore
+2025/26,8,2025-09-22,ZED FC,Al Ittihad Alexandria,1,0,Home win,sofascore
+2025/26,8,2025-09-23,Haras El Hodoud,Al Ahly,2,3,Away win,sofascore
+2025/26,8,2025-09-23,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2025/26,8,2025-09-23,Zamalek,El Gouna,1,1,Draw,sofascore
+2025/26,8,2025-09-24,ENPPI,Ismaily,1,0,Home win,sofascore
+2025/26,8,2025-09-24,Ceramica Cleopatra,Modern Sport,2,0,Home win,sofascore
+2025/26,8,2025-09-24,National Bank of Egypt,Wadi Degla,1,1,Draw,sofascore
+2025/26,9,2025-09-27,Arab Contractors (Al Mokawloon),Ismailia Electricity,0,1,Away win,sofascore
+2025/26,9,2025-09-27,ZED FC,Haras El Hodoud,0,1,Away win,sofascore
+2025/26,9,2025-09-27,Al Masry,Petrojet,2,3,Away win,sofascore
+2025/26,9,2025-09-27,Pyramids FC,Tala'ea El Gaish,4,0,Home win,sofascore
+2025/26,9,2025-09-28,Modern Sport,Pharco,1,1,Draw,sofascore
+2025/26,9,2025-09-28,Ghazl El Mahalla,ENPPI,0,0,Draw,sofascore
+2025/26,9,2025-09-28,Wadi Degla,Smouha,1,1,Draw,sofascore
+2025/26,9,2025-09-29,El Gouna,Ceramica Cleopatra,1,1,Draw,sofascore
+2025/26,9,2025-09-29,Ismaily,National Bank of Egypt,1,2,Away win,sofascore
+2025/26,9,2025-09-29,Al Ahly,Zamalek,2,1,Home win,sofascore
+2025/26,10,2025-10-03,Smouha,Ismaily,2,0,Home win,sofascore
+2025/26,10,2025-10-03,Al Ittihad Alexandria,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2025/26,10,2025-10-03,National Bank of Egypt,Al Masry,0,1,Away win,sofascore
+2025/26,10,2025-10-04,Tala'ea El Gaish,El Gouna,0,1,Away win,sofascore
+2025/26,10,2025-10-04,Zamalek,Ghazl El Mahalla,1,1,Draw,sofascore
+2025/26,10,2025-10-04,Haras El Hodoud,Ceramica Cleopatra,0,3,Away win,sofascore
+2025/26,10,2025-10-04,Ismailia Electricity,Al Ahly,2,4,Away win,sofascore
+2025/26,10,2025-10-05,ENPPI,ZED FC,1,0,Home win,sofascore
+2025/26,10,2025-10-05,Pharco,Wadi Degla,0,0,Draw,sofascore
+2025/26,11,2025-10-17,Wadi Degla,Modern Sport,1,2,Away win,sofascore
+2025/26,11,2025-10-17,Arab Contractors (Al Mokawloon),ENPPI,1,1,Draw,sofascore
+2025/26,11,2025-10-17,Ghazl El Mahalla,Ismailia Electricity,1,0,Home win,sofascore
+2025/26,11,2025-10-18,El Gouna,National Bank of Egypt,0,3,Away win,sofascore
+2025/26,11,2025-10-18,Ismaily,Haras El Hodoud,3,1,Home win,sofascore
+2025/26,11,2025-10-19,ZED FC,Petrojet,2,1,Home win,sofascore
+2025/26,11,2025-10-19,Ceramica Cleopatra,Tala'ea El Gaish,2,0,Home win,sofascore
+2025/26,11,2025-10-21,Pyramids FC,Pharco,2,0,Home win,sofascore
+2025/26,11,2025-10-22,Al Ahly,Al Ittihad Alexandria,2,1,Home win,sofascore
+2025/26,11,2025-10-22,Al Masry,Smouha,0,0,Draw,sofascore
+2025/26,12,2025-10-25,Haras El Hodoud,Ghazl El Mahalla,0,0,Draw,sofascore
+2025/26,12,2025-10-25,Modern Sport,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2025/26,12,2025-10-26,Ismailia Electricity,Ceramica Cleopatra,0,1,Away win,sofascore
+2025/26,12,2025-10-26,Pharco,Ismaily,1,0,Home win,sofascore
+2025/26,12,2025-10-26,Tala'ea El Gaish,ZED FC,2,2,Draw,sofascore
+2025/26,12,2025-10-27,Smouha,El Gouna,0,1,Away win,sofascore
+2025/26,12,2025-10-27,Al Ittihad Alexandria,Wadi Degla,1,2,Away win,sofascore
+2025/26,12,2025-10-29,Petrojet,Al Ahly,1,1,Draw,sofascore
+2025/26,12,2025-10-30,National Bank of Egypt,Zamalek,1,1,Draw,sofascore
+2025/26,13,2025-11-01,Ghazl El Mahalla,Modern Sport,0,0,Draw,sofascore
+2025/26,13,2025-11-01,El Gouna,Pharco,0,1,Away win,sofascore
+2025/26,13,2025-11-01,Ismaily,Ismailia Electricity,2,1,Home win,sofascore
+2025/26,13,2025-11-02,Pyramids FC,Al Ittihad Alexandria,2,1,Home win,sofascore
+2025/26,13,2025-11-02,Zamalek,Tala'ea El Gaish,3,1,Home win,sofascore
+2025/26,13,2025-11-02,Al Ahly,Al Masry,0,0,Draw,sofascore
+2025/26,13,2025-11-02,Ceramica Cleopatra,Petrojet,2,1,Home win,sofascore
+2025/26,13,2025-11-04,Wadi Degla,Haras El Hodoud,1,1,Draw,sofascore
+2025/26,13,2025-11-04,Arab Contractors (Al Mokawloon),Smouha,1,1,Draw,sofascore
+2025/26,13,2025-11-04,ZED FC,National Bank of Egypt,1,1,Draw,sofascore
+2025/26,14,2025-11-22,Pharco,Ceramica Cleopatra,0,2,Away win,sofascore
+2025/26,14,2025-11-22,Modern Sport,National Bank of Egypt,0,0,Draw,sofascore
+2025/26,14,2025-11-22,Tala'ea El Gaish,ENPPI,1,1,Draw,sofascore
+2025/26,14,2025-11-23,Al Ittihad Alexandria,El Gouna,0,2,Away win,sofascore
+2025/26,14,2025-11-23,Ismailia Electricity,ZED FC,1,2,Away win,sofascore
+2025/26,14,2025-11-23,Petrojet,Haras El Hodoud,3,1,Home win,sofascore
+2025/26,14,2025-11-25,Pyramids FC,Arab Contractors (Al Mokawloon),2,0,Home win,sofascore
+2025/26,8,2025-12-03,Ismailia Electricity,Pyramids FC,1,2,Away win,sofascore
+2025/26,10,2025-12-06,Petrojet,Pyramids FC,2,2,Draw,sofascore
+2025/26,15,2026-01-21,Ceramica Cleopatra,Al Ittihad Alexandria,3,1,Home win,sofascore
+2025/26,15,2026-01-21,Smouha,Pharco,2,0,Home win,sofascore
+2025/26,15,2026-01-22,Haras El Hodoud,Ismailia Electricity,1,2,Away win,sofascore
+2025/26,15,2026-01-22,Wadi Degla,Ghazl El Mahalla,3,2,Home win,sofascore
+2025/26,15,2026-01-22,Ismaily,Arab Contractors (Al Mokawloon),1,2,Away win,sofascore
+2025/26,16,2026-01-27,Al Ahly,Wadi Degla,3,1,Home win,sofascore
+2025/26,16,2026-01-28,Zamalek,Petrojet,2,0,Home win,sofascore
+2025/26,16,2026-01-28,Al Masry,Ceramica Cleopatra,3,2,Home win,sofascore
+2025/26,16,2026-01-28,Pyramids FC,El Gouna,1,1,Draw,sofascore
+2025/26,16,2026-01-29,ENPPI,Smouha,1,2,Away win,sofascore
+2025/26,16,2026-01-29,Ghazl El Mahalla,Tala'ea El Gaish,0,0,Draw,sofascore
+2025/26,16,2026-01-29,Modern Sport,Ismaily,1,0,Home win,sofascore
+2025/26,16,2026-01-30,Pharco,ZED FC,0,2,Away win,sofascore
+2025/26,16,2026-01-30,Al Ittihad Alexandria,Haras El Hodoud,2,0,Home win,sofascore
+2025/26,16,2026-01-30,Arab Contractors (Al Mokawloon),National Bank of Egypt,0,1,Away win,sofascore
+2025/26,17,2026-02-03,National Bank of Egypt,Al Ahly,1,1,Draw,sofascore
+2025/26,17,2026-02-04,Smouha,Pyramids FC,2,1,Home win,sofascore
+2025/26,17,2026-02-04,ZED FC,Al Masry,1,1,Draw,sofascore
+2025/26,17,2026-02-04,Ismailia Electricity,Zamalek,2,5,Away win,sofascore
+2025/26,17,2026-02-05,Haras El Hodoud,Pharco,2,2,Draw,sofascore
+2025/26,17,2026-02-05,Ceramica Cleopatra,Ghazl El Mahalla,3,2,Home win,sofascore
+2025/26,17,2026-02-05,Wadi Degla,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2025/26,17,2026-02-06,El Gouna,Modern Sport,1,1,Draw,sofascore
+2025/26,17,2026-02-06,Petrojet,ENPPI,1,1,Draw,sofascore
+2025/26,17,2026-02-06,Tala'ea El Gaish,Al Ittihad Alexandria,0,1,Away win,sofascore
+2025/26,12,2026-02-11,ENPPI,Pyramids FC,1,2,Away win,sofascore
+2025/26,14,2026-02-11,Al Ahly,Ismaily,2,0,Home win,sofascore
+2025/26,14,2026-02-11,Al Masry,Wadi Degla,1,1,Draw,sofascore
+2025/26,14,2026-02-11,Zamalek,Smouha,1,0,Home win,sofascore
+2025/26,18,2026-02-16,Al Ittihad Alexandria,Smouha,1,0,Home win,sofascore
+2025/26,18,2026-02-16,Modern Sport,Ismailia Electricity,1,1,Draw,sofascore
+2025/26,18,2026-02-16,ENPPI,National Bank of Egypt,0,0,Draw,sofascore
+2025/26,18,2026-02-19,Al Ahly,El Gouna,1,0,Home win,sofascore
+2025/26,18,2026-02-19,Arab Contractors (Al Mokawloon),Al Masry,1,1,Draw,sofascore
+2025/26,18,2026-02-19,Pharco,Petrojet,1,1,Draw,sofascore
+2025/26,18,2026-02-20,Ghazl El Mahalla,ZED FC,0,0,Draw,sofascore
+2025/26,18,2026-02-20,Ismaily,Wadi Degla,1,2,Away win,sofascore
+2025/26,18,2026-02-20,Pyramids FC,Ceramica Cleopatra,1,0,Home win,sofascore
+2025/26,18,2026-02-20,Zamalek,Haras El Hodoud,2,0,Home win,sofascore
+2025/26,19,2026-02-23,El Gouna,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2025/26,19,2026-02-23,Ismailia Electricity,Tala'ea El Gaish,2,2,Draw,sofascore
+2025/26,19,2026-02-23,Smouha,Al Ahly,0,1,Away win,sofascore
+2025/26,19,2026-02-24,Ceramica Cleopatra,Ismaily,1,1,Draw,sofascore
+2025/26,19,2026-02-24,Ghazl El Mahalla,Pyramids FC,1,3,Away win,sofascore
+2025/26,19,2026-02-24,Haras El Hodoud,ENPPI,1,0,Home win,sofascore
+2025/26,19,2026-02-24,ZED FC,Zamalek,1,2,Away win,sofascore
+2025/26,19,2026-02-25,Al Masry,Modern Sport,1,0,Home win,sofascore
+2025/26,19,2026-02-25,National Bank of Egypt,Pharco,1,0,Home win,sofascore
+2025/26,19,2026-02-25,Petrojet,Al Ittihad Alexandria,1,0,Home win,sofascore
+2025/26,20,2026-02-28,Al Ahly,ZED FC,1,1,Draw,sofascore
+2025/26,20,2026-02-28,Ismaily,El Gouna,1,2,Away win,sofascore
+2025/26,20,2026-02-28,Tala'ea El Gaish,Haras El Hodoud,1,0,Home win,sofascore
+2025/26,20,2026-02-28,Wadi Degla,Ceramica Cleopatra,1,1,Draw,sofascore
+2025/26,20,2026-03-01,ENPPI,Al Masry,3,2,Home win,sofascore
+2025/26,20,2026-03-01,Modern Sport,Petrojet,1,1,Draw,sofascore
+2025/26,20,2026-03-01,National Bank of Egypt,Smouha,1,3,Away win,sofascore
+2025/26,20,2026-03-01,Pyramids FC,Zamalek,0,1,Away win,sofascore
+2025/26,20,2026-03-02,Al Ittihad Alexandria,Ghazl El Mahalla,2,0,Home win,sofascore
+2025/26,20,2026-03-02,Pharco,Ismailia Electricity,0,2,Away win,sofascore
+2025/26,21,2026-03-05,Arab Contractors (Al Mokawloon),Al Ahly,1,3,Away win,sofascore
+2025/26,21,2026-03-05,Ceramica Cleopatra,National Bank of Egypt,2,2,Draw,sofascore
+2025/26,21,2026-03-05,Haras El Hodoud,Pyramids FC,1,3,Away win,sofascore
+2025/26,21,2026-03-05,Petrojet,Tala'ea El Gaish,1,2,Away win,sofascore
+2025/26,21,2026-03-06,Al Masry,Ismaily,2,0,Home win,sofascore
+2025/26,21,2026-03-06,El Gouna,Wadi Degla,0,0,Draw,sofascore
+2025/26,21,2026-03-06,Zamalek,Al Ittihad Alexandria,1,0,Home win,sofascore
+2025/26,21,2026-03-07,Ghazl El Mahalla,Pharco,0,0,Draw,sofascore
+2025/26,21,2026-03-07,Ismailia Electricity,ENPPI,1,2,Away win,sofascore
+2025/26,21,2026-03-07,Smouha,Modern Sport,3,0,Home win,sofascore
+2025/26,15,2026-03-09,National Bank of Egypt,Pyramids FC,0,1,Away win,sofascore
+2025/26,15,2026-03-09,Tala'ea El Gaish,Al Ahly,2,1,Home win,sofascore
+2025/26,15,2026-03-10,El Gouna,Al Masry,1,0,Home win,sofascore
+2025/26,15,2026-03-11,ENPPI,Zamalek,1,0,Home win,sofascore
+2025/26,15,2026-03-11,ZED FC,Modern Sport,2,0,Home win,sofascore
+2025/26,1,2026-03-20,Haras El Hodoud,Ismaily,0,0,Draw,sofascore
+2025/26,1,2026-03-20,Wadi Degla,El Gouna,0,0,Draw,sofascore
+2025/26,1,2026-03-21,Arab Contractors (Al Mokawloon),Petrojet,2,2,Draw,sofascore
+2025/26,1,2026-03-21,Ghazl El Mahalla,National Bank of Egypt,1,1,Draw,sofascore
+2025/26,1,2026-03-22,ZED FC,Tala'ea El Gaish,1,0,Home win,sofascore
+2025/26,1,2026-03-22,Al Ittihad Alexandria,Pharco,1,1,Draw,sofascore
+2025/26,1,2026-03-22,Ismailia Electricity,Modern Sport,1,1,Draw,sofascore
+2025/26,2,2026-04-04,Pharco,Ghazl El Mahalla,1,1,Draw,sofascore
+2025/26,2,2026-04-04,El Gouna,Al Ittihad Alexandria,0,0,Draw,sofascore
+2025/26,2,2026-04-04,Modern Sport,Wadi Degla,0,0,Draw,sofascore
+2025/26,1,2026-04-05,Al Masry,Zamalek,1,4,Away win,sofascore
+2025/26,2,2026-04-05,National Bank of Egypt,Haras El Hodoud,4,2,Home win,sofascore
+2025/26,2,2026-04-05,Ismaily,Tala'ea El Gaish,0,0,Draw,sofascore
+2025/26,2,2026-04-06,Ismailia Electricity,Petrojet,0,0,Draw,sofascore
+2025/26,2,2026-04-06,ZED FC,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2025/26,1,2026-04-07,Smouha,ENPPI,0,2,Away win,sofascore
+2025/26,1,2026-04-07,Ceramica Cleopatra,Al Ahly,1,1,Draw,sofascore
+2025/26,3,2026-04-08,Wadi Degla,Pharco,2,0,Home win,sofascore
+2025/26,3,2026-04-08,Ghazl El Mahalla,El Gouna,1,0,Home win,sofascore
+2025/26,3,2026-04-08,Haras El Hodoud,Modern Sport,0,0,Draw,sofascore
+2025/26,3,2026-04-09,Ismailia Electricity,Al Ittihad Alexandria,1,1,Draw,sofascore
+2025/26,3,2026-04-09,Tala'ea El Gaish,National Bank of Egypt,1,0,Home win,sofascore
+2025/26,3,2026-04-09,Arab Contractors (Al Mokawloon),Ismaily,1,0,Home win,sofascore
+2025/26,3,2026-04-09,Petrojet,ZED FC,2,1,Home win,sofascore
+2025/26,2,2026-04-11,Pyramids FC,Al Masry,1,1,Draw,sofascore
+2025/26,2,2026-04-11,Al Ahly,Smouha,2,1,Home win,sofascore
+2025/26,2,2026-04-11,ENPPI,Ceramica Cleopatra,1,1,Draw,sofascore
+2025/26,4,2026-04-13,Ghazl El Mahalla,Wadi Degla,0,0,Draw,sofascore
+2025/26,4,2026-04-13,Pharco,Haras El Hodoud,2,1,Home win,sofascore
+2025/26,4,2026-04-13,National Bank of Egypt,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2025/26,4,2026-04-13,Tala'ea El Gaish,Petrojet,2,0,Home win,sofascore
+2025/26,4,2026-04-14,Modern Sport,El Gouna,0,0,Draw,sofascore
+2025/26,4,2026-04-14,Al Ittihad Alexandria,ZED FC,2,1,Home win,sofascore
+2025/26,4,2026-04-14,Ismailia Electricity,Ismaily,1,1,Draw,sofascore
+2025/26,5,2026-04-18,Petrojet,Pharco,1,0,Home win,sofascore
+2025/26,5,2026-04-18,Arab Contractors (Al Mokawloon),Tala'ea El Gaish,2,0,Home win,sofascore
+2025/26,5,2026-04-18,Wadi Degla,National Bank of Egypt,2,0,Home win,sofascore
+2025/26,5,2026-04-19,El Gouna,Ismaily,1,0,Home win,sofascore
+2025/26,5,2026-04-19,Haras El Hodoud,Al Ittihad Alexandria,2,2,Draw,sofascore
+2025/26,5,2026-04-19,Ismailia Electricity,Ghazl El Mahalla,1,3,Away win,sofascore
+2025/26,5,2026-04-19,Modern Sport,ZED FC,1,3,Away win,sofascore
+2025/26,3,2026-04-22,Al Masry,ENPPI,2,2,Draw,sofascore
+2025/26,3,2026-04-22,Smouha,Ceramica Cleopatra,0,2,Away win,sofascore
+2025/26,3,2026-04-23,Zamalek,Pyramids FC,1,0,Home win,sofascore
+2025/26,6,2026-04-23,Arab Contractors (Al Mokawloon),Al Ittihad Alexandria,0,0,Draw,sofascore
+2025/26,6,2026-04-23,Ghazl El Mahalla,Petrojet,1,1,Draw,sofascore
+2025/26,6,2026-04-24,National Bank of Egypt,ZED FC,2,1,Home win,sofascore
+2025/26,6,2026-04-24,Pharco,El Gouna,0,1,Away win,sofascore
+2025/26,6,2026-04-24,Ismaily,Modern Sport,0,2,Away win,sofascore
+2025/26,6,2026-04-24,Tala'ea El Gaish,Ismailia Electricity,1,2,Away win,sofascore
+2025/26,6,2026-04-25,Haras El Hodoud,Wadi Degla,0,1,Away win,sofascore
+2025/26,4,2026-04-27,Smouha,Al Masry,0,1,Away win,sofascore
+2025/26,4,2026-04-27,Zamalek,ENPPI,0,0,Draw,sofascore
+2025/26,4,2026-04-27,Pyramids FC,Al Ahly,3,0,Home win,sofascore
+2025/26,7,2026-04-28,Petrojet,Ismaily,0,1,Away win,sofascore
+2025/26,7,2026-04-28,ZED FC,Pharco,1,0,Home win,sofascore
+2025/26,7,2026-04-28,Arab Contractors (Al Mokawloon),Ghazl El Mahalla,1,1,Draw,sofascore
+2025/26,7,2026-04-28,Ismailia Electricity,National Bank of Egypt,1,3,Away win,sofascore
+2025/26,7,2026-04-29,El Gouna,Haras El Hodoud,1,1,Draw,sofascore
+2025/26,7,2026-04-29,Modern Sport,Tala'ea El Gaish,0,0,Draw,sofascore
+2025/26,7,2026-04-29,Wadi Degla,Al Ittihad Alexandria,4,1,Home win,sofascore
+2025/26,5,2026-05-01,Ceramica Cleopatra,Al Masry,0,1,Away win,sofascore
+2025/26,5,2026-05-01,Pyramids FC,ENPPI,3,2,Home win,sofascore
+2025/26,5,2026-05-01,Zamalek,Al Ahly,0,3,Away win,sofascore
+2025/26,8,2026-05-03,Haras El Hodoud,Tala'ea El Gaish,0,0,Draw,sofascore
+2025/26,8,2026-05-03,ZED FC,El Gouna,2,2,Draw,sofascore
+2025/26,8,2026-05-03,Ghazl El Mahalla,Ismaily,0,0,Draw,sofascore
+2025/26,8,2026-05-03,National Bank of Egypt,Modern Sport,2,1,Home win,sofascore
+2025/26,8,2026-05-04,Pharco,Arab Contractors (Al Mokawloon),1,1,Draw,sofascore
+2025/26,8,2026-05-04,Al Ittihad Alexandria,Petrojet,1,2,Away win,sofascore
+2025/26,8,2026-05-04,Wadi Degla,Ismailia Electricity,1,2,Away win,sofascore
+2025/26,6,2026-05-05,Al Ahly,ENPPI,3,0,Home win,sofascore
+2025/26,6,2026-05-05,Ceramica Cleopatra,Pyramids FC,1,1,Draw,sofascore
+2025/26,6,2026-05-05,Smouha,Zamalek,0,1,Away win,sofascore
+2025/26,9,2026-05-07,Tala'ea El Gaish,Ghazl El Mahalla,1,0,Home win,sofascore
+2025/26,9,2026-05-07,Haras El Hodoud,ZED FC,1,2,Away win,sofascore
+2025/26,9,2026-05-07,National Bank of Egypt,Ismaily,0,0,Draw,sofascore
+2025/26,9,2026-05-08,Arab Contractors (Al Mokawloon),El Gouna,1,0,Home win,sofascore
+2025/26,9,2026-05-08,Petrojet,Wadi Degla,2,2,Draw,sofascore
+2025/26,9,2026-05-08,Ismailia Electricity,Pharco,0,0,Draw,sofascore
+2025/26,9,2026-05-08,Modern Sport,Al Ittihad Alexandria,0,0,Draw,sofascore
+2025/26,10,2026-05-12,El Gouna,Ismailia Electricity,0,1,Away win,sofascore
+2025/26,10,2026-05-12,Pharco,Modern Sport,0,1,Away win,sofascore
+2025/26,10,2026-05-12,Wadi Degla,Ismaily,2,1,Home win,sofascore
+2025/26,10,2026-05-13,Haras El Hodoud,Arab Contractors (Al Mokawloon),0,0,Draw,sofascore
+2025/26,10,2026-05-13,ZED FC,Ghazl El Mahalla,3,2,Home win,sofascore
+2025/26,10,2026-05-13,Al Ittihad Alexandria,Tala'ea El Gaish,1,0,Home win,sofascore
+2025/26,10,2026-05-13,National Bank of Egypt,Petrojet,2,3,Away win,sofascore
+2025/26,11,2026-05-17,National Bank of Egypt,El Gouna,1,1,Draw,sofascore
+2025/26,11,2026-05-17,Ismaily,ZED FC,0,0,Draw,sofascore
+2025/26,11,2026-05-17,Petrojet,Modern Sport,1,1,Draw,sofascore
+2025/26,11,2026-05-18,Ismailia Electricity,Haras El Hodoud,0,2,Away win,sofascore
+2025/26,11,2026-05-18,Tala'ea El Gaish,Pharco,1,0,Home win,sofascore
+2025/26,11,2026-05-18,Arab Contractors (Al Mokawloon),Wadi Degla,1,1,Draw,sofascore
+2025/26,11,2026-05-18,Ghazl El Mahalla,Al Ittihad Alexandria,1,0,Home win,sofascore
+2025/26,7,2026-05-20,Al Masry,Al Ahly,0,2,Away win,sofascore
+2025/26,7,2026-05-20,Pyramids FC,Smouha,2,1,Home win,sofascore
+2025/26,7,2026-05-20,Zamalek,Ceramica Cleopatra,1,0,Home win,sofascore
+2025/26,12,2026-05-21,Wadi Degla,ZED FC,2,2,Draw,sofascore
+2025/26,12,2026-05-22,El Gouna,Tala'ea El Gaish,2,1,Home win,sofascore
+2025/26,12,2026-05-22,Pharco,National Bank of Egypt,0,1,Away win,sofascore
+2025/26,12,2026-05-23,Al Ittihad Alexandria,Ismaily,3,0,Home win,sofascore
+2025/26,12,2026-05-23,Haras El Hodoud,Petrojet,0,3,Away win,sofascore
+2025/26,12,2026-05-23,Ismailia Electricity,Arab Contractors (Al Mokawloon),2,2,Draw,sofascore
+2025/26,12,2026-05-23,Modern Sport,Ghazl El Mahalla,0,0,Draw,sofascore
+2025/26,13,2026-05-28,Ismaily,Pharco,1,2,Away win,sofascore
+2025/26,13,2026-05-28,Petrojet,El Gouna,1,2,Away win,sofascore
+2025/26,13,2026-05-28,Tala'ea El Gaish,Wadi Degla,0,2,Away win,sofascore
+2025/26,13,2026-05-29,Arab Contractors (Al Mokawloon),Modern Sport,3,1,Home win,sofascore
+2025/26,13,2026-05-29,ZED FC,Ismailia Electricity,1,1,Draw,sofascore
+2025/26,13,2026-05-29,Ghazl El Mahalla,Haras El Hodoud,4,2,Home win,sofascore
+2025/26,13,2026-05-29,National Bank of Egypt,Al Ittihad Alexandria,2,2,Draw,sofascore
+2026/27,1,2026-08-21,Wadi Degla,ZED FC,0,0,Draw,sofascore
+2026/27,1,2026-08-21,Abu Qir Fertilizers,National Bank of Egypt,1,0,Home win,sofascore
+2026/27,1,2026-08-21,Zamalek,Al Ittihad Alexandria,0,0,Draw,sofascore
+2026/27,1,2026-08-22,Asyut Petroleum,Petrojet,1,1,Draw,sofascore
+2026/27,1,2026-08-22,Tala'ea El Gaish,Arab Contractors (Al Mokawloon),1,0,Home win,sofascore
+2026/27,1,2026-08-22,Al Masry,Smouha,1,0,Home win,sofascore
+2026/27,1,2026-08-22,Ghazl El Mahalla,Pyramids FC,0,3,Away win,sofascore
+2026/27,1,2026-08-23,El Gouna,Modern Sport,1,1,Draw,sofascore
+2026/27,1,2026-08-23,Al Ahly,ENPPI,3,2,Home win,sofascore
+2026/27,1,2026-08-23,Ceramica Cleopatra,Canal SC,1,2,Away win,sofascore
+2026/27,2,2026-08-26,Smouha,Asyut Petroleum,0,0,Draw,sofascore
+2026/27,2,2026-08-26,National Bank of Egypt,Zamalek,0,3,Away win,sofascore
+2026/27,2,2026-08-26,Petrojet,Tala'ea El Gaish,2,3,Away win,sofascore
+2026/27,2,2026-08-27,Modern Sport,Ghazl El Mahalla,2,0,Home win,sofascore
+2026/27,2,2026-08-27,Arab Contractors (Al Mokawloon),Al Masry,2,3,Away win,sofascore
+2026/27,2,2026-08-27,Pyramids FC,Abu Qir Fertilizers,2,0,Home win,sofascore
+2026/27,2,2026-08-28,Canal SC,El Gouna,1,1,Draw,sofascore
+2026/27,2,2026-08-28,ENPPI,Wadi Degla,1,3,Away win,sofascore
+2026/27,2,2026-08-28,Al Ittihad Alexandria,Ceramica Cleopatra,1,3,Away win,sofascore
+2026/27,2,2026-08-28,ZED FC,Al Ahly,0,2,Away win,sofascore
+2026/27,3,2026-08-31,Asyut Petroleum,National Bank of Egypt,0,1,Away win,sofascore
+2026/27,3,2026-08-31,Al Masry,Pyramids FC,0,1,Away win,sofascore
+2026/27,3,2026-08-31,Zamalek,Petrojet,2,1,Home win,sofascore
+2026/27,3,2026-09-01,Ghazl El Mahalla,ENPPI,0,0,Draw,sofascore
+2026/27,3,2026-09-01,Tala'ea El Gaish,ZED FC,0,1,Away win,sofascore
+2026/27,3,2026-09-01,Wadi Degla,Canal SC,0,0,Draw,sofascore
+2026/27,3,2026-09-02,El Gouna,Arab Contractors (Al Mokawloon),0,1,Away win,sofascore
+2026/27,3,2026-09-02,Abu Qir Fertilizers,Al Ittihad Alexandria,0,2,Away win,sofascore
+2026/27,3,2026-09-02,Ceramica Cleopatra,Modern Sport,2,0,Home win,sofascore
+2026/27,3,2026-09-03,Al Ahly,Smouha,1,0,Home win,sofascore
+2026/27,4,2026-09-07,Al Ittihad Alexandria,Asyut Petroleum,1,0,Home win,sofascore
+2026/27,4,2026-09-07,Canal SC,Tala'ea El Gaish,1,1,Draw,sofascore
+2026/27,4,2026-09-07,National Bank of Egypt,Ghazl El Mahalla,3,1,Home win,sofascore
+2026/27,4,2026-09-07,Petrojet,Al Masry,2,1,Home win,sofascore
+2026/27,4,2026-09-08,Smouha,Ceramica Cleopatra,0,2,Away win,sofascore
+2026/27,4,2026-09-08,Zamalek,Abu Qir Fertilizers,2,0,Home win,sofascore
+2026/27,4,2026-09-09,Modern Sport,Wadi Degla,2,1,Home win,sofascore
+2026/27,4,2026-09-09,Pyramids FC,El Gouna,1,0,Home win,sofascore
+2026/27,4,2026-09-09,Arab Contractors (Al Mokawloon),Al Ahly,1,1,Draw,sofascore
+2026/27,4,2026-09-09,ENPPI,ZED FC,2,1,Home win,sofascore
+2026/27,5,2026-09-14,Tala'ea El Gaish,Smouha,0,1,Away win,sofascore
+2026/27,5,2026-09-14,Ceramica Cleopatra,National Bank of Egypt,2,0,Home win,sofascore
+2026/27,5,2026-09-15,Asyut Petroleum,Modern Sport,0,2,Away win,sofascore
+2026/27,5,2026-09-15,Wadi Degla,Arab Contractors (Al Mokawloon),0,2,Away win,sofascore
+2026/27,5,2026-09-15,Al Ahly,Abu Qir Fertilizers,2,0,Home win,sofascore
+2026/27,5,2026-09-15,Al Masry,Al Ittihad Alexandria,0,2,Away win,sofascore
+2026/27,5,2026-09-16,El Gouna,Petrojet,1,2,Away win,sofascore
+2026/27,5,2026-09-16,Ghazl El Mahalla,Zamalek,0,1,Away win,sofascore
+2026/27,5,2026-09-17,ZED FC,Canal SC,2,1,Home win,sofascore
+2026/27,5,2026-09-17,ENPPI,Pyramids FC,1,2,Away win,sofascore
+2026/27,6,2026-10-11,Canal SC,Al Masry,1,1,Draw,sofascore
+2026/27,6,2026-10-11,Zamalek,Al Ahly,0,2,Away win,sofascore
+2026/27,6,2026-10-12,Arab Contractors (Al Mokawloon),ZED FC,1,1,Draw,sofascore
+2026/27,6,2026-10-12,Modern Sport,ENPPI,3,2,Home win,sofascore
+2026/27,6,2026-10-12,Pyramids FC,Ceramica Cleopatra,4,1,Home win,sofascore
+2026/27,6,2026-10-12,Smouha,Ghazl El Mahalla,1,0,Home win,sofascore
+2026/27,6,2026-10-13,Abu Qir Fertilizers,Asyut Petroleum,1,2,Away win,sofascore
+2026/27,6,2026-10-13,National Bank of Egypt,Tala'ea El Gaish,3,0,Home win,sofascore
+2026/27,6,2026-10-13,Al Ittihad Alexandria,El Gouna,2,1,Home win,sofascore
+2026/27,6,2026-10-13,Petrojet,Wadi Degla,2,2,Draw,sofascore
+2026/27,7,2026-10-19,El Gouna,Smouha,0,2,Away win,sofascore
+2026/27,7,2026-10-19,Al Masry,Abu Qir Fertilizers,1,1,Draw,sofascore
+2026/27,7,2026-10-19,ENPPI,Arab Contractors (Al Mokawloon),0,3,Away win,sofascore
+2026/27,7,2026-10-20,Asyut Petroleum,Zamalek,0,1,Away win,sofascore
+2026/27,7,2026-10-20,ZED FC,Modern Sport,3,2,Home win,sofascore
+2026/27,7,2026-10-20,Tala'ea El Gaish,Pyramids FC,1,4,Away win,sofascore
+2026/27,7,2026-10-20,Wadi Degla,National Bank of Egypt,1,1,Draw,sofascore
+2026/27,7,2026-10-21,Ghazl El Mahalla,Al Ittihad Alexandria,2,1,Home win,sofascore
+2026/27,7,2026-10-21,Al Ahly,Canal SC,3,3,Draw,sofascore
+2026/27,7,2026-10-21,Ceramica Cleopatra,Petrojet,2,0,Home win,sofascore
+2026/27,8,2026-10-28,National Bank of Egypt,Al Masry,1,1,Draw,sofascore
+2026/27,8,2026-10-28,Zamalek,Arab Contractors (Al Mokawloon),2,1,Home win,sofascore
+2026/27,8,2026-10-29,Modern Sport,Al Ahly,0,1,Away win,sofascore
+2026/27,8,2026-10-29,Pyramids FC,Wadi Degla,2,1,Home win,sofascore
+2026/27,8,2026-10-30,Asyut Petroleum,El Gouna,1,1,Draw,sofascore
+2026/27,8,2026-10-30,Al Ittihad Alexandria,Tala'ea El Gaish,0,0,Draw,sofascore
+2026/27,8,2026-10-30,Canal SC,ENPPI,1,3,Away win,sofascore
+2026/27,8,2026-10-31,Abu Qir Fertilizers,Ghazl El Mahalla,0,1,Away win,sofascore
+2026/27,8,2026-10-31,Ceramica Cleopatra,ZED FC,2,1,Home win,sofascore
+2026/27,8,2026-10-31,Petrojet,Smouha,1,1,Draw,sofascore
