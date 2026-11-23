@@ -1,0 +1,2032 @@
+season,matchday,date,home_team,away_team,home_goals,away_goals,result,yellow_home,yellow_away,red_home,red_away
+2010,1,"Thu, Aug 5, 2010",Harras El Hodoud,Zamalek SC,2,2,Draw,0,0,0,0
+2010,1,"Thu, Aug 5, 2010",Wadi Degla FC,Arab Contractors SC,4,1,Home win,2,0,0,0
+2010,1,"Thu, Aug 5, 2010",Entag El Harby,Smouha SC,1,0,Home win,1,0,0,0
+2010,1,"Fri, Aug 6, 2010",Ittehad Alexandria,Masr El Makasa,1,1,Draw,2,4,0,0
+2010,1,"Fri, Aug 6, 2010",Masry Port Said,Tala'ea El Gaish,2,1,Home win,2,2,0,0
+2010,1,"Fri, Aug 6, 2010",Petrojet,Ismaily SC,0,1,Away win,2,2,0,0
+2010,1,"Fri, Aug 6, 2010",Enppi Club,El Gouna FC,1,0,Home win,4,1,0,0
+2010,1,"Fri, Aug 6, 2010",El Ahly Cairo,El Shorta,0,0,Draw,3,2,0,0
+2010,2,"Sat, Aug 14, 2010",El Shorta,Ittehad Alexandria,0,0,Draw,1,2,0,0
+2010,2,"Sat, Aug 14, 2010",Arab Contractors SC,Entag El Harby,2,3,Away win,1,3,0,0
+2010,2,"Sat, Aug 14, 2010",El Gouna FC,Masry Port Said,2,1,Home win,2,0,0,1
+2010,2,"Sun, Aug 15, 2010",Zamalek SC,Petrojet,2,0,Home win,1,2,0,0
+2010,2,"Sun, Aug 15, 2010",Masr El Makasa,Wadi Degla FC,6,2,Home win,2,2,0,0
+2010,2,"Thu, Aug 19, 2010",Smouha SC,Harras El Hodoud,2,2,Draw,1,5,0,1
+2010,2,"Thu, Aug 19, 2010",Ismaily SC,Enppi Club,2,1,Home win,4,2,0,0
+2010,2,"Fri, Aug 20, 2010",Tala'ea El Gaish,El Ahly Cairo,0,1,Away win,0,1,0,0
+2010,3,"Sun, Aug 22, 2010",Entag El Harby,Masr El Makasa,2,1,Home win,4,1,0,0
+2010,3,"Sun, Aug 22, 2010",Wadi Degla FC,El Shorta,2,3,Away win,4,1,0,0
+2010,3,"Mon, Aug 23, 2010",Petrojet,Smouha SC,1,0,Home win,2,1,0,0
+2010,3,"Mon, Aug 23, 2010",Enppi Club,Zamalek SC,3,1,Home win,7,1,0,0
+2010,3,"Mon, Aug 23, 2010",Harras El Hodoud,Arab Contractors SC,1,1,Draw,1,1,0,0
+2010,3,"Mon, Aug 23, 2010",Ismaily SC,El Gouna FC,2,1,Home win,3,3,0,0
+2010,3,"Tue, Aug 24, 2010",El Ahly Cairo,Masry Port Said,1,1,Draw,1,0,0,0
+2010,3,"Tue, Aug 24, 2010",Ittehad Alexandria,Tala'ea El Gaish,0,1,Away win,0,3,1,0
+2010,4,"Fri, Aug 27, 2010",El Shorta,Entag El Harby,3,0,Home win,2,1,0,0
+2010,4,"Fri, Aug 27, 2010",Arab Contractors SC,Petrojet,0,1,Away win,0,3,0,0
+2010,4,"Sat, Aug 28, 2010",Smouha SC,Enppi Club,0,0,Draw,2,3,0,0
+2010,4,"Sat, Aug 28, 2010",Tala'ea El Gaish,Wadi Degla FC,2,1,Home win,2,1,0,0
+2010,4,"Sat, Aug 28, 2010",Masry Port Said,Ittehad Alexandria,2,2,Draw,2,6,0,0
+2010,4,"Tue, Nov 9, 2010",El Gouna FC,El Ahly Cairo,1,1,Draw,3,2,0,0
+2010,4,"Wed, Nov 10, 2010",Masr El Makasa,Harras El Hodoud,1,1,Draw,0,5,1,0
+2010,4,"Wed, Nov 10, 2010",Zamalek SC,Ismaily SC,3,2,Home win,4,2,0,0
+2010,5,"Mon, Sep 13, 2010",Entag El Harby,Tala'ea El Gaish,0,0,Draw,1,1,0,0
+2010,5,"Mon, Sep 13, 2010",Petrojet,Masr El Makasa,2,1,Home win,2,1,0,0
+2010,5,"Mon, Sep 13, 2010",Zamalek SC,El Gouna FC,1,1,Draw,2,3,0,0
+2010,5,"Tue, Sep 14, 2010",Wadi Degla FC,Masry Port Said,0,4,Away win,1,0,1,0
+2010,5,"Tue, Sep 14, 2010",Enppi Club,Arab Contractors SC,2,1,Home win,2,2,0,0
+2010,5,"Thu, Dec 9, 2010",Ismaily SC,Smouha SC,3,2,Home win,1,1,0,0
+2010,5,"Thu, Dec 9, 2010",Harras El Hodoud,El Shorta,1,0,Home win,2,1,0,0
+2010,5,"Fri, Dec 10, 2010",Ittehad Alexandria,El Ahly Cairo,2,2,Draw,1,0,0,0
+2010,6,"Fri, Sep 17, 2010",El Gouna FC,Ittehad Alexandria,0,2,Away win,1,5,0,0
+2010,6,"Fri, Sep 17, 2010",Smouha SC,Zamalek SC,1,3,Away win,5,4,0,0
+2010,6,"Fri, Sep 17, 2010",El Shorta,Petrojet,1,1,Draw,2,1,0,0
+2010,6,"Sat, Sep 18, 2010",Masr El Makasa,Enppi Club,1,0,Home win,3,4,0,0
+2010,6,"Sat, Sep 18, 2010",Masry Port Said,Entag El Harby,1,0,Home win,1,3,0,0
+2010,6,"Thu, Sep 23, 2010",Arab Contractors SC,Ismaily SC,2,1,Home win,5,1,0,0
+2010,6,"Thu, Sep 23, 2010",Tala'ea El Gaish,Harras El Hodoud,1,2,Away win,3,3,0,0
+2010,6,"Thu, Sep 23, 2010",El Ahly Cairo,Wadi Degla FC,1,0,Home win,4,0,0,0
+2010,7,"Sun, Sep 26, 2010",Smouha SC,El Gouna FC,0,0,Draw,2,2,0,0
+2010,7,"Sun, Sep 26, 2010",Enppi Club,El Shorta,0,1,Away win,0,1,0,0
+2010,7,"Mon, Sep 27, 2010",Ismaily SC,Masr El Makasa,1,1,Draw,5,3,0,0
+2010,7,"Mon, Sep 27, 2010",Entag El Harby,El Ahly Cairo,1,2,Away win,3,1,1,0
+2010,7,"Mon, Sep 27, 2010",Petrojet,Tala'ea El Gaish,2,2,Draw,2,0,0,0
+2010,7,"Mon, Sep 27, 2010",Wadi Degla FC,Ittehad Alexandria,1,0,Home win,2,1,0,0
+2010,7,"Mon, Sep 27, 2010",Harras El Hodoud,Masry Port Said,1,0,Home win,0,0,0,0
+2010,7,"Mon, Sep 27, 2010",Zamalek SC,Arab Contractors SC,1,0,Home win,1,3,0,0
+2010,8,"Fri, Oct 1, 2010",El Gouna FC,Wadi Degla FC,0,2,Away win,0,3,0,0
+2010,8,"Fri, Oct 1, 2010",Ittehad Alexandria,Entag El Harby,3,6,Away win,1,3,0,0
+2010,8,"Fri, Oct 1, 2010",Arab Contractors SC,Smouha SC,2,1,Home win,0,0,0,0
+2010,8,"Fri, Oct 1, 2010",El Shorta,Ismaily SC,2,1,Home win,1,0,0,0
+2010,8,"Sat, Oct 2, 2010",Masr El Makasa,Zamalek SC,3,4,Away win,3,3,0,0
+2010,8,"Sat, Oct 2, 2010",Masry Port Said,Petrojet,0,0,Draw,1,4,0,0
+2010,8,"Sat, Oct 2, 2010",Tala'ea El Gaish,Enppi Club,0,2,Away win,3,4,0,0
+2010,8,"Tue, Dec 21, 2010",El Ahly Cairo,Harras El Hodoud,2,1,Home win,2,4,0,0
+2010,9,"Mon, Oct 25, 2010",Enppi Club,Masry Port Said,0,0,Draw,2,3,0,0
+2010,9,"Mon, Oct 25, 2010",Smouha SC,Masr El Makasa,0,1,Away win,1,1,0,0
+2010,9,"Mon, Oct 25, 2010",Entag El Harby,Wadi Degla FC,1,1,Draw,5,0,0,0
+2010,9,"Tue, Oct 26, 2010",Harras El Hodoud,Ittehad Alexandria,0,2,Away win,2,0,0,0
+2010,9,"Wed, Oct 27, 2010",Arab Contractors SC,El Gouna FC,0,0,Draw,2,2,0,0
+2010,9,"Wed, Oct 27, 2010",Ismaily SC,Tala'ea El Gaish,3,0,Home win,1,0,0,0
+2010,9,"Wed, Oct 27, 2010",Petrojet,El Ahly Cairo,0,1,Away win,1,2,0,0
+2010,9,"Wed, Oct 27, 2010",Zamalek SC,El Shorta,2,0,Home win,2,2,0,0
+2010,10,"Thu, Nov 4, 2010",El Gouna FC,Entag El Harby,1,0,Home win,0,3,0,0
+2010,10,"Thu, Nov 4, 2010",Masry Port Said,Ismaily SC,2,0,Home win,1,3,0,0
+2010,10,"Thu, Nov 4, 2010",Masr El Makasa,Arab Contractors SC,2,0,Home win,1,0,0,0
+2010,10,"Thu, Nov 4, 2010",Harras El Hodoud,Wadi Degla FC,1,0,Home win,1,3,0,0
+2010,10,"Thu, Nov 4, 2010",Tala'ea El Gaish,Zamalek SC,2,2,Draw,4,5,1,0
+2010,10,"Thu, Nov 4, 2010",El Ahly Cairo,Enppi Club,3,2,Home win,4,1,0,0
+2010,10,"Fri, Nov 5, 2010",Ittehad Alexandria,Petrojet,2,3,Away win,2,2,0,0
+2010,10,"Fri, Nov 5, 2010",El Shorta,Smouha SC,1,1,Draw,2,4,0,0
+2010,11,"Sat, Nov 20, 2010",Smouha SC,Tala'ea El Gaish,1,1,Draw,3,0,0,0
+2010,11,"Sat, Nov 20, 2010",Petrojet,Wadi Degla FC,1,1,Draw,2,1,0,0
+2010,11,"Sat, Nov 20, 2010",Harras El Hodoud,Entag El Harby,1,1,Draw,1,2,0,0
+2010,11,"Sat, Nov 20, 2010",Arab Contractors SC,El Shorta,0,0,Draw,4,0,0,0
+2010,11,"Sun, Nov 21, 2010",Masr El Makasa,El Gouna FC,0,0,Draw,0,1,0,0
+2010,11,"Sun, Nov 21, 2010",Ismaily SC,El Ahly Cairo,3,1,Home win,1,1,0,0
+2010,11,"Sun, Nov 21, 2010",Enppi Club,Ittehad Alexandria,2,0,Home win,3,1,0,0
+2010,11,"Sun, Nov 21, 2010",Zamalek SC,Masry Port Said,1,0,Home win,2,3,0,0
+2010,12,"Thu, Nov 25, 2010",El Gouna FC,Harras El Hodoud,2,0,Home win,1,3,0,0
+2010,12,"Thu, Nov 25, 2010",Ittehad Alexandria,Ismaily SC,1,3,Away win,1,1,0,0
+2010,12,"Thu, Nov 25, 2010",Tala'ea El Gaish,Arab Contractors SC,2,1,Home win,3,0,0,1
+2010,12,"Thu, Nov 25, 2010",Masry Port Said,Smouha SC,1,3,Away win,3,7,0,0
+2010,12,"Thu, Nov 25, 2010",Wadi Degla FC,Enppi Club,2,3,Away win,1,2,0,0
+2010,12,"Thu, Nov 25, 2010",Entag El Harby,Petrojet,3,2,Home win,0,0,0,0
+2010,12,"Thu, Nov 25, 2010",El Shorta,Masr El Makasa,3,0,Home win,1,1,0,0
+2010,12,"Thu, Dec 30, 2010",El Ahly Cairo,Zamalek SC,0,0,Draw,2,2,0,0
+2010,13,"Thu, Dec 2, 2010",Masr El Makasa,Tala'ea El Gaish,1,1,Draw,4,3,0,0
+2010,13,"Thu, Dec 2, 2010",Smouha SC,El Ahly Cairo,1,1,Draw,1,3,0,0
+2010,13,"Thu, Dec 2, 2010",Zamalek SC,Ittehad Alexandria,4,3,Home win,1,4,0,0
+2010,13,"Fri, Dec 3, 2010",Enppi Club,Entag El Harby,3,2,Home win,1,2,0,0
+2010,13,"Fri, Dec 3, 2010",Petrojet,Harras El Hodoud,3,0,Home win,3,1,0,0
+2010,13,"Fri, Dec 3, 2010",Ismaily SC,Wadi Degla FC,1,0,Home win,1,0,0,0
+2010,13,"Fri, Dec 3, 2010",El Shorta,El Gouna FC,1,0,Home win,1,4,0,0
+2010,13,"Fri, Dec 3, 2010",Arab Contractors SC,Masry Port Said,1,1,Draw,2,3,0,0
+2010,14,"Fri, Dec 24, 2010",Petrojet,El Gouna FC,1,0,Home win,1,1,0,0
+2010,14,"Fri, Dec 24, 2010",Masry Port Said,Masr El Makasa,1,0,Home win,1,1,0,0
+2010,14,"Fri, Dec 24, 2010",Ittehad Alexandria,Smouha SC,0,3,Away win,0,4,0,0
+2010,14,"Fri, Dec 24, 2010",Wadi Degla FC,Zamalek SC,0,2,Away win,1,1,0,0
+2010,14,"Sat, Dec 25, 2010",Tala'ea El Gaish,El Shorta,1,0,Home win,1,1,0,0
+2010,14,"Sat, Dec 25, 2010",Harras El Hodoud,Enppi Club,2,3,Away win,1,2,0,0
+2010,14,"Sat, Dec 25, 2010",Entag El Harby,Ismaily SC,1,1,Draw,0,1,1,0
+2010,14,"Sat, Dec 25, 2010",El Ahly Cairo,Arab Contractors SC,1,1,Draw,0,2,0,0
+2010,15,"Thu, Jan 20, 2011",El Gouna FC,Tala'ea El Gaish,2,2,Draw,1,2,0,0
+2010,15,"Thu, Jan 20, 2011",Smouha SC,Wadi Degla FC,2,2,Draw,2,1,0,0
+2010,15,"Thu, Jan 20, 2011",Arab Contractors SC,Ittehad Alexandria,1,1,Draw,1,2,0,0
+2010,15,"Thu, Jan 20, 2011",Enppi Club,Petrojet,1,3,Away win,3,1,0,0
+2010,15,"Fri, Jan 21, 2011",Ismaily SC,Harras El Hodoud,3,2,Home win,2,1,0,0
+2010,15,"Fri, Jan 21, 2011",Zamalek SC,Entag El Harby,0,0,Draw,2,2,0,0
+2010,15,"Sat, Jan 22, 2011",Masr El Makasa,El Ahly Cairo,1,1,Draw,2,1,0,0
+2010,15,"Sat, Jan 22, 2011",El Shorta,Masry Port Said,2,0,Home win,1,4,0,0
+2010,16,"Wed, Apr 13, 2011",El Gouna FC,Enppi Club,2,1,Home win,1,1,0,0
+2010,16,"Wed, Apr 13, 2011",Tala'ea El Gaish,Masry Port Said,1,1,Draw,2,4,0,0
+2010,16,"Wed, Apr 13, 2011",Smouha SC,Entag El Harby,3,2,Home win,1,1,0,0
+2010,16,"Wed, Apr 13, 2011",Ismaily SC,Petrojet,1,1,Draw,0,2,0,0
+2010,16,"Wed, Apr 13, 2011",El Shorta,El Ahly Cairo,1,2,Away win,4,0,0,0
+2010,16,"Thu, Apr 14, 2011",Masr El Makasa,Ittehad Alexandria,4,0,Home win,4,2,0,0
+2010,16,"Thu, Apr 14, 2011",Arab Contractors SC,Wadi Degla FC,0,3,Away win,3,0,0,0
+2010,16,"Thu, Apr 14, 2011",Zamalek SC,Harras El Hodoud,2,1,Home win,1,4,0,0
+2010,17,"Sun, Apr 17, 2011",El Ahly Cairo,Tala'ea El Gaish,1,0,Home win,3,3,0,0
+2010,17,"Tue, Apr 19, 2011",Enppi Club,Ismaily SC,0,0,Draw,1,2,0,0
+2010,17,"Tue, Apr 19, 2011",Harras El Hodoud,Smouha SC,1,0,Home win,1,0,0,0
+2010,17,"Tue, Apr 19, 2011",Masry Port Said,El Gouna FC,1,1,Draw,2,2,0,0
+2010,17,"Tue, Apr 19, 2011",Wadi Degla FC,Masr El Makasa,1,1,Draw,2,0,0,0
+2010,17,"Wed, Apr 20, 2011",Petrojet,Zamalek SC,1,2,Away win,3,2,0,0
+2010,17,"Wed, Apr 20, 2011",Ittehad Alexandria,El Shorta,0,0,Draw,1,5,0,0
+2010,17,"Wed, Apr 20, 2011",Entag El Harby,Arab Contractors SC,1,1,Draw,2,2,0,0
+2010,18,"Mon, Apr 25, 2011",El Gouna FC,Ismaily SC,2,3,Away win,2,2,0,1
+2010,18,"Mon, Apr 25, 2011",Tala'ea El Gaish,Ittehad Alexandria,3,1,Home win,4,1,0,0
+2010,18,"Tue, Apr 26, 2011",Masr El Makasa,Entag El Harby,0,0,Draw,2,2,0,0
+2010,18,"Tue, Apr 26, 2011",Smouha SC,Petrojet,0,1,Away win,1,0,0,0
+2010,18,"Tue, Apr 26, 2011",Zamalek SC,Enppi Club,0,0,Draw,2,1,0,0
+2010,18,"Tue, Apr 26, 2011",El Shorta,Wadi Degla FC,1,0,Home win,0,0,0,0
+2010,18,"Thu, Apr 28, 2011",Arab Contractors SC,Harras El Hodoud,0,1,Away win,1,2,0,0
+2010,18,"Fri, Apr 29, 2011",Masry Port Said,El Ahly Cairo,0,0,Draw,0,2,0,1
+2010,19,"Mon, May 2, 2011",Ismaily SC,Zamalek SC,0,0,Draw,3,1,0,0
+2010,19,"Mon, May 2, 2011",Petrojet,Arab Contractors SC,1,3,Away win,3,2,0,0
+2010,19,"Mon, May 2, 2011",Wadi Degla FC,Tala'ea El Gaish,2,0,Home win,3,1,0,0
+2010,19,"Mon, May 2, 2011",Harras El Hodoud,Masr El Makasa,0,1,Away win,0,3,1,0
+2010,19,"Mon, May 2, 2011",Entag El Harby,El Shorta,2,3,Away win,3,2,0,0
+2010,19,"Tue, May 3, 2011",Enppi Club,Smouha SC,1,1,Draw,3,3,0,0
+2010,19,"Tue, May 3, 2011",Ittehad Alexandria,Masry Port Said,3,1,Home win,2,2,0,0
+2010,19,"Tue, May 3, 2011",El Ahly Cairo,El Gouna FC,1,0,Home win,5,5,0,1
+2010,20,"Mon, May 9, 2011",Masry Port Said,Wadi Degla FC,2,0,Home win,0,1,0,0
+2010,20,"Mon, May 9, 2011",Tala'ea El Gaish,Entag El Harby,0,0,Draw,2,4,0,0
+2010,20,"Tue, May 10, 2011",El Gouna FC,Zamalek SC,2,1,Home win,3,1,0,0
+2010,20,"Tue, May 10, 2011",Masr El Makasa,Petrojet,3,1,Home win,1,3,0,0
+2010,20,"Tue, May 10, 2011",Smouha SC,Ismaily SC,2,4,Away win,1,3,0,0
+2010,20,"Tue, May 10, 2011",Arab Contractors SC,Enppi Club,1,2,Away win,0,2,0,0
+2010,20,"Thu, May 12, 2011",El Shorta,Harras El Hodoud,1,0,Home win,3,3,0,0
+2010,20,"Thu, May 12, 2011",El Ahly Cairo,Ittehad Alexandria,1,0,Home win,3,3,0,0
+2010,21,"Sun, May 15, 2011",Enppi Club,Masr El Makasa,1,1,Draw,2,4,0,0
+2010,21,"Sun, May 15, 2011",Entag El Harby,Masry Port Said,0,0,Draw,2,1,0,0
+2010,21,"Sun, May 15, 2011",Ismaily SC,Arab Contractors SC,0,1,Away win,1,2,0,0
+2010,21,"Sun, May 15, 2011",Zamalek SC,Smouha SC,3,0,Home win,0,3,0,0
+2010,21,"Mon, May 16, 2011",Harras El Hodoud,Tala'ea El Gaish,1,1,Draw,1,1,0,0
+2010,21,"Mon, May 16, 2011",Ittehad Alexandria,El Gouna FC,0,0,Draw,1,3,0,0
+2010,21,"Mon, May 16, 2011",Wadi Degla FC,El Ahly Cairo,1,2,Away win,0,0,1,0
+2010,21,"Wed, Jun 15, 2011",Petrojet,El Shorta,0,0,Draw,2,1,0,0
+2010,22,"Fri, May 20, 2011",El Shorta,Enppi Club,0,1,Away win,4,4,0,0
+2010,22,"Fri, May 20, 2011",Masry Port Said,Harras El Hodoud,1,0,Home win,0,2,0,0
+2010,22,"Fri, May 20, 2011",El Ahly Cairo,Entag El Harby,2,2,Draw,1,1,0,0
+2010,22,"Sat, May 21, 2011",El Gouna FC,Smouha SC,1,0,Home win,2,1,0,0
+2010,22,"Sat, May 21, 2011",Tala'ea El Gaish,Petrojet,1,0,Home win,3,2,0,0
+2010,22,"Sat, May 21, 2011",Arab Contractors SC,Zamalek SC,2,3,Away win,4,3,0,0
+2010,22,"Sun, May 22, 2011",Masr El Makasa,Ismaily SC,0,0,Draw,2,4,0,0
+2010,22,"Wed, Jun 15, 2011",Ittehad Alexandria,Wadi Degla FC,0,2,Away win,1,3,0,0
+2010,23,"Wed, May 25, 2011",Harras El Hodoud,El Ahly Cairo,0,3,Away win,3,5,0,0
+2010,23,"Wed, May 25, 2011",Petrojet,Masry Port Said,0,1,Away win,1,2,0,0
+2010,23,"Wed, May 25, 2011",Entag El Harby,Ittehad Alexandria,2,1,Home win,2,1,0,0
+2010,23,"Wed, May 25, 2011",Enppi Club,Tala'ea El Gaish,1,0,Home win,5,1,0,0
+2010,23,"Thu, May 26, 2011",Wadi Degla FC,El Gouna FC,3,1,Home win,1,2,0,0
+2010,23,"Thu, May 26, 2011",Ismaily SC,El Shorta,4,1,Home win,1,1,0,0
+2010,23,"Thu, May 26, 2011",Smouha SC,Arab Contractors SC,0,2,Away win,2,1,0,0
+2010,23,"Thu, May 26, 2011",Zamalek SC,Masr El Makasa,0,1,Away win,1,3,0,1
+2010,24,"Wed, Jun 8, 2011",Masr El Makasa,Smouha SC,2,0,Home win,1,2,0,0
+2010,24,"Wed, Jun 8, 2011",Wadi Degla FC,Entag El Harby,0,0,Draw,2,1,0,0
+2010,24,"Thu, Jun 9, 2011",El Gouna FC,Arab Contractors SC,2,1,Home win,1,0,0,0
+2010,24,"Thu, Jun 9, 2011",Masry Port Said,Enppi Club,1,0,Home win,2,3,0,0
+2010,24,"Thu, Jun 9, 2011",El Shorta,Zamalek SC,1,3,Away win,2,3,0,0
+2010,24,"Fri, Jun 10, 2011",Tala'ea El Gaish,Ismaily SC,1,0,Home win,1,2,0,0
+2010,24,"Fri, Jun 10, 2011",Ittehad Alexandria,Harras El Hodoud,2,1,Home win,1,0,0,0
+2010,24,"Fri, Jun 10, 2011",El Ahly Cairo,Petrojet,2,0,Home win,2,2,0,0
+2010,25,"Mon, Jun 20, 2011",Petrojet,Ittehad Alexandria,1,1,Draw,4,1,0,0
+2010,25,"Mon, Jun 20, 2011",Entag El Harby,El Gouna FC,1,0,Home win,3,2,0,0
+2010,25,"Mon, Jun 20, 2011",Smouha SC,El Shorta,1,1,Draw,2,2,0,0
+2010,25,"Mon, Jun 20, 2011",Arab Contractors SC,Masr El Makasa,0,2,Away win,3,4,0,0
+2010,25,"Mon, Jun 20, 2011",Zamalek SC,Tala'ea El Gaish,0,0,Draw,2,4,0,0
+2010,25,"Tue, Jun 21, 2011",Wadi Degla FC,Harras El Hodoud,0,5,Away win,2,1,0,0
+2010,25,"Tue, Jun 21, 2011",Ismaily SC,Masry Port Said,0,0,Draw,0,1,0,0
+2010,25,"Tue, Jun 21, 2011",Enppi Club,El Ahly Cairo,1,2,Away win,4,2,0,0
+2010,26,"Fri, Jun 24, 2011",El Gouna FC,Masr El Makasa,2,2,Draw,4,2,1,1
+2010,26,"Fri, Jun 24, 2011",Tala'ea El Gaish,Smouha SC,0,1,Away win,3,2,0,0
+2010,26,"Fri, Jun 24, 2011",El Shorta,Arab Contractors SC,2,0,Home win,1,0,0,0
+2010,26,"Sat, Jun 25, 2011",Masry Port Said,Zamalek SC,2,0,Home win,5,2,0,0
+2010,26,"Sat, Jun 25, 2011",Wadi Degla FC,Petrojet,4,2,Home win,3,1,0,0
+2010,26,"Sat, Jun 25, 2011",Entag El Harby,Harras El Hodoud,1,4,Away win,5,2,1,0
+2010,26,"Sat, Jun 25, 2011",Ittehad Alexandria,Enppi Club,1,0,Home win,2,2,0,0
+2010,26,"Sat, Jun 25, 2011",El Ahly Cairo,Ismaily SC,2,1,Home win,1,1,0,1
+2010,27,"Tue, Jun 28, 2011",Masr El Makasa,El Shorta,1,1,Draw,2,4,1,0
+2010,27,"Tue, Jun 28, 2011",Arab Contractors SC,Tala'ea El Gaish,0,0,Draw,3,3,0,0
+2010,27,"Wed, Jun 29, 2011",Smouha SC,Masry Port Said,2,1,Home win,2,1,0,0
+2010,27,"Wed, Jun 29, 2011",Ismaily SC,Ittehad Alexandria,2,0,Home win,1,0,0,0
+2010,27,"Wed, Jun 29, 2011",Harras El Hodoud,El Gouna FC,3,1,Home win,2,1,0,0
+2010,27,"Wed, Jun 29, 2011",Enppi Club,Wadi Degla FC,3,1,Home win,1,1,0,0
+2010,27,"Wed, Jun 29, 2011",Petrojet,Entag El Harby,1,0,Home win,2,2,0,0
+2010,27,"Wed, Jun 29, 2011",Zamalek SC,El Ahly Cairo,2,2,Draw,2,3,0,1
+2010,28,"Sun, Jul 3, 2011",El Ahly Cairo,Smouha SC,2,2,Draw,1,4,0,0
+2010,28,"Sun, Jul 3, 2011",Ittehad Alexandria,Zamalek SC,1,1,Draw,1,4,0,0
+2010,28,"Sun, Jul 3, 2011",Harras El Hodoud,Petrojet,3,1,Home win,1,1,0,0
+2010,28,"Sun, Jul 3, 2011",Tala'ea El Gaish,Masr El Makasa,0,0,Draw,0,0,0,0
+2010,28,"Sun, Jul 3, 2011",Wadi Degla FC,Ismaily SC,2,1,Home win,0,0,0,1
+2010,28,"Sun, Jul 3, 2011",El Gouna FC,El Shorta,0,0,Draw,0,0,0,0
+2010,28,"Sun, Jul 3, 2011",Entag El Harby,Enppi Club,0,0,Draw,1,2,0,0
+2010,28,"Sun, Jul 3, 2011",Masry Port Said,Arab Contractors SC,0,0,Draw,2,1,0,0
+2010,29,"Thu, Jul 7, 2011",El Gouna FC,Petrojet,1,0,Home win,3,5,0,0
+2010,29,"Thu, Jul 7, 2011",El Shorta,Tala'ea El Gaish,2,0,Home win,1,1,0,0
+2010,29,"Thu, Jul 7, 2011",Smouha SC,Ittehad Alexandria,2,4,Away win,2,1,0,0
+2010,29,"Thu, Jul 7, 2011",Masr El Makasa,Masry Port Said,1,1,Draw,0,2,0,0
+2010,29,"Thu, Jul 7, 2011",Ismaily SC,Entag El Harby,5,0,Home win,0,1,0,0
+2010,29,"Thu, Jul 7, 2011",Enppi Club,Harras El Hodoud,2,1,Home win,4,2,0,0
+2010,29,"Thu, Jul 7, 2011",Zamalek SC,Wadi Degla FC,1,1,Draw,2,3,0,0
+2010,29,"Thu, Jul 7, 2011",Arab Contractors SC,El Ahly Cairo,1,5,Away win,2,3,0,0
+2010,30,"Sun, Jul 10, 2011",Harras El Hodoud,Ismaily SC,2,0,Home win,1,1,0,0
+2010,30,"Sun, Jul 10, 2011",Ittehad Alexandria,Arab Contractors SC,3,2,Home win,0,0,0,0
+2010,30,"Sun, Jul 10, 2011",Tala'ea El Gaish,El Gouna FC,2,1,Home win,2,2,0,0
+2010,30,"Sun, Jul 10, 2011",Entag El Harby,Zamalek SC,1,3,Away win,1,2,0,0
+2010,30,"Sun, Jul 10, 2011",Petrojet,Enppi Club,1,1,Draw,7,3,0,0
+2010,30,"Sun, Jul 10, 2011",Masry Port Said,El Shorta,0,0,Draw,1,2,0,0
+2010,30,"Sun, Jul 10, 2011",El Ahly Cairo,Masr El Makasa,2,2,Draw,1,2,0,0
+2010,30,"Mon, Jul 11, 2011",Wadi Degla FC,Smouha SC,1,2,Away win,0,1,0,0
+2011,1,"Fri, Oct 14, 2011",Masr El Makasa,Telefonat Beni Suef,3,0,Home win,1,0,0,0
+2011,1,"Fri, Oct 14, 2011",Entag El Harby,El Shorta,1,2,Away win,1,1,0,0
+2011,1,"Fri, Oct 14, 2011",Ismaily SC,Petrojet,3,1,Home win,4,2,0,0
+2011,1,"Fri, Oct 14, 2011",Tala'ea El Gaish,Arab Contractors SC,2,1,Home win,1,1,0,0
+2011,1,"Fri, Oct 14, 2011",Ghazl Mahalla,Masry Port Said,0,3,Away win,0,1,0,0
+2011,1,"Fri, Oct 14, 2011",El Ahly Cairo,Harras El Hodoud,1,0,Home win,2,3,0,0
+2011,1,"Sat, Oct 15, 2011",Enppi Club,El Gouna FC,3,3,Draw,1,1,1,0
+2011,1,"Sat, Oct 15, 2011",El Dakhlia SC,Ittehad Alexandria,1,1,Draw,1,1,0,0
+2011,1,"Sat, Jan 7, 2012",Wadi Degla FC,Zamalek SC,0,1,Away win,0,1,0,0
+2011,2,"Tue, Oct 18, 2011",Harras El Hodoud,Masr El Makasa,1,1,Draw,1,2,0,0
+2011,2,"Tue, Oct 18, 2011",Masry Port Said,Tala'ea El Gaish,1,1,Draw,1,1,0,0
+2011,2,"Tue, Oct 18, 2011",Petrojet,El Ahly Cairo,2,2,Draw,0,0,0,0
+2011,2,"Tue, Oct 18, 2011",El Shorta,Smouha SC,2,0,Home win,2,3,0,0
+2011,2,"Tue, Oct 18, 2011",Arab Contractors SC,Entag El Harby,0,0,Draw,1,3,0,0
+2011,2,"Wed, Oct 19, 2011",El Gouna FC,Ismaily SC,4,1,Home win,3,4,0,0
+2011,2,"Wed, Oct 19, 2011",Telefonat Beni Suef,Wadi Degla FC,1,2,Away win,2,3,0,0
+2011,2,"Wed, Oct 19, 2011",Ittehad Alexandria,Enppi Club,3,0,Home win,0,3,0,0
+2011,2,"Wed, Oct 19, 2011",Zamalek SC,Ghazl Mahalla,6,1,Home win,1,2,0,0
+2011,3,"Sun, Oct 23, 2011",Masr El Makasa,Petrojet,2,3,Away win,1,2,0,0
+2011,3,"Sun, Oct 23, 2011",Smouha SC,Arab Contractors SC,1,1,Draw,0,3,0,0
+2011,3,"Sun, Oct 23, 2011",Entag El Harby,Masry Port Said,1,1,Draw,0,0,0,0
+2011,3,"Sun, Oct 23, 2011",Wadi Degla FC,Harras El Hodoud,1,2,Away win,1,5,0,0
+2011,3,"Sun, Oct 23, 2011",El Ahly Cairo,El Gouna FC,1,1,Draw,2,3,0,0
+2011,3,"Mon, Oct 24, 2011",Enppi Club,El Dakhlia SC,3,2,Home win,0,0,0,0
+2011,3,"Mon, Oct 24, 2011",Ghazl Mahalla,Telefonat Beni Suef,0,3,Away win,1,2,1,0
+2011,3,"Mon, Oct 24, 2011",Ismaily SC,Ittehad Alexandria,1,1,Draw,2,4,0,0
+2011,3,"Mon, Oct 24, 2011",Tala'ea El Gaish,Zamalek SC,1,1,Draw,5,3,0,0
+2011,4,"Thu, Oct 27, 2011",El Gouna FC,Masr El Makasa,1,1,Draw,1,4,1,0
+2011,4,"Thu, Oct 27, 2011",Masry Port Said,Smouha SC,1,1,Draw,2,2,0,0
+2011,4,"Thu, Oct 27, 2011",Petrojet,Wadi Degla FC,0,1,Away win,3,4,0,0
+2011,4,"Thu, Oct 27, 2011",Arab Contractors SC,El Shorta,2,2,Draw,2,2,0,0
+2011,4,"Fri, Oct 28, 2011",Telefonat Beni Suef,Tala'ea El Gaish,2,1,Home win,1,3,0,0
+2011,4,"Fri, Oct 28, 2011",Ittehad Alexandria,El Ahly Cairo,0,2,Away win,1,2,0,0
+2011,4,"Fri, Oct 28, 2011",El Dakhlia SC,Ismaily SC,1,2,Away win,4,2,0,0
+2011,4,"Fri, Oct 28, 2011",Zamalek SC,Entag El Harby,3,1,Home win,2,3,0,0
+2011,4,"Sat, Oct 29, 2011",Harras El Hodoud,Ghazl Mahalla,1,0,Home win,1,0,0,0
+2011,5,"Wed, Nov 2, 2011",Ismaily SC,Enppi Club,2,1,Home win,2,1,0,0
+2011,5,"Wed, Nov 2, 2011",Wadi Degla FC,El Gouna FC,0,0,Draw,2,2,0,0
+2011,5,"Wed, Nov 2, 2011",El Shorta,Masry Port Said,0,0,Draw,0,1,0,0
+2011,5,"Wed, Nov 2, 2011",Entag El Harby,Telefonat Beni Suef,1,0,Home win,2,2,0,0
+2011,5,"Wed, Nov 2, 2011",El Ahly Cairo,El Dakhlia SC,3,1,Home win,3,3,0,0
+2011,5,"Thu, Nov 3, 2011",Masr El Makasa,Ittehad Alexandria,5,2,Home win,2,2,0,0
+2011,5,"Thu, Nov 3, 2011",Smouha SC,Zamalek SC,0,1,Away win,2,1,0,0
+2011,5,"Thu, Nov 3, 2011",Ghazl Mahalla,Petrojet,2,2,Draw,1,2,0,0
+2011,5,"Thu, Nov 3, 2011",Tala'ea El Gaish,Harras El Hodoud,0,1,Away win,0,3,0,0
+2011,6,"Mon, Nov 7, 2011",El Gouna FC,Ghazl Mahalla,2,2,Draw,1,4,1,2
+2011,6,"Mon, Nov 7, 2011",El Dakhlia SC,Masr El Makasa,0,1,Away win,2,1,0,0
+2011,6,"Mon, Nov 7, 2011",Masry Port Said,Arab Contractors SC,1,0,Home win,2,2,1,0
+2011,6,"Mon, Nov 7, 2011",Ittehad Alexandria,Wadi Degla FC,0,0,Draw,3,3,0,0
+2011,6,"Mon, Nov 7, 2011",Enppi Club,El Ahly Cairo,2,3,Away win,5,5,0,0
+2011,6,"Tue, Nov 8, 2011",Telefonat Beni Suef,Smouha SC,2,1,Home win,1,1,0,0
+2011,6,"Tue, Nov 8, 2011",Petrojet,Tala'ea El Gaish,1,1,Draw,2,1,0,0
+2011,6,"Tue, Nov 8, 2011",Harras El Hodoud,Entag El Harby,3,0,Home win,3,2,0,0
+2011,6,"Tue, Nov 8, 2011",Zamalek SC,El Shorta,1,2,Away win,3,5,0,0
+2011,7,"Mon, Dec 12, 2011",Tala'ea El Gaish,El Gouna FC,1,1,Draw,4,0,0,0
+2011,7,"Mon, Dec 12, 2011",Wadi Degla FC,El Dakhlia SC,0,0,Draw,1,3,0,0
+2011,7,"Tue, Dec 13, 2011",Smouha SC,Harras El Hodoud,1,2,Away win,1,0,0,0
+2011,7,"Tue, Dec 13, 2011",Entag El Harby,Petrojet,0,0,Draw,1,2,0,0
+2011,7,"Tue, Dec 13, 2011",Ghazl Mahalla,Ittehad Alexandria,0,0,Draw,2,1,0,0
+2011,7,"Wed, Dec 14, 2011",Masr El Makasa,Enppi Club,2,1,Home win,2,6,0,0
+2011,7,"Wed, Dec 14, 2011",El Shorta,Telefonat Beni Suef,2,0,Home win,2,1,0,0
+2011,7,"Wed, Dec 14, 2011",Arab Contractors SC,Zamalek SC,1,3,Away win,6,3,0,0
+2011,7,"Tue, Dec 27, 2011",El Ahly Cairo,Ismaily SC,1,0,Home win,5,2,0,0
+2011,8,"Sat, Dec 17, 2011",El Gouna FC,Entag El Harby,3,0,Home win,1,2,0,0
+2011,8,"Sat, Dec 17, 2011",Ittehad Alexandria,Tala'ea El Gaish,1,0,Home win,3,2,0,0
+2011,8,"Sat, Dec 17, 2011",Petrojet,Smouha SC,0,0,Draw,1,1,0,0
+2011,8,"Sat, Dec 17, 2011",El Dakhlia SC,Ghazl Mahalla,1,1,Draw,1,3,0,0
+2011,8,"Sun, Dec 18, 2011",Telefonat Beni Suef,Arab Contractors SC,1,0,Home win,0,1,0,0
+2011,8,"Sun, Dec 18, 2011",Ismaily SC,Masr El Makasa,0,0,Draw,0,1,0,0
+2011,8,"Sun, Dec 18, 2011",Enppi Club,Wadi Degla FC,3,3,Draw,1,2,0,0
+2011,8,"Sun, Dec 18, 2011",Harras El Hodoud,El Shorta,2,0,Home win,4,1,0,2
+2011,8,"Fri, Dec 30, 2011",Zamalek SC,Masry Port Said,2,1,Home win,2,2,0,0
+2011,9,"Wed, Dec 21, 2011",Entag El Harby,Ittehad Alexandria,0,0,Draw,1,0,0,1
+2011,9,"Wed, Dec 21, 2011",Smouha SC,El Gouna FC,0,1,Away win,3,4,1,0
+2011,9,"Wed, Dec 21, 2011",Tala'ea El Gaish,El Dakhlia SC,1,1,Draw,3,3,0,0
+2011,9,"Thu, Dec 22, 2011",Arab Contractors SC,Harras El Hodoud,2,3,Away win,3,3,0,0
+2011,9,"Thu, Dec 22, 2011",Ghazl Mahalla,Enppi Club,2,1,Home win,3,2,0,0
+2011,9,"Thu, Dec 22, 2011",Masry Port Said,Telefonat Beni Suef,1,0,Home win,4,0,0,0
+2011,9,"Thu, Dec 22, 2011",El Shorta,Petrojet,2,0,Home win,1,2,0,0
+2011,9,"Thu, Dec 22, 2011",Wadi Degla FC,Ismaily SC,0,1,Away win,1,2,0,0
+2011,9,"Fri, Dec 23, 2011",Masr El Makasa,El Ahly Cairo,1,2,Away win,2,1,0,0
+2011,10,"Sun, Dec 25, 2011",Ittehad Alexandria,Smouha SC,3,3,Draw,1,2,0,0
+2011,10,"Sun, Dec 25, 2011",El Dakhlia SC,Entag El Harby,0,0,Draw,4,1,0,0
+2011,10,"Mon, Dec 26, 2011",El Gouna FC,El Shorta,0,0,Draw,2,1,0,0
+2011,10,"Mon, Dec 26, 2011",Petrojet,Arab Contractors SC,1,1,Draw,1,2,0,0
+2011,10,"Mon, Dec 26, 2011",Enppi Club,Tala'ea El Gaish,2,2,Draw,3,1,0,0
+2011,10,"Mon, Dec 26, 2011",Harras El Hodoud,Masry Port Said,2,1,Home win,2,3,0,0
+2011,10,"Mon, Dec 26, 2011",Telefonat Beni Suef,Zamalek SC,0,2,Away win,2,3,0,0
+2011,11,"Fri, Dec 30, 2011",El Shorta,Ittehad Alexandria,1,0,Home win,2,2,0,0
+2011,11,"Fri, Dec 30, 2011",Entag El Harby,Enppi Club,0,2,Away win,0,2,0,0
+2011,11,"Fri, Dec 30, 2011",Smouha SC,El Dakhlia SC,2,1,Home win,1,2,0,0
+2011,11,"Sat, Dec 31, 2011",Arab Contractors SC,El Gouna FC,4,1,Home win,0,4,0,0
+2011,11,"Sat, Dec 31, 2011",Wadi Degla FC,Masr El Makasa,3,3,Draw,2,2,0,0
+2011,11,"Sat, Dec 31, 2011",Ghazl Mahalla,El Ahly Cairo,0,2,Away win,3,1,0,0
+2011,11,"Sun, Jan 1, 2012",Tala'ea El Gaish,Ismaily SC,1,2,Away win,2,1,0,0
+2011,12,"Tue, Jan 3, 2012",Petrojet,Zamalek SC,1,1,Draw,5,1,0,0
+2011,12,"Tue, Jan 3, 2012",El Dakhlia SC,El Shorta,0,1,Away win,0,1,0,0
+2011,12,"Wed, Jan 4, 2012",Harras El Hodoud,Telefonat Beni Suef,3,2,Home win,1,3,0,0
+2011,12,"Wed, Jan 4, 2012",Enppi Club,Smouha SC,2,0,Home win,3,1,0,0
+2011,12,"Thu, Jan 5, 2012",El Gouna FC,Masry Port Said,0,1,Away win,0,0,0,0
+2011,12,"Thu, Jan 5, 2012",Ittehad Alexandria,Arab Contractors SC,2,1,Home win,3,3,0,0
+2011,12,"Thu, Jan 5, 2012",Ismaily SC,Entag El Harby,2,0,Home win,1,1,0,0
+2011,12,"Thu, Jan 5, 2012",Masr El Makasa,Ghazl Mahalla,5,1,Home win,2,3,0,0
+2011,12,"Thu, Jan 5, 2012",El Ahly Cairo,Tala'ea El Gaish,3,0,Home win,3,3,0,0
+2011,13,"Mon, Jan 9, 2012",Arab Contractors SC,El Dakhlia SC,4,1,Home win,3,3,0,0
+2011,13,"Mon, Jan 9, 2012",Smouha SC,Ismaily SC,2,1,Home win,2,2,0,0
+2011,13,"Mon, Jan 9, 2012",El Shorta,Enppi Club,0,1,Away win,4,0,0,0
+2011,13,"Tue, Jan 10, 2012",Telefonat Beni Suef,Petrojet,0,0,Draw,2,2,0,0
+2011,13,"Tue, Jan 10, 2012",Masry Port Said,Ittehad Alexandria,2,0,Home win,2,4,0,0
+2011,13,"Tue, Jan 10, 2012",Tala'ea El Gaish,Masr El Makasa,1,1,Draw,3,4,0,0
+2011,13,"Wed, Jan 11, 2012",Ghazl Mahalla,Wadi Degla FC,0,0,Draw,2,1,0,0
+2011,13,"Wed, Jan 11, 2012",Entag El Harby,El Ahly Cairo,1,1,Draw,2,2,0,0
+2011,13,"Wed, Jan 11, 2012",Zamalek SC,El Gouna FC,1,0,Home win,1,3,0,0
+2011,14,"Fri, Jan 13, 2012",Ismaily SC,El Shorta,1,1,Draw,3,2,0,0
+2011,14,"Fri, Jan 13, 2012",Enppi Club,Arab Contractors SC,3,0,Home win,2,1,0,0
+2011,14,"Sat, Jan 14, 2012",Petrojet,Harras El Hodoud,0,3,Away win,4,2,0,1
+2011,14,"Sat, Jan 14, 2012",El Dakhlia SC,Masry Port Said,2,0,Home win,3,3,0,0
+2011,14,"Sat, Jan 14, 2012",Masr El Makasa,Entag El Harby,2,0,Home win,1,2,0,0
+2011,14,"Sat, Jan 14, 2012",El Ahly Cairo,Smouha SC,3,1,Home win,2,3,0,0
+2011,14,"Sun, Jan 15, 2012",El Gouna FC,Telefonat Beni Suef,2,1,Home win,3,1,0,0
+2011,14,"Sun, Jan 15, 2012",Ittehad Alexandria,Zamalek SC,0,2,Away win,2,0,0,0
+2011,14,"Sun, Jan 15, 2012",Wadi Degla FC,Tala'ea El Gaish,2,2,Draw,2,0,0,0
+2011,15,"Wed, Jan 18, 2012",Masry Port Said,Enppi Club,1,0,Home win,1,2,0,0
+2011,15,"Wed, Jan 18, 2012",Smouha SC,Masr El Makasa,3,1,Home win,1,2,0,0
+2011,15,"Wed, Jan 18, 2012",El Shorta,El Ahly Cairo,0,1,Away win,2,1,0,0
+2011,15,"Thu, Jan 19, 2012",Telefonat Beni Suef,Ittehad Alexandria,2,1,Home win,2,2,0,0
+2011,15,"Thu, Jan 19, 2012",Harras El Hodoud,El Gouna FC,1,0,Home win,0,4,0,0
+2011,15,"Thu, Jan 19, 2012",Arab Contractors SC,Ismaily SC,0,1,Away win,2,1,0,0
+2011,15,"Thu, Jan 19, 2012",Zamalek SC,El Dakhlia SC,2,1,Home win,2,2,0,0
+2011,15,"Fri, Jan 20, 2012",Tala'ea El Gaish,Ghazl Mahalla,3,0,Home win,2,5,0,0
+2011,15,"Fri, Jan 20, 2012",Entag El Harby,Wadi Degla FC,2,3,Away win,1,3,0,0
+2011,16,"Fri, Jan 27, 2012",El Gouna FC,Petrojet,3,1,Home win,1,1,0,1
+2011,16,"Fri, Jan 27, 2012",Wadi Degla FC,Smouha SC,2,0,Home win,3,1,0,0
+2011,16,"Fri, Jan 27, 2012",Enppi Club,Zamalek SC,2,1,Home win,2,3,0,0
+2011,16,"Sat, Jan 28, 2012",Ghazl Mahalla,Entag El Harby,2,0,Home win,1,2,0,0
+2011,16,"Sat, Jan 28, 2012",Masr El Makasa,El Shorta,1,1,Draw,3,3,0,0
+2011,16,"Sat, Jan 28, 2012",Ismaily SC,Masry Port Said,0,0,Draw,0,0,0,0
+2011,16,"Sat, Jan 28, 2012",El Dakhlia SC,Telefonat Beni Suef,0,1,Away win,0,2,0,0
+2011,16,"Sat, Jan 28, 2012",El Ahly Cairo,Arab Contractors SC,2,0,Home win,1,3,1,0
+2011,16,"Tue, Jan 31, 2012",Ittehad Alexandria,Harras El Hodoud,0,1,Away win,2,2,0,0
+2011,17,"Wed, Feb 1, 2012",Telefonat Beni Suef,Enppi Club,1,2,Away win,0,2,0,0
+2011,17,"Wed, Feb 1, 2012",Entag El Harby,Tala'ea El Gaish,1,2,Away win,1,1,0,0
+2011,17,"Wed, Feb 1, 2012",Masry Port Said,El Ahly Cairo,3,1,Home win,3,1,0,0
+2012,1,"Sat, Feb 2, 2013",Ghazl Mahalla,El Ahly Cairo,0,1,Away win,3,1,0,0
+2012,1,"Sat, Feb 2, 2013",Zamalek SC,Ittehad Alexandria,2,0,Home win,0,2,0,0
+2012,1,"Sun, Feb 3, 2013",Arab Contractors SC,El Dakhlia SC,0,1,Away win,2,4,0,0
+2012,1,"Sun, Feb 3, 2013",Smouha SC,Telefonat Beni Suef,1,1,Draw,1,2,0,0
+2012,1,"Sun, Feb 3, 2013",Ismaily SC,Tala'ea El Gaish,1,0,Home win,3,3,0,0
+2012,1,"Mon, Feb 4, 2013",Masr El Makasa,Enppi Club,1,2,Away win,1,4,0,0
+2012,1,"Mon, Feb 4, 2013",Wadi Degla FC,Harras El Hodoud,1,2,Away win,4,1,0,0
+2012,1,"Tue, Feb 5, 2013",Entag El Harby,El Shorta,0,1,Away win,3,3,0,0
+2012,2,"Fri, Feb 8, 2013",Ittehad Alexandria,Ismaily SC,0,1,Away win,2,2,0,0
+2012,2,"Fri, Feb 8, 2013",El Gouna FC,Masr El Makasa,1,1,Draw,1,2,0,0
+2012,2,"Fri, Feb 8, 2013",Enppi Club,Ghazl Mahalla,1,1,Draw,1,3,0,0
+2012,2,"Sat, Feb 9, 2013",El Dakhlia SC,Entag El Harby,0,0,Draw,3,4,0,0
+2012,2,"Sat, Feb 9, 2013",El Shorta,Zamalek SC,2,3,Away win,1,0,0,0
+2012,2,"Sat, Feb 9, 2013",Harras El Hodoud,Smouha SC,1,0,Home win,2,2,0,0
+2012,2,"Sun, Feb 10, 2013",El Ahly Cairo,Wadi Degla FC,1,0,Home win,2,1,0,0
+2012,2,"Mon, Feb 11, 2013",Petrojet,Arab Contractors SC,2,1,Home win,3,1,0,0
+2012,3,"Wed, Feb 13, 2013",Telefonat Beni Suef,Harras El Hodoud,1,0,Home win,2,3,0,0
+2012,3,"Wed, Feb 13, 2013",Zamalek SC,El Dakhlia SC,1,0,Home win,1,1,1,1
+2012,3,"Wed, Feb 13, 2013",Ghazl Mahalla,El Gouna FC,1,1,Draw,3,2,0,0
+2012,3,"Thu, Feb 14, 2013",Tala'ea El Gaish,Ittehad Alexandria,0,1,Away win,3,5,0,0
+2012,3,"Thu, Feb 14, 2013",Smouha SC,El Ahly Cairo,1,0,Home win,4,2,0,0
+2012,3,"Fri, Feb 15, 2013",Entag El Harby,Petrojet,1,1,Draw,0,1,0,0
+2012,3,"Fri, Feb 15, 2013",Wadi Degla FC,Enppi Club,1,2,Away win,2,1,0,0
+2012,3,"Fri, Feb 22, 2013",Ismaily SC,El Shorta,1,0,Home win,0,2,0,0
+2012,4,"Sun, Feb 17, 2013",El Dakhlia SC,Ismaily SC,1,2,Away win,2,2,0,0
+2012,4,"Mon, Feb 18, 2013",Masr El Makasa,Ghazl Mahalla,0,2,Away win,1,2,0,0
+2012,4,"Mon, Feb 18, 2013",El Ahly Cairo,Telefonat Beni Suef,2,0,Home win,1,0,0,0
+2012,4,"Tue, Feb 19, 2013",El Gouna FC,Wadi Degla FC,2,3,Away win,1,1,1,0
+2012,4,"Tue, Feb 19, 2013",El Shorta,Tala'ea El Gaish,1,1,Draw,1,3,0,0
+2012,4,"Wed, Feb 20, 2013",Arab Contractors SC,Entag El Harby,1,1,Draw,2,2,0,0
+2012,4,"Thu, Feb 21, 2013",Petrojet,Zamalek SC,0,3,Away win,1,1,0,0
+2012,4,"Thu, Feb 21, 2013",Enppi Club,Smouha SC,1,1,Draw,1,1,1,0
+2012,5,"Mon, Feb 25, 2013",Smouha SC,El Gouna FC,0,0,Draw,2,4,1,0
+2012,5,"Mon, Feb 25, 2013",Zamalek SC,Arab Contractors SC,2,1,Home win,3,3,0,0
+2012,5,"Tue, Feb 26, 2013",Wadi Degla FC,Masr El Makasa,0,1,Away win,0,3,0,0
+2012,5,"Wed, Feb 27, 2013",Ittehad Alexandria,El Shorta,0,1,Away win,4,2,0,0
+2012,5,"Wed, Feb 27, 2013",Tala'ea El Gaish,El Dakhlia SC,2,0,Home win,3,3,0,0
+2012,5,"Thu, Feb 28, 2013",Telefonat Beni Suef,Enppi Club,0,0,Draw,3,3,0,0
+2012,5,"Thu, Feb 28, 2013",Harras El Hodoud,El Ahly Cairo,3,0,Home win,1,2,0,0
+2012,5,"Sun, Mar 3, 2013",Ismaily SC,Petrojet,0,1,Away win,1,2,0,0
+2012,6,"Mon, Mar 4, 2013",Masr El Makasa,Smouha SC,3,1,Home win,2,1,0,0
+2012,6,"Tue, Mar 5, 2013",El Gouna FC,Telefonat Beni Suef,1,1,Draw,2,3,0,0
+2012,6,"Tue, Mar 5, 2013",El Dakhlia SC,Ittehad Alexandria,0,0,Draw,2,1,0,0
+2012,6,"Tue, Mar 5, 2013",Ghazl Mahalla,Wadi Degla FC,2,1,Home win,0,0,0,0
+2012,6,"Wed, Mar 6, 2013",Enppi Club,Harras El Hodoud,4,0,Home win,2,2,0,0
+2012,6,"Thu, Mar 7, 2013",Petrojet,Tala'ea El Gaish,1,1,Draw,3,5,0,0
+2012,6,"Thu, Mar 7, 2013",Arab Contractors SC,Ismaily SC,1,3,Away win,2,0,0,0
+2012,6,"Fri, Mar 8, 2013",Entag El Harby,Zamalek SC,1,3,Away win,2,1,0,0
+2012,7,"Sun, Mar 10, 2013",Harras El Hodoud,El Gouna FC,0,0,Draw,2,2,0,0
+2012,7,"Sun, Mar 10, 2013",El Ahly Cairo,Enppi Club,2,1,Home win,2,1,0,0
+2012,7,"Mon, Mar 11, 2013",Ittehad Alexandria,Petrojet,0,4,Away win,1,3,0,0
+2012,7,"Mon, Mar 11, 2013",El Shorta,El Dakhlia SC,1,0,Home win,1,2,0,0
+2012,7,"Tue, Mar 12, 2013",Tala'ea El Gaish,Arab Contractors SC,2,1,Home win,2,0,0,0
+2012,7,"Tue, Mar 12, 2013",Smouha SC,Ghazl Mahalla,5,1,Home win,2,0,0,0
+2012,7,"Wed, Mar 13, 2013",Telefonat Beni Suef,Masr El Makasa,0,0,Draw,2,3,0,0
+2012,7,"Thu, Mar 21, 2013",Ismaily SC,Entag El Harby,1,0,Home win,1,1,0,0
+2012,8,"Wed, Mar 27, 2013",Ghazl Mahalla,Telefonat Beni Suef,1,1,Draw,1,3,0,0
+2012,8,"Wed, Mar 27, 2013",Entag El Harby,Tala'ea El Gaish,1,2,Away win,3,0,0,0
+2012,8,"Thu, Mar 28, 2013",Masr El Makasa,Harras El Hodoud,1,1,Draw,2,2,0,0
+2012,8,"Thu, Mar 28, 2013",Wadi Degla FC,Smouha SC,0,3,Away win,3,1,0,0
+2012,8,"Fri, Mar 29, 2013",Petrojet,El Shorta,1,1,Draw,0,0,0,0
+2012,8,"Fri, Mar 29, 2013",Zamalek SC,Ismaily SC,2,0,Home win,1,1,0,0
+2012,8,"Sat, Mar 30, 2013",El Gouna FC,El Ahly Cairo,0,2,Away win,1,0,0,0
+2012,8,"Sun, Mar 31, 2013",Arab Contractors SC,Ittehad Alexandria,0,0,Draw,1,1,0,0
+2012,9,"Tue, Mar 19, 2013",Tala'ea El Gaish,Zamalek SC,1,2,Away win,2,2,0,0
+2012,9,"Wed, Mar 20, 2013",Enppi Club,El Gouna FC,4,1,Home win,1,2,0,0
+2012,9,"Tue, Apr 2, 2013",Telefonat Beni Suef,Wadi Degla FC,1,0,Home win,1,2,0,1
+2012,9,"Tue, Apr 2, 2013",Harras El Hodoud,Ghazl Mahalla,3,1,Home win,1,2,0,0
+2012,9,"Wed, Apr 3, 2013",El Dakhlia SC,Petrojet,2,0,Home win,4,1,0,0
+2012,9,"Wed, Apr 3, 2013",Ittehad Alexandria,Entag El Harby,1,1,Draw,2,2,0,0
+2012,9,"Wed, Apr 3, 2013",El Ahly Cairo,Masr El Makasa,1,0,Home win,3,1,0,0
+2012,9,"Thu, Apr 4, 2013",El Shorta,Arab Contractors SC,1,1,Draw,3,2,0,0
+2012,10,"Thu, Apr 11, 2013",El Shorta,Entag El Harby,4,1,Home win,2,2,0,0
+2012,10,"Thu, Apr 11, 2013",Harras El Hodoud,Wadi Degla FC,0,0,Draw,1,2,0,0
+2012,10,"Fri, Apr 12, 2013",Enppi Club,Masr El Makasa,0,0,Draw,1,2,0,0
+2012,10,"Sat, Apr 13, 2013",Tala'ea El Gaish,Ismaily SC,0,4,Away win,4,3,2,1
+2012,10,"Sun, Apr 14, 2013",Telefonat Beni Suef,Smouha SC,0,1,Away win,2,3,0,0
+2012,10,"Mon, Apr 15, 2013",El Dakhlia SC,Arab Contractors SC,1,3,Away win,2,1,0,0
+2012,10,"Mon, May 27, 2013",Ittehad Alexandria,Zamalek SC,2,0,Home win,3,1,0,0
+2012,10,"Tue, May 28, 2013",El Ahly Cairo,Ghazl Mahalla,2,1,Home win,1,2,0,0
+2012,11,"Sun, Apr 21, 2013",Masr El Makasa,El Gouna FC,0,2,Away win,2,3,0,0
+2012,11,"Mon, Apr 22, 2013",Arab Contractors SC,Petrojet,2,1,Home win,5,3,1,1
+2012,11,"Mon, Apr 22, 2013",Smouha SC,Harras El Hodoud,0,0,Draw,1,3,0,0
+2012,11,"Tue, Apr 23, 2013",Ghazl Mahalla,Enppi Club,0,1,Away win,1,2,0,0
+2012,11,"Tue, Apr 23, 2013",Entag El Harby,El Dakhlia SC,0,1,Away win,3,4,1,0
+2012,11,"Wed, Apr 24, 2013",Zamalek SC,El Shorta,1,0,Home win,1,1,0,0
+2012,11,"Thu, Apr 25, 2013",Ismaily SC,Ittehad Alexandria,1,1,Draw,2,2,0,0
+2012,11,"Thu, Apr 25, 2013",Wadi Degla FC,El Ahly Cairo,0,1,Away win,0,2,0,0
+2012,12,"Sun, Apr 28, 2013",El Dakhlia SC,Zamalek SC,1,2,Away win,3,2,0,0
+2012,12,"Sun, Apr 28, 2013",Harras El Hodoud,Telefonat Beni Suef,0,1,Away win,2,2,0,0
+2012,12,"Mon, Apr 29, 2013",El Gouna FC,Ghazl Mahalla,2,0,Home win,1,1,0,0
+2012,12,"Mon, Apr 29, 2013",El Shorta,Ismaily SC,1,1,Draw,2,2,0,0
+2012,12,"Mon, Apr 29, 2013",Enppi Club,Wadi Degla FC,3,1,Home win,1,1,1,0
+2012,12,"Tue, Apr 30, 2013",Ittehad Alexandria,Tala'ea El Gaish,1,2,Away win,4,2,0,0
+2012,12,"Tue, Apr 30, 2013",Petrojet,Entag El Harby,1,1,Draw,0,0,0,0
+2012,12,"Tue, Apr 30, 2013",El Ahly Cairo,Smouha SC,2,0,Home win,2,3,0,0
+2012,13,"Mon, May 6, 2013",Entag El Harby,Arab Contractors SC,0,3,Away win,2,0,0,0
+2012,13,"Mon, May 6, 2013",Wadi Degla FC,El Gouna FC,1,0,Home win,5,2,0,0
+2012,13,"Tue, May 7, 2013",Ismaily SC,El Dakhlia SC,0,0,Draw,1,3,0,0
+2012,13,"Tue, May 7, 2013",Tala'ea El Gaish,El Shorta,3,2,Home win,2,0,0,0
+2012,13,"Wed, May 8, 2013",Ghazl Mahalla,Masr El Makasa,1,1,Draw,2,2,0,0
+2012,13,"Wed, May 8, 2013",Telefonat Beni Suef,El Ahly Cairo,1,2,Away win,0,2,0,0
+2012,13,"Thu, May 9, 2013",Smouha SC,Enppi Club,0,0,Draw,0,1,0,0
+2012,13,"Thu, May 9, 2013",Zamalek SC,Petrojet,1,2,Away win,1,2,0,0
+2012,14,"Sat, May 11, 2013",El Shorta,Ittehad Alexandria,3,0,Home win,2,1,0,0
+2012,14,"Sun, May 12, 2013",Masr El Makasa,Wadi Degla FC,0,1,Away win,2,3,0,0
+2012,14,"Sun, May 12, 2013",El Ahly Cairo,Harras El Hodoud,2,1,Home win,2,4,0,0
+2012,14,"Mon, May 13, 2013",Arab Contractors SC,Zamalek SC,0,1,Away win,1,2,0,0
+2012,14,"Mon, May 13, 2013",Petrojet,Ismaily SC,1,3,Away win,2,3,0,0
+2012,14,"Tue, May 14, 2013",El Gouna FC,Smouha SC,0,1,Away win,3,4,0,0
+2012,14,"Tue, May 14, 2013",Enppi Club,Telefonat Beni Suef,1,0,Home win,0,0,0,0
+2012,14,"Wed, May 15, 2013",El Dakhlia SC,Tala'ea El Gaish,0,0,Draw,1,1,0,0
+2012,15,"Thu, May 16, 2013",Wadi Degla FC,Ghazl Mahalla,3,2,Home win,5,1,0,0
+2012,15,"Fri, May 17, 2013",Zamalek SC,Entag El Harby,1,0,Home win,2,2,0,1
+2012,15,"Sat, May 18, 2013",Telefonat Beni Suef,El Gouna FC,1,0,Home win,2,1,0,0
+2012,15,"Sun, May 19, 2013",Tala'ea El Gaish,Petrojet,0,0,Draw,0,1,0,0
+2012,15,"Mon, May 20, 2013",Smouha SC,Masr El Makasa,3,0,Home win,2,3,0,0
+2012,15,"Mon, May 27, 2013",Ismaily SC,Arab Contractors SC,0,1,Away win,0,3,0,0
+2012,15,"Tue, May 28, 2013",Harras El Hodoud,Enppi Club,2,3,Away win,2,0,0,0
+2012,15,"Sun, Jun 16, 2013",Ittehad Alexandria,El Dakhlia SC,0,1,Away win,2,2,0,0
+2012,16,"Wed, May 22, 2013",El Gouna FC,Harras El Hodoud,1,0,Home win,2,2,0,0
+2012,16,"Wed, May 22, 2013",Arab Contractors SC,Tala'ea El Gaish,4,3,Home win,1,2,0,0
+2012,16,"Thu, May 23, 2013",El Dakhlia SC,El Shorta,2,0,Home win,2,1,0,0
+2012,16,"Thu, May 23, 2013",Entag El Harby,Ismaily SC,0,1,Away win,2,2,0,0
+2012,16,"Thu, May 23, 2013",Petrojet,Ittehad Alexandria,1,2,Away win,2,4,0,0
+2012,16,"Fri, May 24, 2013",Ghazl Mahalla,Smouha SC,0,2,Away win,2,4,0,0
+2012,16,"Fri, May 24, 2013",Masr El Makasa,Telefonat Beni Suef,0,1,Away win,2,4,0,0
+2012,16,"Fri, May 24, 2013",Enppi Club,El Ahly Cairo,1,5,Away win,2,1,0,0
+2012,17,"Sat, Jun 22, 2013",Harras El Hodoud,Masr El Makasa,1,1,Draw,3,4,0,0
+2012,17,"Sat, Jun 22, 2013",Telefonat Beni Suef,Ghazl Mahalla,1,1,Draw,2,2,0,0
+2012,17,"Sat, Jun 22, 2013",Smouha SC,Wadi Degla FC,0,0,Draw,2,1,0,0
+2012,17,"Sat, Jun 22, 2013",El Ahly Cairo,El Gouna FC,4,1,Home win,2,3,0,0
+2012,17,"Sun, Jun 23, 2013",Tala'ea El Gaish,Entag El Harby,2,2,Draw,2,1,0,0
+2012,17,"Sun, Jun 23, 2013",El Shorta,Petrojet,3,0,Home win,3,1,0,0
+2012,17,"Sun, Jun 23, 2013",Ittehad Alexandria,Arab Contractors SC,2,2,Draw,2,1,0,0
+2013,1,"Wed, Dec 25, 2013",Enppi Club,Arab Contractors SC,1,1,Draw,1,2,0,0
+2013,1,"Wed, Dec 25, 2013",Zamalek SC,Masry Port Said,2,0,Home win,1,2,0,0
+2013,1,"Wed, Dec 25, 2013",El Shorta,Wadi Degla FC,2,1,Home win,0,3,0,0
+2013,1,"Wed, Dec 25, 2013",Qanah FC,Ismaily SC,1,2,Away win,1,0,0,0
+2013,1,"Wed, Dec 25, 2013",Harras El Hodoud,El Minya FC,1,2,Away win,1,3,0,0
+2013,1,"Thu, Dec 26, 2013",El Dakhlia SC,Ghazl Mahalla,2,2,Draw,1,3,0,0
+2013,1,"Thu, Dec 26, 2013",El Raja Marsa Matruh,Ittehad Alexandria,1,1,Draw,1,2,0,0
+2013,1,"Thu, Dec 26, 2013",Masr El Makasa,El Gouna FC,1,0,Home win,3,0,0,0
+2013,1,"Thu, Dec 26, 2013",Entag El Harby,El Ahly Cairo,0,2,Away win,2,1,0,0
+2013,2,"Sun, Dec 29, 2013",Tala'ea El Gaish,Qanah FC,1,1,Draw,2,3,1,0
+2013,2,"Sun, Dec 29, 2013",Wadi Degla FC,El Minya FC,6,0,Home win,1,1,0,0
+2013,2,"Sun, Dec 29, 2013",Masry Port Said,El Shorta,1,1,Draw,1,2,0,0
+2013,2,"Sun, Dec 29, 2013",Harras El Hodoud,Petrojet,0,1,Away win,3,1,0,0
+2013,2,"Sun, Dec 29, 2013",Ismaily SC,Telefonat Beni Suef,3,1,Home win,0,0,0,0
+2013,2,"Mon, Dec 30, 2013",Ittehad Alexandria,Masr El Makasa,0,0,Draw,2,2,0,0
+2013,2,"Mon, Dec 30, 2013",Arab Contractors SC,El Raja Marsa Matruh,4,2,Home win,4,2,0,0
+2013,2,"Mon, Dec 30, 2013",El Gouna FC,Entag El Harby,1,0,Home win,0,0,0,0
+2013,2,"Mon, Dec 30, 2013",Ghazl Mahalla,Smouha SC,0,1,Away win,1,2,0,0
+2013,2,"Mon, Feb 3, 2014",El Ahly Cairo,El Dakhlia SC,0,1,Away win,1,2,0,0
+2013,3,"Thu, Jan 2, 2014",Qanah FC,Harras El Hodoud,0,0,Draw,0,1,0,0
+2013,3,"Thu, Jan 2, 2014",Telefonat Beni Suef,Tala'ea El Gaish,0,0,Draw,4,1,0,0
+2013,3,"Thu, Jan 2, 2014",Masry Port Said,Wadi Degla FC,0,0,Draw,0,1,0,0
+2013,3,"Thu, Jan 2, 2014",Zamalek SC,Ismaily SC,0,1,Away win,1,1,0,0
+2013,3,"Sat, Jan 4, 2014",Enppi Club,Ghazl Mahalla,3,1,Home win,1,2,1,0
+2013,3,"Sat, Jan 4, 2014",El Dakhlia SC,El Gouna FC,0,0,Draw,2,2,0,0
+2013,3,"Sat, Jan 4, 2014",Petrojet,El Minya FC,3,0,Home win,3,4,0,0
+2013,3,"Sat, Jan 4, 2014",Smouha SC,El Ahly Cairo,0,2,Away win,1,2,0,0
+2013,3,"Sun, Jan 5, 2014",Entag El Harby,Masr El Makasa,0,0,Draw,2,3,0,0
+2013,3,"Sun, Jan 5, 2014",Arab Contractors SC,Ittehad Alexandria,0,0,Draw,2,4,0,0
+2013,4,"Tue, Jan 7, 2014",El Minya FC,Qanah FC,0,1,Away win,0,0,0,0
+2013,4,"Tue, Jan 7, 2014",Ismaily SC,El Shorta,0,0,Draw,1,3,0,0
+2013,4,"Tue, Jan 7, 2014",Harras El Hodoud,Telefonat Beni Suef,1,1,Draw,1,5,0,0
+2013,4,"Tue, Jan 7, 2014",Tala'ea El Gaish,Zamalek SC,0,1,Away win,2,2,0,0
+2013,4,"Thu, Jan 9, 2014",Ittehad Alexandria,Entag El Harby,3,1,Home win,4,2,0,0
+2013,4,"Thu, Jan 9, 2014",Masr El Makasa,El Dakhlia SC,2,0,Home win,1,3,0,0
+2013,4,"Thu, Jan 9, 2014",Ghazl Mahalla,El Raja Marsa Matruh,4,1,Home win,1,5,0,0
+2013,4,"Thu, Jan 9, 2014",El Gouna FC,Smouha SC,0,1,Away win,1,4,0,0
+2013,4,"Thu, Jan 9, 2014",Wadi Degla FC,Petrojet,0,2,Away win,2,1,0,0
+2013,4,"Thu, Jan 9, 2014",El Ahly Cairo,Enppi Club,1,0,Home win,1,0,0,0
+2013,5,"Sat, Jan 18, 2014",Arab Contractors SC,Ghazl Mahalla,4,0,Home win,1,1,0,0
+2013,5,"Sat, Jan 18, 2014",Enppi Club,El Gouna FC,1,0,Home win,2,2,0,0
+2013,5,"Sat, Jan 18, 2014",El Dakhlia SC,Entag El Harby,2,2,Draw,3,3,0,0
+2013,5,"Sat, Jan 18, 2014",El Raja Marsa Matruh,El Ahly Cairo,0,3,Away win,2,1,0,0
+2013,5,"Sun, Jan 19, 2014",Smouha SC,Masr El Makasa,2,1,Home win,1,1,0,0
+2013,5,"Sun, Jan 19, 2014",El Shorta,Tala'ea El Gaish,0,0,Draw,0,1,0,0
+2013,5,"Sun, Jan 19, 2014",Telefonat Beni Suef,El Minya FC,2,1,Home win,1,5,0,0
+2013,5,"Sun, Jan 19, 2014",Qanah FC,Petrojet,1,0,Home win,2,3,0,0
+2013,5,"Sun, Jan 19, 2014",Zamalek SC,Harras El Hodoud,0,2,Away win,1,1,0,0
+2013,5,"Mon, Jan 20, 2014",Masry Port Said,Ismaily SC,0,2,Away win,2,2,0,0
+2013,6,"Tue, Jan 28, 2014",Petrojet,Telefonat Beni Suef,2,0,Home win,2,3,0,0
+2013,6,"Wed, Jan 29, 2014",El Minya FC,Zamalek SC,0,1,Away win,3,0,0,0
+2013,6,"Wed, Jan 29, 2014",Tala'ea El Gaish,Masry Port Said,0,2,Away win,3,2,0,0
+2013,6,"Wed, Jan 29, 2014",Harras El Hodoud,El Shorta,1,0,Home win,0,1,0,0
+2013,6,"Wed, Jan 29, 2014",El Gouna FC,El Raja Marsa Matruh,0,2,Away win,2,1,0,0
+2013,6,"Wed, Jan 29, 2014",Wadi Degla FC,Qanah FC,1,1,Draw,3,4,0,0
+2013,6,"Thu, Jan 30, 2014",Entag El Harby,Smouha SC,1,2,Away win,2,3,0,0
+2013,6,"Thu, Jan 30, 2014",Masr El Makasa,Enppi Club,0,0,Draw,1,1,0,0
+2013,6,"Thu, Jan 30, 2014",Ittehad Alexandria,El Dakhlia SC,0,0,Draw,2,4,0,0
+2013,6,"Thu, Jan 30, 2014",Arab Contractors SC,El Ahly Cairo,2,1,Home win,2,0,0,1
+2013,7,"Sun, Feb 2, 2014",El Shorta,El Minya FC,2,2,Draw,2,4,0,0
+2013,7,"Sun, Feb 2, 2014",Ismaily SC,Wadi Degla FC,1,2,Away win,1,1,0,0
+2013,7,"Sun, Feb 2, 2014",Telefonat Beni Suef,Qanah FC,0,0,Draw,0,1,0,0
+2013,7,"Sun, Feb 2, 2014",Masry Port Said,Harras El Hodoud,1,0,Home win,2,1,0,0
+2013,7,"Sun, Feb 2, 2014",Zamalek SC,Petrojet,2,2,Draw,2,3,1,0
+2013,7,"Mon, Feb 3, 2014",Arab Contractors SC,El Gouna FC,3,1,Home win,2,4,0,0
+2013,7,"Mon, Feb 3, 2014",El Raja Marsa Matruh,Masr El Makasa,0,0,Draw,3,4,0,0
+2013,7,"Mon, Feb 3, 2014",Ghazl Mahalla,Ittehad Alexandria,1,2,Away win,1,1,0,0
+2013,7,"Tue, Feb 4, 2014",Enppi Club,Entag El Harby,0,0,Draw,2,3,0,0
+2013,7,"Thu, Feb 27, 2014",Smouha SC,El Dakhlia SC,2,0,Home win,2,4,0,0
+2013,8,"Wed, Feb 5, 2014",Wadi Degla FC,Telefonat Beni Suef,1,0,Home win,0,1,0,0
+2013,8,"Wed, Feb 5, 2014",Tala'ea El Gaish,Ismaily SC,1,1,Draw,2,3,0,0
+2013,8,"Wed, Feb 5, 2014",Qanah FC,Zamalek SC,0,4,Away win,3,1,0,0
+2013,8,"Thu, Feb 6, 2014",Ittehad Alexandria,Smouha SC,1,1,Draw,5,2,0,0
+2013,8,"Thu, Feb 6, 2014",Masr El Makasa,Arab Contractors SC,0,0,Draw,1,1,0,0
+2013,8,"Thu, Feb 6, 2014",Petrojet,El Shorta,1,0,Home win,2,0,0,0
+2013,8,"Thu, Feb 6, 2014",El Ahly Cairo,Ghazl Mahalla,1,0,Home win,5,3,1,0
+2013,8,"Sat, Feb 8, 2014",El Dakhlia SC,Enppi Club,0,0,Draw,1,2,0,0
+2013,8,"Sat, Feb 8, 2014",Entag El Harby,El Raja Marsa Matruh,2,1,Home win,2,1,0,0
+2013,8,"Sat, Feb 8, 2014",El Minya FC,Masry Port Said,1,2,Away win,2,2,0,0
+2013,9,"Tue, Feb 11, 2014",El Ahly Cairo,Ittehad Alexandria,0,0,Draw,3,1,0,0
+2013,9,"Wed, Feb 12, 2014",Arab Contractors SC,Entag El Harby,1,1,Draw,3,5,0,0
+2013,9,"Wed, Feb 12, 2014",El Raja Marsa Matruh,El Dakhlia SC,1,0,Home win,2,1,0,0
+2013,9,"Wed, Feb 12, 2014",Enppi Club,Smouha SC,1,2,Away win,1,3,0,0
+2013,9,"Thu, Feb 13, 2014",Masry Port Said,Petrojet,0,1,Away win,1,1,0,0
+2013,9,"Thu, Feb 13, 2014",El Shorta,Qanah FC,2,1,Home win,2,2,0,0
+2013,9,"Thu, Feb 13, 2014",Tala'ea El Gaish,Wadi Degla FC,2,4,Away win,1,2,1,0
+2013,9,"Thu, Feb 13, 2014",Ismaily SC,Harras El Hodoud,0,0,Draw,3,3,0,0
+2013,9,"Thu, Feb 20, 2014",Ghazl Mahalla,El Gouna FC,1,0,Home win,3,2,0,0
+2013,9,"Wed, Mar 12, 2014",Zamalek SC,Telefonat Beni Suef,0,0,Draw,1,4,0,0
+2013,10,"Sat, Feb 15, 2014",Masr El Makasa,Ghazl Mahalla,0,0,Draw,0,0,0,0
+2013,10,"Sat, Feb 15, 2014",El Gouna FC,El Ahly Cairo,1,0,Home win,4,2,0,0
+2013,10,"Sun, Feb 16, 2014",El Dakhlia SC,Arab Contractors SC,1,1,Draw,3,4,0,0
+2013,10,"Sun, Feb 16, 2014",Smouha SC,El Raja Marsa Matruh,2,0,Home win,1,1,0,1
+2013,10,"Mon, Feb 17, 2014",Ittehad Alexandria,Enppi Club,2,1,Home win,3,1,0,0
+2013,10,"Wed, Feb 19, 2014",Qanah FC,Masry Port Said,1,1,Draw,1,1,0,0
+2013,10,"Wed, Feb 19, 2014",Telefonat Beni Suef,El Shorta,0,0,Draw,1,0,0,0
+2013,10,"Wed, Feb 19, 2014",Harras El Hodoud,Tala'ea El Gaish,1,0,Home win,2,4,0,0
+2013,10,"Wed, Feb 19, 2014",Ismaily SC,El Minya FC,1,1,Draw,1,2,1,0
+2013,10,"Wed, Apr 9, 2014",Wadi Degla FC,Zamalek SC,2,3,Away win,3,3,0,0
+2013,11,"Sat, Feb 22, 2014",Arab Contractors SC,Smouha SC,0,1,Away win,2,2,0,0
+2013,11,"Sun, Feb 23, 2014",El Raja Marsa Matruh,Enppi Club,2,2,Draw,3,3,0,0
+2013,11,"Mon, Feb 24, 2014",Ismaily SC,Petrojet,1,0,Home win,2,2,0,0
+2013,11,"Mon, Feb 24, 2014",Ghazl Mahalla,Entag El Harby,1,0,Home win,3,5,0,0
+2013,11,"Mon, Feb 24, 2014",Ittehad Alexandria,El Gouna FC,1,0,Home win,2,3,0,0
+2013,11,"Mon, Feb 24, 2014",Wadi Degla FC,Harras El Hodoud,0,1,Away win,2,3,0,0
+2013,11,"Mon, Feb 24, 2014",El Shorta,Zamalek SC,1,1,Draw,2,3,0,0
+2013,11,"Tue, Feb 25, 2014",Masry Port Said,Telefonat Beni Suef,3,3,Draw,2,2,0,0
+2013,11,"Tue, Feb 25, 2014",Tala'ea El Gaish,El Minya FC,3,0,Home win,2,1,0,0
+2013,11,"Sun, Apr 6, 2014",El Ahly Cairo,Masr El Makasa,4,1,Home win,1,2,0,0
+2013,12,"Sun, Mar 9, 2014",Ghazl Mahalla,El Dakhlia SC,0,0,Draw,3,4,0,0
+2013,12,"Mon, Mar 10, 2014",Ittehad Alexandria,El Raja Marsa Matruh,1,0,Home win,1,1,0,0
+2013,12,"Mon, Mar 10, 2014",Arab Contractors SC,Enppi Club,1,0,Home win,1,1,0,0
+2013,12,"Mon, Mar 10, 2014",Tala'ea El Gaish,Petrojet,0,0,Draw,2,2,0,0
+2013,12,"Thu, Mar 13, 2014",Wadi Degla FC,El Shorta,0,0,Draw,1,3,0,0
+2013,12,"Thu, Mar 13, 2014",Ismaily SC,Qanah FC,0,1,Away win,2,1,0,0
+2013,12,"Thu, Mar 13, 2014",El Ahly Cairo,Entag El Harby,3,1,Home win,0,3,0,0
+2013,12,"Mon, Mar 17, 2014",Masry Port Said,Zamalek SC,1,0,Home win,2,4,0,0
+2013,12,"Sat, Mar 22, 2014",El Gouna FC,Masr El Makasa,2,1,Home win,3,2,0,0
+2013,13,"Sat, Mar 15, 2014",Petrojet,Harras El Hodoud,1,1,Draw,5,1,0,0
+2013,13,"Sat, Mar 15, 2014",Masr El Makasa,Ittehad Alexandria,2,1,Home win,5,3,0,0
+2013,13,"Sat, Mar 15, 2014",Smouha SC,Ghazl Mahalla,0,0,Draw,0,1,0,0
+2013,13,"Sun, Mar 16, 2014",El Minya FC,Wadi Degla FC,1,3,Away win,2,1,0,1
+2013,13,"Sun, Mar 16, 2014",El Raja Marsa Matruh,Arab Contractors SC,2,2,Draw,1,3,0,0
+2013,13,"Mon, Mar 17, 2014",Qanah FC,Tala'ea El Gaish,1,1,Draw,5,1,0,0
+2013,13,"Mon, Mar 17, 2014",Entag El Harby,El Gouna FC,2,2,Draw,4,4,0,0
+2013,13,"Mon, Mar 17, 2014",El Dakhlia SC,El Ahly Cairo,1,0,Home win,0,0,0,0
+2013,13,"Tue, Mar 18, 2014",Telefonat Beni Suef,Ismaily SC,1,1,Draw,2,4,0,0
+2013,13,"Tue, Mar 25, 2014",El Shorta,Masry Port Said,1,0,Home win,5,4,0,0
+2013,14,"Mon, Mar 24, 2014",Ghazl Mahalla,Enppi Club,1,1,Draw,1,1,0,0
+2013,14,"Mon, Mar 24, 2014",Ittehad Alexandria,Arab Contractors SC,1,1,Draw,1,0,0,0
+2013,14,"Tue, Mar 25, 2014",Tala'ea El Gaish,Telefonat Beni Suef,3,0,Home win,3,2,0,0
+2013,14,"Tue, Mar 25, 2014",Harras El Hodoud,Qanah FC,1,0,Home win,2,0,0,0
+2013,14,"Tue, Mar 25, 2014",El Minya FC,Petrojet,1,2,Away win,2,3,0,0
+2013,14,"Thu, Mar 27, 2014",El Gouna FC,El Dakhlia SC,0,0,Draw,0,1,0,0
+2013,14,"Thu, Mar 27, 2014",Masr El Makasa,Entag El Harby,2,2,Draw,2,3,0,0
+2013,14,"Thu, May 1, 2014",Wadi Degla FC,Masry Port Said,2,1,Home win,5,2,0,0
+2013,14,"Thu, May 1, 2014",Ismaily SC,Zamalek SC,1,0,Home win,3,3,0,0
+2013,14,"Sat, May 3, 2014",El Ahly Cairo,Smouha SC,1,1,Draw,3,2,0,0
+2013,15,"Tue, Apr 1, 2014",Telefonat Beni Suef,Harras El Hodoud,1,0,Home win,4,1,0,0
+2013,15,"Tue, Apr 1, 2014",El Dakhlia SC,Masr El Makasa,0,1,Away win,0,0,0,0
+2013,15,"Tue, Apr 1, 2014",Qanah FC,El Minya FC,2,0,Home win,2,2,0,0
+2013,15,"Tue, Apr 1, 2014",El Raja Marsa Matruh,Ghazl Mahalla,0,0,Draw,1,2,0,0
+2013,15,"Tue, Apr 1, 2014",Entag El Harby,Ittehad Alexandria,0,0,Draw,2,1,1,0
+2013,15,"Wed, Apr 2, 2014",Smouha SC,El Gouna FC,0,3,Away win,0,3,0,0
+2013,15,"Wed, Apr 2, 2014",Enppi Club,El Ahly Cairo,1,1,Draw,4,2,0,0
+2013,15,"Thu, Apr 3, 2014",Zamalek SC,Tala'ea El Gaish,1,1,Draw,4,4,0,0
+2013,15,"Sat, Apr 5, 2014",Petrojet,Wadi Degla FC,1,1,Draw,1,3,0,0
+2013,15,"Sat, Apr 5, 2014",El Shorta,Ismaily SC,1,1,Draw,0,1,0,0
+2013,16,"Wed, Apr 9, 2014",El Minya FC,Telefonat Beni Suef,0,0,Draw,1,4,0,0
+2013,16,"Thu, Apr 10, 2014",Masr El Makasa,Smouha SC,2,3,Away win,3,2,0,0
+2013,16,"Thu, Apr 10, 2014",Petrojet,Qanah FC,2,1,Home win,3,3,0,0
+2013,16,"Thu, Apr 10, 2014",Entag El Harby,El Dakhlia SC,0,2,Away win,0,0,0,0
+2013,16,"Thu, Apr 10, 2014",El Gouna FC,Enppi Club,0,0,Draw,0,0,0,0
+2013,16,"Thu, Apr 10, 2014",Ghazl Mahalla,Arab Contractors SC,0,0,Draw,2,1,0,0
+2013,16,"Thu, Apr 10, 2014",El Ahly Cairo,El Raja Marsa Matruh,3,0,Home win,2,3,0,0
+2013,16,"Sat, Apr 12, 2014",Ismaily SC,Masry Port Said,2,0,Home win,2,0,0,0
+2013,16,"Sat, Apr 12, 2014",Tala'ea El Gaish,El Shorta,0,1,Away win,4,0,0,0
+2013,16,"Sun, Apr 13, 2014",Harras El Hodoud,Zamalek SC,0,2,Away win,3,3,0,0
+2013,17,"Mon, Apr 14, 2014",El Dakhlia SC,Ittehad Alexandria,0,0,Draw,2,1,0,0
+2013,17,"Mon, Apr 14, 2014",Smouha SC,Entag El Harby,0,2,Away win,1,0,0,0
+2013,17,"Mon, Apr 14, 2014",Enppi Club,Masr El Makasa,0,1,Away win,4,3,0,0
+2013,17,"Tue, Apr 15, 2014",El Raja Marsa Matruh,El Gouna FC,1,2,Away win,0,0,0,0
+2013,17,"Tue, Apr 15, 2014",El Ahly Cairo,Arab Contractors SC,1,0,Home win,2,3,0,0
+2013,17,"Wed, Apr 16, 2014",Telefonat Beni Suef,Petrojet,1,1,Draw,2,2,1,1
+2013,17,"Thu, Apr 17, 2014",Qanah FC,Wadi Degla FC,2,1,Home win,1,3,0,0
+2013,17,"Thu, Apr 17, 2014",Masry Port Said,Tala'ea El Gaish,1,1,Draw,1,1,0,0
+2013,17,"Thu, Apr 17, 2014",El Shorta,Harras El Hodoud,2,0,Home win,2,0,0,0
+2013,17,"Thu, Apr 17, 2014",Zamalek SC,El Minya FC,4,0,Home win,4,2,0,0
+2013,18,"Sat, Apr 19, 2014",El Dakhlia SC,Smouha SC,0,3,Away win,1,1,0,0
+2013,18,"Sat, Apr 19, 2014",Ittehad Alexandria,Ghazl Mahalla,2,1,Home win,1,3,0,0
+2013,18,"Sat, Apr 19, 2014",Masr El Makasa,El Raja Marsa Matruh,1,1,Draw,0,0,0,0
+2013,18,"Sat, Apr 19, 2014",El Gouna FC,Arab Contractors SC,1,0,Home win,2,1,0,0
+2013,18,"Sat, Apr 19, 2014",Entag El Harby,Enppi Club,0,1,Away win,5,2,0,0
+2013,18,"Tue, Apr 22, 2014",Petrojet,Zamalek SC,4,2,Home win,1,2,0,0
+2013,18,"Tue, Apr 22, 2014",El Minya FC,El Shorta,0,1,Away win,2,1,0,0
+2013,18,"Tue, Apr 22, 2014",Qanah FC,Telefonat Beni Suef,0,1,Away win,1,5,0,0
+2013,18,"Tue, Apr 22, 2014",Wadi Degla FC,Ismaily SC,0,2,Away win,1,1,0,0
+2013,18,"Wed, Apr 23, 2014",Harras El Hodoud,Masry Port Said,0,0,Draw,2,0,0,0
+2013,19,"Wed, Apr 23, 2014",Enppi Club,El Dakhlia SC,2,2,Draw,0,2,0,0
+2013,19,"Wed, Apr 23, 2014",Arab Contractors SC,Masr El Makasa,4,2,Home win,1,4,0,0
+2013,19,"Wed, Apr 23, 2014",Smouha SC,Ittehad Alexandria,2,3,Away win,2,1,0,0
+2013,19,"Thu, Apr 24, 2014",El Raja Marsa Matruh,Entag El Harby,3,1,Home win,2,2,0,0
+2013,19,"Sat, Apr 26, 2014",Telefonat Beni Suef,Wadi Degla FC,1,0,Home win,2,0,0,0
+2013,19,"Sun, Apr 27, 2014",Masry Port Said,El Minya FC,1,0,Home win,3,0,0,0
+2013,19,"Sun, Apr 27, 2014",El Shorta,Petrojet,3,2,Home win,2,3,1,0
+2013,19,"Sun, Apr 27, 2014",Ismaily SC,Tala'ea El Gaish,2,3,Away win,2,2,0,0
+2013,19,"Sun, Apr 27, 2014",Zamalek SC,Qanah FC,4,0,Home win,3,1,0,0
+2013,19,"Sun, May 11, 2014",Ghazl Mahalla,El Ahly Cairo,1,1,Draw,2,2,0,0
+2013,20,"Mon, May 5, 2014",Wadi Degla FC,Tala'ea El Gaish,0,0,Draw,2,2,0,0
+2013,20,"Mon, May 5, 2014",Harras El Hodoud,Ismaily SC,0,0,Draw,4,2,1,1
+2013,20,"Mon, May 5, 2014",Qanah FC,El Shorta,0,3,Away win,3,1,0,0
+2013,20,"Mon, May 5, 2014",Petrojet,Masry Port Said,1,1,Draw,2,1,0,0
+2013,20,"Mon, May 5, 2014",Telefonat Beni Suef,Zamalek SC,1,2,Away win,1,1,0,0
+2013,20,"Wed, May 7, 2014",Entag El Harby,Arab Contractors SC,0,2,Away win,1,1,0,0
+2013,20,"Wed, May 7, 2014",El Dakhlia SC,El Raja Marsa Matruh,5,2,Home win,4,1,0,0
+2013,20,"Wed, May 7, 2014",El Gouna FC,Ghazl Mahalla,3,0,Home win,1,3,0,0
+2013,20,"Wed, May 7, 2014",Ittehad Alexandria,El Ahly Cairo,0,2,Away win,1,0,0,0
+2013,20,"Thu, May 8, 2014",Smouha SC,Enppi Club,1,1,Draw,6,4,0,0
+2013,21,"Mon, May 12, 2014",El Minya FC,Ismaily SC,3,2,Home win,3,3,0,0
+2013,21,"Tue, May 13, 2014",Tala'ea El Gaish,Harras El Hodoud,1,0,Home win,0,1,0,0
+2013,21,"Tue, May 13, 2014",Masry Port Said,Qanah FC,0,0,Draw,3,2,0,0
+2013,21,"Tue, May 13, 2014",Zamalek SC,Wadi Degla FC,2,2,Draw,0,2,0,0
+2013,21,"Tue, May 13, 2014",El Shorta,Telefonat Beni Suef,2,1,Home win,3,2,0,0
+2013,21,"Thu, Jun 12, 2014",Arab Contractors SC,El Dakhlia SC,1,2,Away win,3,4,0,0
+2013,21,"Thu, Jun 12, 2014",Enppi Club,Ittehad Alexandria,3,1,Home win,0,2,0,0
+2013,21,"Thu, Jun 12, 2014",Ghazl Mahalla,Masr El Makasa,0,0,Draw,2,3,0,0
+2013,21,"Thu, Jun 12, 2014",El Raja Marsa Matruh,Smouha SC,2,0,Home win,1,2,0,0
+2013,21,"Thu, Jun 12, 2014",El Ahly Cairo,El Gouna FC,1,0,Home win,4,0,0,0
+2013,22,"Sat, Jun 14, 2014",Zamalek SC,El Shorta,4,3,Home win,1,4,0,0
+2013,22,"Sat, Jun 14, 2014",El Minya FC,Tala'ea El Gaish,0,1,Away win,2,2,0,0
+2013,22,"Sat, Jun 14, 2014",Telefonat Beni Suef,Masry Port Said,2,2,Draw,3,2,0,0
+2013,22,"Sat, Jun 14, 2014",Harras El Hodoud,Wadi Degla FC,2,0,Home win,3,4,0,1
+2013,22,"Sat, Jun 14, 2014",Petrojet,Ismaily SC,1,1,Draw,3,0,0,0
+2013,22,"Mon, Jun 16, 2014",Masr El Makasa,El Ahly Cairo,0,3,Away win,4,2,0,0
+2013,22,"Mon, Jun 16, 2014",Smouha SC,Arab Contractors SC,0,0,Draw,5,3,0,0
+2013,22,"Mon, Jun 16, 2014",El Gouna FC,Ittehad Alexandria,1,1,Draw,2,2,0,0
+2013,22,"Mon, Jun 16, 2014",Enppi Club,El Raja Marsa Matruh,1,2,Away win,2,1,0,0
+2014,1,"Mon, Sep 15, 2014",Petrojet,Wadi Degla FC,1,1,Draw,0,0,0,0
+2014,1,"Mon, Sep 15, 2014",Harras El Hodoud,Alassiouty Sport,2,1,Home win,3,3,0,0
+2014,1,"Mon, Sep 15, 2014",El Dakhlia SC,Arab Contractors SC,2,0,Home win,4,1,0,0
+2014,1,"Mon, Sep 15, 2014",El Gouna FC,Ittehad Alexandria,0,0,Draw,2,2,0,0
+2014,1,"Mon, Sep 15, 2014",Tala'ea El Gaish,El Nasr,5,0,Home win,1,4,0,0
+2014,1,"Tue, Sep 16, 2014",Smouha SC,Ala'ab Damanhour,5,1,Home win,1,1,0,0
+2014,1,"Tue, Sep 16, 2014",Masr El Makasa,El Raja Marsa Matruh,2,1,Home win,2,2,0,0
+2014,1,"Tue, Sep 16, 2014",Masry Port Said,Ismaily SC,2,2,Draw,0,0,0,0
+2014,1,"Sat, Oct 18, 2014",El Ahly Cairo,El Shorta,3,0,Home win,0,2,0,0
+2014,1,"Thu, Dec 25, 2014",Enppi Club,Zamalek SC,2,0,Home win,5,1,0,0
+2014,2,"Thu, Sep 18, 2014",El Shorta,Enppi Club,2,1,Home win,3,1,0,0
+2014,2,"Sat, Sep 20, 2014",Alassiouty Sport,Masry Port Said,1,3,Away win,2,0,0,0
+2014,2,"Sat, Sep 20, 2014",Ala'ab Damanhour,Harras El Hodoud,1,1,Draw,2,3,0,0
+2014,2,"Sat, Sep 20, 2014",El Nasr,El Dakhlia SC,0,4,Away win,3,2,0,0
+2014,2,"Sat, Sep 20, 2014",Ittehad Alexandria,Petrojet,4,2,Home win,1,2,0,0
+2014,2,"Sat, Sep 20, 2014",Arab Contractors SC,Smouha SC,0,0,Draw,3,0,0,0
+2014,2,"Sun, Sep 21, 2014",El Raja Marsa Matruh,El Gouna FC,1,0,Home win,0,1,0,0
+2014,2,"Sun, Sep 21, 2014",Ismaily SC,Masr El Makasa,2,2,Draw,0,1,0,1
+2014,2,"Sun, Sep 21, 2014",Zamalek SC,Tala'ea El Gaish,6,1,Home win,1,1,0,0
+2014,2,"Sat, Dec 20, 2014",Wadi Degla FC,El Ahly Cairo,0,0,Draw,0,1,0,0
+2014,3,"Wed, Sep 24, 2014",Masry Port Said,Ala'ab Damanhour,2,0,Home win,3,3,0,0
+2014,3,"Wed, Sep 24, 2014",Harras El Hodoud,Arab Contractors SC,1,0,Home win,2,2,0,0
+2014,3,"Wed, Sep 24, 2014",Enppi Club,Wadi Degla FC,1,0,Home win,2,4,0,0
+2014,3,"Thu, Sep 25, 2014",Smouha SC,El Nasr,2,1,Home win,0,0,0,0
+2014,3,"Thu, Sep 25, 2014",Petrojet,El Raja Marsa Matruh,0,2,Away win,1,3,0,0
+2014,3,"Thu, Sep 25, 2014",El Dakhlia SC,Tala'ea El Gaish,2,2,Draw,2,3,0,0
+2014,3,"Thu, Sep 25, 2014",Masr El Makasa,Alassiouty Sport,3,2,Home win,1,3,0,0
+2014,3,"Thu, Sep 25, 2014",El Gouna FC,Ismaily SC,1,2,Away win,2,2,0,0
+2014,3,"Thu, Sep 25, 2014",El Shorta,Zamalek SC,0,0,Draw,3,3,0,0
+2014,3,"Wed, Dec 24, 2014",El Ahly Cairo,Ittehad Alexandria,1,4,Away win,1,1,0,0
+2014,4,"Tue, Sep 30, 2014",Alassiouty Sport,El Gouna FC,1,1,Draw,4,1,0,0
+2014,4,"Tue, Sep 30, 2014",Arab Contractors SC,Masry Port Said,1,0,Home win,0,4,0,0
+2014,4,"Tue, Sep 30, 2014",Ittehad Alexandria,Enppi Club,1,4,Away win,1,1,0,0
+2014,4,"Tue, Sep 30, 2014",Tala'ea El Gaish,Smouha SC,3,2,Home win,4,2,0,0
+2014,4,"Wed, Oct 1, 2014",Ala'ab Damanhour,Masr El Makasa,1,1,Draw,0,4,0,0
+2014,4,"Wed, Oct 1, 2014",Ismaily SC,Petrojet,2,1,Home win,2,4,0,0
+2014,4,"Wed, Oct 1, 2014",Zamalek SC,El Dakhlia SC,0,0,Draw,1,3,0,0
+2014,4,"Thu, Oct 2, 2014",El Nasr,Harras El Hodoud,2,2,Draw,4,1,0,0
+2014,4,"Thu, Oct 2, 2014",El Raja Marsa Matruh,El Ahly Cairo,2,1,Home win,4,4,0,0
+2014,4,"Thu, Oct 2, 2014",Wadi Degla FC,El Shorta,1,0,Home win,1,3,0,0
+2014,5,"Sat, Oct 18, 2014",El Gouna FC,Ala'ab Damanhour,0,0,Draw,3,1,0,0
+2014,5,"Sun, Oct 19, 2014",Masr El Makasa,Arab Contractors SC,1,1,Draw,1,2,0,0
+2014,5,"Sun, Oct 19, 2014",Harras El Hodoud,Tala'ea El Gaish,1,0,Home win,2,1,0,0
+2014,5,"Sun, Oct 19, 2014",Masry Port Said,El Nasr,3,2,Home win,3,5,0,0
+2014,5,"Sun, Oct 19, 2014",Enppi Club,El Raja Marsa Matruh,4,1,Home win,3,1,0,0
+2014,5,"Mon, Oct 20, 2014",Petrojet,Alassiouty Sport,2,1,Home win,5,1,0,0
+2014,5,"Mon, Oct 20, 2014",Smouha SC,El Dakhlia SC,0,1,Away win,5,4,0,0
+2014,5,"Mon, Oct 20, 2014",Wadi Degla FC,Zamalek SC,0,0,Draw,3,2,0,0
+2014,5,"Wed, Oct 22, 2014",El Ahly Cairo,Ismaily SC,0,0,Draw,3,1,0,0
+2014,5,"Wed, Oct 22, 2014",El Shorta,Ittehad Alexandria,0,0,Draw,1,3,0,0
+2014,6,"Thu, Oct 23, 2014",Tala'ea El Gaish,Masry Port Said,4,2,Home win,2,2,0,0
+2014,6,"Thu, Oct 23, 2014",El Nasr,Masr El Makasa,0,2,Away win,1,2,0,0
+2014,6,"Sat, Oct 25, 2014",Ala'ab Damanhour,Petrojet,0,2,Away win,1,1,0,0
+2014,6,"Sat, Oct 25, 2014",Arab Contractors SC,El Gouna FC,0,0,Draw,2,3,0,0
+2014,6,"Sat, Oct 25, 2014",Zamalek SC,Smouha SC,2,0,Home win,2,2,0,1
+2014,6,"Sun, Oct 26, 2014",El Dakhlia SC,Harras El Hodoud,1,2,Away win,1,1,0,0
+2014,6,"Sun, Oct 26, 2014",Ittehad Alexandria,Wadi Degla FC,0,2,Away win,3,2,0,0
+2014,6,"Sun, Oct 26, 2014",Ismaily SC,Enppi Club,0,0,Draw,1,1,0,0
+2014,6,"Mon, Oct 27, 2014",Alassiouty Sport,El Ahly Cairo,0,0,Draw,4,1,0,0
+2014,6,"Mon, Oct 27, 2014",El Raja Marsa Matruh,El Shorta,1,2,Away win,1,2,0,0
+2014,7,"Wed, Oct 29, 2014",El Gouna FC,El Nasr,2,1,Home win,4,1,0,0
+2014,7,"Wed, Oct 29, 2014",Masr El Makasa,Tala'ea El Gaish,1,6,Away win,3,4,0,0
+2014,7,"Wed, Oct 29, 2014",Petrojet,Arab Contractors SC,2,1,Home win,3,3,0,0
+2014,7,"Thu, Oct 30, 2014",Masry Port Said,El Dakhlia SC,0,0,Draw,2,1,0,0
+2014,7,"Thu, Oct 30, 2014",Ittehad Alexandria,Zamalek SC,0,1,Away win,2,2,0,0
+2014,7,"Sat, Nov 1, 2014",Enppi Club,Alassiouty Sport,4,1,Home win,0,1,0,0
+2014,7,"Sat, Nov 1, 2014",Harras El Hodoud,Smouha SC,0,2,Away win,3,2,0,0
+2014,7,"Sat, Nov 1, 2014",El Ahly Cairo,Ala'ab Damanhour,4,2,Home win,2,2,0,0
+2014,7,"Sun, Nov 2, 2014",El Shorta,Ismaily SC,1,1,Draw,1,2,0,0
+2014,7,"Sun, Nov 2, 2014",Wadi Degla FC,El Raja Marsa Matruh,3,1,Home win,1,2,0,0
+2014,8,"Mon, Nov 3, 2014",El Nasr,Petrojet,2,3,Away win,3,2,0,0
+2014,8,"Tue, Nov 4, 2014",El Dakhlia SC,Masr El Makasa,1,1,Draw,2,1,0,0
+2014,8,"Tue, Nov 4, 2014",Tala'ea El Gaish,El Gouna FC,0,3,Away win,0,3,0,0
+2014,8,"Wed, Nov 5, 2014",Smouha SC,Masry Port Said,0,1,Away win,2,1,0,0
+2014,8,"Wed, Nov 5, 2014",Arab Contractors SC,El Ahly Cairo,0,1,Away win,2,2,0,1
+2014,8,"Wed, Nov 5, 2014",Zamalek SC,Harras El Hodoud,2,0,Home win,3,4,0,0
+2014,8,"Thu, Nov 6, 2014",Ala'ab Damanhour,Enppi Club,2,3,Away win,1,4,0,0
+2014,8,"Thu, Nov 6, 2014",Alassiouty Sport,El Shorta,2,2,Draw,2,4,0,0
+2014,8,"Thu, Nov 6, 2014",Ismaily SC,Wadi Degla FC,2,1,Home win,0,2,0,0
+2014,8,"Thu, Nov 6, 2014",El Raja Marsa Matruh,Ittehad Alexandria,1,1,Draw,4,4,0,0
+2014,9,"Thu, Nov 20, 2014",El Gouna FC,El Dakhlia SC,1,2,Away win,2,2,0,0
+2014,9,"Thu, Nov 20, 2014",El Shorta,Ala'ab Damanhour,2,1,Home win,2,1,0,0
+2014,9,"Sat, Nov 22, 2014",Masry Port Said,Harras El Hodoud,1,0,Home win,3,4,0,0
+2014,9,"Sat, Nov 22, 2014",Masr El Makasa,Smouha SC,0,2,Away win,2,3,0,0
+2014,9,"Sat, Nov 22, 2014",Ittehad Alexandria,Ismaily SC,1,1,Draw,5,2,0,0
+2014,9,"Sat, Nov 22, 2014",Wadi Degla FC,Alassiouty Sport,3,1,Home win,4,5,0,0
+2014,9,"Sat, Nov 22, 2014",Enppi Club,Arab Contractors SC,2,2,Draw,1,3,0,0
+2014,9,"Sun, Nov 23, 2014",Petrojet,Tala'ea El Gaish,0,1,Away win,1,2,0,0
+2014,9,"Sun, Nov 23, 2014",El Raja Marsa Matruh,Zamalek SC,2,3,Away win,2,2,0,0
+2014,9,"Sun, Nov 23, 2014",El Ahly Cairo,El Nasr,2,1,Home win,2,5,0,0
+2014,10,"Wed, Nov 26, 2014",Arab Contractors SC,El Shorta,2,1,Home win,3,0,0,0
+2014,10,"Thu, Nov 27, 2014",Alassiouty Sport,Ittehad Alexandria,2,2,Draw,4,3,0,0
+2014,10,"Thu, Nov 27, 2014",Ala'ab Damanhour,Wadi Degla FC,0,1,Away win,3,2,0,0
+2014,10,"Thu, Nov 27, 2014",Harras El Hodoud,Masr El Makasa,2,2,Draw,4,2,0,0
+2014,10,"Thu, Nov 27, 2014",El Nasr,Enppi Club,0,6,Away win,0,3,0,0
+2014,10,"Sat, Nov 29, 2014",El Dakhlia SC,Petrojet,0,1,Away win,4,1,0,1
+2014,10,"Sat, Nov 29, 2014",Smouha SC,El Gouna FC,1,1,Draw,1,4,0,0
+2014,10,"Sat, Nov 29, 2014",Zamalek SC,Masry Port Said,1,0,Home win,2,4,1,0
+2014,10,"Sun, Nov 30, 2014",Ismaily SC,El Raja Marsa Matruh,3,0,Home win,0,0,0,0
+2014,10,"Sat, Jan 24, 2015",Tala'ea El Gaish,El Ahly Cairo,1,3,Away win,3,0,0,0
+2014,11,"Tue, Dec 2, 2014",Arab Contractors SC,Wadi Degla FC,0,1,Away win,2,1,0,0
+2014,11,"Tue, Dec 2, 2014",Ittehad Alexandria,Ala'ab Damanhour,1,0,Home win,2,2,0,1
+2014,11,"Tue, Dec 2, 2014",Enppi Club,Tala'ea El Gaish,3,0,Home win,4,2,0,0
+2014,11,"Wed, Dec 3, 2014",El Gouna FC,Harras El Hodoud,0,1,Away win,3,4,0,0
+2014,11,"Wed, Dec 3, 2014",Petrojet,Smouha SC,1,0,Home win,3,2,0,0
+2014,11,"Wed, Dec 3, 2014",Masr El Makasa,Masry Port Said,3,2,Home win,1,3,0,0
+2014,11,"Wed, Dec 3, 2014",El Shorta,El Nasr,1,0,Home win,4,1,0,0
+2014,11,"Thu, Dec 4, 2014",El Raja Marsa Matruh,Alassiouty Sport,3,0,Home win,2,4,0,0
+2014,11,"Thu, Dec 4, 2014",Ismaily SC,Zamalek SC,0,0,Draw,3,0,0,0
+2014,11,"Mon, Jun 1, 2015",El Ahly Cairo,El Dakhlia SC,2,0,Home win,4,2,0,0
+2014,12,"Sun, Dec 7, 2014",Harras El Hodoud,Petrojet,0,0,Draw,3,2,0,1
+2014,12,"Sun, Dec 7, 2014",El Nasr,Wadi Degla FC,1,1,Draw,1,2,0,0
+2014,12,"Mon, Dec 8, 2014",Ala'ab Damanhour,El Raja Marsa Matruh,2,0,Home win,0,3,0,0
+2014,12,"Mon, Dec 8, 2014",Alassiouty Sport,Ismaily SC,1,2,Away win,1,3,0,0
+2014,12,"Mon, Dec 8, 2014",El Dakhlia SC,Enppi Club,0,1,Away win,1,2,0,0
+2014,12,"Mon, Dec 8, 2014",Masry Port Said,El Gouna FC,0,1,Away win,3,2,0,0
+2014,12,"Mon, Dec 8, 2014",Arab Contractors SC,Ittehad Alexandria,1,1,Draw,0,3,0,0
+2014,12,"Tue, Dec 9, 2014",Tala'ea El Gaish,El Shorta,3,1,Home win,1,1,0,0
+2014,12,"Tue, Dec 9, 2014",Zamalek SC,Masr El Makasa,3,1,Home win,3,2,0,0
+2014,12,"Thu, Dec 11, 2014",Smouha SC,El Ahly Cairo,1,3,Away win,6,3,0,0
+2014,13,"Sat, Dec 13, 2014",El Gouna FC,Masr El Makasa,2,2,Draw,2,2,0,0
+2014,13,"Sat, Dec 13, 2014",El Shorta,El Dakhlia SC,4,1,Home win,1,0,0,0
+2014,13,"Sat, Dec 13, 2014",Ismaily SC,Ala'ab Damanhour,2,1,Home win,2,1,0,0
+2014,13,"Sat, Dec 13, 2014",Ittehad Alexandria,El Nasr,1,2,Away win,3,1,0,0
+2014,13,"Sat, Dec 13, 2014",Wadi Degla FC,Tala'ea El Gaish,3,0,Home win,2,1,0,0
+2014,13,"Sun, Dec 14, 2014",Alassiouty Sport,Zamalek SC,1,3,Away win,0,1,0,0
+2014,13,"Sun, Dec 14, 2014",Petrojet,Masry Port Said,3,1,Home win,2,1,0,0
+2014,13,"Sun, Dec 14, 2014",El Raja Marsa Matruh,Arab Contractors SC,0,1,Away win,2,6,0,0
+2014,13,"Mon, Dec 15, 2014",Enppi Club,Smouha SC,2,1,Home win,2,2,0,0
+2014,13,"Mon, Dec 15, 2014",El Ahly Cairo,Harras El Hodoud,3,0,Home win,1,0,0,0
+2014,14,"Wed, Dec 17, 2014",Tala'ea El Gaish,Ittehad Alexandria,0,3,Away win,3,4,0,0
+2014,14,"Thu, Dec 18, 2014",Ala'ab Damanhour,Alassiouty Sport,2,1,Home win,3,4,0,0
+2014,14,"Thu, Dec 18, 2014",Masr El Makasa,Petrojet,4,1,Home win,2,1,0,0
+2014,14,"Thu, Dec 18, 2014",El Nasr,El Raja Marsa Matruh,1,0,Home win,2,3,0,0
+2014,14,"Thu, Dec 18, 2014",Zamalek SC,El Gouna FC,2,0,Home win,0,2,0,0
+2014,14,"Sat, Dec 20, 2014",Arab Contractors SC,Ismaily SC,2,0,Home win,0,3,0,0
+2014,14,"Sat, Dec 20, 2014",Harras El Hodoud,Enppi Club,0,0,Draw,3,0,0,0
+2014,14,"Sun, Dec 21, 2014",Smouha SC,El Shorta,1,0,Home win,0,0,0,0
+2014,14,"Sat, Jan 10, 2015",Masry Port Said,El Ahly Cairo,1,1,Draw,3,3,0,0
+2014,14,"Sun, Apr 5, 2015",El Dakhlia SC,Wadi Degla FC,0,2,Away win,4,1,0,0
+2014,15,"Sat, Dec 27, 2014",El Raja Marsa Matruh,Tala'ea El Gaish,0,1,Away win,1,3,0,0
+2014,15,"Sat, Dec 27, 2014",Alassiouty Sport,Arab Contractors SC,1,1,Draw,0,2,0,0
+2014,15,"Sat, Dec 27, 2014",El Shorta,Harras El Hodoud,0,0,Draw,2,1,0,0
+2014,15,"Sat, Dec 27, 2014",Ismaily SC,El Nasr,1,0,Home win,2,0,1,0
+2014,15,"Sat, Dec 27, 2014",Petrojet,El Gouna FC,1,1,Draw,1,3,0,0
+2014,15,"Sat, Dec 27, 2014",Wadi Degla FC,Smouha SC,2,1,Home win,2,2,0,0
+2014,15,"Sun, Dec 28, 2014",El Ahly Cairo,Masr El Makasa,1,0,Home win,2,1,0,0
+2014,15,"Mon, Dec 29, 2014",Ala'ab Damanhour,Zamalek SC,1,2,Away win,3,2,0,0
+2014,15,"Mon, Dec 29, 2014",Enppi Club,Masry Port Said,0,1,Away win,2,2,0,0
+2014,15,"Tue, Jan 20, 2015",Ittehad Alexandria,El Dakhlia SC,1,0,Home win,3,2,0,0
+2014,16,"Thu, Jan 1, 2015",El Dakhlia SC,El Raja Marsa Matruh,2,0,Home win,2,2,0,0
+2014,16,"Thu, Jan 1, 2015",El Nasr,Alassiouty Sport,1,0,Home win,3,4,0,0
+2014,16,"Thu, Jan 1, 2015",Harras El Hodoud,Wadi Degla FC,0,0,Draw,2,2,0,0
+2014,16,"Thu, Jan 1, 2015",Tala'ea El Gaish,Ismaily SC,0,2,Away win,0,0,0,0
+2014,16,"Sat, Jan 3, 2015",El Gouna FC,El Ahly Cairo,0,2,Away win,4,3,0,0
+2014,16,"Sat, Jan 3, 2015",Arab Contractors SC,Ala'ab Damanhour,3,1,Home win,2,5,0,0
+2014,16,"Sat, Jan 3, 2015",Masr El Makasa,Enppi Club,1,1,Draw,3,3,1,1
+2014,16,"Sat, Jan 3, 2015",Masry Port Said,El Shorta,0,1,Away win,0,3,0,0
+2014,16,"Sat, Jan 3, 2015",Smouha SC,Ittehad Alexandria,0,1,Away win,2,1,0,0
+2014,16,"Sat, Jan 3, 2015",Zamalek SC,Petrojet,2,1,Home win,1,3,0,0
+2014,17,"Tue, Jan 6, 2015",Alassiouty Sport,Tala'ea El Gaish,2,3,Away win,3,4,0,0
+2014,17,"Wed, Jan 7, 2015",Ittehad Alexandria,Harras El Hodoud,1,1,Draw,1,1,0,0
+2014,17,"Wed, Jan 7, 2015",Enppi Club,El Gouna FC,1,0,Home win,1,1,0,0
+2014,17,"Wed, Jan 7, 2015",Arab Contractors SC,Zamalek SC,0,1,Away win,1,3,0,0
+2014,17,"Thu, Jan 8, 2015",El Shorta,Masr El Makasa,0,2,Away win,1,2,0,0
+2014,17,"Thu, Jan 8, 2015",El Raja Marsa Matruh,Smouha SC,3,1,Home win,4,1,0,0
+2014,17,"Thu, Jan 8, 2015",Ismaily SC,El Dakhlia SC,1,1,Draw,3,8,0,0
+2014,17,"Tue, Jan 20, 2015",Wadi Degla FC,Masry Port Said,4,1,Home win,3,4,0,0
+2014,17,"Tue, Jan 20, 2015",El Ahly Cairo,Petrojet,1,1,Draw,3,1,0,0
+2014,18,"Tue, Jan 20, 2015",Tala'ea El Gaish,Ala'ab Damanhour,3,2,Home win,1,2,0,0
+2014,18,"Mon, Jan 26, 2015",El Gouna FC,El Shorta,0,1,Away win,1,4,0,0
+2014,18,"Mon, Jan 26, 2015",Petrojet,Enppi Club,1,1,Draw,2,2,0,0
+2014,18,"Mon, Jan 26, 2015",Masry Port Said,Ittehad Alexandria,1,0,Home win,2,1,0,0
+2014,18,"Mon, Jan 26, 2015",Harras El Hodoud,El Raja Marsa Matruh,2,2,Draw,2,7,0,0
+2014,18,"Tue, Jan 27, 2015",El Dakhlia SC,Alassiouty Sport,1,1,Draw,1,1,0,0
+2014,18,"Tue, Jan 27, 2015",Masr El Makasa,Wadi Degla FC,2,0,Home win,2,2,0,0
+2014,18,"Tue, Jan 27, 2015",Smouha SC,Ismaily SC,0,0,Draw,0,1,0,0
+2014,18,"Tue, Jan 27, 2015",El Nasr,Arab Contractors SC,1,3,Away win,1,1,0,0
+2014,18,"Thu, Jan 29, 2015",Zamalek SC,El Ahly Cairo,1,1,Draw,1,3,0,0
+2014,19,"Fri, Jan 30, 2015",El Raja Marsa Matruh,Masry Port Said,2,3,Away win,1,2,0,0
+2014,19,"Sat, Jan 31, 2015",El Shorta,Petrojet,2,2,Draw,1,4,0,0
+2014,19,"Sat, Jan 31, 2015",Ala'ab Damanhour,El Dakhlia SC,1,2,Away win,4,2,0,0
+2014,19,"Sat, Jan 31, 2015",Ittehad Alexandria,Masr El Makasa,0,1,Away win,3,2,0,0
+2014,19,"Sat, Jan 31, 2015",Alassiouty Sport,Smouha SC,1,1,Draw,1,3,0,0
+2014,19,"Sat, Jan 31, 2015",Ismaily SC,Harras El Hodoud,0,0,Draw,1,1,0,0
+2014,19,"Sat, Jan 31, 2015",Wadi Degla FC,El Gouna FC,1,2,Away win,3,4,0,0
+2014,19,"Sat, Jan 31, 2015",Arab Contractors SC,Tala'ea El Gaish,2,0,Home win,1,2,0,0
+2014,19,"Mon, Feb 2, 2015",Zamalek SC,El Nasr,3,1,Home win,1,2,0,0
+2014,19,"Tue, Feb 3, 2015",Enppi Club,El Ahly Cairo,1,0,Home win,1,2,0,0
+2014,20,"Wed, Feb 4, 2015",Ala'ab Damanhour,Smouha SC,1,3,Away win,0,1,0,0
+2014,20,"Wed, Feb 4, 2015",Alassiouty Sport,Harras El Hodoud,1,1,Draw,3,5,0,0
+2014,20,"Wed, Feb 4, 2015",Arab Contractors SC,El Dakhlia SC,3,2,Home win,3,2,0,0
+2014,20,"Wed, Feb 4, 2015",Ittehad Alexandria,El Gouna FC,0,0,Draw,1,2,0,0
+2014,20,"Wed, Feb 4, 2015",Wadi Degla FC,Petrojet,1,2,Away win,1,1,0,0
+2014,20,"Thu, Feb 5, 2015",El Raja Marsa Matruh,Masr El Makasa,3,2,Home win,0,6,0,0
+2014,20,"Thu, Feb 5, 2015",Ismaily SC,Masry Port Said,1,1,Draw,1,1,0,0
+2014,20,"Sat, Feb 7, 2015",El Nasr,Tala'ea El Gaish,1,2,Away win,6,4,0,0
+2014,20,"Sat, Feb 7, 2015",El Shorta,El Ahly Cairo,1,3,Away win,3,1,0,0
+2014,20,"Sun, Feb 8, 2015",Zamalek SC,Enppi Club,1,1,Draw,3,2,0,0
+2014,21,"Sun, Feb 8, 2015",Petrojet,Ittehad Alexandria,0,1,Away win,1,1,0,0
+2014,21,"Sun, Feb 8, 2015",Smouha SC,Arab Contractors SC,2,1,Home win,2,1,0,0
+2014,21,"Fri, May 1, 2015",Harras El Hodoud,Ala'ab Damanhour,1,1,Draw,1,1,0,0
+2014,21,"Fri, May 1, 2015",El Dakhlia SC,El Nasr,2,2,Draw,0,1,0,0
+2014,21,"Fri, May 1, 2015",El Gouna FC,El Raja Marsa Matruh,1,1,Draw,3,2,0,0
+2014,21,"Fri, May 1, 2015",Masry Port Said,Alassiouty Sport,2,0,Home win,2,0,0,0
+2014,21,"Fri, May 1, 2015",Enppi Club,El Shorta,1,1,Draw,3,4,0,0
+2014,21,"Sat, May 2, 2015",Masr El Makasa,Ismaily SC,0,2,Away win,1,3,0,0
+2014,21,"Thu, Jul 2, 2015",El Ahly Cairo,Wadi Degla FC,3,1,Home win,1,3,0,0
+2014,21,"Wed, Jul 29, 2015",Tala'ea El Gaish,Zamalek SC,2,3,Away win,0,2,0,0
+2014,22,"Wed, May 27, 2015",El Raja Marsa Matruh,Petrojet,2,2,Draw,2,3,0,1
+2014,22,"Wed, May 27, 2015",Wadi Degla FC,Enppi Club,1,1,Draw,2,3,0,0
+2014,22,"Wed, May 27, 2015",Tala'ea El Gaish,El Dakhlia SC,1,0,Home win,3,1,0,0
+2014,22,"Wed, May 27, 2015",Ala'ab Damanhour,Masry Port Said,1,2,Away win,5,3,0,0
+2014,22,"Wed, May 27, 2015",El Nasr,Smouha SC,0,2,Away win,3,3,0,0
+2014,22,"Wed, May 27, 2015",Arab Contractors SC,Harras El Hodoud,0,1,Away win,4,4,1,0
+2014,22,"Thu, May 28, 2015",Alassiouty Sport,Masr El Makasa,1,2,Away win,2,0,0,1
+2014,22,"Thu, May 28, 2015",Ismaily SC,El Gouna FC,1,0,Home win,1,2,0,0
+2014,22,"Thu, May 28, 2015",Ittehad Alexandria,El Ahly Cairo,0,1,Away win,2,3,0,1
+2014,22,"Thu, May 28, 2015",Zamalek SC,El Shorta,5,1,Home win,1,2,0,0
+2014,23,"Mon, Mar 30, 2015",El Shorta,Wadi Degla FC,1,0,Home win,1,1,0,0
+2014,23,"Mon, Mar 30, 2015",Smouha SC,Tala'ea El Gaish,2,0,Home win,1,1,0,1
+2014,23,"Mon, Mar 30, 2015",Masry Port Said,Arab Contractors SC,0,1,Away win,0,0,0,0
+2014,23,"Mon, Mar 30, 2015",Enppi Club,Ittehad Alexandria,0,0,Draw,1,1,0,0
+2014,23,"Mon, Mar 30, 2015",El Dakhlia SC,Zamalek SC,0,2,Away win,6,0,0,0
+2014,23,"Tue, Mar 31, 2015",Harras El Hodoud,El Nasr,0,1,Away win,1,0,0,0
+2014,23,"Tue, Mar 31, 2015",Petrojet,Ismaily SC,0,1,Away win,1,1,0,0
+2014,23,"Tue, Mar 31, 2015",Masr El Makasa,Ala'ab Damanhour,1,0,Home win,2,2,0,0
+2014,23,"Tue, Mar 31, 2015",El Gouna FC,Alassiouty Sport,1,1,Draw,4,2,0,0
+2014,23,"Tue, Mar 31, 2015",El Ahly Cairo,El Raja Marsa Matruh,2,1,Home win,5,2,0,0
+2014,24,"Tue, Apr 7, 2015",Arab Contractors SC,Masr El Makasa,1,2,Away win,3,2,0,0
+2014,24,"Tue, Apr 7, 2015",Ala'ab Damanhour,El Gouna FC,1,2,Away win,3,2,0,0
+2014,24,"Tue, Apr 7, 2015",El Nasr,Masry Port Said,0,0,Draw,4,0,0,0
+2014,24,"Tue, Apr 7, 2015",Ittehad Alexandria,El Shorta,1,1,Draw,2,3,0,0
+2014,24,"Tue, Apr 7, 2015",Tala'ea El Gaish,Harras El Hodoud,1,1,Draw,1,4,0,0
+2014,24,"Wed, Apr 8, 2015",Ismaily SC,El Ahly Cairo,1,1,Draw,1,0,0,0
+2014,24,"Wed, Apr 8, 2015",El Raja Marsa Matruh,Enppi Club,2,2,Draw,2,4,0,0
+2014,24,"Thu, Apr 9, 2015",Alassiouty Sport,Petrojet,2,3,Away win,1,1,0,0
+2014,24,"Thu, Apr 9, 2015",El Dakhlia SC,Smouha SC,1,0,Home win,5,2,0,0
+2014,24,"Mon, Aug 3, 2015",Zamalek SC,Wadi Degla FC,0,0,Draw,1,2,0,0
+2014,25,"Tue, Apr 14, 2015",Smouha SC,Zamalek SC,0,1,Away win,3,3,0,0
+2014,25,"Tue, Apr 14, 2015",Petrojet,Ala'ab Damanhour,3,0,Home win,2,2,0,0
+2014,25,"Tue, Apr 14, 2015",El Ahly Cairo,Alassiouty Sport,5,0,Home win,2,0,0,0
+2014,25,"Wed, Apr 15, 2015",Masr El Makasa,El Nasr,2,1,Home win,2,2,0,0
+2014,25,"Wed, Apr 15, 2015",Harras El Hodoud,El Dakhlia SC,1,0,Home win,3,1,0,0
+2014,25,"Wed, Apr 15, 2015",El Gouna FC,Arab Contractors SC,2,1,Home win,1,2,0,0
+2014,25,"Wed, Apr 15, 2015",Masry Port Said,Tala'ea El Gaish,0,0,Draw,2,0,0,0
+2014,25,"Sat, Apr 18, 2015",El Shorta,El Raja Marsa Matruh,1,1,Draw,1,0,0,0
+2014,25,"Sat, Apr 18, 2015",Wadi Degla FC,Ittehad Alexandria,0,0,Draw,2,1,0,0
+2014,25,"Sat, Apr 18, 2015",Enppi Club,Ismaily SC,3,0,Home win,1,2,0,0
+2014,26,"Wed, Apr 22, 2015",El Nasr,El Gouna FC,1,1,Draw,1,2,0,0
+2014,26,"Wed, Apr 22, 2015",Alassiouty Sport,Enppi Club,2,4,Away win,1,0,0,0
+2014,26,"Wed, Apr 22, 2015",El Raja Marsa Matruh,Wadi Degla FC,1,1,Draw,2,2,0,0
+2014,26,"Wed, Apr 22, 2015",Arab Contractors SC,Petrojet,3,2,Home win,0,1,0,0
+2014,26,"Wed, Apr 22, 2015",Tala'ea El Gaish,Masr El Makasa,2,0,Home win,2,2,0,0
+2014,26,"Wed, Apr 22, 2015",Ismaily SC,El Shorta,1,1,Draw,2,3,0,0
+2014,26,"Thu, Apr 23, 2015",Ala'ab Damanhour,El Ahly Cairo,1,2,Away win,1,2,0,0
+2014,26,"Thu, Apr 23, 2015",El Dakhlia SC,Masry Port Said,2,1,Home win,2,5,0,0
+2014,26,"Thu, Apr 23, 2015",Zamalek SC,Ittehad Alexandria,2,0,Home win,0,1,0,0
+2014,26,"Mon, Jun 1, 2015",Smouha SC,Harras El Hodoud,1,0,Home win,1,2,0,0
+2014,27,"Mon, Apr 27, 2015",Masry Port Said,Smouha SC,0,0,Draw,3,0,0,0
+2014,27,"Mon, Apr 27, 2015",Petrojet,El Nasr,1,0,Home win,4,2,0,0
+2014,27,"Mon, Apr 27, 2015",Harras El Hodoud,Zamalek SC,0,2,Away win,2,1,0,0
+2014,27,"Mon, Apr 27, 2015",El Ahly Cairo,Arab Contractors SC,0,1,Away win,2,1,0,0
+2014,27,"Tue, Apr 28, 2015",El Shorta,Alassiouty Sport,1,0,Home win,1,1,0,0
+2014,27,"Tue, Apr 28, 2015",El Gouna FC,Tala'ea El Gaish,2,1,Home win,2,2,0,0
+2014,27,"Tue, Apr 28, 2015",Enppi Club,Ala'ab Damanhour,3,0,Home win,1,2,0,0
+2014,27,"Tue, Apr 28, 2015",Masr El Makasa,El Dakhlia SC,2,1,Home win,0,2,1,0
+2014,27,"Tue, Apr 28, 2015",Ittehad Alexandria,El Raja Marsa Matruh,3,2,Home win,1,2,0,0
+2014,27,"Tue, Apr 28, 2015",Wadi Degla FC,Ismaily SC,1,0,Home win,3,3,0,0
+2014,28,"Tue, May 5, 2015",Ala'ab Damanhour,El Shorta,0,2,Away win,2,2,0,0
+2014,28,"Tue, May 5, 2015",Alassiouty Sport,Wadi Degla FC,2,2,Draw,1,1,0,0
+2014,28,"Tue, May 5, 2015",El Dakhlia SC,El Gouna FC,1,0,Home win,1,1,0,0
+2014,28,"Tue, May 5, 2015",Harras El Hodoud,Masry Port Said,0,0,Draw,2,0,0,0
+2014,28,"Tue, May 5, 2015",Tala'ea El Gaish,Petrojet,0,1,Away win,1,1,0,0
+2014,28,"Tue, May 5, 2015",Arab Contractors SC,Enppi Club,0,4,Away win,1,2,0,0
+2014,28,"Wed, May 6, 2015",Smouha SC,Masr El Makasa,0,1,Away win,2,3,0,0
+2014,28,"Wed, May 6, 2015",Ismaily SC,Ittehad Alexandria,1,1,Draw,1,0,0,0
+2014,28,"Wed, May 6, 2015",El Nasr,El Ahly Cairo,0,3,Away win,0,4,0,0
+2014,28,"Thu, May 7, 2015",Zamalek SC,El Raja Marsa Matruh,2,0,Home win,1,2,0,0
+2014,29,"Sat, May 9, 2015",Petrojet,El Dakhlia SC,0,0,Draw,3,1,0,0
+2014,29,"Sat, May 9, 2015",El Shorta,Arab Contractors SC,1,1,Draw,2,2,0,0
+2014,29,"Sat, May 9, 2015",Wadi Degla FC,Ala'ab Damanhour,2,2,Draw,2,2,0,0
+2014,29,"Sun, May 10, 2015",El Gouna FC,Smouha SC,1,1,Draw,2,2,0,0
+2014,29,"Sun, May 10, 2015",Masr El Makasa,Harras El Hodoud,0,0,Draw,2,2,0,0
+2014,29,"Sun, May 10, 2015",Ittehad Alexandria,Alassiouty Sport,3,2,Home win,1,2,0,1
+2014,29,"Sun, May 10, 2015",El Ahly Cairo,Tala'ea El Gaish,4,0,Home win,1,1,0,1
+2014,29,"Mon, May 11, 2015",El Raja Marsa Matruh,Ismaily SC,1,1,Draw,1,2,0,0
+2014,29,"Mon, May 11, 2015",Enppi Club,El Nasr,0,0,Draw,3,2,0,0
+2014,29,"Mon, May 11, 2015",Masry Port Said,Zamalek SC,0,1,Away win,0,2,0,0
+2014,30,"Tue, May 12, 2015",Wadi Degla FC,Arab Contractors SC,1,1,Draw,1,1,0,0
+2014,30,"Wed, May 13, 2015",Ala'ab Damanhour,Ittehad Alexandria,2,4,Away win,2,3,0,0
+2014,30,"Wed, May 13, 2015",Smouha SC,Petrojet,2,1,Home win,1,1,0,0
+2014,30,"Wed, May 13, 2015",El Dakhlia SC,El Ahly Cairo,0,1,Away win,1,3,0,0
+2014,30,"Thu, May 14, 2015",Alassiouty Sport,El Raja Marsa Matruh,3,0,Home win,4,3,1,1
+2014,30,"Thu, May 14, 2015",Harras El Hodoud,El Gouna FC,0,1,Away win,4,1,0,0
+2014,30,"Thu, May 14, 2015",Masry Port Said,Masr El Makasa,1,1,Draw,4,2,0,0
+2014,30,"Fri, May 15, 2015",El Nasr,El Shorta,1,1,Draw,1,0,0,0
+2014,30,"Fri, May 15, 2015",Tala'ea El Gaish,Enppi Club,0,0,Draw,0,0,0,0
+2014,30,"Mon, Jul 6, 2015",Zamalek SC,Ismaily SC,3,0,Home win,2,1,0,0
+2014,31,"Sun, May 17, 2015",Ismaily SC,Alassiouty Sport,5,1,Home win,2,2,0,0
+2014,31,"Sun, May 17, 2015",Ittehad Alexandria,Arab Contractors SC,0,0,Draw,1,0,0,0
+2014,31,"Mon, May 18, 2015",El Raja Marsa Matruh,Ala'ab Damanhour,1,0,Home win,1,1,0,0
+2014,31,"Mon, May 18, 2015",Wadi Degla FC,El Nasr,2,1,Home win,5,3,0,0
+2014,31,"Mon, May 18, 2015",El Gouna FC,Masry Port Said,0,1,Away win,1,2,0,0
+2014,31,"Mon, May 18, 2015",El Shorta,Tala'ea El Gaish,0,1,Away win,1,2,0,0
+2014,31,"Mon, May 18, 2015",Enppi Club,El Dakhlia SC,2,2,Draw,1,4,1,0
+2014,31,"Mon, May 18, 2015",Petrojet,Harras El Hodoud,1,2,Away win,3,2,0,0
+2014,31,"Thu, Jul 2, 2015",Masr El Makasa,Zamalek SC,2,1,Home win,1,1,0,0
+2014,31,"Tue, Jul 28, 2015",El Ahly Cairo,Smouha SC,1,1,Draw,1,2,0,0
+2014,32,"Sat, May 23, 2015",Masr El Makasa,El Gouna FC,0,1,Away win,1,2,0,0
+2014,32,"Sat, May 23, 2015",El Dakhlia SC,El Shorta,0,0,Draw,1,3,0,0
+2014,32,"Sat, May 23, 2015",Ala'ab Damanhour,Ismaily SC,0,2,Away win,1,3,0,0
+2014,32,"Sat, May 23, 2015",Arab Contractors SC,El Raja Marsa Matruh,0,1,Away win,1,0,0,0
+2014,32,"Sat, May 23, 2015",Tala'ea El Gaish,Wadi Degla FC,0,0,Draw,3,2,0,0
+2014,32,"Sat, May 23, 2015",Masry Port Said,Petrojet,0,1,Away win,1,2,0,0
+2014,32,"Sat, May 23, 2015",Smouha SC,Enppi Club,1,0,Home win,2,1,0,0
+2014,32,"Sat, May 23, 2015",El Nasr,Ittehad Alexandria,2,1,Home win,1,2,0,1
+2014,32,"Sun, May 24, 2015",Harras El Hodoud,El Ahly Cairo,1,0,Home win,1,2,0,0
+2014,32,"Sun, May 24, 2015",Zamalek SC,Alassiouty Sport,2,0,Home win,1,0,0,0
+2014,33,"Mon, Jun 1, 2015",El Gouna FC,Zamalek SC,1,1,Draw,3,0,0,0
+2014,33,"Tue, Jun 2, 2015",El Raja Marsa Matruh,El Nasr,4,1,Home win,1,1,0,0
+2014,33,"Tue, Jun 2, 2015",Alassiouty Sport,Ala'ab Damanhour,1,5,Away win,2,0,0,0
+2014,33,"Tue, Jun 2, 2015",Petrojet,Masr El Makasa,3,6,Away win,1,3,0,0
+2014,33,"Wed, Jun 3, 2015",Ittehad Alexandria,Tala'ea El Gaish,0,0,Draw,0,2,0,0
+2014,33,"Wed, Jun 3, 2015",Ismaily SC,Arab Contractors SC,2,2,Draw,2,4,0,0
+2014,33,"Fri, Jun 5, 2015",Wadi Degla FC,El Dakhlia SC,3,3,Draw,1,4,0,0
+2014,33,"Fri, Jun 5, 2015",Enppi Club,Harras El Hodoud,2,4,Away win,2,3,0,0
+2014,33,"Sat, Jun 6, 2015",El Shorta,Smouha SC,1,1,Draw,1,0,0,0
+2014,33,"Mon, Jul 6, 2015",El Ahly Cairo,Masry Port Said,2,0,Home win,0,2,0,0
+2014,34,"Tue, Jun 16, 2015",El Gouna FC,Petrojet,2,1,Home win,1,4,0,0
+2014,34,"Tue, Jun 16, 2015",El Dakhlia SC,Ittehad Alexandria,2,1,Home win,6,3,0,0
+2014,34,"Tue, Jun 16, 2015",Arab Contractors SC,Alassiouty Sport,4,0,Home win,5,0,0,0
+2014,34,"Tue, Jun 16, 2015",Smouha SC,Wadi Degla FC,3,1,Home win,2,2,0,0
+2014,34,"Tue, Jun 16, 2015",Tala'ea El Gaish,El Raja Marsa Matruh,2,1,Home win,2,0,0,0
+2014,34,"Tue, Jun 16, 2015",Harras El Hodoud,El Shorta,1,0,Home win,2,2,0,1
+2014,34,"Tue, Jun 16, 2015",El Nasr,Ismaily SC,0,0,Draw,1,4,0,0
+2014,34,"Wed, Jun 17, 2015",Masr El Makasa,El Ahly Cairo,0,2,Away win,1,3,0,0
+2014,34,"Wed, Jun 17, 2015",Masry Port Said,Enppi Club,1,3,Away win,1,3,0,0
+2014,34,"Wed, Jun 17, 2015",Zamalek SC,Ala'ab Damanhour,3,0,Home win,1,2,0,0
+2014,35,"Sat, Jun 20, 2015",Alassiouty Sport,El Nasr,1,2,Away win,0,0,0,0
+2014,35,"Sat, Jun 20, 2015",Ala'ab Damanhour,Arab Contractors SC,1,4,Away win,0,0,0,0
+2014,35,"Sat, Jun 20, 2015",Ittehad Alexandria,Smouha SC,0,0,Draw,1,0,0,0
+2014,35,"Sat, Jun 20, 2015",Ismaily SC,Tala'ea El Gaish,0,0,Draw,0,0,0,0
+2014,35,"Sat, Jun 20, 2015",El Ahly Cairo,El Gouna FC,1,1,Draw,3,4,0,0
+2014,35,"Sat, Jun 20, 2015",El Raja Marsa Matruh,El Dakhlia SC,0,0,Draw,0,0,0,0
+2014,35,"Sat, Jun 20, 2015",Petrojet,Zamalek SC,1,1,Draw,4,2,0,0
+2014,35,"Sun, Jun 21, 2015",Enppi Club,Masr El Makasa,0,0,Draw,0,1,0,0
+2014,35,"Sun, Jun 21, 2015",Wadi Degla FC,Harras El Hodoud,0,0,Draw,2,4,0,0
+2014,35,"Sun, Jun 21, 2015",El Shorta,Masry Port Said,0,0,Draw,0,0,0,0
+2014,36,"Tue, Jun 23, 2015",Petrojet,El Ahly Cairo,1,2,Away win,1,0,0,0
+2014,36,"Tue, Jun 23, 2015",Smouha SC,El Raja Marsa Matruh,0,1,Away win,0,0,0,0
+2014,36,"Tue, Jun 23, 2015",Zamalek SC,Arab Contractors SC,3,0,Home win,4,0,0,0
+2014,36,"Wed, Jun 24, 2015",El Dakhlia SC,Ismaily SC,0,0,Draw,3,3,0,0
+2014,36,"Wed, Jun 24, 2015",Tala'ea El Gaish,Alassiouty Sport,0,1,Away win,2,3,0,0
+2014,36,"Thu, Jun 25, 2015",Masr El Makasa,El Shorta,2,1,Home win,1,3,0,0
+2014,36,"Thu, Jun 25, 2015",El Nasr,Ala'ab Damanhour,3,1,Home win,1,1,0,0
+2014,36,"Thu, Jun 25, 2015",Masry Port Said,Wadi Degla FC,1,0,Home win,1,0,0,0
+2014,36,"Thu, Jun 25, 2015",El Gouna FC,Enppi Club,0,0,Draw,1,0,0,0
+2014,36,"Thu, Jun 25, 2015",Harras El Hodoud,Ittehad Alexandria,0,1,Away win,1,1,0,0
+2014,37,"Wed, Jul 1, 2015",El Raja Marsa Matruh,Harras El Hodoud,1,0,Home win,0,0,0,0
+2014,37,"Wed, Jul 1, 2015",Enppi Club,Petrojet,1,0,Home win,1,1,0,0
+2014,37,"Wed, Jul 1, 2015",Ittehad Alexandria,Masry Port Said,0,1,Away win,0,0,0,0
+2014,37,"Wed, Jul 1, 2015",Alassiouty Sport,El Dakhlia SC,2,4,Away win,0,0,0,0
+2014,37,"Wed, Jul 1, 2015",El Shorta,El Gouna FC,1,1,Draw,3,0,0,0
+2014,37,"Thu, Jul 2, 2015",Ala'ab Damanhour,Tala'ea El Gaish,0,3,Away win,0,0,0,0
+2014,37,"Thu, Jul 2, 2015",Ismaily SC,Smouha SC,3,1,Home win,1,1,0,1
+2014,37,"Mon, Jul 6, 2015",Wadi Degla FC,Masr El Makasa,2,1,Home win,1,1,0,0
+2014,37,"Tue, Jul 21, 2015",El Ahly Cairo,Zamalek SC,2,0,Home win,3,3,0,1
+2014,38,"Mon, Jul 6, 2015",Smouha SC,Alassiouty Sport,3,0,Home win,0,1,0,0
+2014,38,"Sat, Jul 11, 2015",El Gouna FC,Wadi Degla FC,1,2,Away win,3,1,0,0
+2014,38,"Sat, Jul 11, 2015",Harras El Hodoud,Ismaily SC,2,0,Home win,0,0,0,0
+2014,38,"Sat, Jul 11, 2015",Masr El Makasa,Ittehad Alexandria,2,1,Home win,1,0,0,0
+2014,38,"Sat, Jul 11, 2015",El Dakhlia SC,Ala'ab Damanhour,3,0,Home win,2,3,0,0
+2014,38,"Sat, Jul 11, 2015",Petrojet,El Shorta,1,1,Draw,4,3,0,0
+2014,38,"Sat, Jul 11, 2015",Masry Port Said,El Raja Marsa Matruh,2,2,Draw,1,0,0,0
+2014,38,"Sun, Jul 12, 2015",Tala'ea El Gaish,Arab Contractors SC,1,2,Away win,1,0,0,0
+2014,38,"Wed, Jul 15, 2015",El Nasr,Zamalek SC,0,4,Away win,0,1,0,0
+2014,38,"Sun, Aug 2, 2015",El Ahly Cairo,Enppi Club,1,1,Draw,1,4,0,0
+2015,1,"Tue, Oct 20, 2015",El Dakhlia SC,Arab Contractors SC,2,0,Home win,2,2,0,0
+2015,1,"Tue, Oct 20, 2015",Enppi Club,Harras El Hodoud,2,2,Draw,3,6,0,0
+2015,1,"Wed, Oct 21, 2015",Ittehad Alexandria,Aswan FC,1,0,Home win,2,1,0,0
+2015,1,"Wed, Oct 21, 2015",Ismaily SC,Entag El Harby,2,0,Home win,4,3,0,0
+2015,1,"Wed, Oct 21, 2015",Zamalek SC,Wadi Degla FC,2,0,Home win,1,4,0,0
+2015,1,"Thu, Oct 22, 2015",Ghazl Mahalla,Smouha SC,0,1,Away win,1,0,0,0
+2015,1,"Thu, Oct 22, 2015",Petrojet,Masry Port Said,1,3,Away win,3,2,0,0
+2015,1,"Thu, Oct 22, 2015",Masr El Makasa,El Shorta,1,1,Draw,0,0,0,0
+2015,1,"Thu, Oct 22, 2015",Tala'ea El Gaish,El Ahly Cairo,0,1,Away win,2,0,0,0
+2015,2,"Sat, Oct 24, 2015",Harras El Hodoud,El Dakhlia SC,0,1,Away win,4,0,0,1
+2015,2,"Sat, Oct 24, 2015",Entag El Harby,Ittehad Alexandria,0,1,Away win,2,3,0,0
+2015,2,"Sat, Oct 24, 2015",Arab Contractors SC,Ismaily SC,0,0,Draw,1,1,0,0
+2015,2,"Sun, Oct 25, 2015",Smouha SC,Petrojet,0,3,Away win,1,5,0,0
+2015,2,"Sun, Oct 25, 2015",Masry Port Said,Masr El Makasa,1,1,Draw,1,1,0,0
+2015,2,"Sun, Oct 25, 2015",Aswan FC,Zamalek SC,0,0,Draw,2,0,0,0
+2015,2,"Sun, Oct 25, 2015",El Ahly Cairo,Ghazl Mahalla,2,0,Home win,2,1,0,0
+2015,2,"Mon, Oct 26, 2015",El Shorta,Enppi Club,0,0,Draw,0,0,0,0
+2015,2,"Mon, Oct 26, 2015",Wadi Degla FC,Tala'ea El Gaish,3,3,Draw,5,5,0,0
+2015,3,"Sat, Oct 31, 2015",Enppi Club,Masry Port Said,2,1,Home win,0,1,0,0
+2015,3,"Sat, Oct 31, 2015",Ghazl Mahalla,Wadi Degla FC,0,2,Away win,6,0,0,0
+2015,3,"Sat, Oct 31, 2015",Ittehad Alexandria,Arab Contractors SC,1,1,Draw,2,4,0,0
+2015,3,"Sat, Oct 31, 2015",Masr El Makasa,Smouha SC,2,0,Home win,3,3,0,0
+2015,3,"Sat, Oct 31, 2015",Zamalek SC,Entag El Harby,2,1,Home win,2,5,0,0
+2015,3,"Sun, Nov 1, 2015",El Shorta,Harras El Hodoud,1,1,Draw,3,4,0,0
+2015,3,"Sun, Nov 1, 2015",Tala'ea El Gaish,Aswan FC,1,1,Draw,1,1,1,0
+2015,3,"Sun, Nov 1, 2015",Petrojet,El Ahly Cairo,0,1,Away win,0,1,0,0
+2015,3,"Sun, Nov 1, 2015",Ismaily SC,El Dakhlia SC,0,1,Away win,3,4,0,0
+2015,4,"Wed, Nov 4, 2015",Arab Contractors SC,Zamalek SC,1,2,Away win,4,1,0,0
+2015,4,"Thu, Nov 5, 2015",Smouha SC,Enppi Club,1,1,Draw,2,0,0,0
+2015,4,"Thu, Nov 5, 2015",El Ahly Cairo,Masr El Makasa,0,1,Away win,4,2,0,0
+2015,4,"Sat, Nov 7, 2015",Masry Port Said,El Shorta,1,0,Home win,0,2,0,0
+2015,4,"Sat, Nov 7, 2015",El Dakhlia SC,Ittehad Alexandria,2,0,Home win,3,2,0,0
+2015,4,"Sat, Nov 7, 2015",Harras El Hodoud,Ismaily SC,0,4,Away win,2,0,0,0
+2015,4,"Sat, Nov 7, 2015",Wadi Degla FC,Petrojet,3,0,Home win,3,3,0,0
+2015,4,"Sun, Nov 8, 2015",Aswan FC,Ghazl Mahalla,0,0,Draw,1,5,0,0
+2015,4,"Sun, Nov 8, 2015",Entag El Harby,Tala'ea El Gaish,2,1,Home win,3,5,0,1
+2015,5,"Thu, Nov 12, 2015",Masr El Makasa,Wadi Degla FC,1,1,Draw,0,1,0,1
+2015,5,"Thu, Nov 12, 2015",Ittehad Alexandria,Ismaily SC,0,5,Away win,1,1,0,0
+2015,5,"Thu, Nov 12, 2015",Tala'ea El Gaish,Arab Contractors SC,2,1,Home win,3,3,0,0
+2015,5,"Sun, Nov 15, 2015",Petrojet,Aswan FC,1,1,Draw,1,2,0,0
+2015,5,"Sun, Nov 15, 2015",Ghazl Mahalla,Entag El Harby,0,1,Away win,3,2,0,0
+2015,5,"Sun, Nov 15, 2015",Masry Port Said,Harras El Hodoud,3,2,Home win,1,3,0,0
+2015,5,"Thu, Nov 19, 2015",El Shorta,Smouha SC,0,2,Away win,2,0,0,0
+2015,5,"Tue, Jan 5, 2016",Zamalek SC,El Dakhlia SC,2,0,Home win,1,3,0,0
+2015,5,"Wed, Feb 3, 2016",Enppi Club,El Ahly Cairo,0,2,Away win,2,1,0,0
+2015,6,"Thu, Nov 26, 2015",Arab Contractors SC,Ghazl Mahalla,0,0,Draw,1,1,0,0
+2015,6,"Thu, Nov 26, 2015",Harras El Hodoud,Ittehad Alexandria,0,1,Away win,1,2,0,0
+2015,6,"Thu, Nov 26, 2015",El Dakhlia SC,Tala'ea El Gaish,0,0,Draw,0,4,0,0
+2015,6,"Sat, Nov 28, 2015",Aswan FC,Masr El Makasa,2,3,Away win,5,3,0,0
+2015,6,"Sat, Nov 28, 2015",Smouha SC,Masry Port Said,1,1,Draw,3,2,0,0
+2015,6,"Sat, Nov 28, 2015",Entag El Harby,Petrojet,0,0,Draw,0,1,0,0
+2015,6,"Thu, Jan 7, 2016",El Ahly Cairo,El Shorta,7,3,Home win,1,2,0,0
+2015,6,"Wed, Feb 3, 2016",Ismaily SC,Zamalek SC,1,0,Home win,2,3,0,0
+2015,6,"Sun, Feb 21, 2016",Wadi Degla FC,Enppi Club,2,3,Away win,0,2,0,0
+2015,7,"Sun, Dec 6, 2015",Ghazl Mahalla,El Dakhlia SC,1,1,Draw,3,5,0,1
+2015,7,"Sun, Dec 6, 2015",Petrojet,Arab Contractors SC,0,2,Away win,1,7,0,0
+2015,7,"Mon, Dec 7, 2015",Masr El Makasa,Entag El Harby,2,1,Home win,2,3,1,0
+2015,7,"Mon, Dec 7, 2015",Enppi Club,Aswan FC,3,2,Home win,1,3,0,0
+2015,7,"Thu, Dec 10, 2015",Smouha SC,Harras El Hodoud,2,2,Draw,2,2,0,0
+2015,7,"Tue, Feb 2, 2016",El Shorta,Wadi Degla FC,0,0,Draw,0,1,0,0
+2015,7,"Sun, Feb 21, 2016",Tala'ea El Gaish,Ismaily SC,1,2,Away win,2,3,0,0
+2015,7,"Mon, Feb 22, 2016",Zamalek SC,Ittehad Alexandria,2,1,Home win,2,2,0,0
+2015,7,"Tue, Feb 23, 2016",Masry Port Said,El Ahly Cairo,2,2,Draw,3,2,0,0
+2015,8,"Mon, Dec 14, 2015",Arab Contractors SC,Masr El Makasa,1,4,Away win,1,3,0,0
+2015,8,"Mon, Dec 14, 2015",Ittehad Alexandria,Tala'ea El Gaish,1,0,Home win,3,2,0,0
+2015,8,"Mon, Dec 14, 2015",Entag El Harby,Enppi Club,0,0,Draw,3,1,0,0
+2015,8,"Tue, Dec 15, 2015",Aswan FC,El Shorta,2,1,Home win,4,3,0,0
+2015,8,"Tue, Dec 15, 2015",Ismaily SC,Ghazl Mahalla,3,1,Home win,1,1,0,0
+2015,8,"Tue, Dec 15, 2015",El Dakhlia SC,Petrojet,1,0,Home win,2,3,0,0
+2015,8,"Thu, Dec 17, 2015",Harras El Hodoud,Zamalek SC,0,2,Away win,1,0,0,0
+2015,8,"Thu, Dec 17, 2015",Wadi Degla FC,Masry Port Said,0,2,Away win,1,2,0,0
+2015,8,"Thu, Dec 17, 2015",El Ahly Cairo,Smouha SC,0,3,Away win,0,1,0,0
+2015,9,"Sat, Dec 19, 2015",El Shorta,Entag El Harby,0,0,Draw,2,1,0,0
+2015,9,"Sat, Dec 19, 2015",Enppi Club,Arab Contractors SC,3,1,Home win,2,1,0,1
+2015,9,"Sun, Dec 20, 2015",Masr El Makasa,El Dakhlia SC,0,1,Away win,2,6,0,0
+2015,9,"Sun, Dec 20, 2015",Ghazl Mahalla,Ittehad Alexandria,0,1,Away win,1,3,1,0
+2015,9,"Sun, Dec 20, 2015",Petrojet,Ismaily SC,1,0,Home win,3,0,0,0
+2015,9,"Sun, Dec 20, 2015",Tala'ea El Gaish,Zamalek SC,3,2,Home win,3,1,0,1
+2015,9,"Mon, Dec 21, 2015",Masry Port Said,Aswan FC,3,2,Home win,2,3,0,0
+2015,9,"Mon, Dec 21, 2015",Smouha SC,Wadi Degla FC,2,0,Home win,2,0,0,0
+2015,9,"Tue, Dec 22, 2015",El Ahly Cairo,Harras El Hodoud,3,0,Home win,2,2,0,0
+2015,10,"Wed, Dec 23, 2015",Ismaily SC,Masr El Makasa,1,4,Away win,3,0,0,0
+2015,10,"Wed, Dec 23, 2015",Ittehad Alexandria,Petrojet,0,2,Away win,1,4,0,0
+2015,10,"Wed, Dec 23, 2015",Zamalek SC,Ghazl Mahalla,5,0,Home win,1,3,0,0
+2015,10,"Fri, Dec 25, 2015",Aswan FC,Smouha SC,0,0,Draw,3,2,0,0
+2015,10,"Fri, Dec 25, 2015",Entag El Harby,Masry Port Said,0,0,Draw,2,1,0,0
+2015,10,"Fri, Dec 25, 2015",El Dakhlia SC,Enppi Club,4,4,Draw,0,2,0,0
+2015,10,"Sat, Dec 26, 2015",Arab Contractors SC,El Shorta,0,0,Draw,2,2,0,0
+2015,10,"Sat, Dec 26, 2015",Harras El Hodoud,Tala'ea El Gaish,0,1,Away win,3,3,0,0
+2015,10,"Sat, Dec 26, 2015",Wadi Degla FC,El Ahly Cairo,0,0,Draw,4,3,0,0
+2015,11,"Mon, Dec 28, 2015",Masr El Makasa,Ittehad Alexandria,1,1,Draw,3,1,0,0
+2015,11,"Mon, Dec 28, 2015",Petrojet,Zamalek SC,1,1,Draw,4,3,0,0
+2015,11,"Tue, Dec 29, 2015",El Ahly Cairo,Aswan FC,3,1,Home win,1,2,0,0
+2015,11,"Wed, Dec 30, 2015",El Shorta,El Dakhlia SC,1,1,Draw,1,1,0,0
+2015,11,"Wed, Dec 30, 2015",Ghazl Mahalla,Tala'ea El Gaish,1,1,Draw,4,3,0,2
+2015,11,"Wed, Dec 30, 2015",Smouha SC,Entag El Harby,1,1,Draw,3,2,0,0
+2015,11,"Wed, Dec 30, 2015",Masry Port Said,Arab Contractors SC,3,2,Home win,4,6,0,0
+2015,11,"Wed, Dec 30, 2015",Wadi Degla FC,Harras El Hodoud,0,0,Draw,0,4,0,0
+2015,11,"Wed, Dec 30, 2015",Enppi Club,Ismaily SC,1,2,Away win,2,2,0,0
+2015,12,"Sat, Jan 2, 2016",El Dakhlia SC,Masry Port Said,1,1,Draw,1,4,0,0
+2015,12,"Sat, Jan 2, 2016",Zamalek SC,Masr El Makasa,2,2,Draw,1,1,0,0
+2015,12,"Sun, Jan 3, 2016",Aswan FC,Wadi Degla FC,2,1,Home win,2,6,0,0
+2015,12,"Sun, Jan 3, 2016",Harras El Hodoud,Ghazl Mahalla,2,2,Draw,4,2,0,0
+2015,12,"Sun, Jan 3, 2016",Ismaily SC,El Shorta,2,2,Draw,2,4,0,0
+2015,12,"Sun, Jan 3, 2016",Entag El Harby,El Ahly Cairo,0,1,Away win,3,3,0,0
+2015,12,"Mon, Jan 4, 2016",Ittehad Alexandria,Enppi Club,1,0,Home win,3,3,0,1
+2015,12,"Mon, Jan 4, 2016",Tala'ea El Gaish,Petrojet,0,0,Draw,0,1,0,0
+2015,12,"Mon, Jan 4, 2016",Arab Contractors SC,Smouha SC,1,1,Draw,1,2,0,0
+2015,13,"Sat, Jan 9, 2016",Petrojet,Ghazl Mahalla,2,0,Home win,3,2,0,0
+2015,13,"Sat, Jan 9, 2016",Aswan FC,Harras El Hodoud,1,0,Home win,1,4,0,0
+2015,13,"Sat, Jan 9, 2016",Masr El Makasa,Tala'ea El Gaish,1,1,Draw,3,3,0,0
+2015,13,"Sat, Jan 9, 2016",Enppi Club,Zamalek SC,0,1,Away win,3,1,0,0
+2015,13,"Sun, Jan 10, 2016",Masry Port Said,Ismaily SC,1,0,Home win,0,1,0,1
+2015,13,"Sun, Jan 10, 2016",El Ahly Cairo,Arab Contractors SC,3,1,Home win,0,2,0,0
+2015,13,"Mon, Jan 11, 2016",El Shorta,Ittehad Alexandria,1,1,Draw,1,1,0,1
+2015,13,"Mon, Jan 11, 2016",Smouha SC,El Dakhlia SC,1,1,Draw,2,2,0,0
+2015,13,"Mon, Jan 11, 2016",Wadi Degla FC,Entag El Harby,1,3,Away win,3,4,0,0
+2015,14,"Wed, Jan 13, 2016",Ghazl Mahalla,Masr El Makasa,0,1,Away win,2,1,0,0
+2015,14,"Wed, Jan 13, 2016",Harras El Hodoud,Petrojet,0,2,Away win,3,3,0,0
+2015,14,"Wed, Jan 13, 2016",Tala'ea El Gaish,Enppi Club,1,3,Away win,3,3,0,0
+2015,14,"Thu, Jan 14, 2016",Ismaily SC,Smouha SC,2,2,Draw,4,3,0,0
+2015,14,"Thu, Jan 14, 2016",El Dakhlia SC,El Ahly Cairo,1,1,Draw,5,2,0,0
+2015,14,"Fri, Jan 15, 2016",Entag El Harby,Aswan FC,2,0,Home win,1,3,0,0
+2015,14,"Fri, Jan 15, 2016",Ittehad Alexandria,Masry Port Said,1,1,Draw,3,4,0,0
+2015,14,"Fri, Jan 15, 2016",Arab Contractors SC,Wadi Degla FC,0,0,Draw,2,2,0,0
+2015,14,"Sat, Jan 16, 2016",Zamalek SC,El Shorta,1,0,Home win,3,1,0,0
+2015,15,"Mon, Jan 18, 2016",Masr El Makasa,Petrojet,0,1,Away win,1,2,0,0
+2015,15,"Mon, Jan 18, 2016",Enppi Club,Ghazl Mahalla,3,0,Home win,3,1,0,0
+2015,15,"Tue, Jan 19, 2016",Wadi Degla FC,El Dakhlia SC,1,0,Home win,2,3,0,0
+2015,15,"Tue, Jan 19, 2016",Smouha SC,Ittehad Alexandria,2,0,Home win,2,0,0,0
+2015,15,"Tue, Jan 19, 2016",Entag El Harby,Harras El Hodoud,3,0,Home win,1,3,0,0
+2015,15,"Wed, Jan 20, 2016",El Shorta,Tala'ea El Gaish,1,4,Away win,1,2,0,0
+2015,15,"Wed, Jan 20, 2016",Aswan FC,Arab Contractors SC,2,1,Home win,2,1,0,0
+2015,15,"Wed, Jan 20, 2016",El Ahly Cairo,Ismaily SC,1,0,Home win,0,2,0,0
+2015,15,"Wed, Jan 20, 2016",Masry Port Said,Zamalek SC,0,1,Away win,1,0,0,0
+2015,16,"Fri, Jan 22, 2016",Petrojet,Enppi Club,0,0,Draw,2,0,0,0
+2015,16,"Sat, Jan 23, 2016",Ittehad Alexandria,El Ahly Cairo,0,1,Away win,1,0,0,0
+2015,16,"Sun, Jan 24, 2016",Ghazl Mahalla,El Shorta,0,0,Draw,2,2,0,0
+2015,16,"Sun, Jan 24, 2016",Ismaily SC,Wadi Degla FC,0,1,Away win,0,0,0,0
+2015,16,"Sun, Jan 24, 2016",Masr El Makasa,Harras El Hodoud,1,0,Home win,4,1,0,0
+2015,16,"Sun, Jan 24, 2016",Zamalek SC,Smouha SC,1,1,Draw,1,2,0,0
+2015,16,"Sun, Jan 31, 2016",El Dakhlia SC,Aswan FC,1,1,Draw,0,5,0,0
+2015,16,"Sun, Jan 31, 2016",Tala'ea El Gaish,Masry Port Said,3,3,Draw,2,5,0,0
+2015,16,"Sun, Jan 31, 2016",Arab Contractors SC,Entag El Harby,0,0,Draw,2,1,0,0
+2015,17,"Sat, Feb 6, 2016",Harras El Hodoud,Arab Contractors SC,0,1,Away win,1,1,0,0
+2015,17,"Sat, Feb 6, 2016",Masry Port Said,Ghazl Mahalla,1,0,Home win,3,0,0,0
+2015,17,"Sat, Feb 6, 2016",Wadi Degla FC,Ittehad Alexandria,3,1,Home win,2,4,0,0
+2015,17,"Sat, Feb 6, 2016",Entag El Harby,El Dakhlia SC,2,2,Draw,2,4,0,0
+2015,17,"Sun, Feb 7, 2016",Aswan FC,Ismaily SC,1,1,Draw,3,4,0,0
+2015,17,"Sun, Feb 7, 2016",El Shorta,Petrojet,0,1,Away win,2,1,0,0
+2015,17,"Sun, Feb 7, 2016",Smouha SC,Tala'ea El Gaish,2,2,Draw,1,4,0,0
+2015,17,"Sun, Feb 7, 2016",Enppi Club,Masr El Makasa,1,1,Draw,2,5,0,0
+2015,17,"Tue, Feb 9, 2016",El Ahly Cairo,Zamalek SC,2,0,Home win,1,2,0,0
+2015,18,"Thu, Feb 11, 2016",Aswan FC,Ittehad Alexandria,1,0,Home win,3,2,0,0
+2015,18,"Thu, Feb 11, 2016",Harras El Hodoud,Enppi Club,0,1,Away win,2,1,0,0
+2015,18,"Thu, Feb 11, 2016",Entag El Harby,Ismaily SC,3,0,Home win,1,3,0,0
+2015,18,"Thu, Feb 11, 2016",Arab Contractors SC,El Dakhlia SC,3,1,Home win,3,0,0,0
+2015,18,"Sat, Feb 13, 2016",Smouha SC,Ghazl Mahalla,4,2,Home win,1,1,0,0
+2015,18,"Sat, Feb 13, 2016",Tala'ea El Gaish,El Ahly Cairo,0,0,Draw,3,1,0,0
+2015,18,"Sat, Feb 13, 2016",Masry Port Said,Petrojet,0,0,Draw,1,3,0,0
+2015,18,"Sun, Feb 14, 2016",Wadi Degla FC,Zamalek SC,1,1,Draw,2,0,0,0
+2015,18,"Sun, Feb 21, 2016",El Shorta,Masr El Makasa,0,0,Draw,1,2,0,0
+2015,19,"Tue, Feb 16, 2016",Ittehad Alexandria,Entag El Harby,1,2,Away win,4,1,0,0
+2015,19,"Tue, Feb 16, 2016",Ismaily SC,Arab Contractors SC,1,0,Home win,3,1,0,0
+2015,19,"Tue, Feb 16, 2016",El Dakhlia SC,Harras El Hodoud,2,0,Home win,3,4,0,1
+2015,19,"Wed, Feb 17, 2016",Petrojet,Smouha SC,3,1,Home win,3,3,0,0
+2015,19,"Wed, Feb 17, 2016",Enppi Club,El Shorta,1,3,Away win,4,1,0,0
+2015,19,"Wed, Feb 17, 2016",Tala'ea El Gaish,Wadi Degla FC,0,2,Away win,3,3,0,0
+2015,19,"Thu, Feb 18, 2016",Masr El Makasa,Masry Port Said,2,2,Draw,0,1,0,0
+2015,19,"Thu, Feb 18, 2016",Ghazl Mahalla,El Ahly Cairo,1,1,Draw,3,5,0,0
+2015,19,"Thu, Feb 18, 2016",Zamalek SC,Aswan FC,1,0,Home win,2,2,0,0
+2015,20,"Mon, Feb 29, 2016",Harras El Hodoud,El Shorta,0,0,Draw,1,2,0,0
+2015,20,"Tue, Mar 1, 2016",Aswan FC,Tala'ea El Gaish,0,1,Away win,1,2,0,0
+2015,20,"Tue, Mar 1, 2016",Arab Contractors SC,Ittehad Alexandria,3,1,Home win,3,1,0,0
+2015,20,"Tue, Mar 1, 2016",Masry Port Said,Enppi Club,4,0,Home win,2,1,0,0
+2015,20,"Tue, Mar 1, 2016",Wadi Degla FC,Ghazl Mahalla,1,1,Draw,1,2,0,0
+2015,20,"Tue, Mar 1, 2016",Smouha SC,Masr El Makasa,4,3,Home win,3,2,0,0
+2015,20,"Tue, Mar 1, 2016",El Dakhlia SC,Ismaily SC,0,1,Away win,1,2,1,0
+2015,20,"Wed, Mar 2, 2016",El Ahly Cairo,Petrojet,2,0,Home win,1,1,0,0
+2015,20,"Thu, Mar 3, 2016",Entag El Harby,Zamalek SC,3,1,Home win,4,2,0,0
+2015,21,"Sat, Mar 5, 2016",El Ahly Cairo,Masr El Makasa,2,1,Home win,3,0,0,0
+2015,21,"Sun, Mar 6, 2016",Zamalek SC,Arab Contractors SC,2,0,Home win,4,2,0,0
+2015,21,"Mon, Mar 7, 2016",Ittehad Alexandria,El Dakhlia SC,1,2,Away win,0,3,1,0
+2015,21,"Mon, Mar 7, 2016",Petrojet,Wadi Degla FC,0,1,Away win,4,2,0,0
+2015,21,"Mon, Mar 7, 2016",El Shorta,Masry Port Said,0,1,Away win,3,1,0,0
+2015,21,"Mon, Mar 7, 2016",Enppi Club,Smouha SC,0,1,Away win,1,5,0,0
+2015,21,"Tue, Mar 8, 2016",Ghazl Mahalla,Aswan FC,0,1,Away win,2,1,0,0
+2015,21,"Tue, Mar 8, 2016",Ismaily SC,Harras El Hodoud,1,0,Home win,1,1,0,0
+2015,21,"Tue, Mar 8, 2016",Tala'ea El Gaish,Entag El Harby,0,0,Draw,2,2,0,0
+2015,22,"Mon, Mar 14, 2016",Smouha SC,El Shorta,1,1,Draw,2,4,0,0
+2015,22,"Mon, Mar 14, 2016",Harras El Hodoud,Masry Port Said,3,1,Home win,1,2,0,1
+2015,22,"Mon, Mar 14, 2016",Entag El Harby,Ghazl Mahalla,1,0,Home win,2,3,0,0
+2015,22,"Tue, Mar 15, 2016",Aswan FC,Petrojet,2,1,Home win,3,1,0,1
+2015,22,"Tue, Mar 15, 2016",Ismaily SC,Ittehad Alexandria,0,1,Away win,2,1,0,0
+2015,22,"Tue, Mar 15, 2016",Arab Contractors SC,Tala'ea El Gaish,0,0,Draw,2,4,0,0
+2015,22,"Thu, Apr 14, 2016",El Dakhlia SC,Zamalek SC,0,0,Draw,2,0,0,0
+2015,22,"Fri, Apr 15, 2016",Wadi Degla FC,Masr El Makasa,1,0,Home win,3,3,0,0
+2015,22,"Fri, Apr 15, 2016",El Ahly Cairo,Enppi Club,2,0,Home win,0,4,1,0
+2015,23,"Sat, Apr 2, 2016",Tala'ea El Gaish,El Dakhlia SC,2,0,Home win,4,2,0,0
+2015,23,"Sat, Apr 2, 2016",Ghazl Mahalla,Arab Contractors SC,0,1,Away win,3,4,0,0
+2015,23,"Sat, Apr 2, 2016",Petrojet,Entag El Harby,3,1,Home win,3,3,0,0
+2015,23,"Sat, Apr 2, 2016",Enppi Club,Wadi Degla FC,0,2,Away win,2,3,1,0
+2015,23,"Sun, Apr 3, 2016",Masr El Makasa,Aswan FC,3,1,Home win,3,3,0,0
+2015,23,"Sun, Apr 3, 2016",Masry Port Said,Smouha SC,0,1,Away win,1,1,0,0
+2015,23,"Sun, Apr 3, 2016",El Shorta,El Ahly Cairo,3,5,Away win,3,1,0,0
+2015,23,"Mon, Apr 4, 2016",Ittehad Alexandria,Harras El Hodoud,2,0,Home win,0,3,0,0
+2015,23,"Mon, Apr 4, 2016",Zamalek SC,Ismaily SC,0,1,Away win,3,1,0,0
+2015,24,"Wed, Apr 6, 2016",El Dakhlia SC,Ghazl Mahalla,1,0,Home win,2,3,0,0
+2015,24,"Thu, Apr 7, 2016",Arab Contractors SC,Petrojet,2,2,Draw,2,1,0,0
+2015,24,"Thu, Apr 7, 2016",Wadi Degla FC,El Shorta,2,1,Home win,2,2,0,0
+2015,24,"Sat, Apr 9, 2016",Ismaily SC,Tala'ea El Gaish,2,0,Home win,1,2,0,0
+2015,24,"Sat, Apr 9, 2016",Harras El Hodoud,Smouha SC,0,1,Away win,2,0,0,0
+2015,24,"Mon, May 16, 2016",Ittehad Alexandria,Zamalek SC,0,1,Away win,1,1,0,0
+2015,24,"Fri, May 20, 2016",Aswan FC,Enppi Club,1,1,Draw,1,1,0,0
+2015,24,"Wed, Jun 1, 2016",Entag El Harby,Masr El Makasa,2,1,Home win,4,3,0,0
+2015,24,"Mon, Jun 13, 2016",El Ahly Cairo,Masry Port Said,2,3,Away win,1,2,0,0
+2015,25,"Thu, Apr 21, 2016",Ghazl Mahalla,Ismaily SC,2,2,Draw,3,4,0,0
+2015,25,"Fri, Apr 22, 2016",Petrojet,El Dakhlia SC,0,0,Draw,2,4,0,0
+2015,25,"Fri, Apr 22, 2016",El Shorta,Aswan FC,2,2,Draw,2,4,0,0
+2015,25,"Sat, Apr 23, 2016",Masry Port Said,Wadi Degla FC,0,0,Draw,1,1,0,0
+2015,25,"Sat, Apr 23, 2016",Tala'ea El Gaish,Ittehad Alexandria,0,1,Away win,6,1,0,0
+2015,25,"Sun, Apr 24, 2016",Masr El Makasa,Arab Contractors SC,0,1,Away win,3,3,0,0
+2015,25,"Sun, Apr 24, 2016",Enppi Club,Entag El Harby,0,0,Draw,2,4,0,0
+2015,25,"Tue, Apr 26, 2016",Smouha SC,El Ahly Cairo,1,3,Away win,3,1,0,0
+2015,25,"Tue, Apr 26, 2016",Zamalek SC,Harras El Hodoud,1,0,Home win,4,1,0,0
+2015,26,"Sun, May 1, 2016",El Dakhlia SC,Masr El Makasa,1,3,Away win,1,1,0,0
+2015,26,"Sun, May 1, 2016",Aswan FC,Masry Port Said,1,1,Draw,0,2,0,0
+2015,26,"Sun, May 1, 2016",Arab Contractors SC,Enppi Club,0,3,Away win,1,1,0,0
+2015,26,"Tue, May 3, 2016",Ittehad Alexandria,Ghazl Mahalla,1,1,Draw,4,2,0,0
+2015,26,"Tue, May 3, 2016",Zamalek SC,Tala'ea El Gaish,2,1,Home win,0,3,0,0
+2015,26,"Wed, May 4, 2016",Wadi Degla FC,Smouha SC,1,1,Draw,2,2,0,0
+2015,26,"Wed, May 4, 2016",Entag El Harby,El Shorta,0,0,Draw,2,1,0,0
+2015,26,"Wed, May 4, 2016",Ismaily SC,Petrojet,1,0,Home win,2,2,0,0
+2015,26,"Wed, May 4, 2016",Harras El Hodoud,El Ahly Cairo,0,4,Away win,1,0,0,1
+2015,27,"Thu, May 5, 2016",Enppi Club,El Dakhlia SC,0,1,Away win,1,2,0,0
+2015,27,"Sat, May 7, 2016",Ghazl Mahalla,Zamalek SC,0,2,Away win,0,2,0,0
+2015,27,"Sat, May 7, 2016",El Ahly Cairo,Wadi Degla FC,0,1,Away win,0,2,0,0
+2015,27,"Sun, May 8, 2016",Tala'ea El Gaish,Harras El Hodoud,1,0,Home win,1,6,0,0
+2015,27,"Sun, May 8, 2016",Petrojet,Ittehad Alexandria,3,1,Home win,2,1,0,0
+2015,27,"Sun, May 8, 2016",Smouha SC,Aswan FC,0,0,Draw,1,1,0,0
+2015,27,"Sun, May 8, 2016",El Shorta,Arab Contractors SC,2,2,Draw,1,3,0,0
+2015,27,"Sun, May 8, 2016",Masry Port Said,Entag El Harby,0,0,Draw,2,3,0,0
+2015,27,"Fri, May 13, 2016",Masr El Makasa,Ismaily SC,3,2,Home win,4,0,0,0
+2015,28,"Mon, May 9, 2016",Ismaily SC,Enppi Club,2,2,Draw,3,2,0,0
+2015,28,"Thu, May 12, 2016",Arab Contractors SC,Masry Port Said,2,1,Home win,7,3,0,0
+2015,28,"Thu, May 12, 2016",Harras El Hodoud,Wadi Degla FC,0,2,Away win,6,3,0,0
+2015,28,"Thu, May 12, 2016",Zamalek SC,Petrojet,2,0,Home win,2,1,0,0
+2015,28,"Thu, May 12, 2016",Aswan FC,El Ahly Cairo,0,4,Away win,0,1,0,0
+2015,28,"Sat, May 14, 2016",El Dakhlia SC,El Shorta,1,0,Home win,0,3,0,0
+2015,28,"Sat, May 14, 2016",Tala'ea El Gaish,Ghazl Mahalla,2,1,Home win,2,2,0,0
+2015,28,"Sat, May 14, 2016",Entag El Harby,Smouha SC,1,1,Draw,1,3,0,0
+2015,28,"Sun, Jun 5, 2016",Ittehad Alexandria,Masr El Makasa,1,0,Home win,2,1,0,0
+2015,29,"Mon, May 16, 2016",Wadi Degla FC,Aswan FC,1,0,Home win,3,2,0,0
+2015,29,"Tue, May 17, 2016",El Ahly Cairo,Entag El Harby,2,0,Home win,0,2,0,0
+2015,29,"Wed, May 18, 2016",Masry Port Said,El Dakhlia SC,3,2,Home win,4,3,0,0
+2015,29,"Wed, May 18, 2016",El Shorta,Ismaily SC,2,0,Home win,3,4,0,0
+2015,29,"Thu, May 19, 2016",Ghazl Mahalla,Harras El Hodoud,0,1,Away win,2,3,0,0
+2015,29,"Thu, May 19, 2016",Petrojet,Tala'ea El Gaish,0,0,Draw,1,0,0,0
+2015,29,"Thu, May 19, 2016",Smouha SC,Arab Contractors SC,0,2,Away win,7,5,0,0
+2015,29,"Sun, May 22, 2016",Masr El Makasa,Zamalek SC,1,3,Away win,4,2,0,0
+2015,29,"Tue, May 31, 2016",Enppi Club,Ittehad Alexandria,3,0,Home win,2,1,0,0
+2015,30,"Sun, May 22, 2016",Ittehad Alexandria,El Shorta,1,0,Home win,4,3,0,1
+2015,30,"Sun, May 22, 2016",Ismaily SC,Masry Port Said,1,1,Draw,2,3,0,0
+2015,30,"Mon, May 23, 2016",El Dakhlia SC,Smouha SC,0,1,Away win,0,1,0,0
+2015,30,"Tue, May 24, 2016",Ghazl Mahalla,Petrojet,1,1,Draw,2,1,0,0
+2015,30,"Tue, May 24, 2016",Entag El Harby,Wadi Degla FC,1,1,Draw,3,4,0,1
+2015,30,"Wed, May 25, 2016",Harras El Hodoud,Aswan FC,1,0,Home win,2,4,0,0
+2015,30,"Wed, May 25, 2016",Arab Contractors SC,El Ahly Cairo,0,3,Away win,3,1,1,0
+2015,30,"Thu, May 26, 2016",Zamalek SC,Enppi Club,1,0,Home win,2,4,0,0
+2015,30,"Fri, May 27, 2016",Tala'ea El Gaish,Masr El Makasa,0,0,Draw,3,3,0,0
+2015,31,"Wed, Jun 8, 2016",Wadi Degla FC,Arab Contractors SC,1,1,Draw,0,3,0,0
+2015,31,"Wed, Jun 8, 2016",Smouha SC,Ismaily SC,3,3,Draw,2,2,0,0
+2015,31,"Wed, Jun 8, 2016",Petrojet,Harras El Hodoud,1,2,Away win,0,5,0,0
+2015,31,"Thu, Jun 9, 2016",El Ahly Cairo,El Dakhlia SC,2,0,Home win,1,1,0,0
+2015,31,"Thu, Jun 9, 2016",Enppi Club,Tala'ea El Gaish,2,1,Home win,1,1,0,0
+2015,31,"Thu, Jun 9, 2016",Aswan FC,Entag El Harby,0,2,Away win,2,2,0,0
+2015,31,"Thu, Jun 9, 2016",Masr El Makasa,Ghazl Mahalla,1,0,Home win,1,3,0,0
+2015,31,"Thu, Jun 9, 2016",Masry Port Said,Ittehad Alexandria,2,0,Home win,2,1,0,0
+2015,31,"Sat, Jun 11, 2016",El Shorta,Zamalek SC,2,3,Away win,2,1,0,0
+2015,32,"Tue, Jun 14, 2016",Arab Contractors SC,Aswan FC,2,0,Home win,0,2,0,0
+2015,32,"Tue, Jun 14, 2016",Ghazl Mahalla,Enppi Club,0,0,Draw,3,1,0,0
+2015,32,"Tue, Jun 14, 2016",Harras El Hodoud,Entag El Harby,0,3,Away win,2,1,0,0
+2015,32,"Wed, Jun 15, 2016",Petrojet,Masr El Makasa,3,2,Home win,3,3,0,0
+2015,32,"Wed, Jun 15, 2016",Ittehad Alexandria,Smouha SC,0,1,Away win,2,6,0,0
+2015,32,"Wed, Jun 15, 2016",El Dakhlia SC,Wadi Degla FC,2,0,Home win,2,2,0,0
+2015,32,"Wed, Jun 15, 2016",Tala'ea El Gaish,El Shorta,2,0,Home win,2,7,0,0
+2015,32,"Fri, Jun 24, 2016",Ismaily SC,El Ahly Cairo,1,2,Away win,2,1,0,0
+2015,32,"Fri, Jun 24, 2016",Zamalek SC,Masry Port Said,2,2,Draw,2,4,0,0
+2015,33,"Sun, Jun 26, 2016",El Shorta,Ghazl Mahalla,3,0,Home win,0,1,0,0
+2015,33,"Sun, Jun 26, 2016",Aswan FC,El Dakhlia SC,1,0,Home win,1,2,0,0
+2015,33,"Sun, Jun 26, 2016",Entag El Harby,Arab Contractors SC,2,1,Home win,1,3,0,0
+2015,33,"Mon, Jun 27, 2016",Enppi Club,Petrojet,1,0,Home win,3,2,0,0
+2015,33,"Mon, Jun 27, 2016",Harras El Hodoud,Masr El Makasa,1,1,Draw,2,4,0,0
+2015,33,"Thu, Jun 30, 2016",Masry Port Said,Tala'ea El Gaish,0,0,Draw,4,4,0,0
+2015,33,"Thu, Jun 30, 2016",Wadi Degla FC,Ismaily SC,0,2,Away win,1,0,1,0
+2015,33,"Sun, Jul 3, 2016",El Ahly Cairo,Ittehad Alexandria,1,1,Draw,2,2,0,0
+2015,33,"Mon, Jul 4, 2016",Smouha SC,Zamalek SC,1,1,Draw,3,1,0,0
+2015,34,"Sat, Jul 2, 2016",Masr El Makasa,Enppi Club,0,2,Away win,2,2,0,0
+2015,34,"Mon, Jul 4, 2016",El Dakhlia SC,Entag El Harby,2,1,Home win,2,1,0,0
+2015,34,"Mon, Jul 4, 2016",Petrojet,El Shorta,3,0,Home win,2,2,0,0
+2015,34,"Mon, Jul 4, 2016",Arab Contractors SC,Harras El Hodoud,1,0,Home win,4,3,0,0
+2015,34,"Mon, Jul 4, 2016",Ismaily SC,Aswan FC,2,0,Home win,2,3,0,0
+2015,34,"Fri, Jul 8, 2016",Tala'ea El Gaish,Smouha SC,0,1,Away win,3,4,0,0
+2015,34,"Fri, Jul 8, 2016",Ittehad Alexandria,Wadi Degla FC,2,3,Away win,0,3,1,0
+2015,34,"Fri, Jul 8, 2016",Ghazl Mahalla,Masry Port Said,2,2,Draw,2,2,0,0
+2015,34,"Sat, Jul 9, 2016",Zamalek SC,El Ahly Cairo,0,0,Draw,3,4,0,0
+2016,1,"Thu, Sep 15, 2016",Aswan FC,El Dakhlia SC,2,0,Home win,1,2,0,0
+2016,1,"Thu, Sep 15, 2016",El Nasr Tadeen,Enppi Club,0,4,Away win,2,3,0,0
+2016,1,"Fri, Sep 16, 2016",El Sharkia Zagazig,Smouha SC,1,2,Away win,0,0,0,0
+2016,1,"Fri, Sep 16, 2016",Petrojet,Wadi Degla FC,1,0,Home win,3,3,0,0
+2016,1,"Sat, Sep 17, 2016",Ittehad Alexandria,Arab Contractors SC,3,1,Home win,1,0,0,0
+2016,1,"Sat, Sep 17, 2016",Masr El Makasa,Tanta FC,3,0,Home win,1,1,0,0
+2016,1,"Sat, Sep 17, 2016",Tala'ea El Gaish,Masry Port Said,2,1,Home win,3,2,0,0
+2016,1,"Sat, Sep 17, 2016",El Ahly Cairo,Ismaily SC,1,0,Home win,1,4,0,0
+2016,1,"Wed, Dec 21, 2016",Entag El Harby,Zamalek SC,0,1,Away win,1,4,0,0
+2016,2,"Thu, Sep 22, 2016",Tanta FC,Aswan FC,1,0,Home win,2,2,0,0
+2016,2,"Thu, Sep 22, 2016",Ismaily SC,Entag El Harby,1,0,Home win,1,0,0,0
+2016,2,"Thu, Sep 22, 2016",Arab Contractors SC,El Ahly Cairo,0,2,Away win,2,2,0,0
+2016,2,"Fri, Sep 23, 2016",El Dakhlia SC,Petrojet,1,1,Draw,0,1,0,0
+2016,2,"Fri, Sep 23, 2016",Enppi Club,El Sharkia Zagazig,2,2,Draw,3,1,0,0
+2016,2,"Sat, Sep 24, 2016",Masry Port Said,El Nasr Tadeen,2,0,Home win,2,0,0,0
+2016,2,"Sat, Sep 24, 2016",Wadi Degla FC,Ittehad Alexandria,1,0,Home win,2,0,0,1
+2016,2,"Sat, Sep 24, 2016",Smouha SC,Masr El Makasa,2,0,Home win,1,2,0,0
+2016,2,"Wed, Apr 19, 2017",Zamalek SC,Tala'ea El Gaish,3,0,Home win,0,3,0,0
+2016,3,"Wed, Sep 28, 2016",Smouha SC,Tanta FC,3,2,Home win,0,1,0,0
+2016,3,"Wed, Sep 28, 2016",El Sharkia Zagazig,Masry Port Said,0,1,Away win,1,1,0,0
+2016,3,"Wed, Sep 28, 2016",El Ahly Cairo,Wadi Degla FC,2,1,Home win,1,1,0,0
+2016,3,"Thu, Sep 29, 2016",Petrojet,Aswan FC,2,0,Home win,2,3,0,0
+2016,3,"Thu, Sep 29, 2016",Tala'ea El Gaish,Ismaily SC,1,1,Draw,2,1,0,0
+2016,3,"Thu, Sep 29, 2016",El Nasr Tadeen,Zamalek SC,0,2,Away win,0,2,0,0
+2016,3,"Fri, Sep 30, 2016",Masr El Makasa,Enppi Club,3,0,Home win,0,0,0,0
+2016,3,"Fri, Sep 30, 2016",Ittehad Alexandria,El Dakhlia SC,3,0,Home win,1,2,0,0
+2016,3,"Fri, Sep 30, 2016",Entag El Harby,Arab Contractors SC,0,2,Away win,1,2,0,0
+2016,4,"Wed, Oct 12, 2016",Tanta FC,Petrojet,0,0,Draw,2,3,0,0
+2016,4,"Wed, Oct 12, 2016",Aswan FC,Ittehad Alexandria,0,1,Away win,2,2,0,0
+2016,4,"Wed, Oct 12, 2016",Masry Port Said,Masr El Makasa,0,1,Away win,2,0,1,0
+2016,4,"Thu, Oct 13, 2016",Arab Contractors SC,Tala'ea El Gaish,0,1,Away win,1,1,0,0
+2016,4,"Thu, Oct 13, 2016",Enppi Club,Smouha SC,1,3,Away win,0,2,0,0
+2016,4,"Thu, Oct 13, 2016",Wadi Degla FC,Entag El Harby,2,2,Draw,1,3,1,1
+2016,4,"Fri, Oct 14, 2016",Ismaily SC,El Nasr Tadeen,1,1,Draw,1,3,0,0
+2016,4,"Sat, Oct 15, 2016",El Dakhlia SC,El Ahly Cairo,0,2,Away win,2,3,0,0
+2016,4,"Sat, Dec 24, 2016",Zamalek SC,El Sharkia Zagazig,2,0,Home win,1,0,0,0
+2016,5,"Thu, Oct 20, 2016",Ittehad Alexandria,Petrojet,1,2,Away win,3,3,0,0
+2016,5,"Thu, Oct 20, 2016",Smouha SC,Masry Port Said,1,2,Away win,2,1,1,0
+2016,5,"Thu, Oct 20, 2016",El Ahly Cairo,Aswan FC,2,0,Home win,1,1,0,0
+2016,5,"Fri, Oct 21, 2016",Tala'ea El Gaish,Wadi Degla FC,1,1,Draw,2,0,1,0
+2016,5,"Fri, Oct 21, 2016",Entag El Harby,El Dakhlia SC,0,0,Draw,3,2,0,0
+2016,5,"Fri, Oct 21, 2016",El Nasr Tadeen,Arab Contractors SC,0,2,Away win,0,0,0,0
+2016,5,"Sat, Oct 22, 2016",El Sharkia Zagazig,Ismaily SC,0,1,Away win,1,0,0,0
+2016,5,"Sat, Oct 22, 2016",Enppi Club,Tanta FC,3,1,Home win,4,1,0,0
+2016,5,"Fri, Mar 3, 2017",Masr El Makasa,Zamalek SC,1,0,Home win,1,3,0,0
+2016,6,"Tue, Oct 25, 2016",Wadi Degla FC,El Nasr Tadeen,1,0,Home win,2,1,0,0
+2016,6,"Tue, Oct 25, 2016",El Dakhlia SC,Tala'ea El Gaish,2,3,Away win,0,1,0,0
+2016,6,"Tue, Oct 25, 2016",Petrojet,El Ahly Cairo,0,0,Draw,2,2,0,0
+2016,6,"Tue, Oct 25, 2016",Aswan FC,Entag El Harby,1,1,Draw,5,1,0,0
+2016,6,"Wed, Oct 26, 2016",Tanta FC,Ittehad Alexandria,0,1,Away win,3,3,0,0
+2016,6,"Wed, Oct 26, 2016",Arab Contractors SC,El Sharkia Zagazig,2,1,Home win,2,0,0,0
+2016,6,"Thu, Oct 27, 2016",Ismaily SC,Masr El Makasa,1,2,Away win,3,2,0,0
+2016,6,"Thu, Oct 27, 2016",Masry Port Said,Enppi Club,1,3,Away win,3,1,0,0
+2016,6,"Thu, Oct 27, 2016",Zamalek SC,Smouha SC,0,0,Draw,3,2,0,0
+2016,7,"Sat, Oct 29, 2016",Tala'ea El Gaish,Aswan FC,0,0,Draw,1,4,0,0
+2016,7,"Sat, Oct 29, 2016",Entag El Harby,Petrojet,0,1,Away win,1,1,0,0
+2016,7,"Sat, Oct 29, 2016",El Nasr Tadeen,El Dakhlia SC,2,2,Draw,2,1,0,0
+2016,7,"Sun, Oct 30, 2016",El Sharkia Zagazig,Wadi Degla FC,1,2,Away win,3,2,0,0
+2016,7,"Sun, Oct 30, 2016",Masr El Makasa,Arab Contractors SC,2,0,Home win,2,0,0,1
+2016,7,"Sun, Oct 30, 2016",El Ahly Cairo,Ittehad Alexandria,2,2,Draw,1,2,0,0
+2016,7,"Mon, Oct 31, 2016",Masry Port Said,Tanta FC,4,0,Home win,1,3,0,0
+2016,7,"Mon, Oct 31, 2016",Smouha SC,Ismaily SC,2,1,Home win,1,2,0,0
+2016,7,"Mon, Oct 31, 2016",Enppi Club,Zamalek SC,1,2,Away win,3,1,0,0
+2016,8,"Thu, Nov 3, 2016",Wadi Degla FC,Masr El Makasa,2,4,Away win,0,2,0,0
+2016,8,"Thu, Nov 3, 2016",El Dakhlia SC,El Sharkia Zagazig,1,0,Home win,2,2,0,0
+2016,8,"Thu, Nov 3, 2016",Ittehad Alexandria,Entag El Harby,0,1,Away win,3,5,0,0
+2016,8,"Thu, Nov 3, 2016",Arab Contractors SC,Smouha SC,1,1,Draw,0,2,0,0
+2016,8,"Thu, Nov 3, 2016",Aswan FC,El Nasr Tadeen,1,2,Away win,1,2,0,0
+2016,8,"Fri, Nov 4, 2016",Petrojet,Tala'ea El Gaish,1,1,Draw,3,1,0,0
+2016,8,"Fri, Nov 4, 2016",Tanta FC,El Ahly Cairo,0,1,Away win,1,2,0,0
+2016,8,"Fri, Nov 4, 2016",Ismaily SC,Enppi Club,2,1,Home win,1,4,0,0
+2016,8,"Fri, Nov 4, 2016",Zamalek SC,Masry Port Said,1,0,Home win,2,2,0,0
+2016,9,"Wed, Nov 16, 2016",El Sharkia Zagazig,Aswan FC,3,2,Home win,1,3,0,0
+2016,9,"Wed, Nov 16, 2016",Masr El Makasa,El Dakhlia SC,1,0,Home win,1,2,0,0
+2016,9,"Wed, Nov 16, 2016",El Nasr Tadeen,Petrojet,1,2,Away win,2,3,0,0
+2016,9,"Thu, Nov 17, 2016",Smouha SC,Wadi Degla FC,1,1,Draw,1,2,0,0
+2016,9,"Thu, Nov 17, 2016",Enppi Club,Arab Contractors SC,1,2,Away win,2,1,0,0
+2016,9,"Thu, Nov 17, 2016",Tala'ea El Gaish,Ittehad Alexandria,2,1,Home win,1,1,0,0
+2016,9,"Thu, Nov 17, 2016",Masry Port Said,Ismaily SC,1,1,Draw,0,1,0,0
+2016,9,"Fri, Nov 18, 2016",Zamalek SC,Tanta FC,1,0,Home win,1,3,0,0
+2016,9,"Sat, Nov 19, 2016",Entag El Harby,El Ahly Cairo,0,2,Away win,2,1,0,0
+2016,10,"Mon, Nov 21, 2016",Ittehad Alexandria,El Nasr Tadeen,1,0,Home win,1,1,0,0
+2016,10,"Mon, Nov 21, 2016",Petrojet,El Sharkia Zagazig,1,0,Home win,1,1,0,0
+2016,10,"Mon, Nov 21, 2016",Aswan FC,Masr El Makasa,1,3,Away win,4,2,0,0
+2016,10,"Tue, Nov 22, 2016",Wadi Degla FC,Enppi Club,4,3,Home win,2,2,0,0
+2016,10,"Tue, Nov 22, 2016",El Dakhlia SC,Smouha SC,0,1,Away win,2,2,0,0
+2016,10,"Tue, Nov 22, 2016",Arab Contractors SC,Masry Port Said,1,2,Away win,1,2,0,0
+2016,10,"Tue, Nov 22, 2016",Ismaily SC,Zamalek SC,0,0,Draw,2,1,0,0
+2016,10,"Wed, Nov 23, 2016",Tanta FC,Entag El Harby,1,0,Home win,2,2,0,0
+2016,10,"Wed, Nov 23, 2016",El Ahly Cairo,Tala'ea El Gaish,3,0,Home win,1,3,0,0
+2016,11,"Fri, Nov 25, 2016",El Sharkia Zagazig,Ittehad Alexandria,1,0,Home win,7,3,0,0
+2016,11,"Fri, Nov 25, 2016",Masr El Makasa,Petrojet,2,1,Home win,4,3,0,0
+2016,11,"Sat, Nov 26, 2016",Smouha SC,Aswan FC,1,0,Home win,2,2,0,0
+2016,11,"Sat, Nov 26, 2016",Masry Port Said,Wadi Degla FC,1,0,Home win,4,1,0,0
+2016,11,"Sat, Nov 26, 2016",Zamalek SC,Arab Contractors SC,3,0,Home win,0,1,0,0
+2016,11,"Sun, Nov 27, 2016",Ismaily SC,Tanta FC,0,0,Draw,0,4,1,0
+2016,11,"Sun, Nov 27, 2016",Tala'ea El Gaish,Entag El Harby,1,3,Away win,2,1,0,0
+2016,11,"Sun, Nov 27, 2016",Enppi Club,El Dakhlia SC,0,1,Away win,0,1,0,0
+2016,11,"Sun, Nov 27, 2016",El Nasr Tadeen,El Ahly Cairo,0,3,Away win,0,0,0,0
+2016,12,"Tue, Nov 29, 2016",Petrojet,Smouha SC,2,2,Draw,4,2,0,0
+2016,12,"Tue, Nov 29, 2016",Ittehad Alexandria,Masr El Makasa,1,1,Draw,1,2,0,0
+2016,12,"Tue, Nov 29, 2016",Wadi Degla FC,Zamalek SC,1,1,Draw,3,2,0,0
+2016,12,"Wed, Nov 30, 2016",El Dakhlia SC,Masry Port Said,2,4,Away win,3,0,0,0
+2016,12,"Wed, Nov 30, 2016",Aswan FC,Enppi Club,1,1,Draw,2,2,0,0
+2016,12,"Wed, Nov 30, 2016",El Ahly Cairo,El Sharkia Zagazig,3,0,Home win,1,3,0,0
+2016,12,"Thu, Dec 1, 2016",Tanta FC,Tala'ea El Gaish,1,2,Away win,3,2,0,0
+2016,12,"Thu, Dec 1, 2016",Entag El Harby,El Nasr Tadeen,2,1,Home win,3,1,0,0
+2016,12,"Thu, Dec 1, 2016",Arab Contractors SC,Ismaily SC,2,2,Draw,1,0,0,0
+2016,13,"Sat, Dec 3, 2016",Smouha SC,Ittehad Alexandria,0,0,Draw,3,2,0,0
+2016,13,"Sat, Dec 3, 2016",Zamalek SC,El Dakhlia SC,3,0,Home win,0,1,0,0
+2016,13,"Sun, Dec 4, 2016",El Sharkia Zagazig,Entag El Harby,0,3,Away win,1,0,0,0
+2016,13,"Sun, Dec 4, 2016",Enppi Club,Petrojet,1,1,Draw,3,2,0,0
+2016,13,"Sun, Dec 4, 2016",Masry Port Said,Aswan FC,3,1,Home win,1,2,0,0
+2016,13,"Sun, Dec 4, 2016",Masr El Makasa,El Ahly Cairo,0,1,Away win,1,1,0,0
+2016,13,"Mon, Dec 5, 2016",Arab Contractors SC,Tanta FC,1,0,Home win,2,2,0,0
+2016,13,"Mon, Dec 5, 2016",Ismaily SC,Wadi Degla FC,1,1,Draw,2,1,0,0
+2016,13,"Mon, Dec 5, 2016",El Nasr Tadeen,Tala'ea El Gaish,0,2,Away win,1,0,0,0
+2016,14,"Thu, Dec 8, 2016",Ittehad Alexandria,Enppi Club,0,0,Draw,3,3,0,0
+2016,14,"Thu, Dec 8, 2016",Aswan FC,Zamalek SC,0,0,Draw,1,2,0,0
+2016,14,"Thu, Dec 8, 2016",El Ahly Cairo,Smouha SC,1,0,Home win,0,1,0,0
+2016,14,"Fri, Dec 9, 2016",Tala'ea El Gaish,El Sharkia Zagazig,2,2,Draw,4,1,0,0
+2016,14,"Fri, Dec 9, 2016",Petrojet,Masry Port Said,1,2,Away win,0,2,0,0
+2016,14,"Fri, Dec 9, 2016",Entag El Harby,Masr El Makasa,1,2,Away win,2,5,0,0
+2016,14,"Sat, Dec 10, 2016",Tanta FC,El Nasr Tadeen,1,1,Draw,0,1,0,0
+2016,14,"Sat, Dec 10, 2016",El Dakhlia SC,Ismaily SC,2,2,Draw,1,1,0,0
+2016,14,"Sat, Dec 10, 2016",Wadi Degla FC,Arab Contractors SC,1,2,Away win,0,3,0,0
+2016,15,"Mon, Dec 12, 2016",Enppi Club,El Ahly Cairo,0,0,Draw,2,1,0,0
+2016,15,"Tue, Dec 13, 2016",Masr El Makasa,Tala'ea El Gaish,1,0,Home win,2,2,0,0
+2016,15,"Tue, Dec 13, 2016",Smouha SC,Entag El Harby,1,1,Draw,2,2,0,0
+2016,15,"Tue, Dec 13, 2016",Masry Port Said,Ittehad Alexandria,1,0,Home win,2,0,0,0
+2016,15,"Tue, Dec 13, 2016",Zamalek SC,Petrojet,1,0,Home win,2,1,0,0
+2016,15,"Wed, Dec 14, 2016",Arab Contractors SC,El Dakhlia SC,2,2,Draw,1,0,0,0
+2016,15,"Wed, Dec 14, 2016",El Sharkia Zagazig,El Nasr Tadeen,2,3,Away win,2,2,0,0
+2016,15,"Wed, Dec 14, 2016",Ismaily SC,Aswan FC,5,0,Home win,1,0,0,0
+2016,15,"Wed, Dec 14, 2016",Wadi Degla FC,Tanta FC,0,2,Away win,1,5,0,0
+2016,16,"Sat, Dec 17, 2016",Tala'ea El Gaish,Smouha SC,1,0,Home win,2,0,0,0
+2016,16,"Sat, Dec 17, 2016",Entag El Harby,Enppi Club,1,1,Draw,2,4,0,0
+2016,16,"Sat, Dec 17, 2016",Ittehad Alexandria,Zamalek SC,0,2,Away win,2,2,0,0
+2016,16,"Sun, Dec 18, 2016",El Sharkia Zagazig,Tanta FC,0,1,Away win,3,0,0,0
+2016,16,"Sun, Dec 18, 2016",El Dakhlia SC,Wadi Degla FC,0,0,Draw,1,2,0,0
+2016,16,"Sun, Dec 18, 2016",Petrojet,Ismaily SC,1,1,Draw,3,4,0,0
+2016,16,"Sun, Dec 18, 2016",El Ahly Cairo,Masry Port Said,3,1,Home win,2,4,0,0
+2016,16,"Mon, Dec 19, 2016",El Nasr Tadeen,Masr El Makasa,0,4,Away win,1,4,0,0
+2016,16,"Mon, Dec 19, 2016",Aswan FC,Arab Contractors SC,1,0,Home win,3,2,0,0
+2016,17,"Tue, Dec 27, 2016",Smouha SC,El Nasr Tadeen,2,1,Home win,0,2,0,0
+2016,17,"Tue, Dec 27, 2016",Enppi Club,Tala'ea El Gaish,2,0,Home win,1,1,0,0
+2016,17,"Wed, Dec 28, 2016",Tanta FC,El Dakhlia SC,0,1,Away win,0,3,0,0
+2016,17,"Wed, Dec 28, 2016",Wadi Degla FC,Aswan FC,2,0,Home win,3,4,0,0
+2016,17,"Wed, Dec 28, 2016",Arab Contractors SC,Petrojet,1,0,Home win,3,0,0,0
+2016,17,"Thu, Dec 29, 2016",Zamalek SC,El Ahly Cairo,0,2,Away win,2,1,0,0
+2016,17,"Fri, Dec 30, 2016",Masr El Makasa,El Sharkia Zagazig,2,1,Home win,1,2,0,0
+2016,17,"Fri, Dec 30, 2016",Masry Port Said,Entag El Harby,2,1,Home win,1,2,0,0
+2016,17,"Fri, Dec 30, 2016",Ismaily SC,Ittehad Alexandria,1,1,Draw,1,4,0,0
+2016,18,"Mon, Feb 13, 2017",Tanta FC,Masr El Makasa,0,0,Draw,1,1,0,0
+2016,18,"Mon, Feb 13, 2017",Wadi Degla FC,Petrojet,0,0,Draw,0,0,0,0
+2016,18,"Mon, Feb 13, 2017",El Dakhlia SC,Aswan FC,1,1,Draw,1,0,0,0
+2016,18,"Mon, Feb 13, 2017",Arab Contractors SC,Ittehad Alexandria,0,1,Away win,1,1,0,0
+2016,18,"Tue, Feb 14, 2017",Smouha SC,El Sharkia Zagazig,2,0,Home win,0,1,0,0
+2016,18,"Tue, Feb 14, 2017",Enppi Club,El Nasr Tadeen,1,1,Draw,4,2,0,0
+2016,18,"Wed, Feb 15, 2017",Ismaily SC,El Ahly Cairo,0,0,Draw,2,3,0,0
+2016,18,"Wed, Feb 15, 2017",Zamalek SC,Entag El Harby,1,2,Away win,1,2,0,0
+2016,18,"Tue, Feb 28, 2017",Masry Port Said,Tala'ea El Gaish,1,2,Away win,2,5,0,0
+2016,19,"Fri, Feb 17, 2017",Aswan FC,Tanta FC,1,1,Draw,2,2,0,0
+2016,19,"Fri, Feb 17, 2017",Petrojet,El Dakhlia SC,1,0,Home win,0,3,0,0
+2016,19,"Sat, Feb 18, 2017",El Sharkia Zagazig,Enppi Club,0,1,Away win,1,4,0,0
+2016,19,"Sat, Feb 18, 2017",Ittehad Alexandria,Wadi Degla FC,0,1,Away win,0,1,0,0
+2016,19,"Sat, Feb 18, 2017",Entag El Harby,Ismaily SC,1,1,Draw,4,0,0,0
+2016,19,"Sun, Feb 19, 2017",Masr El Makasa,Smouha SC,3,4,Away win,4,3,0,0
+2016,19,"Sun, Feb 19, 2017",El Ahly Cairo,Arab Contractors SC,2,0,Home win,1,0,0,0
+2016,19,"Mon, Feb 20, 2017",Tala'ea El Gaish,Zamalek SC,2,3,Away win,3,5,0,0
+2016,19,"Sat, Mar 4, 2017",El Nasr Tadeen,Masry Port Said,1,4,Away win,0,0,0,0
+2016,20,"Thu, Feb 23, 2017",Tanta FC,Smouha SC,2,0,Home win,2,1,0,0
+2016,20,"Thu, Feb 23, 2017",Aswan FC,Petrojet,1,1,Draw,1,2,0,0
+2016,20,"Thu, Feb 23, 2017",Wadi Degla FC,El Ahly Cairo,0,1,Away win,1,2,0,0
+2016,20,"Fri, Feb 24, 2017",Masry Port Said,El Sharkia Zagazig,1,0,Home win,2,2,0,0
+2016,20,"Fri, Feb 24, 2017",Zamalek SC,El Nasr Tadeen,2,0,Home win,1,0,0,0
+2016,20,"Sat, Feb 25, 2017",El Dakhlia SC,Ittehad Alexandria,1,2,Away win,3,3,0,0
+2016,20,"Sat, Feb 25, 2017",Ismaily SC,Tala'ea El Gaish,1,1,Draw,1,2,0,0
+2016,20,"Sat, Feb 25, 2017",Arab Contractors SC,Entag El Harby,1,0,Home win,1,0,0,0
+2016,20,"Sat, Feb 25, 2017",Enppi Club,Masr El Makasa,3,3,Draw,2,2,0,0
+2016,21,"Thu, Mar 2, 2017",Smouha SC,Enppi Club,2,2,Draw,1,2,0,0
+2016,21,"Fri, Mar 17, 2017",Petrojet,Tanta FC,2,0,Home win,1,1,0,0
+2016,21,"Fri, Mar 17, 2017",Ittehad Alexandria,Aswan FC,3,3,Draw,0,0,0,0
+2016,21,"Fri, Mar 17, 2017",Tala'ea El Gaish,Arab Contractors SC,1,1,Draw,3,5,0,0
+2016,21,"Sat, Mar 18, 2017",El Nasr Tadeen,Ismaily SC,1,5,Away win,2,1,0,0
+2016,21,"Sat, Mar 18, 2017",Entag El Harby,Wadi Degla FC,1,5,Away win,2,1,1,0
+2016,21,"Thu, Mar 23, 2017",Masr El Makasa,Masry Port Said,4,2,Home win,0,2,0,0
+2016,21,"Sat, Apr 1, 2017",El Ahly Cairo,El Dakhlia SC,4,0,Home win,0,1,0,0
+2016,21,"Wed, Apr 5, 2017",El Sharkia Zagazig,Zamalek SC,1,0,Home win,3,0,0,0
+2016,22,"Thu, Apr 6, 2017",Tanta FC,Enppi Club,1,1,Draw,1,2,0,0
+2016,22,"Fri, Apr 14, 2017",Ismaily SC,El Sharkia Zagazig,3,0,Home win,0,2,0,0
+2016,22,"Fri, Apr 14, 2017",Wadi Degla FC,Tala'ea El Gaish,0,1,Away win,0,4,0,0
+2016,22,"Sat, Apr 15, 2017",Petrojet,Ittehad Alexandria,0,1,Away win,0,1,0,0
+2016,22,"Sun, Apr 16, 2017",El Dakhlia SC,Entag El Harby,3,0,Home win,1,2,0,0
+2016,22,"Sun, Apr 16, 2017",Arab Contractors SC,El Nasr Tadeen,2,1,Home win,0,0,0,0
+2016,22,"Sun, Apr 16, 2017",Zamalek SC,Masr El Makasa,0,2,Away win,0,0,0,0
+2016,22,"Sun, Apr 16, 2017",Aswan FC,El Ahly Cairo,0,2,Away win,1,1,0,0
+2016,22,"Mon, Jun 12, 2017",Masry Port Said,Smouha SC,1,1,Draw,1,2,0,1
+2016,23,"Fri, Mar 31, 2017",El Sharkia Zagazig,Arab Contractors SC,1,0,Home win,0,1,0,0
+2016,23,"Fri, Mar 31, 2017",Entag El Harby,Aswan FC,1,1,Draw,0,3,0,0
+2016,23,"Fri, Mar 31, 2017",El Nasr Tadeen,Wadi Degla FC,2,1,Home win,3,0,0,0
+2016,23,"Sat, Apr 1, 2017",Smouha SC,Zamalek SC,2,0,Home win,2,2,0,0
+2016,23,"Sun, Apr 2, 2017",Ittehad Alexandria,Tanta FC,1,0,Home win,1,1,0,0
+2016,23,"Sun, Apr 2, 2017",Masr El Makasa,Ismaily SC,3,2,Home win,3,1,0,0
+2016,23,"Sun, Apr 2, 2017",Enppi Club,Masry Port Said,0,2,Away win,4,4,0,0
+2016,23,"Wed, Apr 5, 2017",Tala'ea El Gaish,El Dakhlia SC,1,1,Draw,0,3,0,0
+2016,23,"Thu, Apr 6, 2017",El Ahly Cairo,Petrojet,2,0,Home win,2,0,0,0
+2016,24,"Sun, Apr 9, 2017",El Dakhlia SC,El Nasr Tadeen,0,1,Away win,1,2,0,0
+2016,24,"Sun, Apr 9, 2017",Wadi Degla FC,El Sharkia Zagazig,2,0,Home win,0,2,0,0
+2016,24,"Sun, Apr 9, 2017",Arab Contractors SC,Masr El Makasa,0,2,Away win,1,2,0,0
+2016,24,"Mon, Apr 10, 2017",Aswan FC,Tala'ea El Gaish,1,0,Home win,1,2,0,0
+2016,24,"Mon, Apr 10, 2017",Zamalek SC,Enppi Club,0,2,Away win,1,1,0,0
+2016,24,"Tue, Apr 11, 2017",Petrojet,Entag El Harby,1,1,Draw,0,2,0,0
+2016,24,"Tue, Apr 11, 2017",Ittehad Alexandria,El Ahly Cairo,0,1,Away win,2,2,0,0
+2016,24,"Wed, Apr 19, 2017",Tanta FC,Masry Port Said,2,1,Home win,2,1,0,0
+2016,24,"Wed, Apr 19, 2017",Ismaily SC,Smouha SC,2,2,Draw,0,4,0,0
+2016,25,"Sat, Apr 22, 2017",El Sharkia Zagazig,El Dakhlia SC,2,0,Home win,0,0,0,0
+2016,25,"Sat, Apr 22, 2017",El Nasr Tadeen,Aswan FC,0,1,Away win,0,2,0,0
+2016,25,"Sat, Apr 22, 2017",Masr El Makasa,Wadi Degla FC,0,1,Away win,1,2,0,0
+2016,25,"Sun, Apr 23, 2017",Smouha SC,Arab Contractors SC,3,3,Draw,1,2,0,0
+2016,25,"Sun, Apr 23, 2017",Tala'ea El Gaish,Petrojet,0,1,Away win,0,1,0,0
+2016,25,"Sun, Apr 23, 2017",Enppi Club,Ismaily SC,0,0,Draw,0,1,0,1
+2016,25,"Sun, Apr 23, 2017",Entag El Harby,Ittehad Alexandria,2,2,Draw,1,4,0,0
+2016,25,"Mon, Apr 24, 2017",Masry Port Said,Zamalek SC,0,1,Away win,2,2,0,0
+2016,25,"Mon, Apr 24, 2017",El Ahly Cairo,Tanta FC,1,0,Home win,0,2,0,0
+2016,26,"Wed, Apr 26, 2017",El Dakhlia SC,Masr El Makasa,1,2,Away win,3,1,0,0
+2016,26,"Wed, Apr 26, 2017",Ittehad Alexandria,Tala'ea El Gaish,3,2,Home win,3,3,0,0
+2016,26,"Wed, Apr 26, 2017",Aswan FC,El Sharkia Zagazig,1,1,Draw,1,2,0,0
+2016,26,"Thu, Apr 27, 2017",Petrojet,El Nasr Tadeen,0,1,Away win,1,0,0,0
+2016,26,"Thu, Apr 27, 2017",Wadi Degla FC,Smouha SC,2,2,Draw,1,2,0,1
+2016,26,"Thu, Apr 27, 2017",Arab Contractors SC,Enppi Club,0,0,Draw,1,1,0,0
+2016,26,"Fri, Apr 28, 2017",Tanta FC,Zamalek SC,0,0,Draw,1,0,0,0
+2016,26,"Fri, Apr 28, 2017",Ismaily SC,Masry Port Said,2,1,Home win,0,1,0,0
+2016,26,"Sun, Apr 30, 2017",El Ahly Cairo,Entag El Harby,1,1,Draw,2,3,1,0
+2016,27,"Tue, May 2, 2017",Masr El Makasa,Aswan FC,2,0,Home win,3,2,0,0
+2016,27,"Tue, May 2, 2017",El Sharkia Zagazig,Petrojet,0,0,Draw,0,0,0,0
+2016,27,"Tue, May 2, 2017",El Nasr Tadeen,Ittehad Alexandria,2,0,Home win,1,3,0,0
+2016,27,"Wed, May 3, 2017",Smouha SC,El Dakhlia SC,2,2,Draw,1,2,0,0
+2016,27,"Wed, May 3, 2017",Zamalek SC,Ismaily SC,0,0,Draw,0,0,0,0
+2016,27,"Wed, May 3, 2017",Masry Port Said,Arab Contractors SC,1,1,Draw,0,3,0,0
+2016,27,"Thu, May 4, 2017",Entag El Harby,Tanta FC,3,0,Home win,2,1,0,0
+2016,27,"Thu, May 4, 2017",Tala'ea El Gaish,El Ahly Cairo,1,2,Away win,2,0,0,0
+2016,27,"Thu, May 4, 2017",Enppi Club,Wadi Degla FC,1,1,Draw,2,4,0,0
+2016,28,"Sat, May 6, 2017",Petrojet,Masr El Makasa,1,0,Home win,1,1,0,0
+2016,28,"Sun, May 7, 2017",Tanta FC,Ismaily SC,0,1,Away win,4,3,0,0
+2016,28,"Sun, May 7, 2017",Aswan FC,Smouha SC,2,0,Home win,1,0,0,0
+2016,28,"Sun, May 7, 2017",Arab Contractors SC,Zamalek SC,1,2,Away win,1,1,0,0
+2016,28,"Mon, May 8, 2017",Ittehad Alexandria,El Sharkia Zagazig,1,0,Home win,0,1,0,0
+2016,28,"Mon, May 8, 2017",El Dakhlia SC,Enppi Club,1,0,Home win,1,1,0,0
+2016,28,"Mon, May 8, 2017",El Ahly Cairo,El Nasr Tadeen,4,0,Home win,0,1,0,0
+2016,28,"Mon, May 8, 2017",Wadi Degla FC,Masry Port Said,0,1,Away win,2,3,0,0
+2016,28,"Tue, May 9, 2017",Entag El Harby,Tala'ea El Gaish,0,1,Away win,1,2,0,0
+2016,29,"Wed, May 17, 2017",El Sharkia Zagazig,El Ahly Cairo,1,1,Draw,0,1,0,0
+2016,29,"Thu, May 18, 2017",Masry Port Said,El Dakhlia SC,2,1,Home win,2,1,0,0
+2016,29,"Thu, May 18, 2017",Smouha SC,Petrojet,1,0,Home win,1,0,0,0
+2016,29,"Thu, May 18, 2017",Zamalek SC,Wadi Degla FC,2,1,Home win,1,0,0,0
+2016,29,"Fri, May 19, 2017",Ismaily SC,Arab Contractors SC,1,1,Draw,2,1,0,0
+2016,29,"Fri, May 19, 2017",El Nasr Tadeen,Entag El Harby,0,3,Away win,2,2,0,0
+2016,29,"Sat, May 20, 2017",Masr El Makasa,Ittehad Alexandria,1,3,Away win,0,3,0,0
+2016,29,"Sat, May 20, 2017",Enppi Club,Aswan FC,3,0,Home win,1,1,0,0
+2016,29,"Sat, May 20, 2017",Tala'ea El Gaish,Tanta FC,1,1,Draw,1,0,0,0
+2016,30,"Wed, May 24, 2017",Tanta FC,Arab Contractors SC,1,3,Away win,0,1,0,0
+2016,30,"Wed, May 24, 2017",Tala'ea El Gaish,El Nasr Tadeen,2,2,Draw,1,1,0,0
+2016,30,"Wed, May 24, 2017",Entag El Harby,El Sharkia Zagazig,0,0,Draw,1,1,0,0
+2016,30,"Thu, May 25, 2017",Petrojet,Enppi Club,0,0,Draw,1,1,0,0
+2016,30,"Thu, May 25, 2017",Wadi Degla FC,Ismaily SC,0,0,Draw,3,1,0,0
+2016,30,"Fri, May 26, 2017",Aswan FC,Masry Port Said,1,2,Away win,1,1,0,0
+2016,30,"Sun, May 28, 2017",El Dakhlia SC,Zamalek SC,3,4,Away win,1,2,0,0
+2016,30,"Mon, May 29, 2017",Ittehad Alexandria,Smouha SC,0,1,Away win,2,2,0,0
+2016,30,"Mon, May 29, 2017",El Ahly Cairo,Masr El Makasa,2,2,Draw,1,1,0,0
+2016,31,"Thu, Jun 15, 2017",Zamalek SC,Aswan FC,1,0,Home win,0,1,0,0
+2016,31,"Thu, Jun 15, 2017",El Sharkia Zagazig,Tala'ea El Gaish,0,0,Draw,2,0,0,0
+2016,31,"Thu, Jun 15, 2017",Ismaily SC,El Dakhlia SC,3,0,Home win,0,0,0,0
+2016,31,"Thu, Jun 15, 2017",El Nasr Tadeen,Tanta FC,0,1,Away win,1,2,0,0
+2016,31,"Fri, Jun 16, 2017",Smouha SC,El Ahly Cairo,2,4,Away win,1,0,0,0
+2016,31,"Fri, Jun 16, 2017",Masr El Makasa,Entag El Harby,2,1,Home win,3,3,0,0
+2016,31,"Sat, Jun 17, 2017",Masry Port Said,Petrojet,1,0,Home win,1,2,0,0
+2016,31,"Sun, Jun 18, 2017",Arab Contractors SC,Wadi Degla FC,1,0,Home win,4,0,0,0
+2016,31,"Sun, Jun 18, 2017",Enppi Club,Ittehad Alexandria,3,0,Home win,3,1,0,0
+2016,32,"Thu, Jun 22, 2017",Aswan FC,Ismaily SC,2,3,Away win,1,3,0,0
+2016,32,"Thu, Jun 22, 2017",Tala'ea El Gaish,Masr El Makasa,1,1,Draw,4,2,0,0
+2016,32,"Fri, Jun 23, 2017",El Dakhlia SC,Arab Contractors SC,0,0,Draw,1,1,0,0
+2016,32,"Fri, Jun 23, 2017",Ittehad Alexandria,Masry Port Said,1,1,Draw,2,3,0,0
+2016,32,"Fri, Jun 23, 2017",Tanta FC,Wadi Degla FC,0,0,Draw,2,1,0,0
+2016,32,"Fri, Jun 23, 2017",El Nasr Tadeen,El Sharkia Zagazig,2,1,Home win,2,1,0,0
+2016,32,"Sat, Jun 24, 2017",Entag El Harby,Smouha SC,0,1,Away win,0,1,0,0
+2016,32,"Sat, Jun 24, 2017",El Ahly Cairo,Enppi Club,2,2,Draw,1,2,0,0
+2016,32,"Tue, Jun 27, 2017",Petrojet,Zamalek SC,0,2,Away win,0,2,0,0
+2016,33,"Thu, Jun 29, 2017",Wadi Degla FC,El Dakhlia SC,1,2,Away win,2,1,0,0
+2016,33,"Thu, Jun 29, 2017",Arab Contractors SC,Aswan FC,1,1,Draw,2,2,0,0
+2016,33,"Thu, Jun 29, 2017",Masr El Makasa,El Nasr Tadeen,4,1,Home win,6,1,0,1
+2016,33,"Thu, Jun 29, 2017",Tanta FC,El Sharkia Zagazig,2,2,Draw,1,2,0,0
+2016,33,"Fri, Jun 30, 2017",Enppi Club,Entag El Harby,0,0,Draw,2,2,0,0
+2016,33,"Sun, Jul 2, 2017",Ismaily SC,Petrojet,2,0,Home win,3,3,0,0
+2016,33,"Mon, Jul 3, 2017",Smouha SC,Tala'ea El Gaish,1,2,Away win,1,4,0,0
+2016,33,"Tue, Jul 4, 2017",Masry Port Said,El Ahly Cairo,1,1,Draw,1,1,0,0
+2016,33,"Thu, Jul 6, 2017",Zamalek SC,Ittehad Alexandria,2,1,Home win,2,3,0,0
+2016,34,"Wed, Jul 5, 2017",El Sharkia Zagazig,Masr El Makasa,1,2,Away win,3,0,0,0
+2016,34,"Wed, Jul 5, 2017",Aswan FC,Wadi Degla FC,2,0,Home win,1,0,0,0
+2016,34,"Wed, Jul 5, 2017",El Dakhlia SC,Tanta FC,1,0,Home win,4,0,0,0
+2016,34,"Thu, Jul 6, 2017",Petrojet,Arab Contractors SC,0,0,Draw,0,1,0,0
+2016,34,"Fri, Jul 7, 2017",Tala'ea El Gaish,Enppi Club,1,2,Away win,1,3,0,0
+2016,34,"Mon, Jul 10, 2017",Ittehad Alexandria,Ismaily SC,0,1,Away win,0,2,0,0
+2016,34,"Mon, Jul 10, 2017",Entag El Harby,Masry Port Said,0,1,Away win,2,1,0,0
+2016,34,"Thu, Jul 13, 2017",El Nasr Tadeen,Smouha SC,0,1,Away win,0,2,0,0
+2016,34,"Mon, Jul 17, 2017",El Ahly Cairo,Zamalek SC,2,0,Home win,1,2,0,0
+2017,1,"Fri, Sep 8, 2017",El Dakhlia SC,Petrojet,1,1,Draw,0,2,0,0
+2017,1,"Fri, Sep 8, 2017",Arab Contractors SC,El Raja Marsa Matruh,3,0,Home win,2,3,0,0
+2017,1,"Sat, Sep 9, 2017",Tanta FC,El Nasr,0,0,Draw,4,2,0,0
+2017,1,"Sat, Sep 9, 2017",Ittehad Alexandria,Ismaily SC,2,4,Away win,3,2,0,0
+2017,1,"Sat, Sep 9, 2017",Entag El Harby,Zamalek SC,1,1,Draw,1,0,0,0
+2017,1,"Sun, Sep 10, 2017",Alassiouty Sport,Masr El Makasa,1,1,Draw,2,0,0,0
+2017,1,"Sun, Sep 10, 2017",Masry Port Said,Wadi Degla FC,1,0,Home win,1,2,0,0
+2017,1,"Sun, Sep 10, 2017",El Ahly Cairo,Tala'ea El Gaish,1,1,Draw,1,2,0,0
+2017,1,"Mon, Sep 11, 2017",Enppi Club,Smouha SC,1,1,Draw,3,2,0,0
+2017,2,"Thu, Sep 14, 2017",Petrojet,Masry Port Said,0,1,Away win,1,3,0,0
+2017,2,"Thu, Sep 14, 2017",Tala'ea El Gaish,Entag El Harby,2,2,Draw,2,4,0,0
+2017,2,"Fri, Sep 15, 2017",El Raja Marsa Matruh,Alassiouty Sport,0,2,Away win,3,3,0,0
+2017,2,"Sat, Sep 16, 2017",El Nasr,Ittehad Alexandria,2,3,Away win,0,5,0,0
+2017,2,"Sat, Sep 16, 2017",Wadi Degla FC,Enppi Club,2,1,Home win,3,1,0,0
+2017,2,"Sun, Sep 17, 2017",Smouha SC,Tanta FC,2,0,Home win,1,2,0,0
+2017,2,"Sun, Sep 17, 2017",Ismaily SC,Arab Contractors SC,1,1,Draw,1,0,0,0
+2017,2,"Sun, Sep 17, 2017",Zamalek SC,El Dakhlia SC,3,0,Home win,1,1,0,0
+2017,2,"Sun, Dec 10, 2017",Masr El Makasa,El Ahly Cairo,3,2,Home win,5,2,0,0
+2017,3,"Thu, Sep 21, 2017",Enppi Club,Petrojet,0,2,Away win,1,3,0,0
+2017,3,"Thu, Sep 21, 2017",Smouha SC,El Nasr,1,1,Draw,2,0,0,0
+2017,3,"Thu, Sep 21, 2017",Entag El Harby,Masr El Makasa,1,0,Home win,4,2,0,0
+2017,3,"Fri, Sep 22, 2017",Tanta FC,Wadi Degla FC,3,1,Home win,4,0,0,0
+2017,3,"Fri, Sep 22, 2017",Arab Contractors SC,Ittehad Alexandria,3,2,Home win,2,3,0,0
+2017,3,"Fri, Sep 22, 2017",Masry Port Said,Zamalek SC,1,2,Away win,0,4,0,0
+2017,3,"Sat, Sep 23, 2017",Alassiouty Sport,Ismaily SC,0,2,Away win,1,3,0,0
+2017,3,"Sat, Sep 23, 2017",El Dakhlia SC,Tala'ea El Gaish,1,2,Away win,1,3,0,0
+2017,3,"Mon, Oct 16, 2017",El Ahly Cairo,El Raja Marsa Matruh,4,1,Home win,0,0,0,0
+2017,4,"Wed, Sep 27, 2017",El Raja Marsa Matruh,Entag El Harby,0,2,Away win,2,2,0,0
+2017,4,"Thu, Sep 28, 2017",El Nasr,Arab Contractors SC,1,2,Away win,3,2,0,0
+2017,4,"Thu, Sep 28, 2017",Tala'ea El Gaish,Masry Port Said,0,4,Away win,1,2,0,0
+2017,4,"Thu, Sep 28, 2017",Wadi Degla FC,Smouha SC,0,1,Away win,1,1,0,0
+2017,4,"Fri, Sep 29, 2017",Ittehad Alexandria,Alassiouty Sport,2,0,Home win,1,1,0,0
+2017,4,"Fri, Sep 29, 2017",Zamalek SC,Enppi Club,0,0,Draw,2,3,0,0
+2017,4,"Sat, Sep 30, 2017",Petrojet,Tanta FC,1,1,Draw,4,2,0,0
+2017,4,"Sat, Sep 30, 2017",El Dakhlia SC,Masr El Makasa,2,1,Home win,2,2,0,0
+2017,4,"Mon, Nov 20, 2017",Ismaily SC,El Ahly Cairo,0,2,Away win,3,1,0,0
+2017,5,"Wed, Oct 11, 2017",El Dakhlia SC,El Raja Marsa Matruh,2,0,Home win,1,2,0,0
+2017,5,"Wed, Oct 11, 2017",Smouha SC,Petrojet,0,0,Draw,1,1,0,0
+2017,5,"Wed, Oct 11, 2017",Wadi Degla FC,El Nasr,1,1,Draw,2,1,0,0
+2017,5,"Thu, Oct 12, 2017",Alassiouty Sport,Arab Contractors SC,1,1,Draw,1,1,0,0
+2017,5,"Thu, Oct 12, 2017",Masry Port Said,Masr El Makasa,3,2,Home win,0,1,0,0
+2017,5,"Thu, Oct 12, 2017",El Ahly Cairo,Ittehad Alexandria,2,0,Home win,1,2,0,1
+2017,5,"Fri, Oct 13, 2017",Entag El Harby,Ismaily SC,0,1,Away win,0,4,0,0
+2017,5,"Fri, Oct 13, 2017",Tanta FC,Zamalek SC,1,1,Draw,4,1,0,0
+2017,5,"Fri, Oct 13, 2017",Enppi Club,Tala'ea El Gaish,1,1,Draw,1,3,0,0
+2017,6,"Thu, Oct 19, 2017",El Nasr,Alassiouty Sport,2,2,Draw,2,2,0,0
+2017,6,"Thu, Oct 19, 2017",Tala'ea El Gaish,Tanta FC,0,0,Draw,1,0,0,0
+2017,6,"Thu, Oct 19, 2017",Enppi Club,Masr El Makasa,2,1,Home win,2,2,0,0
+2017,6,"Thu, Oct 19, 2017",Ittehad Alexandria,Entag El Harby,1,1,Draw,0,0,0,0
+2017,6,"Fri, Oct 20, 2017",Petrojet,Wadi Degla FC,2,2,Draw,1,2,0,0
+2017,6,"Fri, Oct 20, 2017",El Raja Marsa Matruh,Masry Port Said,0,0,Draw,1,3,0,0
+2017,6,"Fri, Oct 20, 2017",Ismaily SC,El Dakhlia SC,2,1,Home win,0,1,0,0
+2017,6,"Fri, Oct 20, 2017",Zamalek SC,Smouha SC,0,3,Away win,2,3,0,0
+2017,6,"Thu, Feb 8, 2018",Arab Contractors SC,El Ahly Cairo,0,3,Away win,2,0,0,0
+2017,7,"Thu, Oct 26, 2017",Tanta FC,Masr El Makasa,3,3,Draw,3,0,0,0
+2017,7,"Thu, Oct 26, 2017",Smouha SC,Tala'ea El Gaish,0,1,Away win,1,1,0,0
+2017,7,"Fri, Oct 27, 2017",El Dakhlia SC,Ittehad Alexandria,2,2,Draw,1,4,0,0
+2017,7,"Fri, Oct 27, 2017",Masry Port Said,Ismaily SC,1,2,Away win,1,4,0,0
+2017,7,"Fri, Oct 27, 2017",Enppi Club,El Raja Marsa Matruh,2,0,Home win,2,3,0,0
+2017,7,"Fri, Oct 27, 2017",Entag El Harby,Arab Contractors SC,2,3,Away win,0,1,0,0
+2017,7,"Sat, Oct 28, 2017",Petrojet,El Nasr,2,0,Home win,2,1,0,0
+2017,7,"Sun, Oct 29, 2017",Wadi Degla FC,Zamalek SC,0,3,Away win,1,0,0,0
+2017,7,"Wed, Dec 6, 2017",El Ahly Cairo,Alassiouty Sport,1,0,Home win,1,4,0,0
+2017,8,"Thu, Nov 2, 2017",Arab Contractors SC,El Dakhlia SC,1,1,Draw,2,2,0,0
+2017,8,"Thu, Nov 2, 2017",Ismaily SC,Enppi Club,1,1,Draw,1,2,0,0
+2017,8,"Fri, Nov 3, 2017",El Raja Marsa Matruh,Tanta FC,0,1,Away win,1,3,0,0
+2017,8,"Fri, Nov 3, 2017",Zamalek SC,Petrojet,3,0,Home win,3,1,0,0
+2017,8,"Sat, Nov 4, 2017",Alassiouty Sport,Entag El Harby,3,1,Home win,3,5,0,0
+2017,8,"Sat, Nov 4, 2017",Ittehad Alexandria,Masry Port Said,0,1,Away win,1,1,0,1
+2017,8,"Sat, Nov 4, 2017",Tala'ea El Gaish,Wadi Degla FC,0,0,Draw,1,1,0,0
+2017,8,"Sun, Nov 5, 2017",Masr El Makasa,Smouha SC,2,0,Home win,4,0,0,0
+2017,8,"Tue, Jan 2, 2018",El Nasr,El Ahly Cairo,0,4,Away win,1,1,0,0
+2017,9,"Wed, Nov 15, 2017",El Dakhlia SC,Alassiouty Sport,2,0,Home win,1,0,0,0
+2017,9,"Wed, Nov 15, 2017",Enppi Club,Ittehad Alexandria,2,0,Home win,2,0,0,0
+2017,9,"Wed, Nov 15, 2017",Wadi Degla FC,Masr El Makasa,3,3,Draw,1,1,0,0
+2017,9,"Thu, Nov 16, 2017",Tanta FC,Ismaily SC,0,1,Away win,1,3,0,0
+2017,9,"Thu, Nov 16, 2017",Smouha SC,El Raja Marsa Matruh,1,0,Home win,2,3,0,0
+2017,9,"Thu, Nov 16, 2017",Entag El Harby,El Ahly Cairo,1,2,Away win,1,1,0,0
+2017,9,"Fri, Nov 17, 2017",Petrojet,Tala'ea El Gaish,2,0,Home win,1,3,0,0
+2017,9,"Fri, Nov 17, 2017",Zamalek SC,El Nasr,2,1,Home win,2,0,0,0
+2017,9,"Sat, Nov 18, 2017",Masry Port Said,Arab Contractors SC,1,0,Home win,3,3,0,1
+2017,10,"Tue, Nov 21, 2017",Ittehad Alexandria,Tanta FC,1,1,Draw,3,0,0,0
+2017,10,"Wed, Nov 22, 2017",El Raja Marsa Matruh,Wadi Degla FC,3,3,Draw,4,0,0,0
+2017,10,"Wed, Nov 22, 2017",Masr El Makasa,Petrojet,2,0,Home win,2,0,0,0
+2017,10,"Thu, Nov 23, 2017",Alassiouty Sport,Masry Port Said,1,2,Away win,2,1,0,0
+2017,10,"Thu, Nov 23, 2017",El Nasr,Entag El Harby,0,1,Away win,3,3,0,0
+2017,10,"Thu, Nov 23, 2017",Arab Contractors SC,Enppi Club,2,2,Draw,3,1,0,0
+2017,10,"Fri, Nov 24, 2017",Ismaily SC,Smouha SC,1,0,Home win,1,4,0,0
+2017,10,"Fri, Nov 24, 2017",El Ahly Cairo,El Dakhlia SC,2,0,Home win,0,0,0,0
+2017,10,"Wed, Jan 3, 2018",Tala'ea El Gaish,Zamalek SC,1,0,Home win,1,2,0,0
+2017,11,"Mon, Nov 27, 2017",Petrojet,El Raja Marsa Matruh,0,1,Away win,1,3,0,0
+2017,11,"Mon, Nov 27, 2017",Tala'ea El Gaish,El Nasr,1,3,Away win,3,1,0,0
+2017,11,"Mon, Nov 27, 2017",Zamalek SC,Masr El Makasa,1,3,Away win,0,2,0,0
+2017,11,"Tue, Nov 28, 2017",Tanta FC,Arab Contractors SC,0,1,Away win,2,4,0,0
+2017,11,"Tue, Nov 28, 2017",Enppi Club,Alassiouty Sport,0,0,Draw,1,0,0,0
+2017,11,"Tue, Nov 28, 2017",Masry Port Said,El Ahly Cairo,0,2,Away win,1,1,0,0
+2017,11,"Wed, Nov 29, 2017",El Dakhlia SC,Entag El Harby,0,1,Away win,2,0,0,0
+2017,11,"Wed, Nov 29, 2017",Smouha SC,Ittehad Alexandria,1,1,Draw,2,1,0,0
+2017,11,"Wed, Nov 29, 2017",Wadi Degla FC,Ismaily SC,1,2,Away win,2,1,0,0
+2017,12,"Sat, Dec 2, 2017",Alassiouty Sport,Tanta FC,2,1,Home win,2,4,0,0
+2017,12,"Sat, Dec 2, 2017",El Raja Marsa Matruh,Zamalek SC,1,1,Draw,2,2,0,0
+2017,12,"Sat, Dec 2, 2017",El Ahly Cairo,Enppi Club,4,1,Home win,0,1,0,0
+2017,12,"Sun, Dec 3, 2017",Ismaily SC,Petrojet,0,0,Draw,3,2,0,0
+2017,12,"Sun, Dec 3, 2017",Ittehad Alexandria,Wadi Degla FC,4,0,Home win,2,1,0,0
+2017,12,"Sun, Dec 3, 2017",Arab Contractors SC,Smouha SC,0,3,Away win,0,2,0,0
+2017,12,"Mon, Dec 4, 2017",El Nasr,El Dakhlia SC,0,0,Draw,1,4,0,0
+2017,12,"Mon, Dec 4, 2017",Entag El Harby,Masry Port Said,1,1,Draw,1,0,0,0
+2017,12,"Mon, Dec 4, 2017",Masr El Makasa,Tala'ea El Gaish,4,0,Home win,3,1,0,0
+2017,13,"Wed, Dec 13, 2017",Tala'ea El Gaish,El Raja Marsa Matruh,2,1,Home win,3,0,0,0
+2017,13,"Wed, Dec 13, 2017",Masry Port Said,El Dakhlia SC,1,1,Draw,1,3,0,0
+2017,13,"Wed, Dec 13, 2017",Enppi Club,Entag El Harby,2,0,Home win,2,1,0,0
+2017,13,"Thu, Dec 14, 2017",Masr El Makasa,El Nasr,1,4,Away win,3,1,0,0
+2017,13,"Thu, Dec 14, 2017",Wadi Degla FC,Arab Contractors SC,2,0,Home win,1,1,0,0
+2017,13,"Thu, Dec 14, 2017",Zamalek SC,Ismaily SC,0,1,Away win,0,2,0,0
+2017,13,"Fri, Dec 15, 2017",Smouha SC,Alassiouty Sport,1,3,Away win,1,3,0,0
+2017,13,"Fri, Dec 15, 2017",Tanta FC,El Ahly Cairo,1,1,Draw,2,0,0,0
+2017,13,"Fri, Dec 15, 2017",Petrojet,Ittehad Alexandria,2,0,Home win,1,4,0,0
+2017,14,"Mon, Dec 18, 2017",El Nasr,Masry Port Said,2,3,Away win,3,0,0,0
+2017,14,"Mon, Dec 18, 2017",El Dakhlia SC,Enppi Club,1,2,Away win,2,4,0,0
+2017,14,"Tue, Dec 19, 2017",El Raja Marsa Matruh,Masr El Makasa,1,1,Draw,5,1,0,0
+2017,14,"Tue, Dec 19, 2017",Ismaily SC,Tala'ea El Gaish,1,1,Draw,1,3,0,0
+2017,14,"Tue, Dec 19, 2017",Entag El Harby,Tanta FC,1,0,Home win,4,2,0,0
+2017,14,"Tue, Dec 19, 2017",Arab Contractors SC,Petrojet,2,0,Home win,0,0,0,0
+2017,14,"Wed, Dec 20, 2017",Alassiouty Sport,Wadi Degla FC,0,2,Away win,2,1,0,0
+2017,14,"Wed, Dec 20, 2017",Ittehad Alexandria,Zamalek SC,0,2,Away win,0,2,0,0
+2017,14,"Wed, Dec 20, 2017",El Ahly Cairo,Smouha SC,2,1,Home win,2,1,0,0
+2017,15,"Fri, Dec 22, 2017",Enppi Club,Masry Port Said,2,1,Home win,0,0,0,0
+2017,15,"Sat, Dec 23, 2017",Tanta FC,El Dakhlia SC,1,2,Away win,1,5,0,0
+2017,15,"Sat, Dec 23, 2017",Masr El Makasa,Ismaily SC,1,4,Away win,2,4,0,0
+2017,15,"Sat, Dec 23, 2017",El Raja Marsa Matruh,El Nasr,0,0,Draw,1,2,0,0
+2017,15,"Sun, Dec 24, 2017",Petrojet,Alassiouty Sport,1,2,Away win,1,2,0,0
+2017,15,"Sun, Dec 24, 2017",Smouha SC,Entag El Harby,2,1,Home win,3,2,0,0
+2017,15,"Mon, Dec 25, 2017",Tala'ea El Gaish,Ittehad Alexandria,0,0,Draw,0,0,0,0
+2017,15,"Mon, Dec 25, 2017",Wadi Degla FC,El Ahly Cairo,1,1,Draw,1,0,0,0
+2017,15,"Tue, Dec 26, 2017",Zamalek SC,Arab Contractors SC,1,0,Home win,3,1,0,0
+2017,16,"Wed, Dec 27, 2017",Enppi Club,El Nasr,1,1,Draw,0,0,0,0
+2017,16,"Wed, Dec 27, 2017",Ismaily SC,El Raja Marsa Matruh,5,0,Home win,1,3,0,0
+2017,16,"Thu, Dec 28, 2017",Masry Port Said,Tanta FC,6,3,Home win,2,2,0,0
+2017,16,"Fri, Dec 29, 2017",Ittehad Alexandria,Masr El Makasa,2,2,Draw,1,1,0,0
+2017,16,"Fri, Dec 29, 2017",El Ahly Cairo,Petrojet,3,0,Home win,0,0,0,0
+2017,16,"Sat, Dec 30, 2017",El Dakhlia SC,Smouha SC,0,0,Draw,2,2,0,0
+2017,16,"Sat, Dec 30, 2017",Alassiouty Sport,Zamalek SC,0,1,Away win,1,1,0,0
+2017,16,"Sat, Dec 30, 2017",Arab Contractors SC,Tala'ea El Gaish,0,2,Away win,1,0,0,0
+2017,16,"Sat, Dec 30, 2017",Entag El Harby,Wadi Degla FC,2,0,Home win,0,3,0,0
+2017,17,"Thu, Jan 4, 2018",Ittehad Alexandria,El Raja Marsa Matruh,0,0,Draw,0,2,0,0
+2017,17,"Thu, Jan 4, 2018",Masr El Makasa,Arab Contractors SC,0,2,Away win,2,1,0,0
+2017,17,"Fri, Jan 5, 2018",Tanta FC,Enppi Club,0,1,Away win,2,4,0,0
+2017,17,"Fri, Jan 5, 2018",Petrojet,Entag El Harby,1,0,Home win,0,2,0,0
+2017,17,"Fri, Jan 5, 2018",Smouha SC,Masry Port Said,3,2,Home win,2,1,0,0
+2017,17,"Fri, Jan 5, 2018",Wadi Degla FC,El Dakhlia SC,1,2,Away win,0,1,0,0
+2017,17,"Mon, Jan 8, 2018",Zamalek SC,El Ahly Cairo,0,3,Away win,2,0,0,0
+2017,17,"Tue, Jan 9, 2018",Tala'ea El Gaish,Alassiouty Sport,2,1,Home win,1,0,0,0
+2017,17,"Tue, Jan 9, 2018",El Nasr,Ismaily SC,2,3,Away win,0,1,0,0
+2017,18,"Sat, Jan 13, 2018",El Raja Marsa Matruh,Arab Contractors SC,1,0,Home win,1,1,0,0
+2017,18,"Sat, Jan 13, 2018",Masr El Makasa,Alassiouty Sport,0,0,Draw,1,1,0,0
+2017,18,"Sat, Jan 13, 2018",Ismaily SC,Ittehad Alexandria,0,0,Draw,1,0,0,0
+2017,18,"Sat, Jan 13, 2018",El Nasr,Tanta FC,1,2,Away win,1,2,0,0
+2017,18,"Sun, Jan 14, 2018",Petrojet,El Dakhlia SC,1,1,Draw,1,4,0,0
+2017,18,"Sun, Jan 14, 2018",Smouha SC,Enppi Club,4,0,Home win,2,2,0,0
+2017,18,"Sun, Jan 14, 2018",Zamalek SC,Entag El Harby,0,0,Draw,1,2,0,0
+2017,18,"Tue, Jan 16, 2018",Wadi Degla FC,Masry Port Said,0,0,Draw,0,1,0,0
+2017,18,"Tue, Jan 16, 2018",Tala'ea El Gaish,El Ahly Cairo,0,2,Away win,1,1,0,0
+2017,19,"Wed, Jan 17, 2018",Alassiouty Sport,El Raja Marsa Matruh,3,1,Home win,3,1,0,0
+2017,19,"Wed, Jan 17, 2018",Ittehad Alexandria,El Nasr,3,0,Home win,1,2,0,0
+2017,19,"Wed, Jan 17, 2018",Arab Contractors SC,Ismaily SC,2,0,Home win,0,1,0,0
+2017,19,"Thu, Jan 18, 2018",El Dakhlia SC,Zamalek SC,1,2,Away win,1,1,0,0
+2017,19,"Fri, Jan 19, 2018",Tanta FC,Smouha SC,1,0,Home win,2,1,0,0
+2017,19,"Sat, Jan 20, 2018",Masry Port Said,Petrojet,2,1,Home win,4,2,0,0
+2017,19,"Sat, Jan 20, 2018",Enppi Club,Wadi Degla FC,1,0,Home win,1,0,0,1
+2017,19,"Sat, Jan 20, 2018",Entag El Harby,Tala'ea El Gaish,1,0,Home win,0,2,0,0
+2017,19,"Sun, Jan 21, 2018",El Ahly Cairo,Masr El Makasa,2,1,Home win,1,3,0,0
+2017,20,"Mon, Jan 22, 2018",Ittehad Alexandria,Arab Contractors SC,1,1,Draw,0,3,0,0
+2017,20,"Mon, Jan 22, 2018",Ismaily SC,Alassiouty Sport,1,1,Draw,1,0,0,0
+2017,20,"Tue, Jan 23, 2018",El Nasr,Smouha SC,0,2,Away win,1,3,0,0
+2017,20,"Wed, Jan 24, 2018",Wadi Degla FC,Tanta FC,0,0,Draw,1,0,0,0
+2017,20,"Wed, Jan 24, 2018",Petrojet,Enppi Club,1,0,Home win,3,0,0,0
+2017,20,"Wed, Jan 24, 2018",Tala'ea El Gaish,El Dakhlia SC,0,2,Away win,1,1,0,0
+2017,20,"Wed, Jan 24, 2018",Zamalek SC,Masry Port Said,0,1,Away win,0,3,0,0
+2017,20,"Thu, Jan 25, 2018",El Raja Marsa Matruh,El Ahly Cairo,1,3,Away win,1,0,0,0
+2017,20,"Thu, Jan 25, 2018",Masr El Makasa,Entag El Harby,3,1,Home win,1,2,0,0
+2017,21,"Sun, Jan 28, 2018",Alassiouty Sport,Ittehad Alexandria,1,1,Draw,2,3,0,0
+2017,21,"Sun, Jan 28, 2018",Arab Contractors SC,El Nasr,2,2,Draw,3,0,0,0
+2017,21,"Mon, Jan 29, 2018",Tanta FC,Petrojet,0,0,Draw,2,1,0,0
+2017,21,"Mon, Jan 29, 2018",Smouha SC,Wadi Degla FC,2,1,Home win,2,1,0,0
+2017,21,"Mon, Jan 29, 2018",Entag El Harby,El Raja Marsa Matruh,2,1,Home win,2,1,0,0
+2017,21,"Tue, Jan 30, 2018",Masr El Makasa,El Dakhlia SC,2,2,Draw,2,2,0,0
+2017,21,"Tue, Jan 30, 2018",El Ahly Cairo,Ismaily SC,1,0,Home win,1,1,0,0
+2017,21,"Wed, Jan 31, 2018",Masry Port Said,Tala'ea El Gaish,0,0,Draw,0,1,0,0
+2017,21,"Wed, Jan 31, 2018",Enppi Club,Zamalek SC,0,0,Draw,3,2,0,0
+2017,22,"Fri, Feb 2, 2018",Arab Contractors SC,Alassiouty Sport,1,1,Draw,1,1,0,0
+2017,22,"Fri, Feb 2, 2018",Petrojet,Smouha SC,2,1,Home win,2,2,0,0
+2017,22,"Fri, Feb 2, 2018",El Nasr,Wadi Degla FC,0,1,Away win,1,2,0,0
+2017,22,"Sat, Feb 3, 2018",El Raja Marsa Matruh,El Dakhlia SC,0,1,Away win,1,0,0,0
+2017,22,"Sat, Feb 3, 2018",Ismaily SC,Entag El Harby,2,0,Home win,2,2,0,0
+2017,22,"Sun, Feb 4, 2018",Tala'ea El Gaish,Enppi Club,1,0,Home win,0,0,0,0
+2017,22,"Sun, Feb 4, 2018",Ittehad Alexandria,El Ahly Cairo,0,3,Away win,2,1,0,0
+2017,22,"Sun, Feb 4, 2018",Zamalek SC,Tanta FC,2,1,Home win,0,1,0,0
+2017,22,"Mon, Feb 5, 2018",Masr El Makasa,Masry Port Said,1,4,Away win,1,1,0,0
+2017,23,"Fri, Feb 9, 2018",El Dakhlia SC,Ismaily SC,0,0,Draw,0,2,0,0
+2017,23,"Fri, Feb 9, 2018",Wadi Degla FC,Petrojet,2,1,Home win,1,1,0,0
+2017,23,"Fri, Feb 9, 2018",Entag El Harby,Ittehad Alexandria,3,2,Home win,1,0,0,0
+2017,23,"Sat, Feb 10, 2018",Alassiouty Sport,El Nasr,5,1,Home win,0,1,0,0
+2017,23,"Sat, Feb 10, 2018",Smouha SC,Zamalek SC,0,1,Away win,1,2,1,0
+2017,23,"Mon, Feb 12, 2018",Tanta FC,Tala'ea El Gaish,0,1,Away win,1,0,0,0
+2017,23,"Mon, Feb 12, 2018",El Ahly Cairo,Arab Contractors SC,5,2,Home win,2,2,0,0
+2017,23,"Thu, Feb 15, 2018",Masry Port Said,El Raja Marsa Matruh,0,0,Draw,1,0,0,0
+2017,23,"Fri, Mar 30, 2018",Masr El Makasa,Enppi Club,0,0,Draw,1,2,0,0
+2017,24,"Fri, Feb 9, 2018",El Raja Marsa Matruh,Enppi Club,3,0,Home win,1,2,0,0
+2017,24,"Wed, Feb 14, 2018",Zamalek SC,Wadi Degla FC,1,0,Home win,1,0,0,0
+2017,24,"Wed, Feb 14, 2018",Ittehad Alexandria,El Dakhlia SC,2,1,Home win,0,2,0,0
+2017,24,"Thu, Feb 15, 2018",El Nasr,Petrojet,0,1,Away win,2,3,0,0
+2017,24,"Fri, Feb 16, 2018",Masr El Makasa,Tanta FC,0,0,Draw,1,2,0,0
+2017,24,"Fri, Feb 16, 2018",Alassiouty Sport,El Ahly Cairo,0,1,Away win,0,1,0,0
+2017,24,"Fri, Feb 16, 2018",Tala'ea El Gaish,Smouha SC,0,1,Away win,2,4,0,0
+2017,24,"Fri, Feb 16, 2018",Arab Contractors SC,Entag El Harby,1,1,Draw,2,2,0,0
+2017,24,"Fri, May 11, 2018",Ismaily SC,Masry Port Said,1,1,Draw,3,3,0,0
+2017,25,"Sun, Feb 18, 2018",Enppi Club,Ismaily SC,2,0,Home win,2,2,0,0
+2017,25,"Mon, Feb 19, 2018",Petrojet,Zamalek SC,1,3,Away win,1,0,0,0
+2017,25,"Mon, Feb 19, 2018",El Ahly Cairo,El Nasr,5,0,Home win,1,0,0,0
+2017,25,"Tue, Feb 20, 2018",Tanta FC,El Raja Marsa Matruh,0,0,Draw,0,0,0,0
+2017,25,"Tue, Feb 20, 2018",Entag El Harby,Alassiouty Sport,1,0,Home win,2,2,0,0
+2017,25,"Tue, Feb 20, 2018",El Dakhlia SC,Arab Contractors SC,1,2,Away win,1,2,0,0
+2017,25,"Tue, Feb 20, 2018",Wadi Degla FC,Tala'ea El Gaish,1,0,Home win,1,0,0,0
+2017,25,"Sat, Mar 31, 2018",Masry Port Said,Ittehad Alexandria,0,2,Away win,2,1,0,0
+2017,25,"Tue, Apr 3, 2018",Smouha SC,Masr El Makasa,1,0,Home win,2,1,0,0
+2017,26,"Thu, Feb 22, 2018",Ittehad Alexandria,Enppi Club,1,1,Draw,1,1,0,0
+2017,26,"Thu, Feb 22, 2018",El Nasr,Zamalek SC,1,2,Away win,1,0,0,0
+2017,26,"Fri, Feb 23, 2018",Tala'ea El Gaish,Petrojet,1,2,Away win,1,1,0,0
+2017,26,"Sat, Feb 24, 2018",El Raja Marsa Matruh,Smouha SC,0,0,Draw,0,1,0,0
+2017,26,"Sat, Feb 24, 2018",Alassiouty Sport,El Dakhlia SC,4,2,Home win,0,1,0,0
+2017,26,"Sat, Feb 24, 2018",Ismaily SC,Tanta FC,2,2,Draw,1,0,0,0
+2017,26,"Sat, Feb 24, 2018",El Ahly Cairo,Entag El Harby,2,1,Home win,0,3,0,0
+2017,26,"Sun, Feb 25, 2018",Arab Contractors SC,Masry Port Said,1,2,Away win,1,2,0,0
+2017,26,"Sun, Feb 25, 2018",Masr El Makasa,Wadi Degla FC,2,0,Home win,1,2,0,0
+2017,27,"Tue, Feb 27, 2018",Zamalek SC,Tala'ea El Gaish,3,0,Home win,0,1,0,0
+2017,27,"Wed, Feb 28, 2018",Tanta FC,Ittehad Alexandria,0,1,Away win,2,4,0,0
+2017,27,"Wed, Feb 28, 2018",El Dakhlia SC,El Ahly Cairo,0,3,Away win,0,0,0,0
+2017,27,"Thu, Mar 1, 2018",Wadi Degla FC,El Raja Marsa Matruh,2,3,Away win,1,1,0,0
+2017,27,"Thu, Mar 1, 2018",Entag El Harby,El Nasr,1,1,Draw,2,1,0,0
+2017,27,"Thu, Mar 1, 2018",Smouha SC,Ismaily SC,1,2,Away win,2,5,0,0
+2017,27,"Thu, Mar 1, 2018",Enppi Club,Arab Contractors SC,3,2,Home win,1,1,0,0
+2017,27,"Fri, Mar 2, 2018",Petrojet,Masr El Makasa,0,0,Draw,3,1,0,0
+2017,27,"Fri, Mar 2, 2018",Masry Port Said,Alassiouty Sport,3,1,Home win,2,1,0,0
+2017,28,"Mon, Mar 5, 2018",Arab Contractors SC,Tanta FC,1,1,Draw,0,2,0,0
+2017,28,"Mon, Mar 5, 2018",Ittehad Alexandria,Smouha SC,2,0,Home win,0,1,0,0
+2017,28,"Mon, Mar 5, 2018",Entag El Harby,El Dakhlia SC,1,1,Draw,3,2,0,0
+2017,28,"Tue, Mar 6, 2018",Alassiouty Sport,Enppi Club,1,1,Draw,1,0,0,0
+2017,28,"Tue, Mar 6, 2018",Ismaily SC,Wadi Degla FC,2,1,Home win,2,2,0,0
+2017,28,"Wed, Mar 7, 2018",El Raja Marsa Matruh,Petrojet,1,1,Draw,0,1,0,0
+2017,28,"Wed, Mar 7, 2018",El Nasr,Tala'ea El Gaish,1,0,Home win,3,2,0,0
+2017,28,"Sun, Apr 8, 2018",Masr El Makasa,Zamalek SC,1,0,Home win,0,0,0,0
+2017,28,"Sun, May 20, 2018",El Ahly Cairo,Masry Port Said,2,0,Home win,0,1,0,0
+2017,29,"Sun, Mar 11, 2018",Enppi Club,El Ahly Cairo,0,1,Away win,2,1,0,0
+2017,29,"Mon, Mar 12, 2018",Masry Port Said,Entag El Harby,0,0,Draw,3,2,0,0
+2017,29,"Tue, Mar 13, 2018",Tala'ea El Gaish,Masr El Makasa,1,0,Home win,4,0,0,0
+2017,29,"Wed, Mar 14, 2018",Tanta FC,Alassiouty Sport,1,1,Draw,2,3,0,0
+2017,29,"Wed, Mar 14, 2018",Wadi Degla FC,Ittehad Alexandria,1,0,Home win,1,1,0,0
+2017,29,"Wed, Mar 14, 2018",Zamalek SC,El Raja Marsa Matruh,4,1,Home win,2,1,0,0
+2017,29,"Thu, Mar 15, 2018",Petrojet,Ismaily SC,0,1,Away win,1,2,0,0
+2017,29,"Thu, Mar 15, 2018",Smouha SC,Arab Contractors SC,3,0,Home win,1,0,0,0
+2017,29,"Thu, Mar 15, 2018",El Dakhlia SC,El Nasr,1,1,Draw,4,3,0,0
+2017,30,"Mon, Mar 19, 2018",Alassiouty Sport,Smouha SC,0,0,Draw,1,4,0,0
+2017,30,"Mon, Mar 19, 2018",El Raja Marsa Matruh,Tala'ea El Gaish,1,0,Home win,1,0,0,0
+2017,30,"Mon, Mar 19, 2018",Arab Contractors SC,Wadi Degla FC,0,0,Draw,0,1,0,0
+2017,30,"Mon, Mar 19, 2018",El Nasr,Masr El Makasa,0,1,Away win,1,1,0,0
+2017,30,"Mon, Mar 19, 2018",Ittehad Alexandria,Petrojet,2,2,Draw,0,3,0,0
+2017,30,"Mon, Mar 19, 2018",Entag El Harby,Enppi Club,1,1,Draw,1,4,0,0
+2017,30,"Mon, Apr 2, 2018",Ismaily SC,Zamalek SC,3,1,Home win,2,0,0,0
+2017,30,"Mon, Apr 2, 2018",El Ahly Cairo,Tanta FC,2,1,Home win,2,0,0,0
+2017,30,"Sun, Apr 29, 2018",El Dakhlia SC,Masry Port Said,0,3,Away win,1,2,0,0
+2017,31,"Thu, Apr 5, 2018",Petrojet,Arab Contractors SC,1,1,Draw,1,0,0,0
+2017,31,"Thu, Apr 5, 2018",Wadi Degla FC,Alassiouty Sport,0,2,Away win,1,2,0,0
+2017,31,"Fri, Apr 6, 2018",Enppi Club,El Dakhlia SC,3,3,Draw,4,0,0,0
+2017,31,"Sat, Apr 7, 2018",Tanta FC,Entag El Harby,0,2,Away win,1,1,0,0
+2017,31,"Sat, Apr 7, 2018",Tala'ea El Gaish,Ismaily SC,1,1,Draw,1,2,0,0
+2017,31,"Sun, Apr 8, 2018",Smouha SC,El Ahly Cairo,0,0,Draw,1,1,0,0
+2017,31,"Thu, Apr 12, 2018",Masry Port Said,El Nasr,2,1,Home win,3,1,0,0
+2017,31,"Thu, Apr 12, 2018",Zamalek SC,Ittehad Alexandria,1,2,Away win,0,2,0,0
+2017,31,"Fri, Apr 13, 2018",Masr El Makasa,El Raja Marsa Matruh,3,0,Home win,0,1,0,0
+2017,32,"Mon, Apr 16, 2018",Alassiouty Sport,Petrojet,3,2,Home win,3,5,0,0
+2017,32,"Mon, Apr 16, 2018",Ittehad Alexandria,Tala'ea El Gaish,0,0,Draw,1,3,0,0
+2017,32,"Mon, Apr 16, 2018",El Nasr,El Raja Marsa Matruh,3,1,Home win,0,0,0,0
+2017,32,"Tue, Apr 17, 2018",El Dakhlia SC,Tanta FC,2,0,Home win,0,1,1,0
+2017,32,"Tue, Apr 17, 2018",Entag El Harby,Smouha SC,0,0,Draw,2,1,0,0
+2017,32,"Tue, Apr 17, 2018",El Ahly Cairo,Wadi Degla FC,1,0,Home win,1,1,0,0
+2017,32,"Wed, Apr 18, 2018",Ismaily SC,Masr El Makasa,2,1,Home win,3,4,0,0
+2017,32,"Wed, Apr 18, 2018",Arab Contractors SC,Zamalek SC,0,0,Draw,2,2,0,0
+2017,32,"Wed, May 2, 2018",Masry Port Said,Enppi Club,1,1,Draw,0,1,0,0
+2017,33,"Sat, Apr 21, 2018",Tanta FC,Masry Port Said,1,2,Away win,3,1,0,0
+2017,33,"Sat, Apr 21, 2018",Smouha SC,El Dakhlia SC,1,0,Home win,0,1,0,0
+2017,33,"Sat, Apr 21, 2018",Wadi Degla FC,Entag El Harby,2,1,Home win,2,1,0,0
+2017,33,"Sat, Apr 21, 2018",El Nasr,Enppi Club,1,2,Away win,2,1,0,0
+2017,33,"Sun, Apr 22, 2018",El Raja Marsa Matruh,Ismaily SC,0,0,Draw,1,0,0,0
+2017,33,"Sun, Apr 22, 2018",Petrojet,El Ahly Cairo,1,2,Away win,2,1,0,0
+2017,33,"Sun, Apr 22, 2018",Zamalek SC,Alassiouty Sport,2,1,Home win,2,1,0,0
+2017,33,"Mon, Apr 23, 2018",Tala'ea El Gaish,Arab Contractors SC,4,5,Away win,1,1,0,0
+2017,33,"Mon, Apr 23, 2018",Masr El Makasa,Ittehad Alexandria,2,0,Home win,1,2,0,0
+2017,34,"Wed, Apr 25, 2018",Enppi Club,Tanta FC,3,1,Home win,0,1,0,0
+2017,34,"Wed, Apr 25, 2018",El Dakhlia SC,Wadi Degla FC,1,1,Draw,1,1,0,1
+2017,34,"Wed, Apr 25, 2018",Masry Port Said,Smouha SC,2,1,Home win,1,3,0,0
+2017,34,"Thu, Apr 26, 2018",Alassiouty Sport,Tala'ea El Gaish,1,1,Draw,0,3,0,1
+2017,34,"Thu, Apr 26, 2018",El Ahly Cairo,Zamalek SC,1,2,Away win,5,5,0,0
+2017,34,"Fri, Apr 27, 2018",El Raja Marsa Matruh,Ittehad Alexandria,2,2,Draw,2,2,0,0
+2017,34,"Fri, Apr 27, 2018",Ismaily SC,El Nasr,2,0,Home win,2,2,0,0
+2017,34,"Fri, Apr 27, 2018",Arab Contractors SC,Masr El Makasa,0,1,Away win,2,2,0,0
+2017,34,"Fri, Apr 27, 2018",Entag El Harby,Petrojet,2,1,Home win,2,0,0,0
