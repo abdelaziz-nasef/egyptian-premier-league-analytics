@@ -1,225 +1,90 @@
 #!/usr/bin/env python3
-"""Run the SQL analysis and build the Excel workbook.
-
-Pipeline: matches_all_2010_2026.csv -> SQLite -> queries from analysis_recent.sql
--> result sheets + charts in Egyptian_Premier_League_Analytics.xlsx.
-
-Run after build_recent_dataset.py:  python3 scripts/build_dashboard.py
-"""
-import csv
-import sqlite3
+"""CSV -> SQLite -> analysis.sql -> styled Excel tables and editable charts."""
+import csv,json,sqlite3
 from pathlib import Path
-
 import xlsxwriter
-
-ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
-
-MAROON = "#7A0019"
-
-
+ROOT=Path(__file__).resolve().parent.parent
+DATA=ROOT/'data'
+INK='#251F21'; TEAL='#4C8877'; PALE='#E7F0EC'; SAND='#F4EFEC'; GREY='#8D9094'
 def run_queries():
-    """Load the combined dataset into SQLite and run analysis_recent.sql in order."""
-    con = sqlite3.connect(":memory:")
-    with open(DATA / "matches_all_2010_2026.csv", newline="") as f:
-        rows = list(csv.DictReader(f))
-    con.execute("""CREATE TABLE matches(season TEXT, round TEXT, date TEXT,
-        home_team TEXT, away_team TEXT, home_goals INTEGER, away_goals INTEGER,
-        result TEXT, source TEXT)""")
-    con.executemany("INSERT INTO matches VALUES(?,?,?,?,?,?,?,?,?)",
-                    [tuple(r.values()) for r in rows])
-    sql = (ROOT / "scripts" / "analysis_recent.sql").read_text()
-    out = []
-    for stmt in sql.split(";"):
-        stmt = "\n".join(l for l in stmt.splitlines()
-                         if not l.strip().startswith("--")).strip()
-        if stmt:
-            cur = con.execute(stmt)
-            out.append(([d[0] for d in cur.description], [list(r) for r in cur.fetchall()]))
-    return out
-
-
-def write_table(ws, row0, col0, header, rows, hdr_fmt):
-    ws.write_row(row0, col0, header, hdr_fmt)
-    for i, r in enumerate(rows, start=row0 + 1):
-        for j, v in enumerate(r):
-            ws.write(i, j, v)
-    return row0 + len(rows)
-
+ c=sqlite3.connect(':memory:')
+ rows=list(csv.DictReader(open(DATA/'matches_2015_2026.csv')))
+ c.execute('CREATE TABLE matches(season TEXT, round TEXT, date TEXT, home_team TEXT, away_team TEXT, home_goals INTEGER, away_goals INTEGER, result TEXT, source TEXT)')
+ c.executemany('INSERT INTO matches VALUES(?,?,?,?,?,?,?,?,?)',[tuple(r.values()) for r in rows])
+ out=[]
+ for q in (ROOT/'scripts/analysis.sql').read_text().split(';'):
+  q='\n'.join(l for l in q.splitlines() if not l.strip().startswith('--')).strip()
+  if q:
+   cur=c.execute(q);out.append(([d[0] for d in cur.description],cur.fetchall()))
+ return rows,out
 
 def main():
-    (home_adv, derby_list, derby_sum, pyr_list,
-     wins, goals, table26) = run_queries()
-
-    with open(DATA / "top_scorers_by_season.csv", newline="") as f:
-        scorers = list(csv.reader(f))
-
-    # Pyramids modern-era aggregate (2018/19 onward) computed from the H2H list
-    pyr_modern = [r for r in pyr_list[1] if r[0] >= "2018/19"]
-    a_w = sum(1 for r in pyr_modern
-              if (r[2] == "Al Ahly" and r[3] > r[4]) or (r[5] == "Al Ahly" and r[4] > r[3]))
-    p_w = sum(1 for r in pyr_modern
-              if (r[2] == "Pyramids FC" and r[3] > r[4]) or (r[5] == "Pyramids FC" and r[4] > r[3]))
-    draws = len(pyr_modern) - a_w - p_w
-
-    total_matches = sum(r[1] for r in home_adv[1])
-    home_pct = round(sum(r[5] * r[1] for r in home_adv[1]) / total_matches, 1)
-    away_pct = round(sum(r[6] * r[1] for r in home_adv[1]) / total_matches, 1)
-    ahly_w, d_d, zam_w = derby_sum[1][0][0], derby_sum[1][0][1], derby_sum[1][0][2]
-    n_derby = ahly_w + d_d + zam_w
-    top = table26[1][0]   # league leaders after Round 8
-    scorer_2526 = scorers[-2] if scorers[-1][0].startswith("2026") else scorers[-1]
-
-    out = ROOT / "Egyptian_Premier_League_Analytics.xlsx"
-    wb = xlsxwriter.Workbook(out)
-    title = wb.add_format({"bold": True, "font_size": 18, "font_color": MAROON})
-    h2 = wb.add_format({"bold": True, "font_size": 12, "font_color": MAROON})
-    note = wb.add_format({"font_size": 9, "font_color": "#666666", "text_wrap": True})
-    kpi_lbl = wb.add_format({"bold": True, "font_size": 10, "font_color": "#FFFFFF",
-                             "bg_color": MAROON, "align": "center",
-                             "valign": "vcenter", "text_wrap": True})
-    kpi_val = wb.add_format({"bold": True, "font_size": 14, "align": "center",
-                             "valign": "vcenter", "bg_color": "#FBE4E4",
-                             "font_color": MAROON, "text_wrap": True})
-    hdr = wb.add_format({"bold": True, "bg_color": "#FBE4E4", "border": 1})
-
-    ws_d = wb.add_worksheet("Dashboard")
-    ws_h = wb.add_worksheet("Home Advantage")
-    ws_c = wb.add_worksheet("Cairo Derby")
-    ws_p = wb.add_worksheet("Ahly vs Pyramids")
-    ws_t26 = wb.add_worksheet("Table 2026-27")
-    ws_g = wb.add_worksheet("Goals by Season")
-    ws_w = wb.add_worksheet("Club Wins All-Time")
-    ws_s = wb.add_worksheet("Top Scorers")
-    ws_m1 = wb.add_worksheet("Matches 2010-2018")
-    ws_m2 = wb.add_worksheet("Matches 2018-2026")
-
-    # ---- Home Advantage sheet (17 seasons) ----
-    nh = write_table(ws_h, 0, 0, home_adv[0], home_adv[1], hdr)
-    ws_h.set_column(0, 6, 12)
-
-    # ---- Cairo Derby sheet ----
-    ws_c.write(0, 0, "All-time head-to-head (2010/11-2026/27)", h2)
-    ws_c.write_row(1, 0, ["Al Ahly wins", "Draws", "Zamalek wins",
-                          "Al Ahly goals", "Zamalek goals"], hdr)
-    ws_c.write_row(2, 0, derby_sum[1][0])
-    ws_c.write(4, 0, f"Every Cairo Derby in the dataset ({n_derby} meetings)", h2)
-    write_table(ws_c, 5, 0, derby_list[0], derby_list[1], hdr)
-    ws_c.set_column(0, 6, 14)
-
-    # ---- Ahly vs Pyramids sheet ----
-    ws_p.write(0, 0, "Head-to-head since Pyramids' rise (2018/19 onward)", h2)
-    ws_p.write_row(1, 0, ["Meetings", "Al Ahly wins", "Draws", "Pyramids wins"], hdr)
-    ws_p.write_row(2, 0, [len(pyr_modern), a_w, draws, p_w])
-    ws_p.write(3, 0, "Pyramids won both 2025/26 meetings (2-0 in Cairo, 3-0 at home). "
-                     "Next meeting: Nov 23, 2026 (Round 9 of 2026/27) - not yet played "
-                     "when this dataset was built.", note)
-    ws_p.write(5, 0, "Every meeting in the dataset (Pyramids appear as Alassiouty "
-                     "Sport before their 2018 rename)", h2)
-    write_table(ws_p, 6, 0, pyr_list[0], pyr_list[1], hdr)
-    ws_p.set_column(0, 6, 14)
-
-    # ---- 2026/27 table sheet ----
-    ws_t26.write(0, 0, "League table after Round 8 (as of Oct 31, 2026 - season in progress)", h2)
-    write_table(ws_t26, 1, 0, table26[0], table26[1], hdr)
-    ws_t26.set_column(0, 0, 26)
-    ws_t26.set_column(1, 8, 8)
-
-    # ---- Goals sheet ----
-    write_table(ws_g, 0, 0, goals[0], goals[1], hdr)
-    ws_g.set_column(0, 2, 14)
-
-    # ---- Club wins sheet ----
-    nw = write_table(ws_w, 0, 0, wins[0], wins[1], hdr)
-    ws_w.set_column(0, 0, 26)
-
-    # ---- Top scorers sheet ----
-    ws_s.write_row(0, 0, scorers[0], hdr)
-    for i, r in enumerate(scorers[1:], start=1):
-        for j, v in enumerate(r):
-            ws_s.write(i, j, int(v) if j == 3 and v.isdigit() else v)
-    ws_s.set_column(0, 2, 24)
-
-    # ---- Match data sheets ----
-    cols = ["season", "round", "date", "home_team", "away_team",
-            "home_goals", "away_goals", "result"]
-    for ws, fname in ((ws_m1, "matches_all_2010_2026.csv"), (ws_m2, "matches_2018_2026.csv")):
-        ws.write_row(0, 0, cols, hdr)
-        with open(DATA / fname, newline="") as f:
-            rows = list(csv.DictReader(f))
-        if ws is ws_m1:
-            rows = [r for r in rows if r["season"] < "2018/19"]
-        for i, r in enumerate(rows, start=1):
-            ws.write_row(i, 0, [r["season"], r["round"], r["date"], r["home_team"],
-                                r["away_team"], int(r["home_goals"]),
-                                int(r["away_goals"]), r["result"]])
-        ws.set_column(3, 4, 24)
-
-    # ---- Dashboard ----
-    ws_d.hide_gridlines(2)
-    ws_d.set_column("A:A", 2)
-    ws_d.set_column("B:M", 11)
-    ws_d.set_landscape()
-    ws_d.fit_to_pages(1, 1)
-    ws_d.write("B2", "Egyptian Premier League Analytics", title)
-    ws_d.set_row(2, 28)
-    ws_d.write("B3", f"{total_matches:,} matches, 17 seasons 2010/11-2026/27, "
-                     "results through Oct 31, 2026", note)
-
-    kpis = [
-        (f"Cairo Derby all-time ({n_derby} meetings)",
-         f"Al Ahly {ahly_w}-{d_d}-{zam_w} Zamalek"),
-        ("Al Ahly vs Pyramids since 2018",
-         f"{a_w}W-{draws}D-{p_w}L - Pyramids won both 25/26 meetings"),
-        ("2026/27 after Round 8",
-         f"{top[0]} perfect: {top[8]} pts in {top[1]} games, Al Ahly 2nd on 20"),
-        ("Home win rate, 2010-2026",
-         f"{home_pct}% home vs {away_pct}% away"),
-    ]
-    for k, (lbl, val) in enumerate(kpis):
-        col = 1 + k * 3
-        ws_d.merge_range(4, col, 4, col + 2, lbl, kpi_lbl)
-        ws_d.merge_range(5, col, 5, col + 2, val, kpi_val)
-    ws_d.set_row(5, 34)
-
-    ch1 = wb.add_chart({"type": "column"})
-    ch1.add_series({"name": "Home win %",
-                    "categories": ["Home Advantage", 1, 0, nh, 0],
-                    "values": ["Home Advantage", 1, 5, nh, 5],
-                    "fill": {"color": MAROON}})
-    ch1.add_series({"name": "Away win %",
-                    "categories": ["Home Advantage", 1, 0, nh, 0],
-                    "values": ["Home Advantage", 1, 6, nh, 6],
-                    "fill": {"color": "#999999"}})
-    ch1.set_title({"name": "Home advantage by season, 2010/11-2026/27"})
-    ch1.set_x_axis({"name": "Season"})
-    ch1.set_legend({"position": "bottom"})
-    ch1.set_size({"width": 1100, "height": 360})
-    ws_d.insert_chart("B8", ch1)
-
-    ch2 = wb.add_chart({"type": "bar"})
-    ch2.add_series({"name": "League wins 2010-2026",
-                    "categories": ["Club Wins All-Time", 1, 0, nw, 0],
-                    "values": ["Club Wins All-Time", 1, 1, nw, 1],
-                    "fill": {"color": MAROON}})
-    ch2.set_title({"name": "Most league wins per club, 2010/11-2026/27"})
-    ch2.set_legend({"none": True})
-    ch2.set_y_axis({"reverse": True})
-    ch2.set_size({"width": 1100, "height": 430})
-    ws_d.insert_chart("B27", ch2)
-
-    ws_d.set_row(50, 42)
-    ws_d.write("B50", "Sources: 2010/11-2017/18 via the public GitHub dataset "
-                      "abdelmalek13/Egyptian-League-Analysis; 2018/19-2026/27 via the "
-                      "Sofascore public API (tournament 808), cross-validated on the "
-                      "overlapping 2017/18 season; top scorers from Wikipedia. "
-                      "Analysis queries in scripts/analysis_recent.sql.", note)
-    ws_d.write("B55", " ", note)  # extend print range past chart 2
-    wb.close()
-    print(f"Workbook written: {out}")
-    print(f"KPIs: derby {ahly_w}-{d_d}-{zam_w} | Ahly-Pyramids {a_w}W-{draws}D-{p_w}L | "
-          f"leader {top[0]} {top[8]}pts | home {home_pct}% vs away {away_pct}%")
-
-
-if __name__ == "__main__":
-    main()
+ rows,res=run_queries();home,derby,ds,pyr,wins,goals,table=res
+ n=len(rows);hp=100*sum(r['result']=='Home win' for r in rows)/n;ap=100*sum(r['result']=='Away win' for r in rows)/n
+ modern=[r for r in pyr[1] if r[0]>='2018/19']
+ aw=sum((r[2]=='Al Ahly' and r[3]>r[4]) or (r[5]=='Al Ahly' and r[4]>r[3]) for r in modern)
+ pw=sum((r[2]=='Pyramids FC' and r[3]>r[4]) or (r[5]=='Pyramids FC' and r[4]>r[3]) for r in modern)
+ summ={'matches':n,'seasons':len(home[1]),'home_pct':round(hp,1),'away_pct':round(ap,1),'derby':ds[1][0],'pyramids_modern':[aw,len(modern)-aw-pw,pw],'club_wins':wins[1],'table':table[1],'goals':goals[1]}
+ (ROOT/'docs'/'findings.json').write_text(json.dumps(summ,indent=2))
+ wb=xlsxwriter.Workbook(ROOT/'Egyptian_Premier_League_Analytics.xlsx')
+ wb.formats[0].set_font_name('Calibri');wb.formats[0].set_font_size(11);wb.formats[0].set_font_color(INK)
+ fmt=lambda **kw:wb.add_format(kw)
+ title=fmt(bold=True,font_size=25,font_color=INK,bg_color=SAND,valign='vcenter')
+ sub=fmt(font_size=11,font_color='#585254',bg_color=SAND,valign='vcenter')
+ lbl=fmt(bold=True,font_size=10,font_color=TEAL,bg_color='#FFFFFF',valign='vcenter')
+ val=fmt(bold=True,font_size=27,font_color=INK,bg_color='#FFFFFF',valign='vcenter')
+ cap=fmt(font_size=10,font_color='#585254',bg_color='#FFFFFF',valign='vcenter')
+ head=fmt(bold=True,font_size=14,font_color=INK,bg_color=SAND,valign='vcenter')
+ note=fmt(font_size=10,font_color='#585254',bg_color=SAND,text_wrap=True,valign='vcenter')
+ link=fmt(font_color=TEAL,bold=True,font_size=10,bg_color=SAND,underline=True)
+ dash=wb.add_worksheet('Dashboard');dash.hide_gridlines(2);dash.set_zoom(85)
+ dash.set_column('A:A',2);dash.set_column('B:Q',10);dash.set_column('R:R',2)
+ for r in range(65):dash.set_row(r,22);dash.write_blank(r,0,None,fmt(bg_color=SAND))
+ bg=fmt(bg_color=SAND)
+ for r in range(65):
+  for c in range(18):dash.write_blank(r,c,None,bg)
+ dash.merge_range('B2:Q3','Egyptian Premier League',title)
+ dash.merge_range('B4:Q4',f'2015/16 - 2026/27  |  {n:,} match records  |  12 seasons  |  Results through 31 Oct 2026',sub)
+ d=ds[1][0];leader=table[1][0]
+ cards=[('CAIRO DERBY',f'{d[0]} - {d[1]} - {d[2]}',f'Al Ahly wins / draws / Zamalek wins | {sum(d[:3])} records'),('AHLY vs PYRAMIDS',f'{aw} - {len(modern)-aw-pw} - {pw}','Ahly wins / draws / Pyramids wins | since 2018/19'),('2026/27 LEADER',f'{leader[8]} points',f'{leader[0]} | {leader[2]} wins from {leader[1]} games'),('HOME WIN RATE',f'{hp:.1f}%',f'Away wins {ap:.1f}% | gap {hp-ap:.1f} percentage points')]
+ for i,(a,b,c) in enumerate(cards):
+  col=1+i*4
+  dash.merge_range(6,col,6,col+3,a,lbl);dash.merge_range(7,col,8,col+3,b,val);dash.merge_range(9,col,10,col+3,c,fmt(font_size=10,font_color='#585254',bg_color='white',text_wrap=True,valign='vcenter'))
+ def detail(name,header,data):
+  ws=wb.add_worksheet(name);ws.hide_gridlines(2);ws.freeze_panes(4,0);ws.set_zoom(90)
+  ws.merge_range(0,0,0,max(5,len(header)-1),name,fmt(font_size=20,bold=True,font_color=INK))
+  ws.write_url(1,0,"internal:'Dashboard'!B2",link,'Back to dashboard')
+  ws.set_column(0,len(header)-1,16)
+  for i,h in enumerate(header):
+   if 'team' in h or h in ['player','club']:ws.set_column(i,i,30)
+  ws.add_table(3,0,3+len(data),len(header)-1,{'data':data,'columns':[{'header':h} for h in header],'style':'Table Style Medium 2'})
+  ws.set_landscape();ws.fit_to_pages(1,0);ws.repeat_rows(0,3)
+  ws.print_area(0,0,3+len(data),len(header)-1)
+  return ws
+ detail('Home Advantage',*home);detail('Cairo Derby',*derby);detail('Ahly vs Pyramids',*pyr);detail('Table 2026-27',*table);detail('Goals by Season',*goals);detail('Club Wins',*wins)
+ scorers=list(csv.reader(open(DATA/'top_scorers_by_season.csv')));detail('Top Scorers',scorers[0],[[*r[:3],int(r[3])] for r in scorers[1:]])
+ detail('Match Data',list(rows[0]),[[r[k] if k not in ['home_goals','away_goals'] else int(r[k]) for k in rows[0]] for r in rows])
+ quality=[['Range','2015/16 to 2026/27; no pre-2015 records in analysis.'],['Freshness','Results through 31 Oct 2026. Static snapshot, not a live workbook.'],['Coverage','2019/20 has 298 records. Season completeness is not guaranteed.'],['Result meaning','Source scores may include awarded outcomes, not only played games.'],['Home advantage','Home/away are fixture labels, not proof of venue or crowd effect.'],['Current table','3 points per win, 1 per draw; sorted points, goal difference, goals for. No deductions or special tie-breaks.'],['Pyramids','Pre-2018 Alassiouty Sport is normalized to Pyramids FC in raw detail; KPI starts 2018/19.'],['Scorers','Season-award table from Wikipedia; 2026/27 award not yet available.'],['Source 2015-18','https://github.com/abdelmalek13/Egyptian-League-Analysis'],['Source 2018-26','https://www.sofascore.com/tournament/football/egypt/premier-league/808'],['Scorer source','https://en.wikipedia.org/wiki/Egyptian_Premier_League']]
+ q=detail('Read Me',['Topic','Details'],quality);q.set_column(0,0,23);q.set_column(1,1,115)
+ def chart(typ,title,anchor,width=570,height=320):
+  ch=wb.add_chart({'type':typ});ch.set_title({'name':title,'name_font':{'size':13,'bold':True,'color':INK}});ch.set_chartarea({'border':{'none':True},'fill':{'color':'white'}});ch.set_plotarea({'border':{'none':True}});ch.set_size({'width':width,'height':height});ch.set_legend({'position':'bottom','font':{'size':10}});ch.set_x_axis({'num_font':{'size':9},'line':{'none':True}});ch.set_y_axis({'num_font':{'size':9},'major_gridlines':{'visible':True,'line':{'color':'#EAE9EA'}},'line':{'none':True}});dash.insert_chart(anchor,ch,{'x_offset':0,'y_offset':0});return ch
+ ch=chart('column','Home advantage by season (%)','B13')
+ for name,col,color in [('Home wins',5,TEAL),('Away wins',6,'#BABDBF')]:ch.add_series({'name':name,'categories':['Home Advantage',4,0,15,0],'values':['Home Advantage',4,col,15,col],'fill':{'color':color},'border':{'none':True}})
+ ch.set_y_axis({'min':0,'max':60,'major_gridlines':{'visible':True,'line':{'color':'#EAE9EA'}}});ch.set_x_axis({'num_font':{'size':9,'rotation':-45}})
+ ch=chart('bar','Most league wins | selected range','J13');ch.add_series({'name':'Wins','categories':['Club Wins',4,0,11,0],'values':['Club Wins',4,1,11,1],'fill':{'color':TEAL},'border':{'none':True},'data_labels':{'value':True,'position':'outside_end','font':{'size':10}}});ch.set_legend({'none':True});ch.set_y_axis({'reverse':True,'num_font':{'size':10},'major_gridlines':{'visible':False}})
+ ch=chart('line','Goals per game | compare season intensity','B29',570,265);ch.add_series({'name':'Goals / game','categories':['Goals by Season',4,0,15,0],'values':['Goals by Season',4,2,15,2],'line':{'color':TEAL,'width':2.5},'marker':{'type':'circle','size':5,'border':{'color':TEAL},'fill':{'color':'white'}}});ch.set_legend({'none':True});ch.set_y_axis({'min':0,'max':3,'major_gridlines':{'visible':True,'line':{'color':'#EAE9EA'}}});ch.set_x_axis({'num_font':{'size':9,'rotation':-45}})
+ dash.merge_range('J29:Q30','2026/27 | leading teams',head)
+ th=fmt(bold=True,font_color=TEAL,bg_color=PALE);cell=fmt(bg_color='white',font_size=11);pts=fmt(bg_color=PALE,bold=True,font_color=TEAL,align='center')
+ for a,b,txt in [('J31:M31','', 'Club'),('N31:N31','','P'),('O31:O31','','GD'),('P31:Q31','','Pts')]:
+  if a.split(':')[0]==a.split(':')[1]:dash.write(a.split(':')[0],txt,th)
+  else:dash.merge_range(a,txt,th)
+ for i,r in enumerate(table[1][:8],32):
+  dash.merge_range(f'J{i}:M{i}',f'{i-31:02d}  '+{'Arab Contractors (Al Mokawloon)':'Arab Contractors','Al Ittihad Alexandria':'Al Ittihad Alex.','National Bank of Egypt':'National Bank'}.get(r[0],r[0]),cell);dash.write(f'N{i}',r[1],cell);dash.write(f'O{i}',r[7],cell);dash.merge_range(f'P{i}:Q{i}',r[8],pts)
+ dash.merge_range('J40:Q41','Calculated standings, not an official table. Full detail in Table 2026-27.',note)
+ dash.merge_range('B44:Q44','Explore the detail',head)
+ for i,(label,sheet) in enumerate([('Home advantage','Home Advantage'),('Cairo Derby','Cairo Derby'),('Ahly vs Pyramids','Ahly vs Pyramids'),('Current table','Table 2026-27'),('Goals by season','Goals by Season'),('Club wins','Club Wins'),('Top scorers','Top Scorers'),('Data + method','Read Me')]):
+  row=45+(i//4)*2;col=1+(i%4)*4;dash.merge_range(row,col,row,col+3,'',link);dash.write_url(row,col,f"internal:'{sheet}'!A1",link,label+' >')
+ dash.merge_range('B50:Q51','Reading the numbers: these are source-record results, including possible awarded scores. The 2019/20 snapshot has 298 records; completeness is not guaranteed. Home advantage is descriptive, not a causal claim.',note)
+ dash.merge_range('B53:Q54','Sources: public GitHub match dataset (2015/16-2017/18), Sofascore API (2018/19-2026/27), Wikipedia season top scorers. Rebuild with Python + SQLite + XlsxWriter. See Read Me for source links and methods.',note)
+ dash.set_portrait();dash.set_paper(8);dash.fit_to_pages(1,1);dash.set_margins(.2,.2,.2,.2);dash.print_area('A1:R56');dash.activate();dash.set_first_sheet();wb.close();print(json.dumps(summ,indent=2))
+if __name__=='__main__':main()

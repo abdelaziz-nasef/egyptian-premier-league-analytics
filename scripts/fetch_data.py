@@ -2,9 +2,9 @@
 """Fetch and clean the datasets for the Egyptian Premier League analysis.
 
 Sources:
-1. Match results 2010-2017: EgyptianLeague.csv from the public GitHub repo
+1. Match results 2015/16-2017/18: EgyptianLeague.csv from the public GitHub repo
    abdelmalek13/Egyptian-League-Analysis (2,031 matches with scores and cards).
-2. Top scorer per season 1948-today: the "Top scorers by season" table on the
+2. Top scorer per completed season from 2015/16: the "Top scorers by season" table on the
    English Wikipedia page for the Egyptian Premier League.
 
 Run:  python3 scripts/fetch_data.py
@@ -32,8 +32,10 @@ def fetch(url: str) -> bytes:
 
 def clean_matches() -> None:
     raw = fetch(MATCHES_URL)
-    (DATA / "matches_raw.csv").write_bytes(raw)
     rows = list(csv.DictReader(raw.decode("utf-8-sig").splitlines()))
+    rows = [r for r in rows if int(r["Season"]) >= 2015]
+    with open(DATA / "matches_raw.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
     with open(DATA / "matches_clean.csv", "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["season", "matchday", "date", "home_team", "away_team",
@@ -72,7 +74,7 @@ def clean_scorers() -> None:
     with open(DATA / "top_scorers_by_season.csv", "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["season", "player", "club", "goals"])
-        w.writerows(out[1:])  # drop header row from the page table
+        w.writerows(r for r in out if int(r[0][:4]) >= 2015)
     print(f"top_scorers_by_season.csv: {len(out) - 1} season winners")
 
 

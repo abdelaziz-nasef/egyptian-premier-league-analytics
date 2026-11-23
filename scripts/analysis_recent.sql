@@ -1,7 +1,7 @@
--- Egyptian Premier League analytics, extension queries (2010/11-2026/27).
--- Input: data/matches_all_2010_2026.csv (build_recent_dataset.py output).
+-- Egyptian Premier League analytics, extension queries (2015/16-2026/27).
+-- Input: data/matches_2015_2026.csv (build_recent_dataset.py output).
 
--- Q1. Home advantage by season, all 17 seasons
+-- Q1. Home advantage by season, 12 seasons
 SELECT season,
        COUNT(*) AS matches,
        SUM(result = 'Home win') AS home_wins,
@@ -11,7 +11,7 @@ SELECT season,
        ROUND(100.0 * SUM(result = 'Away win') / COUNT(*), 1) AS away_win_pct
 FROM matches GROUP BY season ORDER BY season;
 
--- Q2. Cairo derby all-time (Al Ahly vs Zamalek)
+-- Q2. Cairo derby in the selected range (Al Ahly vs Zamalek)
 SELECT season, date, home_team, home_goals, away_goals, away_team
 FROM matches
 WHERE (home_team = 'Al Ahly' AND away_team = 'Zamalek')
@@ -30,14 +30,14 @@ FROM matches
 WHERE (home_team = 'Al Ahly' AND away_team = 'Zamalek')
    OR (home_team = 'Zamalek' AND away_team = 'Al Ahly');
 
--- Q3. Al Ahly vs Pyramids head-to-head (Pyramids era, 2018/19-today)
+-- Q3. Al Ahly vs Pyramids head-to-head (selected range, predecessor names normalized)
 SELECT season, date, home_team, home_goals, away_goals, away_team
 FROM matches
 WHERE (home_team = 'Al Ahly' AND away_team = 'Pyramids FC')
    OR (home_team = 'Pyramids FC' AND away_team = 'Al Ahly')
 ORDER BY date;
 
--- Q4. Most wins, all-time (2010/11-2026/27)
+-- Q4. Most wins, in the selected range (2015/16-2026/27)
 SELECT team, SUM(wins) AS wins FROM (
   SELECT home_team AS team, SUM(result = 'Home win') AS wins FROM matches GROUP BY home_team
   UNION ALL

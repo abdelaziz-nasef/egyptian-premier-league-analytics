@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the 2018/19-2026/27 extension dataset and the combined 2010-2026 dataset.
+"""Build the 2018/19-2026/27 extension dataset and the combined 2015-2026 dataset.
 
 Sources:
   - data/matches_clean.csv           (2010/11-2017/18, abdelmalek13 GitHub dataset)
@@ -88,7 +88,10 @@ for path in sorted(glob.glob(os.path.join(BASE, "data", "sofascore_raw", "*.json
         })
 
 old_rows.sort(key=lambda r: r["date"]); new_rows.sort(key=lambda r: r["date"])
-all_rows = old_rows + new_rows
+old_rows = [r for r in old_rows if r["season"] >= "2015/16"]
+all_rows = sorted(old_rows + new_rows, key=lambda r: (r["date"], r["home_team"]))
+keys = [(r["season"], r["home_team"], r["away_team"], r["date"]) for r in all_rows]
+assert len(keys) == len(set(keys)), "Duplicate fixture records"
 FIELDS = ["season", "round", "date", "home_team", "away_team",
           "home_goals", "away_goals", "result", "source"]
 
@@ -98,7 +101,7 @@ def write(path, rows):
         for r in rows: w.writerow(r)
 
 write(os.path.join(BASE, "data", "matches_2018_2026.csv"), new_rows)
-write(os.path.join(BASE, "data", "matches_all_2010_2026.csv"), all_rows)
+write(os.path.join(BASE, "data", "matches_2015_2026.csv"), all_rows)
 print(f"old era: {len(old_rows)} | new era: {len(new_rows)} | combined: {len(all_rows)}")
 per_season = {}
 for r in all_rows: per_season[r["season"]] = per_season.get(r["season"], 0) + 1

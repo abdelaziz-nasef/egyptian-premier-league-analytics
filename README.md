@@ -1,86 +1,122 @@
-# Egyptian Premier League Analytics (SQL + Excel)
+# Egyptian Premier League Analytics
 
-How strong is home advantage in the Egyptian Premier League? Who really owns
-the Cairo Derby? And how did Pyramids turn Al Ahly's toughest fixture into a
-title race? This project answers all three with 4,486 real match results
-across 17 seasons (2010/11-2026/27), SQL queries, and one Excel dashboard.
+**3,373 match records | 2015/16-2026/27 | SQL + Excel**
 
-![Dashboard preview](docs/dashboard_preview.png)
+An analysis of home advantage, the Cairo Derby, Al Ahly vs Pyramids,
+club wins, scoring trends and calculated current-season standings.
+The workbook is a static snapshot of results through **31 October 2026**,
+not a live feed. The older 2010-start version remains in Git history only.
 
-## What it shows
+![Excel dashboard, rendered from the workbook](docs/dashboard_preview.png)
 
-- **Home advantage by season, 17 seasons**: home teams win ~37% of matches vs
-  ~30% for away teams. Two exceptions tell stories: 2012/13, played mostly
-  behind closed doors after the Port Said stadium disaster, nearly erased home
-  advantage (36.3% vs 35.6%); and 2020/21, the COVID season, posted the lowest
-  home win rate on record (30.7%).
-- **The Cairo Derby all-time (27 meetings, 2010-today)**: Al Ahly leads
-  **15 wins, 8 draws, 4 losses, 47-23 on goals**. Zamalek's last league derby
-  win was March 2025 (3-0); Al Ahly has won all three meetings since.
-- **Al Ahly vs Pyramids, the new rivalry**: since Pyramids' 2018 rise the
-  head-to-head is nearly even - Al Ahly 5W, 5 draws, Pyramids 6W - and
-  Pyramids won both 2025/26 meetings (2-0 away, 3-0 at home). Their next
-  meeting (Nov 23, 2026) was 1st vs 2nd: Pyramids a perfect 8/8 on 24 points,
-  Al Ahly 20.
-- **2026/27 league table after Round 8**, computed from raw results with SQL.
-- **Most league wins per club, 2010-2026**: Al Ahly 335, Zamalek 290,
-  Al Masry 181, Pyramids 171.
-- **Top scorer of every season** since 1948/49, from Ahmed Mekkawi to
-  Ahmed Yasser Rayyan (2025/26).
+## Open the project
 
-## Data sources (all public)
+Download `Egyptian_Premier_League_Analytics.xlsx` and start on **Dashboard**.
+Four KPI cards sit above three editable Excel charts and a leading-teams
+preview. Links take you to filterable detail tables. All 3,373 match rows
+are included in **Match Data**. **Read Me** explains sources and limits.
 
-| Data | Source | Link |
+## Findings in this snapshot
+
+- Home sides win **36.1%** of recorded matches; away sides **30.9%**.
+  The gap is **5.2 percentage points**, not 5.2 percent.
+- Cairo Derby, selected range: **23 records**, Al Ahly **14 wins**,
+  **5 draws**, Zamalek **4 wins**. Recorded goals: **42-20** to Al Ahly.
+  These are recorded results and can include awarded scores, not only games played.
+- Since 2018/19, Ahly vs Pyramids: **16 records**, Ahly **5 wins**,
+  **5 draws**, Pyramids **6 wins**. Pre-2018 predecessor records remain in
+  the full detail tab but are excluded from this modern-rivalry KPI.
+- League wins in the selected records: **Al Ahly 260**, **Zamalek 217**,
+  **Pyramids 169**, **Al Masry 146**. Wins are not league titles.
+- The calculated 2026/27 table has Pyramids on **24 points from 8 games**,
+  Al Ahly **20**, Zamalek **19**. This is a calculation from results,
+  not a reproduction of an official table or its deductions/tie-breaks.
+
+## Sources and coverage
+
+| Source | Used for | Link |
 |---|---|---|
-| Match results 2010/11-2017/18 (2,031 matches) | Public GitHub dataset `EgyptianLeague.csv` | https://github.com/abdelmalek13/Egyptian-League-Analysis |
-| Match results 2018/19-2026/27 (2,455 matches, through Oct 31, 2026) | Sofascore public API (tournament 808) | https://www.sofascore.com/tournament/football/egypt/premier-league/808 |
-| Top scorer per season 1948/49-2025/26 | English Wikipedia, "Egyptian Premier League" | https://en.wikipedia.org/wiki/Egyptian_Premier_League |
+| Public `EgyptianLeague.csv` dataset | 918 records, 2015/16-2017/18 | https://github.com/abdelmalek13/Egyptian-League-Analysis |
+| Sofascore public API, tournament 808 | 2,455 records, 2018/19-2026/27 | https://www.sofascore.com/tournament/football/egypt/premier-league/808 |
+| Wikipedia season top-scorer table | Completed-season awards from 2015/16 | https://en.wikipedia.org/wiki/Egyptian_Premier_League |
 
-The two match sources overlap on 2017/18 and agreed to the score on every
-cross-checked fixture (including both Cairo derbies), so the eras stitch
-cleanly. Club names are normalized across eras (e.g. "El Ahly Cairo" and
-"Al Ahly FC" both become Al Ahly; Pyramids appear under their pre-2018 name
-Alassiouty Sport in the older data).
+The 2017/18 API snapshot is kept as an overlap check, not merged twice.
+Club names are normalized so that spelling changes do not split one club
+into several groups. Alassiouty Sport is grouped under Pyramids FC.
 
-Note: 2011/12 and 2012/13 were disrupted after the Port Said disaster
-(Feb 2012), and 2024/25 used a shortened format with playoffs - season match
-counts vary by design. The 2026/27 season is in progress (through Round 8;
-the league paused for a November break).
+**Limits:** 2019/20 has 298 source records, not a usual 306. Other season
+counts also differ, and this project does not guarantee complete season
+coverage. Formats changed, and 2026/27 is in progress. Source scores may
+include awarded outcomes. The home/away field does not establish the
+actual venue or crowd effect. No causal explanation is inferred from it.
+The scorer table is a separate season-award source, not player-level
+statistics derived from the match CSV. No 2026/27 scorer award is claimed.
 
-## How it's built
+## How the pieces connect
 
+```text
+Public match CSV + Sofascore season JSON + Wikipedia scorer table
+                    |
+             fetch / clean (Python)
+                    |
+       normalize club names, filter range, merge
+                    |
+          data/matches_2015_2026.csv
+                    |
+          SQLite + scripts/analysis.sql
+                    |
+          result tables + Excel charts
+                    |
+      Egyptian_Premier_League_Analytics.xlsx
+                    |
+       GitHub stores the code, data and workbook
 ```
-scripts/fetch_data.py             downloads and cleans the 2010-2018 datasets
-scripts/fetch_recent.py           pulls 2018/19-today from the Sofascore API
-scripts/build_recent_dataset.py   merges both eras, normalizes club names
-scripts/analysis.sql              original 2010-2017 analysis (5 queries)
-scripts/analysis_recent.sql       full-range analysis (6 queries, incl. the
-                                  current-season league table)
-scripts/build_dashboard.py        runs the SQL over SQLite and writes
-                                  Egyptian_Premier_League_Analytics.xlsx
-```
 
-To reproduce:
+**Python** moves and cleans the data and builds the file. **SQL** answers
+the questions. **SQLite** runs that SQL in a small temporary database.
+**Excel** displays the resulting tables and charts. **Git/GitHub** stores
+versions and lets someone inspect or download the work. There is no
+Power BI file, live Excel data connection, web app or machine-learning model.
+
+## Files and scripts
+
+| File | Purpose |
+|---|---|
+| `scripts/fetch_data.py` | Downloads the older source CSV and Wikipedia table; keeps only the selected seasons and cleans their columns. |
+| `scripts/fetch_recent.py` | Requests season/round results from Sofascore and writes JSON snapshots. Access can be rate-limited; checked-in snapshots support offline rebuilding. |
+| `scripts/build_recent_dataset.py` | Converts dates, normalizes team names, skips the 2017/18 overlap, merges the sources and rejects duplicate fixture keys. |
+| `scripts/analysis.sql` | Seven SQLite result sets: home advantage, derby fixtures, derby totals, Pyramids fixtures, club wins, season goals and calculated current table. |
+| `scripts/analysis_recent.sql` | Compatibility copy of the same current-range queries. |
+| `scripts/build_dashboard.py` | Loads the merged CSV into in-memory SQLite, runs the SQL and uses XlsxWriter to create formatted detail tables, navigation and editable charts. |
+| `data/matches_raw.csv` | Source-shaped match rows for 2015/16-2017/18. |
+| `data/matches_clean.csv` | Cleaned older-source rows in the selected range. |
+| `data/sofascore_raw/*.json` | Saved season snapshots, including 2017/18 for overlap checking. |
+| `data/matches_2018_2026.csv` | Cleaned Sofascore extension. |
+| `data/matches_2015_2026.csv` | The merged analysis input, 3,373 records. |
+| `data/top_scorers_by_season.csv` | Selected completed-season scorer awards. |
+| `docs/findings.json` | Machine-readable summary calculated during workbook creation. |
+| `docs/dashboard_preview.png` | Actual render of the workbook's Dashboard sheet. |
+| `docs/dashboard.pdf` | One-page PDF export of that dashboard. |
+| `requirements.txt` | Excel-writing dependency; other build modules are Python standard library. |
+
+The SQL uses SQLite expressions such as `SUM(result = 'Home win')` and
+`LIMIT`. For SQL Server, replace these with `CASE` expressions and `TOP`.
+
+## Rebuild
 
 ```bash
-python3 scripts/fetch_data.py
-python3 scripts/fetch_recent.py           # or reuse data/sofascore_raw/
-python3 scripts/build_recent_dataset.py
-python3 scripts/build_dashboard.py
+pip install -r requirements.txt
+# Offline rebuild using the checked-in source snapshots:
+python scripts/build_recent_dataset.py
+python scripts/build_dashboard.py
+
+# Optional source refresh before rebuilding:
+python scripts/fetch_data.py
+python scripts/fetch_recent.py
 ```
 
-The queries are plain standard SQL (GROUP BY, CASE WHEN, UNION ALL, CTEs,
-subqueries) and run unchanged on SQLite; they also work on SQL Server.
-
-## Files
-
-```
-Egyptian_Premier_League_Analytics.xlsx   the dashboard (open me first)
-data/matches_raw.csv                     original 2010-2018 dataset, unchanged
-data/matches_clean.csv                   cleaned 2010-2018 matches
-data/matches_2018_2026.csv               the Sofascore extension, cleaned
-data/matches_all_2010_2026.csv           both eras combined (4,486 matches)
-data/sofascore_raw/*.json                raw API pulls, one file per season
-data/top_scorers_by_season.csv           cleaned top scorers table
-docs/dashboard_preview.png               screenshot of the dashboard
-```
+The API snapshot is dated. A failed or partial refresh should be investigated
+before replacing it. The current fetch script has fixed season IDs and a
+round-based endpoint; new seasons and playoff structures may need changes.
+The workbook itself does not refresh when opened. The dashboard preview is
+exported separately from the finished workbook, not generated by the builder.
